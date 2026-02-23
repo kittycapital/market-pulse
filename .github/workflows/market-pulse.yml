@@ -1,0 +1,46 @@
+name: Market Pulse - Hourly Update
+
+on:
+  schedule:
+    # 매시간 정각에 실행 (UTC)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    # 수동 실행도 가능
+
+permissions:
+  contents: write
+
+jobs:
+  update-market-pulse:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Run Market Pulse fetcher
+        env:
+          CRYPTOPANIC_API_KEY: ${{ secrets.CRYPTOPANIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python fetch_market_pulse.py
+      
+      - name: Commit and push data
+        run: |
+          git config user.name "Market Pulse Bot"
+          git config user.email "bot@herdvibe.com"
+          git add data/market-pulse.json
+          
+          # 변경사항이 있을 때만 커밋
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            TIMESTAMP=$(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M KST')
+            git commit -m "📡 Market Pulse update: ${TIMESTAMP}"
+            git push
+          fi
