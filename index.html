@@ -493,7 +493,7 @@
         '<div class="card-header"><div class="card-meta">' +
           '<span class="category-tag ' + cat + '">' + catLabel + '</span>' + authorHtml +
         '</div><div class="importance-stars">' + stars + '</div></div>' +
-        '<div class="card-original">' + esc(item.tweet_text || item.title || '') + '</div>' +
+        '<div class="card-original">' + esc(item.tweet_text || item.body_preview || item.title || '') + '</div>' +
         mediaHtml +
         '<div class="card-translation">' + esc(item.korean_title || item.title || '') + '</div>' +
         (item.korean_analysis ? '<div class="card-analysis">' + esc(item.korean_analysis) + '</div>' : '') +
