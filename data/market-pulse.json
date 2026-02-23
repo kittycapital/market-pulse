@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-23T14:16:43.350755+00:00",
-  "last_updated_kst": "2026-02-23 23:16 KST",
-  "total_items": 20,
+  "last_updated": "2026-02-23T14:23:44.453847+00:00",
+  "last_updated_kst": "2026-02-23 23:23 KST",
+  "total_items": 22,
   "items": [
     {
       "title": "EUR/GBP Stalemate: Critical Eurozone CPI and German GDP Data Loom for Currency Breakout",
@@ -19,7 +19,7 @@
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_title": "EUR/GBP Stalemate: Critical Eurozone CPI and German GDP Data Loom for Currency Breakout",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Artificial Intelligence Drives Fresh Debate Over Bitcoin and Stocks",
@@ -37,7 +37,7 @@
       "media_url": "https://resources.cryptocompare.com/news/79/58375373.jpeg",
       "korean_title": "Artificial Intelligence Drives Fresh Debate Over Bitcoin and Stocks",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Bank of Japan Rate Hike Looms as Japan’s Bold Fiscal Stance Forces Crucial Monetary Shift",
@@ -56,7 +56,7 @@
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_title": "Bank of Japan Rate Hike Looms as Japan’s Bold Fiscal Stance Forces Crucial Monetary Shift",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Shiba Inu 2 Hour Chart Completes Death Cross as Price Tests Key Support",
@@ -74,7 +74,43 @@
       "media_url": "https://resources.cryptocompare.com/news/64/58375354.jpeg",
       "korean_title": "Shiba Inu 2 Hour Chart Completes Death Cross as Price Tests Key Support",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
+    },
+    {
+      "title": "Strategy Announces Fresh Bitcoin Purchase Following BitDeer's Exit",
+      "body_preview": "Strategy has added more BTC to its coffers following BitDeer's exit.",
+      "source_url": "https://u.today/strategy-announces-fresh-bitcoin-purchase-following-bitdeers-exit",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:09:02+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58375570.jpeg",
+      "korean_title": "Strategy Announces Fresh Bitcoin Purchase Following BitDeer's Exit",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
+    },
+    {
+      "title": "Winklevoss BTC Optimism: Gemini Cuts",
+      "body_preview": "Tyler Winklevoss optimistic about BTC amid market pessimism: Gemini staff cuts, BTC sales, value decline. Spot share fell to 0.1%, ETF outflows. BTC at $66K with RSI 34, strong support levels. Bitd...",
+      "source_url": "https://en.coinotag.com/winklevoss-btc-optimism-gemini-cuts",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:08:37+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58375539.jpeg",
+      "korean_title": "Winklevoss BTC Optimism: Gemini Cuts",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Standard Chartered sticks to $2T stablecoin call but trims T-bill impact",
@@ -90,7 +126,7 @@
       "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
       "korean_title": "Standard Chartered sticks to $2T stablecoin call but trims T-bill impact",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Longtime Investor Says XRP Holders Never Benefit, ‘Ripple Dumped Billions on Retail’ to Buy Companies",
@@ -108,7 +144,7 @@
       "media_url": "https://resources.cryptocompare.com/news/65/58375245.jpeg",
       "korean_title": "Longtime Investor Says XRP Holders Never Benefit, ‘Ripple Dumped Billions on Retail’ to Buy Companies",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Missouri Advances Bitcoin Reserve Bill to House Committee in Policy Push",
@@ -127,7 +163,7 @@
       "media_url": "https://resources.cryptocompare.com/news/52/58375251.jpeg",
       "korean_title": "Missouri Advances Bitcoin Reserve Bill to House Committee in Policy Push",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Crypto Proponent to XRP Holders: Prepare for Anything. Here’s Why",
@@ -145,7 +181,7 @@
       "media_url": "https://resources.cryptocompare.com/news/67/default.png",
       "korean_title": "Crypto Proponent to XRP Holders: Prepare for Anything. Here’s Why",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "US Tariff Reset Reshapes Dollar Outlook: Navigating Economic Crossroads in 2025",
@@ -164,7 +200,7 @@
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_title": "US Tariff Reset Reshapes Dollar Outlook: Navigating Economic Crossroads in 2025",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Dogecoin at a 1,100-day discount: Will accumulation lead to a breakout?",
@@ -182,7 +218,7 @@
       "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
       "korean_title": "Dogecoin at a 1,100-day discount: Will accumulation lead to a breakout?",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Beneath the Surface: Why Bitcoin’s Recovery Still Lacks Structural Confirmation",
@@ -200,7 +236,7 @@
       "media_url": "https://resources.cryptocompare.com/news/14/58375085.jpeg",
       "korean_title": "Beneath the Surface: Why Bitcoin’s Recovery Still Lacks Structural Confirmation",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Bitcoin Buying Spree Nears Century Mark, Saylor Hints",
@@ -218,7 +254,7 @@
       "media_url": "https://resources.cryptocompare.com/news/21/58375023.jpeg",
       "korean_title": "Bitcoin Buying Spree Nears Century Mark, Saylor Hints",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Bitmine ETH Purchase: The Stunning $95M Bet That Reshapes Crypto Reserves",
@@ -237,7 +273,7 @@
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_title": "Bitmine ETH Purchase: The Stunning $95M Bet That Reshapes Crypto Reserves",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "ADA Technical Analysis February 23, 2026: Market Structure",
@@ -255,7 +291,7 @@
       "media_url": "https://resources.cryptocompare.com/news/77/58375136.jpeg",
       "korean_title": "ADA Technical Analysis February 23, 2026: Market Structure",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "BitMine Immersion added $98 million of ether last week as losses balloon to more than $8 billion",
@@ -273,7 +309,7 @@
       "media_url": "https://resources.cryptocompare.com/news/5/58374900.jpeg",
       "korean_title": "BitMine Immersion added $98 million of ether last week as losses balloon to more than $8 billion",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Swiss Franc’s Unwavering Strength: Navigating the SNB’s Critical 2025 Dilemma",
@@ -291,7 +327,7 @@
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_title": "Swiss Franc’s Unwavering Strength: Navigating the SNB’s Critical 2025 Dilemma",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.423 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion",
@@ -309,7 +345,7 @@
       "media_url": "https://resources.cryptocompare.com/news/104/58374720.jpeg",
       "korean_title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.423 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "BOK Proposes Limiting Won Stablecoins to Banks",
@@ -328,7 +364,7 @@
       "media_url": "https://resources.cryptocompare.com/news/77/58374753.jpeg",
       "korean_title": "BOK Proposes Limiting Won Stablecoins to Banks",
       "korean_analysis": "",
-      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+      "fetched_at": "2026-02-23T14:23:44.452391+00:00"
     },
     {
       "title": "Fictional 2028 AI memo imagines mass layoffs and stablecoin adoption",
