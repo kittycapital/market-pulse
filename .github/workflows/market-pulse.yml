@@ -25,7 +25,6 @@ jobs:
       
       - name: Run Market Pulse fetcher
         env:
-          CRYPTOPANIC_API_KEY: ${{ secrets.CRYPTOPANIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python fetch_market_pulse.py
