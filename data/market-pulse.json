@@ -1,8 +1,136 @@
 {
-  "last_updated": "2026-02-23T14:29:13.989041+00:00",
-  "last_updated_kst": "2026-02-23 23:29 KST",
-  "total_items": 30,
+  "last_updated": "2026-02-23T14:41:47.042033+00:00",
+  "last_updated_kst": "2026-02-23 23:41 KST",
+  "total_items": 37,
   "items": [
+    {
+      "title": "Bitcoin Prints the Worst Level in 6 Months in Network Activity: How This Affects the Market",
+      "body_preview": "Bitcoin hits the ground as activity momentum rapidly decreases and shows a lack of conviction among investors.",
+      "source_url": "https://u.today/bitcoin-prints-worst-level-in-six-months-in-network-activity-how-this-affects-market",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:32:00+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58376143.jpeg",
+      "korean_title": "비트코인(Bitcoin), 활동 모멘텀 감소 및 투자자 확신 부족으로 하락세",
+      "korean_analysis": "온체인(on-chain) 활동 감소는 매수 압력 약화를 시사하며, 투자자들의 확신 부족은 추가 하락 가능성을 높이므로 단기적으로 보수적인 접근이 필요합니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+    },
+    {
+      "title": "Developer On XRP Rally: Once This Finally Breaks Again, $27 Is coming",
+      "body_preview": "XRP has remained in a period of prolonged price stability, leaving many investors anticipating its next significant move. Crypto analyst and developer Bird (@Bird_XRPL) noted in a recent post that XRP",
+      "source_url": "https://timestabloid.com/developer-on-xrp-rally-once-this-finally-breaks-again-27-is-coming/",
+      "source_name": "TimesTabloid",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:31:36+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
+      "korean_title": "XRP, 장기간 가격 안정세 유지하며 다음 주요 움직임에 대한 기대감 고조",
+      "korean_analysis": "XRP의 장기 횡보는 에너지를 축적하는 기간으로 해석될 수 있으며, 주요 지지/저항선 돌파 시 강한 추세 움직임이 나타날 수 있으므로 변동성 확대에 대비해야 합니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+    },
+    {
+      "title": "Curve founder says DeFi must ditch token emissions for real revenue",
+      "body_preview": "Curve founder Michael Egorov told Cointelegraph that protocols cannot “live without real revenues flowing” as token incentives lose power to attract liquidity.",
+      "source_url": "https://cointelegraph.com/news/curve-egorov-defi-move-beyond-emissions-driven-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:30:30+00:00",
+      "category": "stocks",
+      "importance": 3,
+      "currencies": [],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_title": "커브(Curve) 창립자, 토큰 인센티브 효과 감소로 \"실질 수익 없는 프로토콜은 생존 불가\" 경고",
+      "korean_analysis": "디파이(DeFi) 프로토콜의 지속 가능성에 대한 근본적인 질문이며, 토큰 인센티브에만 의존하는 프로젝트는 장기적으로 투자 가치가 낮아질 수 있으므로 실질 수익 모델을 가진 프로젝트에 주목해야 합니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+    },
+    {
+      "title": "Missouri Lawmakers Push for State-Backed Bitcoin Reserve",
+      "body_preview": "Missouri has advanced a bill allowing its treasury to hold donated Bitcoin under strict conditions. The bill bars the use of taxpayer funds for Bitcoin purchases and mandates transparent oversight. Co",
+      "source_url": "https://en.coin-turk.com/missouri-lawmakers-push-for-state-backed-bitcoin-reserve/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:30:29+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "BTC",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/79/58376089.jpeg",
+      "korean_title": "미주리주, 엄격한 조건 하에 기부받은 비트코인(Bitcoin) 국고 보유 법안 추진",
+      "korean_analysis": "주 정부 차원의 비트코인 수용은 암호화폐의 제도권 편입을 가속화하는 긍정적 신호이나, 납세자 자금 사용 금지 및 투명성 강조는 보수적 접근을 의미하며 시장에 미치는 직접적인 영향은 제한적일 수 있습니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+    },
+    {
+      "title": "Vitalik Buterin Accelerates ETH Sales Amid Renewed Market Weakness",
+      "body_preview": "Vitalik Buterin has ramped up ETH sales again. On-chain data revealed that the Ethereum co-founder sold 1,869 ETH worth roughly $3.67 million over the past two days. During the same period, Ethereum’s",
+      "source_url": "https://cryptopotato.com/vitalik-buterin-accelerates-eth-sales-amid-renewed-market-weakness/",
+      "source_name": "Crypto Potato",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:28:47+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "ETH",
+        "ARKM"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/27/58376138.jpeg",
+      "korean_title": "비탈릭 부테린(Vitalik Buterin), 이더리움(ETH) 매도 재개",
+      "korean_analysis": "이더리움(Ethereum) 공동 창립자의 대규모 ETH 매도는 단기적으로 매도 압력을 가중시킬 수 있으며, 시장 심리에 부정적인 영향을 미칠 수 있으므로 가격 변동성에 주의해야 합니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+    },
+    {
+      "title": "Bitcoin briefly slides below $65K as tariff uncertainty hits crypto prices",
+      "body_preview": "More on Bitcoin USD, Ethereum USD Bitcoin Is Not Going To Zero Ethereum Price Tests $2,000 Floor As Risk Sentiment Turns Bitcoin After The Cycle Peak: What Comes Next And How We're Positioning Bitcoin",
+      "source_url": "https://seekingalpha.com/news/4555130-bitcoin-briefly-slides-below-65k-as-tariff-uncertainty-hits-crypto-prices?utm_source=cryptocompare.com&utm_medium=referral&feed_item_type=news",
+      "source_name": "Seeking Alpha",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:28:42+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "BTC",
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/50/58376056.jpeg",
+      "korean_title": "비트코인(Bitcoin)과 이더리움(Ethereum), 위험 심리 변화 속 주요 지지선 테스트",
+      "korean_analysis": "시장의 위험 심리 변화는 암호화폐 전반에 영향을 미치며, 이더리움(ETH)이 2,000달러 지지선을 테스트하는 것은 중요한 변곡점이 될 수 있으므로 주요 지지/저항선 움직임을 주시해야 합니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+    },
+    {
+      "title": "Every Central Bank to Own Bitcoin by 2050: Bitwise Invest CIO",
+      "body_preview": "CIO of Bitwise Invest responds to the Sevens Reporter founder on his Bitcoin criticism.",
+      "source_url": "https://u.today/every-central-bank-to-own-bitcoin-by-2050-bitwise-invest-cio",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:28:00+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "BTC",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58375997.jpeg",
+      "korean_title": "비트와이즈 인베스트(Bitwise Invest) CIO, 비트코인(Bitcoin) 비판에 반박",
+      "korean_analysis": "주요 기관 투자자의 비트코인(Bitcoin)에 대한 긍정적 입장은 시장 신뢰도를 높일 수 있지만, 비판에 대한 반박은 여전히 비트코인에 대한 회의론이 존재함을 보여주므로 양측의 논리를 균형 있게 볼 필요가 있습니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+    },
     {
       "title": "WLFI USD1 Depegging: Critical Investigation Unfolds After Stablecoin’s Brief Deviation",
       "body_preview": "BitcoinWorld WLFI USD1 Depegging: Critical Investigation Unfolds After Stablecoin’s Brief Deviation World Liberty Financial (WLFI) confirmed a technical investigation on Thursday, February 13, 2025, f",
@@ -17,9 +145,9 @@
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_title": "WLFI 스테이블코인, 1달러 페그 이탈 후 조사 착수",
-      "korean_analysis": "스테이블코인(Stablecoin)의 페그(Peg) 이탈은 시장 신뢰도에 치명적이며, WLFI의 기술적 문제 여부가 다른 스테이블코인 및 암호화폐 시장 전반에 대한 투자 심리에 영향을 미칠 수 있다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "스테이블코인(Stablecoin) WLFI USD1, 일시적 디페깅(Depegging) 후 기술 조사 착수",
+      "korean_analysis": "스테이블코인(Stablecoin)의 디페깅(Depegging)은 암호화폐 시장 전반의 신뢰도에 악영향을 미칠 수 있으며, 특히 WLFI와 같은 소규모 스테이블코인의 안정성 문제는 투자자들에게 리스크 관리의 중요성을 상기시킵니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "JPMorgan Closes Trump Accounts: Shift to WLFI",
@@ -35,9 +163,9 @@
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/77/58375898.jpeg",
-      "korean_title": "JP모건의 트럼프 계좌 폐쇄 후 WLFI로 이동, 암호화폐 은행 대안 가능성 주목",
-      "korean_analysis": "주요 은행의 '디뱅킹(Debanking)' 사례는 암호화폐 기반 금융 서비스의 필요성을 부각시키며, WLFI가 대안으로 부상할 경우 가격에 긍정적 영향을 줄 수 있으나 현재 하락 추세에 있어 주의가 필요하다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "JP모건(JPMorgan), 트럼프 계좌 폐쇄 후 에릭 트럼프 WLFI 이용, WLFI 암호화폐 은행 대안 가능성 부상",
+      "korean_analysis": "전통 금융기관의 '디뱅킹(debanking)'이 암호화폐 플랫폼으로의 전환을 유도할 수 있음을 보여주며, WLFI의 가격 하락세에도 불구하고 특정 수요층을 확보할 경우 잠재적 가치 상승 여지가 있으나 현재는 하방 리스크가 큽니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "CoinDesk 20 performance update: AAVE gains 1.7% while index trades lower over weekend",
@@ -54,9 +182,9 @@
         "UNI"
       ],
       "media_url": "https://resources.cryptocompare.com/news/5/58375703.jpeg",
-      "korean_title": "유니스왑(UNI), 아베(AAVE)와 함께 상위권 상승세 지속",
-      "korean_analysis": "UNI와 AAVE의 동반 상승은 디파이(DeFi) 섹터에 대한 긍정적인 투자 심리를 나타내며, 단기적인 모멘텀 트레이딩 기회를 제공할 수 있다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "유니스왑(UNI), 아베(AAVE)와 함께 상위권 성과 기록",
+      "korean_analysis": "주요 디파이(DeFi) 프로토콜 토큰의 강세는 디파이 섹터에 대한 긍정적인 심리를 반영하며, UNI와 AAVE의 동반 상승은 해당 섹터의 전반적인 회복 또는 강세 신호로 해석될 수 있습니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "Ether Risks Deeper Slide As Founder Vitalik Buterin Accelerates Multi-Million ETH Sales",
@@ -72,9 +200,9 @@
         "ETH"
       ],
       "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
-      "korean_title": "이더(ETH) 가격, 심리적 지지선 1,500달러 하향 돌파 위험",
-      "korean_analysis": "1,500달러는 이더(ETH)의 중요한 심리적 지지선으로, 이탈 시 추가 하락 압력이 커질 수 있으므로 매수 포지션에 대한 리스크 관리가 필요하다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "이더리움(ETH), 1,500달러 지지선 하향 돌파 위험에 직면",
+      "korean_analysis": "1,500달러는 이더리움(ETH)의 중요한 심리적 지지선으로, 이탈 시 추가적인 매도 압력과 함께 큰 폭의 하락이 발생할 수 있으므로 리스크 관리가 필수적입니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "Litecoin Flips Bitcoin, Dogecoin, and Dash as Active Addresses Top 237,000",
@@ -92,9 +220,9 @@
         "LTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58375710.jpeg",
-      "korean_title": "라이트코인(LTC), 활성 주소 점유율 56%로 비트코인 및 알트코인 선도",
-      "korean_analysis": "라이트코인(LTC)의 높은 활성 주소 점유율은 네트워크 활동 증가와 사용자 채택 확대를 의미하며, 이는 가격 상승의 선행 지표가 될 수 있다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "라이트코인(Litecoin), 활성 주소 점유율 56% 기록하며 비트코인(BTC) 및 알트코인 선도",
+      "korean_analysis": "활성 주소 증가는 네트워크 활동성 및 사용자 채택 증가를 의미하며, 라이트코인(Litecoin)이 다른 주요 암호화폐를 능가하는 것은 단기적인 강세 신호로 해석될 수 있습니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "BCH Technical Analysis February 23, 2026: Weekly Strategy",
@@ -111,9 +239,9 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/77/58375684.jpeg",
-      "korean_title": "비트코인 캐시(BCH), 534달러 지지선 테스트 중; 비트코인(BTC)은 하락 압력",
-      "korean_analysis": "비트코인 캐시(BCH)는 횡보세에서 중요한 지지선을 테스트 중이며, 이 지지선 유지 여부에 따라 822달러까지 상승하거나 356달러까지 하락할 수 있어 트레이딩 전략 수립에 핵심적인 지점이다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "비트코인 캐시(BCH), 횡보세 속 534달러 지지선 테스트; 비트코인(BTC) 하락 압력",
+      "korean_analysis": "BCH가 534달러 지지선을 유지하면 822달러까지 상승 여력이 있지만, 이탈 시 356달러까지 하락할 수 있으므로 해당 지지선에서의 가격 움직임을 면밀히 관찰하여 매매 전략을 수립해야 합니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "Strategy announces $40M BTC purchase in latest leg of accumulation streak",
@@ -129,9 +257,9 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/43/58375763.jpeg",
-      "korean_title": "스트래티지(Strategy), 이번 주 592 BTC 추가 매수, MSTR 통해 구매 지속",
-      "korean_analysis": "스트래티지(Strategy)의 꾸준한 비트코인(BTC) 매수는 기관 투자자의 지속적인 수요를 보여주며, 이는 장기적인 비트코인 가격 지지에 긍정적인 신호로 해석될 수 있다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "스트래티지(Strategy), 이번 주 592 BTC 추가 매수 지속, MSTR 통해 구매",
+      "korean_analysis": "마이크로스트래티지(MicroStrategy, MSTR)의 지속적인 비트코인(Bitcoin) 매수는 기관 수요의 꾸준함을 보여주며, 이는 장기적인 비트코인 가격 지지 요인이 될 수 있습니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "EUR/GBP Stalemate: Critical Eurozone CPI and German GDP Data Loom for Currency Breakout",
@@ -147,9 +275,9 @@
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_title": "유로/파운드(EUR/GBP) 교착 상태, 유로존 CPI 및 독일 GDP 데이터에 주목",
-      "korean_analysis": "유로/파운드(EUR/GBP) 환율은 주요 경제 지표 발표를 앞두고 좁은 범위에서 횡보 중이며, 유로존 소비자물가지수(CPI)와 독일 국내총생산(GDP) 데이터는 통화쌍의 방향성을 결정할 중요한 촉매제가 될 것이다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "유로/파운드(EUR/GBP) 교착 상태: 유로존(Eurozone) CPI 및 독일 GDP 데이터 대기 중",
+      "korean_analysis": "유로존(Eurozone) 소비자물가지수(CPI)와 독일 국내총생산(GDP) 데이터는 유로/파운드(EUR/GBP) 환율의 주요 변동 요인으로, 발표 결과에 따라 강한 추세가 형성될 수 있으므로 관련 경제 지표 발표에 주목해야 합니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "Crypto stocks fall as bitcoin briefly goes below $65K",
@@ -166,9 +294,9 @@
         "ETH"
       ],
       "media_url": "https://resources.cryptocompare.com/news/50/58375625.jpeg",
-      "korean_title": "비트코인(BTC) 제로 가능성 낮고, 이더리움(ETH) 2,000달러 지지선 테스트, 비트코인 ETF 38억 달러 유입",
-      "korean_analysis": "비트코인(BTC)의 장기적 가치에 대한 긍정적 전망과 비트코인 현물 ETF(Exchange Traded Fund)로의 대규모 자금 유입은 기관 투자자들의 암호화폐 시장 참여가 확대되고 있음을 시사한다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "비트코인(Bitcoin) ETF, 38억 달러 유입; 이더리움(Ethereum) 2,000달러 지지선 테스트",
+      "korean_analysis": "비트코인(Bitcoin) 현물 ETF로의 대규모 자금 유입은 기관 투자자들의 강한 수요를 나타내며, 이는 비트코인 가격에 긍정적이나 이더리움(ETH)이 주요 지지선을 테스트하는 것은 시장 전반의 변동성을 시사합니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "Artificial Intelligence Drives Fresh Debate Over Bitcoin and Stocks",
@@ -184,9 +312,9 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/79/58375373.jpeg",
-      "korean_title": "인공지능(AI), 주식 및 암호화폐 시장의 위험과 기회 증폭",
-      "korean_analysis": "인공지능(AI) 기술의 발전은 금융 시장 전반에 걸쳐 새로운 투자 기회를 창출하는 동시에 변동성을 증가시킬 수 있으므로, AI 관련 테마와 그 파급 효과를 주시해야 한다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "인공지능(AI), 주식 및 암호화폐 시장의 리스크와 기회 증폭",
+      "korean_analysis": "인공지능(AI) 기술 발전은 시장 분석 및 거래 전략에 큰 영향을 미치며, AI 관련 테마는 주식과 암호화폐 시장 모두에서 새로운 투자 기회를 창출할 수 있으나 동시에 새로운 형태의 리스크도 동반합니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "Bank of Japan Rate Hike Looms as Japan’s Bold Fiscal Stance Forces Crucial Monetary Shift",
@@ -203,9 +331,9 @@
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_title": "일본은행(BOJ) 금리 인상 임박, 일본의 과감한 재정 정책이 통화 정책 전환 압박",
-      "korean_analysis": "일본은행(BOJ)의 금리 인상은 엔화 가치와 글로벌 자본 흐름에 큰 영향을 미칠 수 있으며, 이는 외환 시장뿐만 아니라 위험 자산 선호도에도 변화를 가져올 수 있으므로 주목해야 한다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "일본은행(BOJ) 금리 인상 임박: 일본의 재정 정책 변화가 통화 정책 전환 압박",
+      "korean_analysis": "일본은행(BOJ)의 금리 인상은 엔화 강세 요인으로 작용하며, 글로벌 유동성 및 자본 흐름에 영향을 미쳐 암호화폐를 포함한 다른 자산 시장에도 간접적인 영향을 미칠 수 있으므로 글로벌 매크로 환경 변화에 주목해야 합니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "Shiba Inu 2 Hour Chart Completes Death Cross as Price Tests Key Support",
@@ -221,9 +349,9 @@
         "SHIB"
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58375354.jpeg",
-      "korean_title": "시바이누(SHIB), 단기 차트에서 데스 크로스 형성 후 0.00000590달러로 하락",
-      "korean_analysis": "데스 크로스(Death Cross)는 단기 이동평균선이 장기 이동평균선을 하향 돌파하는 약세 신호로, 시바이누(SHIB)의 추가 하락 가능성을 시사하므로 매도 압력에 주의해야 한다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_title": "시바이누(Shiba Inu), 단기 차트에서 데스 크로스(Death Cross) 형성",
+      "korean_analysis": "데스 크로스(Death Cross)는 단기 이동평균선이 장기 이동평균선을 하향 돌파하는 것으로, 일반적으로 추가 하락을 예고하는 강력한 약세 신호이므로 시바이누(Shiba Inu)에 대한 매도 압력이 강화될 수 있습니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "Strategy Announces Fresh Bitcoin Purchase Following BitDeer's Exit",
@@ -240,8 +368,8 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58375570.jpeg",
       "korean_title": "스트래티지(Strategy), 비트디어(BitDeer) 이탈 후 비트코인(BTC) 추가 매수",
-      "korean_analysis": "비트디어(BitDeer)의 이탈에도 불구하고 스트래티지(Strategy)가 비트코인(BTC)을 추가 매수한 것은 시장의 단기적 변동성에도 불구하고 장기적인 비트코인에 대한 확신을 보여주는 신호이다.",
-      "fetched_at": "2026-02-23T14:29:13.988405+00:00"
+      "korean_analysis": "비트디어(BitDeer)의 이탈에도 불구하고 스트래티지(Strategy)가 비트코인(Bitcoin)을 추가 매수한 것은 해당 기업의 비트코인에 대한 장기적인 확신을 보여주며, 이는 시장에 긍정적인 신호로 작용할 수 있습니다.",
+      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
     },
     {
       "title": "Winklevoss BTC Optimism: Gemini Cuts",
