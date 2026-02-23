@@ -26,7 +26,6 @@
       --accent-stocks-bg: rgba(59, 130, 246, 0.1);
       --accent-macro: #ef4444;
       --accent-macro-bg: rgba(239, 68, 68, 0.1);
-      --accent-green: #10b981;
       --radius: 12px;
       --radius-sm: 8px;
     }
@@ -52,7 +51,6 @@
       border-bottom: 1px solid var(--border);
       text-align: center;
     }
-
     .header h1 {
       font-size: 26px;
       font-weight: 900;
@@ -60,12 +58,7 @@
       letter-spacing: -0.5px;
       margin-bottom: 8px;
     }
-
-    .subtitle {
-      color: var(--text-secondary);
-      font-size: 14px;
-    }
-
+    .subtitle { color: var(--text-secondary); font-size: 14px; }
     .update-time {
       font-family: 'JetBrains Mono', monospace;
       color: var(--text-muted);
@@ -85,7 +78,6 @@
       z-index: 10;
       border-bottom: 1px solid var(--border);
     }
-
     .filter-btn {
       font-family: 'Noto Sans KR', sans-serif;
       font-size: 13px;
@@ -99,28 +91,12 @@
       transition: all 0.2s ease;
       white-space: nowrap;
     }
-
-    .filter-btn:hover {
-      border-color: var(--border-glow);
-      color: #ffffff;
-    }
-
-    .filter-btn.active {
-      color: #ffffff;
-      border-color: transparent;
-    }
-
+    .filter-btn:hover { border-color: var(--border-glow); color: #ffffff; }
+    .filter-btn.active { color: #ffffff; border-color: transparent; }
     .filter-btn[data-filter="all"].active { background: #333333; }
-    .filter-btn[data-filter="crypto"].active {
-      background: linear-gradient(135deg, #92400e, #b45309);
-    }
-    .filter-btn[data-filter="stocks"].active {
-      background: linear-gradient(135deg, #1e40af, #2563eb);
-    }
-    .filter-btn[data-filter="macro"].active {
-      background: linear-gradient(135deg, #991b1b, #dc2626);
-    }
-
+    .filter-btn[data-filter="crypto"].active { background: linear-gradient(135deg, #92400e, #b45309); }
+    .filter-btn[data-filter="stocks"].active { background: linear-gradient(135deg, #1e40af, #2563eb); }
+    .filter-btn[data-filter="macro"].active { background: linear-gradient(135deg, #991b1b, #dc2626); }
     .filter-count {
       font-family: 'JetBrains Mono', monospace;
       font-size: 11px;
@@ -130,7 +106,6 @@
 
     /* ─── 시간 그룹 ─── */
     .time-group { margin-top: 24px; }
-
     .time-label {
       font-family: 'JetBrains Mono', monospace;
       font-size: 12px;
@@ -141,7 +116,6 @@
       align-items: center;
       gap: 12px;
     }
-
     .time-label::before,
     .time-label::after {
       content: '';
@@ -159,12 +133,10 @@
       margin-top: 12px;
       transition: all 0.2s ease;
     }
-
     .news-card:hover {
       background: var(--bg-card-hover);
       border-color: var(--border-glow);
     }
-
     .news-card.crypto { border-left: 3px solid var(--accent-crypto); }
     .news-card.stocks { border-left: 3px solid var(--accent-stocks); }
     .news-card.macro { border-left: 3px solid var(--accent-macro); }
@@ -175,12 +147,7 @@
       justify-content: space-between;
       margin-bottom: 12px;
     }
-
-    .card-meta {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
+    .card-meta { display: flex; align-items: center; gap: 8px; }
 
     .category-tag {
       font-size: 11px;
@@ -189,55 +156,57 @@
       border-radius: 4px;
       letter-spacing: 0.3px;
     }
-
     .category-tag.crypto { color: var(--accent-crypto); background: var(--accent-crypto-bg); }
     .category-tag.stocks { color: var(--accent-stocks); background: var(--accent-stocks-bg); }
     .category-tag.macro { color: var(--accent-macro); background: var(--accent-macro-bg); }
 
-    .author-info {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      font-size: 13px;
-      color: var(--text-secondary);
+    .card-time {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
     }
 
-    .author-avatar {
-      width: 20px; height: 20px;
-      border-radius: 50%;
-      object-fit: cover;
-    }
-
-    .importance-stars { display: flex; gap: 2px; }
-    .star { font-size: 10px; color: var(--text-muted); }
-    .star.filled { color: var(--accent-crypto); }
-
-    .card-original {
-      font-size: 13px;
+    /* 영문 제목 (회색 작게) */
+    .card-title-en {
+      font-size: 12px;
       color: var(--text-muted);
       line-height: 1.5;
-      margin-bottom: 12px;
-      padding: 10px 12px;
-      background: var(--bg-surface);
-      border-radius: var(--radius-sm);
-      border-left: 2px solid var(--border);
-      word-break: break-word;
+      margin-bottom: 10px;
     }
 
-    .card-translation {
+    /* 한글 요약 */
+    .card-summary-kr {
       font-size: 15px;
       font-weight: 500;
       color: #ffffff;
       line-height: 1.7;
-      margin-bottom: 8px;
+      margin-bottom: 12px;
     }
 
-    .card-analysis {
-      font-size: 13px;
-      color: var(--text-secondary);
-      line-height: 1.6;
-      padding-left: 12px;
-      border-left: 2px solid var(--border-glow);
+    /* 출처 링크 */
+    .card-source {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+    .card-source a {
+      color: var(--accent-stocks);
+      text-decoration: none;
+      transition: opacity 0.2s;
+    }
+    .card-source a:hover { opacity: 0.8; }
+
+    .card-media {
+      margin: 12px 0;
+      border-radius: var(--radius-sm);
+      overflow: hidden;
+      max-height: 240px;
+    }
+    .card-media img {
+      width: 100%;
+      height: auto;
+      max-height: 240px;
+      object-fit: cover;
+      display: block;
     }
 
     .card-footer {
@@ -256,11 +225,9 @@
       font-size: 11px;
       color: var(--text-muted);
     }
-
     .engagement span { display: flex; align-items: center; gap: 4px; }
 
     .currencies { display: flex; gap: 4px; }
-
     .currency-pill {
       font-family: 'JetBrains Mono', monospace;
       font-size: 10px;
@@ -272,36 +239,7 @@
       border: 1px solid var(--border);
     }
 
-    .source-link {
-      font-size: 12px;
-      color: var(--accent-stocks);
-      text-decoration: none;
-      opacity: 0.7;
-      transition: opacity 0.2s;
-    }
-    .source-link:hover { opacity: 1; }
-
-    .card-media {
-      margin: 12px 0;
-      border-radius: var(--radius-sm);
-      overflow: hidden;
-      max-height: 240px;
-    }
-
-    .card-media img {
-      width: 100%;
-      height: auto;
-      max-height: 240px;
-      object-fit: cover;
-      display: block;
-    }
-
-    .loading {
-      text-align: center;
-      padding: 80px 0;
-      color: var(--text-muted);
-    }
-
+    .loading { text-align: center; padding: 80px 0; color: var(--text-muted); }
     .loading-spinner {
       width: 32px; height: 32px;
       border: 3px solid var(--border);
@@ -310,15 +248,9 @@
       animation: spin 0.8s linear infinite;
       margin: 0 auto 16px;
     }
-
     @keyframes spin { to { transform: rotate(360deg); } }
 
-    .empty-state {
-      text-align: center;
-      padding: 60px 0;
-      color: var(--text-muted);
-      font-size: 14px;
-    }
+    .empty-state { text-align: center; padding: 60px 0; color: var(--text-muted); font-size: 14px; }
 
     .footer {
       text-align: center;
@@ -326,7 +258,6 @@
       border-top: 1px solid var(--border);
       margin-top: 40px;
     }
-
     .footer p { font-size: 12px; color: var(--text-muted); }
     .footer a { color: var(--accent-stocks); text-decoration: none; }
 
@@ -336,8 +267,8 @@
       .filter-bar { overflow-x: auto; -webkit-overflow-scrolling: touch; }
       .filter-bar::-webkit-scrollbar { display: none; }
       .news-card { padding: 16px; }
-      .card-translation { font-size: 14px; }
-      .card-original { font-size: 12px; }
+      .card-summary-kr { font-size: 14px; }
+      .card-title-en { font-size: 11px; }
     }
   </style>
 </head>
@@ -397,7 +328,7 @@
         document.getElementById('newsFeed').innerHTML =
           '<div class="empty-state">' +
             '<p>데이터를 불러올 수 없습니다.</p>' +
-            '<p style="margin-top:8px;font-size:12px;">data/market-pulse.json 파일이 필요합니다.<br>GitHub Actions가 실행되면 자동으로 생성됩니다.</p>' +
+            '<p style="margin-top:8px;font-size:12px;">data/market-pulse.json 파일이 필요합니다.</p>' +
           '</div>';
       }
     }
@@ -462,46 +393,50 @@
       var cat = item.category || 'crypto';
       var catLabel = { crypto: '암호화폐', stocks: '주식', macro: '매크로' }[cat] || '뉴스';
 
-      var stars = '';
-      for (var i = 0; i < 5; i++) {
-        stars += '<span class="star ' + (i < (item.importance || 1) ? 'filled' : '') + '">★</span>';
-      }
+      // 한글 요약 (있으면 표시, 없으면 제목 표시)
+      var summaryText = item.korean_summary || item.title || '';
 
-      var authorHtml = '';
-      if (item.author_handle) {
-        authorHtml = '<div class="author-info">';
-        if (item.author_avatar) authorHtml += '<img class="author-avatar" src="' + esc(item.author_avatar) + '" alt="" loading="lazy" />';
-        authorHtml += '<span>@' + esc(item.author_handle) + '</span></div>';
-      }
-
+      // 미디어
       var mediaHtml = item.media_url
         ? '<div class="card-media"><img src="' + esc(item.media_url) + '" alt="" loading="lazy" /></div>' : '';
 
+      // 소셜 참여도 (트윗인 경우)
       var engHtml = '';
       if (item.likes || item.retweets) {
         engHtml = '<div class="engagement">';
         if (item.likes) engHtml += '<span>♥ ' + fmtNum(item.likes) + '</span>';
         if (item.retweets) engHtml += '<span>🔁 ' + fmtNum(item.retweets) + '</span>';
         engHtml += '</div>';
-      } else { engHtml = '<div></div>'; }
+      } else {
+        engHtml = '<div></div>';
+      }
 
+      // 코인 태그
       var curHtml = (item.currencies || []).slice(0, 4).map(function(c) {
         return '<span class="currency-pill">' + esc(c) + '</span>';
       }).join('');
 
+      // 출처 링크
+      var sourceHtml = '';
+      if (item.source_url && item.source_name) {
+        sourceHtml = '<div class="card-source">출처: <a href="' + esc(item.source_url) + '" target="_blank" rel="noopener">' + esc(item.source_name) + '</a></div>';
+      } else if (item.source_url) {
+        var domain = '';
+        try { domain = new URL(item.source_url).hostname.replace('www.', ''); } catch(e) { domain = '원문'; }
+        sourceHtml = '<div class="card-source">출처: <a href="' + esc(item.source_url) + '" target="_blank" rel="noopener">' + esc(domain) + '</a></div>';
+      }
+
       return '<article class="news-card ' + cat + '">' +
         '<div class="card-header"><div class="card-meta">' +
-          '<span class="category-tag ' + cat + '">' + catLabel + '</span>' + authorHtml +
-        '</div><div class="importance-stars">' + stars + '</div></div>' +
-        '<div class="card-original">' + esc(item.tweet_text || item.body_preview || item.title || '') + '</div>' +
+          '<span class="category-tag ' + cat + '">' + catLabel + '</span>' +
+        '</div></div>' +
+        '<div class="card-title-en">' + esc(item.title || '') + '</div>' +
         mediaHtml +
-        '<div class="card-translation">' + esc(item.korean_title || item.title || '') + '</div>' +
-        (item.korean_analysis ? '<div class="card-analysis">' + esc(item.korean_analysis) + '</div>' : '') +
-        '<div class="card-footer">' + engHtml +
-          '<div style="display:flex;align-items:center;gap:8px;">' +
-            '<div class="currencies">' + curHtml + '</div>' +
-            (item.source_url ? '<a class="source-link" href="' + esc(item.source_url) + '" target="_blank" rel="noopener">원문 →</a>' : '') +
-          '</div></div></article>';
+        '<div class="card-summary-kr">' + esc(summaryText) + '</div>' +
+        sourceHtml +
+        (curHtml || engHtml ? '<div class="card-footer">' + engHtml +
+          '<div class="currencies">' + curHtml + '</div></div>' : '') +
+      '</article>';
     }
 
     function esc(s) {
