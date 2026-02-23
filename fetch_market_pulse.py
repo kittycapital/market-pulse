@@ -13,15 +13,7 @@ import urllib.error
 from datetime import datetime, timezone, timedelta
 
 # ─── 설정 ────────────────────────────────────────────────
-CRYPTOPANIC_API_KEY = os.environ.get("CRYPTOPANIC_API_KEY", "")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-
-# CryptoPanic 카테고리별 필터
-CATEGORIES = {
-    "crypto": {"currencies": "BTC,ETH,SOL,XRP,DOGE", "kind": "news"},
-    "stocks": {"currencies": "", "kind": "news", "extra_filter": "stocks"},
-    "macro": {"currencies": "", "kind": "news", "extra_filter": "macro"},
-}
 
 DATA_DIR = "data"
 OUTPUT_FILE = os.path.join(DATA_DIR, "market-pulse.json")
@@ -58,89 +50,82 @@ def fetch_json(url, headers=None):
         return None
 
 
-def fetch_cryptopanic_posts():
-    """CryptoPanic API에서 최근 뉴스를 가져온다."""
-    if not CRYPTOPANIC_API_KEY:
-        print("[WARN] CRYPTOPANIC_API_KEY not set, using sample data")
-        return []
-
+def fetch_news_posts():
+    """CryptoCompare News API에서 최근 뉴스를 가져온다. API 키 불필요."""
     posts = []
-    existing_urls = set()
 
-    # 필터 목록: 무료 플랜에서 안 되면 필터 없이 시도
-    filters = ["hot", "rising", ""]
-    
-    for f in filters:
-        if len(posts) >= MAX_TOTAL_ITEMS:
-            break
+    # CryptoCompare 뉴스 API (무료, 키 불필요)
+    url = "https://min-api.cryptocompare.com/data/v2/news/?lang=EN"
+    print(f"  Fetching from CryptoCompare...")
+    data = fetch_json(url)
 
-        url = (
-            f"https://cryptopanic.com/api/v1/posts/"
-            f"?auth_token={CRYPTOPANIC_API_KEY}"
-            f"&public=true"
-        )
-        if f:
-            url += f"&filter={f}"
-        
-        print(f"  Trying: filter={f or 'none'}")
-        data = fetch_json(url)
-        
-        if data and "results" in data:
-            print(f"  → Got {len(data['results'])} results")
-            for item in data["results"][:MAX_ITEMS_PER_CATEGORY]:
-                post = parse_cryptopanic_item(item)
-                if post and post["source_url"] not in existing_urls:
-                    posts.append(post)
-                    existing_urls.add(post["source_url"])
-        else:
-            print(f"  → No results for filter={f or 'none'}")
+    if data and data.get("Data"):
+        print(f"  → Got {len(data['Data'])} articles")
+        for item in data["Data"][:MAX_TOTAL_ITEMS]:
+            post = parse_news_item(item)
+            if post:
+                posts.append(post)
+    else:
+        print(f"  → No results from CryptoCompare")
 
     return posts[:MAX_TOTAL_ITEMS]
 
 
-def parse_cryptopanic_item(item):
-    """CryptoPanic 아이템을 파싱한다."""
+def parse_news_item(item):
+    """CryptoCompare 뉴스 아이템을 파싱한다."""
     try:
-        # 트윗 URL 추출 시도
-        source_url = item.get("url", "")
         title = item.get("title", "")
-        published = item.get("published_at", "")
-        
+        body = item.get("body", "")
+        source_url = item.get("url", "") or item.get("guid", "")
+        published = item.get("published_on", 0)
+        source_name = item.get("source_info", {}).get("name", item.get("source", ""))
+        image_url = item.get("imageurl", "")
+        categories = item.get("categories", "")
+
+        # 타임스탬프 변환
+        published_iso = ""
+        if published:
+            published_iso = datetime.fromtimestamp(published, tz=timezone.utc).isoformat()
+
         # 카테고리 판별
-        currencies = item.get("currencies", [])
-        category = determine_category(item, currencies)
-        
-        # 중요도 판별 (CryptoPanic의 votes 기반)
-        votes = item.get("votes", {})
-        positive = votes.get("positive", 0) if votes else 0
-        important = votes.get("important", 0) if votes else 0
-        importance = min(5, 1 + positive + important * 2)
-        
+        category = determine_category_from_text(title, body, categories)
+
         # 트위터 URL인지 확인
         twitter_url = None
         tweet_id = None
         if source_url and ("twitter.com" in source_url or "x.com" in source_url):
             twitter_url = source_url
             tweet_id = extract_tweet_id(source_url)
-        
+
+        # 관련 코인 추출
+        coins = []
+        if categories:
+            for cat in categories.split("|"):
+                cat = cat.strip()
+                if cat.isupper() and len(cat) <= 5:
+                    coins.append(cat)
+
         return {
             "title": title,
+            "body_preview": body[:200] if body else "",
             "source_url": source_url,
+            "source_name": source_name,
             "twitter_url": twitter_url,
             "tweet_id": tweet_id,
-            "published_at": published,
+            "published_at": published_iso,
             "category": category,
-            "importance": importance,
-            "currencies": [c.get("code", "") for c in currencies] if currencies else [],
+            "importance": 3,
+            "currencies": coins[:4],
+            "media_url": image_url if image_url and image_url.startswith("http") else None,
         }
     except Exception as e:
         print(f"[WARN] Failed to parse item: {e}")
         return None
 
 
-def determine_category(item, currencies):
+def determine_category_from_text(title, body, categories):
     """뉴스 카테고리를 판별한다."""
-    title = item.get("title", "").lower()
+    text = (title + " " + body + " " + categories).lower()
     
     # 매크로 키워드
     macro_keywords = [
@@ -159,15 +144,12 @@ def determine_category(item, currencies):
     ]
     
     for kw in macro_keywords:
-        if kw in title:
+        if kw in text:
             return "macro"
     
     for kw in stock_keywords:
-        if kw in title:
+        if kw in text:
             return "stocks"
-    
-    if currencies:
-        return "crypto"
     
     return "crypto"  # 기본값
 
@@ -232,7 +214,7 @@ def translate_with_gemini(items):
 
     url = (
         f"https://generativelanguage.googleapis.com/v1beta/models/"
-        f"gemini-2.5-flash-preview-05-20:generateContent"
+        f"gemini-2.0-flash:generateContent"
         f"?key={GEMINI_API_KEY}"
     )
 
@@ -283,7 +265,7 @@ def build_translation_prompt(batch):
     items_text = ""
     for idx, item in enumerate(batch):
         # 트윗 원문이 있으면 사용, 없으면 제목 사용
-        source_text = item.get("tweet_text", item["title"])
+        source_text = item.get("tweet_text", item.get("body_preview", item["title"]))
         items_text += f"\n[{idx}] ({item['category']}) {source_text}\n"
 
     return f"""당신은 금융 시장 전문 번역가입니다. 아래 영문 뉴스/트윗을 한국어로 번역하고 트레이더 관점에서 간단한 해설을 추가해주세요.
@@ -397,9 +379,9 @@ def main():
     print(f"Time: {datetime.now(KST).strftime('%Y-%m-%d %H:%M KST')}")
     print("=" * 60)
     
-    # 1. CryptoPanic에서 뉴스 수집
-    print("\n[1/4] Fetching from CryptoPanic...")
-    posts = fetch_cryptopanic_posts()
+    # 1. CryptoCompare에서 뉴스 수집
+    print("\n[1/4] Fetching news...")
+    posts = fetch_news_posts()
     print(f"  → Got {len(posts)} posts")
     
     # 2. 트위터 URL이 있는 경우 FxTwitter로 보강
