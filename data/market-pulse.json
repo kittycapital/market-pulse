@@ -1,8 +1,41 @@
 {
-  "last_updated": "2026-02-23T14:52:47.402814+00:00",
-  "last_updated_kst": "2026-02-23 23:52 KST",
-  "total_items": 62,
+  "last_updated": "2026-02-23T14:59:18.453937+00:00",
+  "last_updated_kst": "2026-02-23 23:59 KST",
+  "total_items": 64,
   "items": [
+    {
+      "title": "GBP/JPY Navigates Crucial Range as BoE Easing Fears Intensify",
+      "body_preview": "BitcoinWorld GBP/JPY Navigates Crucial Range as BoE Easing Fears Intensify LONDON, March 2025 – The GBP/JPY currency pair continues its tight consolidation, drifting within a well-defined two-week trading band as market participants increasingly price in monetary easing from the Bank of England. Thi",
+      "source_url": "https://bitcoinworld.co.in/gbp-jpy-range-boe-easing/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:55:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "ASIA",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "파운드/엔(GBP/JPY) 환율이 영국 중앙은행(BoE)의 통화 완화 정책에 대한 우려가 심화되면서 중요한 범위 내에서 횡보 통합을 지속하고 있습니다. 이는 시장의 불확실성을 반영합니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "“They”ll Hold Bitcoin”: Metaplanet CEO Reacts to Rising AI Economic Debate",
+      "body_preview": "Metaplanet CEO believes large corporations will hold Bitcoin in the future as AI evolution appears to be posing threats to companies sitting on cash.",
+      "source_url": "https://u.today/theyll-hold-bitcoin-metaplanet-ceo-reacts-to-rising-ai-economic-debate",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:51:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58376756.jpeg",
+      "korean_summary": "메타플래닛(Metaplanet) CEO는 인공지능(AI) 발전이 현금을 보유한 기업에 위협이 될 수 있다고 보며, 미래에는 대기업들이 비트코인(Bitcoin)을 보유하게 될 것이라고 전망했습니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
     {
       "title": "Global Tensions and Miner Sales Send Bitcoin Below $65,000",
       "body_preview": "Bitcoin fell below $65,000, triggering significant liquidations and increased volatility across the market. Miners and ETF flows signal ongoing financial pressures, but institutional interest may persist. Continue Reading: Global Tensions and Miner Sales Send Bitcoin Below $65,000 The post Global Te",
@@ -16,8 +49,8 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/79/58376713.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "비트코인(Bitcoin)이 65,000달러 아래로 하락하며 대규모 청산과 시장 변동성을 유발했습니다. 채굴자 매도와 상장지수펀드(ETF) 유출이 압력을 가하지만, 기관 투자자들의 관심은 지속될 수 있습니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "Elliptic flags Russia-linked crypto platforms’ ongoing sanctions evasion",
@@ -30,8 +63,8 @@
       "category": "crypto",
       "currencies": [],
       "media_url": "https://resources.cryptocompare.com/news/5/58376658.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "블록체인 분석 기업 엘립틱(Elliptic)은 비트파파(Bitpapa), 가란텍스(Garantex), ABCeX 등 러시아와 연계된 암호화폐 플랫폼들이 서방 제재를 회피하는 거래에 지속적으로 사용되고 있다고 지적했습니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "FTSE 100 Breakout? Why U.K. Stocks May Finally Catch Up With Wall Street",
@@ -46,8 +79,8 @@
         "OTHER"
       ],
       "media_url": "https://resources.cryptocompare.com/news/94/58376535.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "지난 25년간 횡보세를 보였던 영국 FTSE 100 지수가 마침내 변화의 조짐을 보이며 월스트리트(Wall Street) 증시를 따라잡을 가능성이 제기되고 있습니다. 이는 영국 주식 시장의 새로운 전환점이 될 수 있습니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "Ripple Prime Exec Breaks Down Significance of Ripple USD Stablecoin Listing on Binance",
@@ -63,8 +96,8 @@
         "BNB"
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58376539.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "리플 프라임(Ripple Prime)의 마이크 히긴스(Mike Higgins)는 바이낸스(Binance)에 리플 USD 스테이블코인(RLUSD)이 상장된 전략적 중요성을 강조했습니다. 이는 암호화폐 시장 내 리플의 입지를 강화할 것으로 보입니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "Crypto is Maturing: BTC Dominance and Institutional Focus",
@@ -80,8 +113,8 @@
         "ETH"
       ],
       "media_url": "https://resources.cryptocompare.com/news/77/58376645.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "NYDIG는 암호화폐 시장이 비트코인(BTC)과 금융 인프라 중심으로 성숙하고 있다고 분석했습니다. 터키 넷 홀딩(Net Holding)이 352 BTC를 보유하는 등 기관의 관심이 커지고 있습니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "Anthropic Military AI Showdown: Defense Secretary Issues Critical Ultimatum Over Claude’s Combat Role",
@@ -96,8 +129,8 @@
         "ASIA"
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "국방장관 피트 헥세스(Pete Hegseth)는 인공지능(AI) 개발사 앤트로픽(Anthropic)을 소환하여, 그들의 AI 모델 클로드(Claude)의 전투 역할에 대해 중요한 최후통첩을 전달했습니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "XMR Technical Analysis February 23, 2026: Will It Rise or Fall?",
@@ -112,8 +145,8 @@
         "XMR"
       ],
       "media_url": "https://resources.cryptocompare.com/news/77/58376438.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "모네로(XMR)가 315.95달러에서 하락 추세 속 횡보 중이며, 상대강도지수(RSI)는 과매도 반등 가능성을, 이동평균수렴확산(MACD)은 약세 신호를 보입니다. 328달러 돌파 시 상승, 306달러 하회 시 하락 가능성이 있습니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "XRP and Solana Hold Market as Crypto Funds Shed $288 Million",
@@ -129,8 +162,8 @@
         "XRP"
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58376420.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "암호화폐 펀드에서 5주 연속 순유출이 발생하며 총 2억 8,800만 달러가 빠져나갔으나, 리플(XRP)과 솔라나(Solana)는 이러한 시장 흐름에 역행하며 강세를 보였습니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "Revolut confirms ex-employee threatened to leak KYC data for crypto ransom",
@@ -143,8 +176,8 @@
       "category": "crypto",
       "currencies": [],
       "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "레볼루트(Revolut)는 전 직원이 암호화폐 트레이더에게 고객확인(KYC) 데이터를 유출하겠다고 협박하며 암호화폐를 요구한 사건을 확인하고 조사 중이라고 밝혔습니다. 시스템 침해는 없었습니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "Bitcoin Prints the Worst Level in 6 Months in Network Activity: How This Affects the Market",
@@ -159,8 +192,8 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58376143.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "비트코인(Bitcoin) 네트워크 활동이 급격히 감소하며 6개월 만에 최저 수준을 기록했습니다. 이는 투자자들의 확신 부족을 시사하며 시장에 부정적인 영향을 미칠 수 있습니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "Developer On XRP Rally: Once This Finally Breaks Again, $27 Is coming",
@@ -175,8 +208,8 @@
         "XRP"
       ],
       "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "리플(XRP)이 장기간 가격 안정세를 유지하는 가운데, 한 암호화폐 분석가는 XRP가 다시 한번 중요한 지점을 돌파하면 27달러까지 급등할 수 있다고 전망하며 투자자들의 기대를 모으고 있습니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "Curve founder says DeFi must ditch token emissions for real revenue",
@@ -189,8 +222,8 @@
       "category": "crypto",
       "currencies": [],
       "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "커브(Curve) 창립자 마이클 에고로프(Michael Egorov)는 탈중앙화 금융(DeFi) 프로토콜이 토큰 발행 인센티브 대신 실제 수익을 창출해야 한다고 강조했습니다. 토큰 인센티브의 유동성 유치 효과가 약화되고 있기 때문입니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "Missouri Lawmakers Push for State-Backed Bitcoin Reserve",
@@ -206,8 +239,218 @@
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/79/58376089.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
+      "korean_summary": "미주리주(Missouri) 의원들이 주 재무부가 기부받은 비트코인(Bitcoin)을 보유할 수 있도록 하는 법안을 추진 중입니다. 이 법안은 납세자 자금으로 비트코인을 구매하는 것을 금지하며 투명한 감독을 의무화합니다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "Self-made millionaire and money coach: 'Time freedom' is more important than retiring early",
+      "body_preview": "Self-made millionaire and money coach Andy Hill believes in building up a big enough portfolio to coast while prioritizing financial flexibility.",
+      "source_url": "https://www.cnbc.com/2026/02/23/self-made-millionaire-time-freedom-matters-more-than-retiring-early.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:20:33+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108267054-1771451027342-Andy_On_Stage_at_FinCon_-_Black_Suit_2.jpg?v=1771451118&w=1920&h=1080",
+      "korean_summary": "자수성가한 백만장자이자 재정 코치인 앤디 힐은 조기 은퇴보다 '시간의 자유(time freedom)'를 강조하며, 재정적 유연성을 우선시하여 충분한 포트폴리오를 구축하는 것이 중요하다고 조언했다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "body_preview": "President Trump is raising his threatened global tariff to 15%, and Eli Lilly triumphs over obesity rival Novo Nordisk once again.",
+      "source_url": "https://www.cnbc.com/2026/02/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:06:52+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108230191-17637574202025-11-21t203348z_1528530032_rc231ianvoco_rtrmadp_0_usa-stocks.jpeg?v=1763757480&w=1920&h=1080",
+      "korean_summary": "짐 크레이머는 월요일 주식 시장 주요 관전 포인트로 트럼프 전 대통령의 글로벌 관세 15% 인상 위협과 비만 치료제 경쟁에서 일라이 릴리(Eli Lilly)가 노보 노디스크(Novo Nordisk)를 다시 앞선 점 등을 꼽았다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "Fed’s Waller says next jobs report, not Supreme Court ruling, will be key for March interest rate decision",
+      "body_preview": "The February jobs report, and not the Supreme Court ruling overturning a large part of President Donald Trump’s tariffs on imported goods, will be key to whether the Federal Reserve needs to cut interest rates in March, Federal Reserve Governor Christopher Waller said on Monday.",
+      "source_url": "https://www.marketwatch.com/story/feds-waller-says-next-jobs-report-not-supreme-court-ruling-will-impact-feds-march-rate-cut-decision-4ca7ca11",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:33:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "연방준비제도(Fed)의 크리스토퍼 월러 이사는 3월 금리 결정에 있어 대법원의 트럼프 관세 판결보다 2월 고용 보고서가 더 중요하다고 밝혔다. 이는 Fed의 금리 인하 필요성 판단에 핵심 지표가 될 것이라고 덧붙였다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "Congress must enact Trump’s tariffs now to steer the U.S. away from a massive revenue cliff",
+      "body_preview": "Tariffs need to become law or the federal budget will take a hit. Lawmakers have less than 150 days to decide.",
+      "source_url": "https://www.marketwatch.com/story/congress-must-enact-trumps-tariffs-now-to-steer-the-u-s-away-from-a-massive-revenue-cliff-c147c999",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:31:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "미국 의회는 대규모 세수 절벽을 피하기 위해 트럼프 전 대통령의 관세 정책을 법제화해야 한다고 주장되었다. 관세가 법으로 제정되지 않으면 연방 예산에 큰 타격이 예상되며, 의원들은 150일 이내에 결정해야 한다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "Snowstorm hits airline stocks as total flight cancellations top 5,300",
+      "body_preview": "Airline stocks are taking a hit as a major Northeast snowstorm is leading to thousands of flight cancellations.",
+      "source_url": "https://www.marketwatch.com/story/snowstorm-hits-airline-stocks-as-total-flight-cancellations-top-5-300-764ef9b6",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:29:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "미국 북동부를 강타한 대규모 눈보라로 인해 5,300편 이상의 항공편이 취소되면서 항공주들이 타격을 입었다. 이는 기상 악화가 항공 산업에 미치는 직접적인 영향을 보여준다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "Tariff jitters are pushing gold over $5,100 and powering silver higher",
+      "body_preview": "The week has started on a positive footing for precious metals as investors look wary at fresh tariff stress out of the U.S.",
+      "source_url": "https://www.marketwatch.com/story/tariff-jitters-are-pushing-gold-over-5-100-and-powering-silver-higher-34126fbb",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:22:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "미국의 새로운 관세 압박에 대한 투자자들의 우려가 커지면서 금값이 온스당 5,100달러를 돌파하고 은값도 상승하는 등 귀금속 시장이 긍정적인 출발을 보였다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "The ‘Magnificent Seven’ is now the ‘Lag 7.’ How Big Tech’s slump is dragging down the S&P 500.",
+      "body_preview": "A breakdown of the “Magnificent Seven” and AI hyperscalers raises concern for the stock market and the economy",
+      "source_url": "https://www.marketwatch.com/story/the-magnificent-seven-is-now-the-lag-7-how-big-techs-slump-is-dragging-down-the-s-p-500-8d6c62e9",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T12:57:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "한때 '매그니피센트 7(Magnificent Seven)'으로 불리던 대형 기술주들이 '지연 7(Lag 7)'로 전락하며 부진을 겪고 있다. 이들 인공지능(AI) 하이퍼스케일러 기업들의 침체는 S&P 500 지수와 전반적인 경제에 대한 우려를 키우고 있다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "How Lowe’s stock has trounced Home Depot’s — and what may lie ahead",
+      "body_preview": "The hardware and home-furnishings rivals will both report quarterly results this week.",
+      "source_url": "https://www.marketwatch.com/story/how-lowes-stock-has-trounced-home-depots-and-what-may-lie-ahead-d066d8a4",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T12:28:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "주택 개조 용품 소매업체 로우스(Lowe’s)의 주식이 경쟁사 홈디포(Home Depot)를 능가하는 성과를 보였다. 양사는 이번 주 분기별 실적을 발표할 예정이며, 향후 주가 흐름에 관심이 쏠린다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "Gilead shows its belief in its partner’s cancer treatment with a $7.8 billion buyout",
+      "body_preview": "Arcellx’s stock is heading toward a record after the $7.8 billion deal to be acquired by Gilead.",
+      "source_url": "https://www.marketwatch.com/story/gilead-shows-its-belief-in-its-partners-cancer-treatment-with-a-7-8-billion-buyout-3f86f10c",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T12:13:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "길리어드(Gilead)가 파트너사인 아셀엑스(Arcellx)의 암 치료제에 대한 신뢰를 바탕으로 78억 달러 규모의 인수 계약을 체결했다. 이 소식에 아셀엑스 주가는 사상 최고치를 향해 상승하고 있다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "There’s another AI-doom post doing the rounds. This time, the S&P 500 dives nearly 40%.",
+      "body_preview": "A booming AI economy may be very bad for the broader economy, according to Citrini Research",
+      "source_url": "https://www.marketwatch.com/story/theres-another-ai-doom-post-doing-the-rounds-this-time-the-s-p-500-dives-nearly-40-13162b42",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T11:45:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "시트리니 리서치(Citrini Research)는 인공지능(AI) 경제의 급성장이 광범위한 경제에 매우 부정적일 수 있다고 경고하며, 이로 인해 S&P 500 지수가 거의 40% 급락할 수 있다는 비관적인 전망을 내놓았다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "‘I found out too late’: My stepmother cheated me out of $500K from my father’s estate. What can I do?",
+      "body_preview": "“Within a week or two after the deadline to contest the will expired, my stepmother sent me an email stating she would not share anything.”",
+      "source_url": "https://www.marketwatch.com/story/i-found-out-too-late-my-stepmother-cheated-me-out-of-500k-from-my-fathers-estate-what-can-i-do-97f387c6",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T11:30:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "한 상속인이 계모에게서 아버지 유산 중 50만 달러를 사기당했다고 주장했다. 유언장 이의 제기 기한이 만료된 직후 계모가 유산을 공유하지 않겠다는 이메일을 보냈다는 내용으로, 법적 조치 가능성에 관심이 쏠린다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "Here are the five companies that $9 trillion of funds agree on right now",
+      "body_preview": "Vertiv has been a top holding among hedge and mutual funds in the first quarter of this year so far, and a lucrative one.",
+      "source_url": "https://www.marketwatch.com/story/here-are-the-five-companies-that-9-trillion-of-funds-agree-on-right-now-4ac77fc3",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T10:53:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "9조 달러 규모의 자금을 운용하는 펀드들이 현재 주목하는 5개 기업 중 버티브(Vertiv)가 올해 1분기 헤지펀드와 뮤추얼펀드 모두에서 수익성 높은 주요 보유 종목으로 부상했다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "‘I spend $7,500 a month’: I’m 47, earn $260K, and have $3 million. Can I retire at 50?",
+      "body_preview": "“I own a home worth $520,000 and do not have a mortgage on it.”",
+      "source_url": "https://www.marketwatch.com/story/i-spend-7-500-a-month-im-47-earn-260k-and-have-3-million-can-i-retire-at-50-05afc0b5",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T10:30:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "47세에 연봉 26만 달러, 자산 300만 달러를 보유하고 월 7,500달러를 지출하는 한 개인이 50세 조기 은퇴 가능성에 대해 문의했다. 52만 달러 상당의 주택을 모기지 없이 소유하고 있다고 밝혔다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "Why JPMorgan says the international stock story still has legs",
+      "body_preview": "Decent growth, benign inflation, a dovish Fed and a weaker dollar all favor equities but international and emerging stocks look set to build on the outperformance of the last year",
+      "source_url": "https://www.marketwatch.com/story/why-jpmorgan-says-the-international-stock-story-still-has-legs-bfd6cd61",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T10:19:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "JP모건(JPMorgan)은 견조한 성장, 온건한 인플레이션, 비둘기파적 연방준비제도(Fed), 약달러 등 여러 요인이 주식 시장에 긍정적이라며, 특히 국제 및 신흥 시장 주식이 작년의 뛰어난 성과를 이어갈 것이라고 전망했다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
+    },
+    {
+      "title": "Novo Nordisk pitted a new weight-loss drug against Eli Lilly — and lost",
+      "body_preview": "Novo Nordisk shares were under pressure on Monday as the struggling Danish pharmaceutical said a head-to-head study found a drug in development didn’t cut as much weight as an Eli Lilly product.",
+      "source_url": "https://www.marketwatch.com/story/novo-nordisk-pitted-a-new-weight-loss-drug-against-eli-lilly-and-lost-5652d079",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T10:07:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "노보 노디스크(Novo Nordisk)가 개발 중인 새로운 체중 감량 약물이 일라이 릴리(Eli Lilly) 제품과의 직접 비교 연구에서 효과가 미치지 못했다고 발표하며 주가가 압박을 받았다. 이는 비만 치료제 시장 경쟁 심화를 시사한다.",
+      "fetched_at": "2026-02-23T14:59:18.452924+00:00"
     },
     {
       "title": "Vitalik Buterin Accelerates ETH Sales Amid Renewed Market Weakness",
@@ -240,216 +483,6 @@
         "ETH"
       ],
       "media_url": "https://resources.cryptocompare.com/news/50/58376056.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "Self-made millionaire and money coach: 'Time freedom' is more important than retiring early",
-      "body_preview": "Self-made millionaire and money coach Andy Hill believes in building up a big enough portfolio to coast while prioritizing financial flexibility.",
-      "source_url": "https://www.cnbc.com/2026/02/23/self-made-millionaire-time-freedom-matters-more-than-retiring-early.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T14:20:33+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108267054-1771451027342-Andy_On_Stage_at_FinCon_-_Black_Suit_2.jpg?v=1771451118&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "body_preview": "President Trump is raising his threatened global tariff to 15%, and Eli Lilly triumphs over obesity rival Novo Nordisk once again.",
-      "source_url": "https://www.cnbc.com/2026/02/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T14:06:52+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108230191-17637574202025-11-21t203348z_1528530032_rc231ianvoco_rtrmadp_0_usa-stocks.jpeg?v=1763757480&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "Fed’s Waller says next jobs report, not Supreme Court ruling, will be key for March interest rate decision",
-      "body_preview": "The February jobs report, and not the Supreme Court ruling overturning a large part of President Donald Trump’s tariffs on imported goods, will be key to whether the Federal Reserve needs to cut interest rates in March, Federal Reserve Governor Christopher Waller said on Monday.",
-      "source_url": "https://www.marketwatch.com/story/feds-waller-says-next-jobs-report-not-supreme-court-ruling-will-impact-feds-march-rate-cut-decision-4ca7ca11",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T13:33:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "Congress must enact Trump’s tariffs now to steer the U.S. away from a massive revenue cliff",
-      "body_preview": "Tariffs need to become law or the federal budget will take a hit. Lawmakers have less than 150 days to decide.",
-      "source_url": "https://www.marketwatch.com/story/congress-must-enact-trumps-tariffs-now-to-steer-the-u-s-away-from-a-massive-revenue-cliff-c147c999",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T13:31:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "Snowstorm hits airline stocks as total flight cancellations top 5,300",
-      "body_preview": "Airline stocks are taking a hit as a major Northeast snowstorm is leading to thousands of flight cancellations.",
-      "source_url": "https://www.marketwatch.com/story/snowstorm-hits-airline-stocks-as-total-flight-cancellations-top-5-300-764ef9b6",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T13:29:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "Tariff jitters are pushing gold over $5,100 and powering silver higher",
-      "body_preview": "The week has started on a positive footing for precious metals as investors look wary at fresh tariff stress out of the U.S.",
-      "source_url": "https://www.marketwatch.com/story/tariff-jitters-are-pushing-gold-over-5-100-and-powering-silver-higher-34126fbb",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T13:22:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "The ‘Magnificent Seven’ is now the ‘Lag 7.’ How Big Tech’s slump is dragging down the S&P 500.",
-      "body_preview": "A breakdown of the “Magnificent Seven” and AI hyperscalers raises concern for the stock market and the economy",
-      "source_url": "https://www.marketwatch.com/story/the-magnificent-seven-is-now-the-lag-7-how-big-techs-slump-is-dragging-down-the-s-p-500-8d6c62e9",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T12:57:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "How Lowe’s stock has trounced Home Depot’s — and what may lie ahead",
-      "body_preview": "The hardware and home-furnishings rivals will both report quarterly results this week.",
-      "source_url": "https://www.marketwatch.com/story/how-lowes-stock-has-trounced-home-depots-and-what-may-lie-ahead-d066d8a4",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T12:28:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "Gilead shows its belief in its partner’s cancer treatment with a $7.8 billion buyout",
-      "body_preview": "Arcellx’s stock is heading toward a record after the $7.8 billion deal to be acquired by Gilead.",
-      "source_url": "https://www.marketwatch.com/story/gilead-shows-its-belief-in-its-partners-cancer-treatment-with-a-7-8-billion-buyout-3f86f10c",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T12:13:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "There’s another AI-doom post doing the rounds. This time, the S&P 500 dives nearly 40%.",
-      "body_preview": "A booming AI economy may be very bad for the broader economy, according to Citrini Research",
-      "source_url": "https://www.marketwatch.com/story/theres-another-ai-doom-post-doing-the-rounds-this-time-the-s-p-500-dives-nearly-40-13162b42",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T11:45:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "‘I found out too late’: My stepmother cheated me out of $500K from my father’s estate. What can I do?",
-      "body_preview": "“Within a week or two after the deadline to contest the will expired, my stepmother sent me an email stating she would not share anything.”",
-      "source_url": "https://www.marketwatch.com/story/i-found-out-too-late-my-stepmother-cheated-me-out-of-500k-from-my-fathers-estate-what-can-i-do-97f387c6",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T11:30:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "Here are the five companies that $9 trillion of funds agree on right now",
-      "body_preview": "Vertiv has been a top holding among hedge and mutual funds in the first quarter of this year so far, and a lucrative one.",
-      "source_url": "https://www.marketwatch.com/story/here-are-the-five-companies-that-9-trillion-of-funds-agree-on-right-now-4ac77fc3",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T10:53:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "‘I spend $7,500 a month’: I’m 47, earn $260K, and have $3 million. Can I retire at 50?",
-      "body_preview": "“I own a home worth $520,000 and do not have a mortgage on it.”",
-      "source_url": "https://www.marketwatch.com/story/i-spend-7-500-a-month-im-47-earn-260k-and-have-3-million-can-i-retire-at-50-05afc0b5",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T10:30:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "Why JPMorgan says the international stock story still has legs",
-      "body_preview": "Decent growth, benign inflation, a dovish Fed and a weaker dollar all favor equities but international and emerging stocks look set to build on the outperformance of the last year",
-      "source_url": "https://www.marketwatch.com/story/why-jpmorgan-says-the-international-stock-story-still-has-legs-bfd6cd61",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T10:19:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-23T14:52:47.402094+00:00"
-    },
-    {
-      "title": "Novo Nordisk pitted a new weight-loss drug against Eli Lilly — and lost",
-      "body_preview": "Novo Nordisk shares were under pressure on Monday as the struggling Danish pharmaceutical said a head-to-head study found a drug in development didn’t cut as much weight as an Eli Lilly product.",
-      "source_url": "https://www.marketwatch.com/story/novo-nordisk-pitted-a-new-weight-loss-drug-against-eli-lilly-and-lost-5652d079",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-23T10:07:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
       "fetched_at": "2026-02-23T14:52:47.402094+00:00"
     },
