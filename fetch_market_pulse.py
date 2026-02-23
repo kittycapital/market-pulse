@@ -44,7 +44,14 @@ def fetch_json(url, headers=None):
         with urllib.request.urlopen(req, timeout=15) as resp:
             return json.loads(resp.read().decode("utf-8"))
     except urllib.error.HTTPError as e:
+        body = ""
+        try:
+            body = e.read().decode("utf-8")[:300]
+        except Exception:
+            pass
         print(f"[ERROR] HTTP {e.code} for {url}")
+        if body:
+            print(f"[ERROR] Response: {body}")
         return None
     except Exception as e:
         print(f"[ERROR] {e} for {url}")
@@ -58,35 +65,35 @@ def fetch_cryptopanic_posts():
         return []
 
     posts = []
+    existing_urls = set()
+
+    # 필터 목록: 무료 플랜에서 안 되면 필터 없이 시도
+    filters = ["hot", "rising", ""]
     
-    # 기본 크립토 뉴스 (핫 뉴스 위주)
-    url = (
-        f"https://cryptopanic.com/api/v1/posts/"
-        f"?auth_token={CRYPTOPANIC_API_KEY}"
-        f"&filter=hot"
-        f"&public=true"
-    )
-    data = fetch_json(url)
-    if data and "results" in data:
-        for item in data["results"][:MAX_ITEMS_PER_CATEGORY]:
-            post = parse_cryptopanic_item(item)
-            if post:
-                posts.append(post)
-    
-    # rising 뉴스도 추가
-    url_rising = (
-        f"https://cryptopanic.com/api/v1/posts/"
-        f"?auth_token={CRYPTOPANIC_API_KEY}"
-        f"&filter=rising"
-        f"&public=true"
-    )
-    data_rising = fetch_json(url_rising)
-    if data_rising and "results" in data_rising:
-        existing_urls = {p["source_url"] for p in posts}
-        for item in data_rising["results"][:MAX_ITEMS_PER_CATEGORY]:
-            post = parse_cryptopanic_item(item)
-            if post and post["source_url"] not in existing_urls:
-                posts.append(post)
+    for f in filters:
+        if len(posts) >= MAX_TOTAL_ITEMS:
+            break
+
+        url = (
+            f"https://cryptopanic.com/api/v1/posts/"
+            f"?auth_token={CRYPTOPANIC_API_KEY}"
+            f"&public=true"
+        )
+        if f:
+            url += f"&filter={f}"
+        
+        print(f"  Trying: filter={f or 'none'}")
+        data = fetch_json(url)
+        
+        if data and "results" in data:
+            print(f"  → Got {len(data['results'])} results")
+            for item in data["results"][:MAX_ITEMS_PER_CATEGORY]:
+                post = parse_cryptopanic_item(item)
+                if post and post["source_url"] not in existing_urls:
+                    posts.append(post)
+                    existing_urls.add(post["source_url"])
+        else:
+            print(f"  → No results for filter={f or 'none'}")
 
     return posts[:MAX_TOTAL_ITEMS]
 
