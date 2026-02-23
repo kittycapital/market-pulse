@@ -1,6 +1,368 @@
 {
-  "last_updated": "2026-02-23T14:12:56.125698+00:00",
-  "last_updated_kst": "2026-02-23 23:12 KST",
-  "total_items": 0,
-  "items": []
+  "last_updated": "2026-02-23T14:16:43.350755+00:00",
+  "last_updated_kst": "2026-02-23 23:16 KST",
+  "total_items": 20,
+  "items": [
+    {
+      "title": "EUR/GBP Stalemate: Critical Eurozone CPI and German GDP Data Loom for Currency Breakout",
+      "body_preview": "BitcoinWorld EUR/GBP Stalemate: Critical Eurozone CPI and German GDP Data Loom for Currency Breakout LONDON, February 2025 – The EUR/GBP currency pair continues trading in a narrow range, trapped betw",
+      "source_url": "https://bitcoinworld.co.in/eur-gbp-sideways-eurozone-cpi-german-gdp/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:15:11+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_title": "EUR/GBP Stalemate: Critical Eurozone CPI and German GDP Data Loom for Currency Breakout",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Artificial Intelligence Drives Fresh Debate Over Bitcoin and Stocks",
+      "body_preview": "Artificial intelligence amplifies both risks and opportunities in stock and crypto markets alike. Bitcoin and equities each offer distinct advantages and vulnerabilities for long-term investors. Conti",
+      "source_url": "https://en.coin-turk.com/artificial-intelligence-drives-fresh-debate-over-bitcoin-and-stocks/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:10:30+00:00",
+      "category": "stocks",
+      "importance": 3,
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/79/58375373.jpeg",
+      "korean_title": "Artificial Intelligence Drives Fresh Debate Over Bitcoin and Stocks",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Bank of Japan Rate Hike Looms as Japan’s Bold Fiscal Stance Forces Crucial Monetary Shift",
+      "body_preview": "BitcoinWorld Bank of Japan Rate Hike Looms as Japan’s Bold Fiscal Stance Forces Crucial Monetary Shift TOKYO, March 2025 – Japan’s evolving fiscal landscape now signals an impending Bank of Japan rate",
+      "source_url": "https://bitcoinworld.co.in/boj-rate-hike-japan-fiscal-stance/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:10:11+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "ASIA",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_title": "Bank of Japan Rate Hike Looms as Japan’s Bold Fiscal Stance Forces Crucial Monetary Shift",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Shiba Inu 2 Hour Chart Completes Death Cross as Price Tests Key Support",
+      "body_preview": "Shiba Inu created a death cross on its short-term chart as the price fell to $0.00000590.",
+      "source_url": "https://u.today/shiba-inu-2-hour-chart-completes-death-cross-as-price-tests-key-support",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:10:00+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "SHIB"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58375354.jpeg",
+      "korean_title": "Shiba Inu 2 Hour Chart Completes Death Cross as Price Tests Key Support",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Standard Chartered sticks to $2T stablecoin call but trims T-bill impact",
+      "body_preview": "Standard Chartered slashed its forecast for T-bill demand from stablecoins to $0.8-$1 trillion by 2028, but maintained its $2 trillion stablecoin market call.",
+      "source_url": "https://cointelegraph.com/news/standard-chartered-2t-stablecoin-forecast-2028-t-bill-demand-trim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:08:14+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_title": "Standard Chartered sticks to $2T stablecoin call but trims T-bill impact",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Longtime Investor Says XRP Holders Never Benefit, ‘Ripple Dumped Billions on Retail’ to Buy Companies",
+      "body_preview": "Longtime crypto investor Crypto Bitlord has accused Ripple of enriching itself at the expense of XRP holders. In a post on X, Bitlord claimed Ripple “dumped billions” of dollars’ worth of XRP on retai",
+      "source_url": "https://thecryptobasic.com/2026/02/23/longtime-investor-says-xrp-holders-never-benefit-ripple-dumped-billions-on-retail-to-buy-companies/",
+      "source_name": "The Crypto Basic",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:06:51+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/65/58375245.jpeg",
+      "korean_title": "Longtime Investor Says XRP Holders Never Benefit, ‘Ripple Dumped Billions on Retail’ to Buy Companies",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Missouri Advances Bitcoin Reserve Bill to House Committee in Policy Push",
+      "body_preview": "Missouri lawmakers advanced House Bill 2080 to the House Commerce Committee on February 19, taking a significant step toward establishing a state-run Bitcoin Strategic Reserve Fund. Sponsored by Repre",
+      "source_url": "https://cryptonews.com/news/missouri-advances-bitcoin-reserve-bill-house-committee/",
+      "source_name": "cryptonews",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:06:31+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "BTC",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/52/58375251.jpeg",
+      "korean_title": "Missouri Advances Bitcoin Reserve Bill to House Committee in Policy Push",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Crypto Proponent to XRP Holders: Prepare for Anything. Here’s Why",
+      "body_preview": "When national television begins entertaining the idea of using cryptocurrency to tackle sovereign debt , the conversation around digital assets enters uncharted territory. What once lived on crypto fo",
+      "source_url": "https://timestabloid.com/crypto-proponent-to-xrp-holders-prepare-for-anything-heres-why/",
+      "source_name": "TimesTabloid",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:05:32+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
+      "korean_title": "Crypto Proponent to XRP Holders: Prepare for Anything. Here’s Why",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "US Tariff Reset Reshapes Dollar Outlook: Navigating Economic Crossroads in 2025",
+      "body_preview": "BitcoinWorld US Tariff Reset Reshapes Dollar Outlook: Navigating Economic Crossroads in 2025 WASHINGTON, D.C. – March 15, 2025: The United States’ comprehensive tariff reset represents a pivotal momen",
+      "source_url": "https://bitcoinworld.co.in/us-tariff-reset-dollar-outlook-2025/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:05:11+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "ASIA",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_title": "US Tariff Reset Reshapes Dollar Outlook: Navigating Economic Crossroads in 2025",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Dogecoin at a 1,100-day discount: Will accumulation lead to a breakout?",
+      "body_preview": "Dogecoin could be entering a fresh accumulation phase, according to a combination of on-chain and derivatives data.",
+      "source_url": "https://ambcrypto.com/dogecoin-at-a-1100-day-discount-will-accumulation-lead-to-a-breakout/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:00:40+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "DOGE"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_title": "Dogecoin at a 1,100-day discount: Will accumulation lead to a breakout?",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Beneath the Surface: Why Bitcoin’s Recovery Still Lacks Structural Confirmation",
+      "body_preview": "Bitcoin is trading at $66,304 at 8:45 a.m. EST on Feb. 23, 2026, carving out a consolidation range after a violent macro unwind. The market is stabilizing, but the broader structure remains technicall",
+      "source_url": "https://news.bitcoin.com/beneath-the-surface-why-bitcoins-recovery-still-lacks-structural-confirmation/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:00:34+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/14/58375085.jpeg",
+      "korean_title": "Beneath the Surface: Why Bitcoin’s Recovery Still Lacks Structural Confirmation",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Bitcoin Buying Spree Nears Century Mark, Saylor Hints",
+      "body_preview": "Michael Saylor’s quiet hint this weekend put a spotlight on a methodical habit that has quietly shaped corporate crypto moves for years. Related Reading: XRP Flashes Rare On-Chain Signal That Once Pre",
+      "source_url": "https://www.newsbtc.com/bitcoin-news/bitcoin-buying-spree-nears-century-mark-saylor-hints/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:00:16+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/58375023.jpeg",
+      "korean_title": "Bitcoin Buying Spree Nears Century Mark, Saylor Hints",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Bitmine ETH Purchase: The Stunning $95M Bet That Reshapes Crypto Reserves",
+      "body_preview": "BitcoinWorld Bitmine ETH Purchase: The Stunning $95M Bet That Reshapes Crypto Reserves In a move that underscores deepening institutional conviction, cryptocurrency investment firm Bitmine executed a ",
+      "source_url": "https://bitcoinworld.co.in/bitmine-95m-eth-purchase-analysis/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:00:12+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "ETH",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_title": "Bitmine ETH Purchase: The Stunning $95M Bet That Reshapes Crypto Reserves",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "ADA Technical Analysis February 23, 2026: Market Structure",
+      "body_preview": "ADA's market structure shows an LH/LL downtrend; $0.2898 BOS is critical for a bullish reversal. BTC's downtrend increases altcoin risk, and $0.2534 support should be monitored.",
+      "source_url": "https://en.coinotag.com/analysis/ada-technical-analysis-february-23-2026-market-structure",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:57:27+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "ADA"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58375136.jpeg",
+      "korean_title": "ADA Technical Analysis February 23, 2026: Market Structure",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "BitMine Immersion added $98 million of ether last week as losses balloon to more than $8 billion",
+      "body_preview": "Tom Lee's Ethereum-focused firm continues buying into the crypto market weakness, now 4.42 million ETH tokens, or about 3.66 percent of the total supply.",
+      "source_url": "https://www.coindesk.com/business/2026/02/23/bitmine-immersion-added-usd98-million-of-ether-last-week-as-losses-balloon-to-more-than-usd8-billion",
+      "source_name": "CoinDesk",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:55:59+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/5/58374900.jpeg",
+      "korean_title": "BitMine Immersion added $98 million of ether last week as losses balloon to more than $8 billion",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Swiss Franc’s Unwavering Strength: Navigating the SNB’s Critical 2025 Dilemma",
+      "body_preview": "BitcoinWorld Swiss Franc’s Unwavering Strength: Navigating the SNB’s Critical 2025 Dilemma ZURICH, March 2025 – The Swiss Franc maintains its formidable position as the world’s premier safe haven curr",
+      "source_url": "https://bitcoinworld.co.in/swiss-franc-snb-dilemma-2025/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:55:11+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_title": "Swiss Franc’s Unwavering Strength: Navigating the SNB’s Critical 2025 Dilemma",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.423 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion",
+      "body_preview": "Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,958 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.66% of the ETH token supply, over 73% of the way to ",
+      "source_url": "https://bitzo.com/2026/02/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4423-million-tokens-and-total-crypto-and-total-cash-holdings-of-96-billion",
+      "source_name": "Bitzo",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:51:17+00:00",
+      "category": "macro",
+      "importance": 3,
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/104/58374720.jpeg",
+      "korean_title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.423 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "BOK Proposes Limiting Won Stablecoins to Banks",
+      "body_preview": "South Korea's Central Bank (BOK) proposed limiting won stablecoin issuances to banks. Emphasizing monetary policy risks and financial stability concerns, it advocated for a bank-centric model. Disc...",
+      "source_url": "https://en.coinotag.com/bok-proposes-limiting-won-stablecoins-to-banks",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:51:15+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "ASIA",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58374753.jpeg",
+      "korean_title": "BOK Proposes Limiting Won Stablecoins to Banks",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "Fictional 2028 AI memo imagines mass layoffs and stablecoin adoption",
+      "body_preview": "Citrini Research’s 2028 scenario imagines AI turbocharging corporate profits, while hollowing out consumer demand and quietly migrating global payments to stablecoins on cheap chains.",
+      "source_url": "https://cointelegraph.com/news/fictional-2028-ai-memo-mass-layoffs-stablecoin-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:50:39+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_title": "Fictional 2028 AI memo imagines mass layoffs and stablecoin adoption",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    },
+    {
+      "title": "MicroStrategy Expands Its Massive Bitcoin Holdings with $39.8 Million Purchase",
+      "body_preview": "MicroStrategy has increased its Bitcoin holdings, acquiring 592 new Bitcoins for $39.8 million. The company’s total Bitcoin portfolio now exceeds 717,000 BTC, reflecting a $54.56 billion investment. C",
+      "source_url": "https://en.coin-turk.com/microstrategy-expands-its-massive-bitcoin-holdings-with-39-8-million-purchase/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:50:29+00:00",
+      "category": "crypto",
+      "importance": 3,
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/79/58374707.jpeg",
+      "korean_title": "MicroStrategy Expands Its Massive Bitcoin Holdings with $39.8 Million Purchase",
+      "korean_analysis": "",
+      "fetched_at": "2026-02-23T14:16:43.350022+00:00"
+    }
+  ]
 }
