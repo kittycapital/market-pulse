@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Market Pulse — HerdVibe</title>
+  <meta name="description" content="실시간 글로벌 마켓 뉴스를 한글로. 크립토, 미국 주식, 매크로 뉴스를 매시간 자동 업데이트." />
+  
+  <!-- OG Tags -->
+  <meta property="og:title" content="Market Pulse — HerdVibe" />
+  <meta property="og:description" content="실시간 글로벌 마켓 뉴스를 한글로 해석" />
+  <meta property="og:type" content="website" />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&family=JetBrains+Mono:wght@400;600&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      --bg-primary: #0a0e17;
+      --bg-card: #111827;
+      --bg-card-hover: #1a2235;
+      --bg-surface: #0d1320;
+      --border: #1e293b;
+      --border-glow: #334155;
+      --text-primary: #e2e8f0;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --accent-crypto: #f59e0b;
+      --accent-crypto-bg: rgba(245, 158, 11, 0.08);
+      --accent-stocks: #3b82f6;
+      --accent-stocks-bg: rgba(59, 130, 246, 0.08);
+      --accent-macro: #ef4444;
+      --accent-macro-bg: rgba(239, 68, 68, 0.08);
+      --accent-green: #10b981;
+      --accent-green-bg: rgba(16, 185, 129, 0.1);
+      --radius: 12px;
+      --radius-sm: 8px;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Noto Sans KR', -apple-system, sans-serif;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ─── 배경 효과 ─── */
+    body::before {
+      content: '';
+      position: fixed;
+      top: -40%; left: -20%;
+      width: 80%; height: 80%;
+      background: radial-gradient(ellipse, rgba(59,130,246,0.04) 0%, transparent 70%);
+      pointer-events: none;
+      z-index: 0;
+    }
+    body::after {
+      content: '';
+      position: fixed;
+      bottom: -30%; right: -10%;
+      width: 60%; height: 60%;
+      background: radial-gradient(ellipse, rgba(245,158,11,0.03) 0%, transparent 70%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 0 16px;
+    }
+
+    /* ─── 헤더 ─── */
+    .header {
+      padding: 40px 0 32px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .header-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .logo-icon {
+      width: 40px; height: 40px;
+      background: linear-gradient(135deg, var(--accent-crypto), #ea580c);
+      border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 20px;
+      box-shadow: 0 4px 20px rgba(245, 158, 11, 0.2);
+    }
+
+    .logo h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+    }
+
+    .logo h1 span {
+      color: var(--accent-crypto);
+    }
+
+    .live-badge {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      color: var(--accent-green);
+      background: var(--accent-green-bg);
+      padding: 6px 12px;
+      border-radius: 20px;
+      border: 1px solid rgba(16, 185, 129, 0.2);
+    }
+
+    .live-dot {
+      width: 6px; height: 6px;
+      background: var(--accent-green);
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(0.8); }
+    }
+
+    .subtitle {
+      color: var(--text-secondary);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .update-time {
+      font-family: 'JetBrains Mono', monospace;
+      color: var(--text-muted);
+      font-size: 12px;
+      margin-top: 8px;
+    }
+
+    /* ─── 필터 탭 ─── */
+    .filter-bar {
+      display: flex;
+      gap: 8px;
+      padding: 20px 0;
+      position: sticky;
+      top: 0;
+      background: var(--bg-primary);
+      z-index: 10;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .filter-btn {
+      font-family: 'Noto Sans KR', sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 16px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--border-glow);
+      color: var(--text-primary);
+    }
+
+    .filter-btn.active {
+      color: #fff;
+      border-color: transparent;
+    }
+
+    .filter-btn[data-filter="all"].active {
+      background: linear-gradient(135deg, #334155, #475569);
+    }
+    .filter-btn[data-filter="crypto"].active {
+      background: linear-gradient(135deg, #92400e, #b45309);
+      box-shadow: 0 2px 12px rgba(245, 158, 11, 0.2);
+    }
+    .filter-btn[data-filter="stocks"].active {
+      background: linear-gradient(135deg, #1e40af, #2563eb);
+      box-shadow: 0 2px 12px rgba(59, 130, 246, 0.2);
+    }
+    .filter-btn[data-filter="macro"].active {
+      background: linear-gradient(135deg, #991b1b, #dc2626);
+      box-shadow: 0 2px 12px rgba(239, 68, 68, 0.2);
+    }
+
+    .filter-count {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      margin-left: 4px;
+      opacity: 0.7;
+    }
+
+    /* ─── 시간 그룹 ─── */
+    .time-group {
+      margin-top: 24px;
+    }
+
+    .time-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      color: var(--text-muted);
+      padding: 8px 0;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .time-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ─── 뉴스 카드 ─── */
+    .news-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px;
+      margin-top: 12px;
+      transition: all 0.2s ease;
+      cursor: default;
+    }
+
+    .news-card:hover {
+      background: var(--bg-card-hover);
+      border-color: var(--border-glow);
+      transform: translateY(-1px);
+    }
+
+    .news-card.crypto { border-left: 3px solid var(--accent-crypto); }
+    .news-card.stocks { border-left: 3px solid var(--accent-stocks); }
+    .news-card.macro { border-left: 3px solid var(--accent-macro); }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .category-tag {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 8px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .category-tag.crypto {
+      color: var(--accent-crypto);
+      background: var(--accent-crypto-bg);
+    }
+    .category-tag.stocks {
+      color: var(--accent-stocks);
+      background: var(--accent-stocks-bg);
+    }
+    .category-tag.macro {
+      color: var(--accent-macro);
+      background: var(--accent-macro-bg);
+    }
+
+    .author-info {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+
+    .author-avatar {
+      width: 20px; height: 20px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    .author-handle {
+      color: var(--text-muted);
+      font-size: 12px;
+    }
+
+    .importance-stars {
+      display: flex;
+      gap: 2px;
+    }
+
+    .star {
+      font-size: 10px;
+      color: var(--text-muted);
+    }
+    .star.filled {
+      color: var(--accent-crypto);
+    }
+
+    .card-original {
+      font-size: 13px;
+      color: var(--text-muted);
+      line-height: 1.5;
+      margin-bottom: 12px;
+      padding: 10px 12px;
+      background: var(--bg-surface);
+      border-radius: var(--radius-sm);
+      border-left: 2px solid var(--border);
+      word-break: break-word;
+    }
+
+    .card-translation {
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--text-primary);
+      line-height: 1.7;
+      margin-bottom: 8px;
+    }
+
+    .card-analysis {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.6;
+      padding-left: 12px;
+      border-left: 2px solid var(--border-glow);
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 14px;
+      padding-top: 12px;
+      border-top: 1px solid var(--border);
+    }
+
+    .engagement {
+      display: flex;
+      gap: 16px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+
+    .engagement span {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .currencies {
+      display: flex;
+      gap: 4px;
+    }
+
+    .currency-pill {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      font-weight: 600;
+      padding: 2px 6px;
+      border-radius: 3px;
+      background: var(--bg-surface);
+      color: var(--text-muted);
+      border: 1px solid var(--border);
+    }
+
+    .source-link {
+      font-size: 12px;
+      color: var(--accent-stocks);
+      text-decoration: none;
+      opacity: 0.7;
+      transition: opacity 0.2s;
+    }
+    .source-link:hover { opacity: 1; }
+
+    /* ─── 미디어 ─── */
+    .card-media {
+      margin: 12px 0;
+      border-radius: var(--radius-sm);
+      overflow: hidden;
+      max-height: 240px;
+    }
+
+    .card-media img {
+      width: 100%;
+      height: auto;
+      max-height: 240px;
+      object-fit: cover;
+      display: block;
+    }
+
+    /* ─── 로딩 & 빈 상태 ─── */
+    .loading {
+      text-align: center;
+      padding: 80px 0;
+      color: var(--text-muted);
+    }
+
+    .loading-spinner {
+      width: 32px; height: 32px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent-crypto);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 16px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 0;
+      color: var(--text-muted);
+      font-size: 14px;
+    }
+
+    /* ─── 푸터 ─── */
+    .footer {
+      text-align: center;
+      padding: 40px 0;
+      border-top: 1px solid var(--border);
+      margin-top: 40px;
+    }
+
+    .footer p {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .footer a {
+      color: var(--accent-stocks);
+      text-decoration: none;
+    }
+
+    /* ─── 반응형 ─── */
+    @media (max-width: 640px) {
+      .header { padding: 24px 0 20px; }
+      .logo h1 { font-size: 20px; }
+      .filter-bar { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      .filter-bar::-webkit-scrollbar { display: none; }
+      .news-card { padding: 16px; }
+      .card-translation { font-size: 14px; }
+      .card-original { font-size: 12px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- 헤더 -->
+    <header class="header">
+      <div class="header-top">
+        <div class="logo">
+          <div class="logo-icon">📡</div>
+          <h1>Market <span>Pulse</span></h1>
+        </div>
+        <div class="live-badge">
+          <span class="live-dot"></span>
+          LIVE
+        </div>
+      </div>
+      <p class="subtitle">글로벌 마켓 뉴스를 한글로 해석 · 매시간 자동 업데이트</p>
+      <p class="update-time" id="updateTime">불러오는 중...</p>
+    </header>
+
+    <!-- 필터 탭 -->
+    <div class="filter-bar">
+      <button class="filter-btn active" data-filter="all">
+        전체 <span class="filter-count" id="countAll"></span>
+      </button>
+      <button class="filter-btn" data-filter="crypto">
+        🟡 Crypto <span class="filter-count" id="countCrypto"></span>
+      </button>
+      <button class="filter-btn" data-filter="stocks">
+        🔵 Stocks <span class="filter-count" id="countStocks"></span>
+      </button>
+      <button class="filter-btn" data-filter="macro">
+        🔴 Macro <span class="filter-count" id="countMacro"></span>
+      </button>
+    </div>
+
+    <!-- 뉴스 피드 -->
+    <main id="newsFeed">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <p>마켓 뉴스를 불러오는 중...</p>
+      </div>
+    </main>
+
+    <!-- 푸터 -->
+    <footer class="footer">
+      <p>Powered by <a href="https://herdvibe.com" target="_blank">HerdVibe</a> · CryptoPanic · FxTwitter · Gemini AI</p>
+      <p style="margin-top: 6px;">데이터는 자동 수집되며 투자 조언이 아닙니다.</p>
+    </footer>
+  </div>
+
+  <script>
+    // ─── 설정 ───────────────────────────────────────
+    const DATA_URL = 'data/market-pulse.json';
+    const REFRESH_INTERVAL = 5 * 60 * 1000; // 5분마다 새 데이터 체크
+    
+    let allItems = [];
+    let currentFilter = 'all';
+
+    // ─── 데이터 로드 ─────────────────────────────────
+    async function loadData() {
+      try {
+        const resp = await fetch(DATA_URL + '?t=' + Date.now());
+        if (!resp.ok) throw new Error('Failed to fetch');
+        const data = await resp.json();
+        
+        allItems = data.items || [];
+        
+        document.getElementById('updateTime').textContent = 
+          `마지막 업데이트: ${data.last_updated_kst || '알 수 없음'}`;
+        
+        updateCounts();
+        renderFeed();
+      } catch (err) {
+        console.error('Data load error:', err);
+        document.getElementById('newsFeed').innerHTML = `
+          <div class="empty-state">
+            <p>📡 데이터를 불러올 수 없습니다.</p>
+            <p style="margin-top:8px; font-size:12px;">
+              data/market-pulse.json 파일이 필요합니다.<br>
+              GitHub Actions가 실행되면 자동으로 생성됩니다.
+            </p>
+          </div>
+        `;
+      }
+    }
+
+    // ─── 카운트 업데이트 ──────────────────────────────
+    function updateCounts() {
+      const counts = { all: allItems.length, crypto: 0, stocks: 0, macro: 0 };
+      allItems.forEach(item => {
+        const cat = item.category || 'crypto';
+        if (counts[cat] !== undefined) counts[cat]++;
+      });
+      
+      document.getElementById('countAll').textContent = counts.all;
+      document.getElementById('countCrypto').textContent = counts.crypto;
+      document.getElementById('countStocks').textContent = counts.stocks;
+      document.getElementById('countMacro').textContent = counts.macro;
+    }
+
+    // ─── 피드 렌더링 ──────────────────────────────────
+    function renderFeed() {
+      const feed = document.getElementById('newsFeed');
+      const filtered = currentFilter === 'all' 
+        ? allItems 
+        : allItems.filter(item => item.category === currentFilter);
+      
+      if (filtered.length === 0) {
+        feed.innerHTML = `
+          <div class="empty-state">
+            <p>해당 카테고리의 뉴스가 없습니다.</p>
+          </div>
+        `;
+        return;
+      }
+
+      // 시간대별 그룹핑
+      const groups = groupByTime(filtered);
+      let html = '';
+      
+      for (const [label, items] of groups) {
+        html += `
+          <div class="time-group">
+            <div class="time-label">${label}</div>
+            ${items.map(item => renderCard(item)).join('')}
+          </div>
+        `;
+      }
+      
+      feed.innerHTML = html;
+    }
+
+    // ─── 시간 그룹핑 ──────────────────────────────────
+    function groupByTime(items) {
+      const groups = new Map();
+      const now = new Date();
+      
+      items.forEach(item => {
+        const date = new Date(item.fetched_at || item.published_at || now);
+        const diff = (now - date) / (1000 * 60 * 60);
+        
+        let label;
+        if (diff < 1) label = '🔴 방금 전';
+        else if (diff < 2) label = `${Math.floor(diff)}시간 전`;
+        else if (diff < 24) label = `${Math.floor(diff)}시간 전`;
+        else {
+          const d = date.toLocaleDateString('ko-KR', { 
+            month: 'short', day: 'numeric', weekday: 'short' 
+          });
+          label = d;
+        }
+        
+        if (!groups.has(label)) groups.set(label, []);
+        groups.get(label).push(item);
+      });
+      
+      return groups;
+    }
+
+    // ─── 카드 렌더링 ──────────────────────────────────
+    function renderCard(item) {
+      const cat = item.category || 'crypto';
+      const catLabel = { crypto: 'CRYPTO', stocks: 'STOCKS', macro: 'MACRO' }[cat] || 'NEWS';
+      
+      // 중요도 별
+      const stars = Array.from({ length: 5 }, (_, i) => 
+        `<span class="star ${i < (item.importance || 1) ? 'filled' : ''}">★</span>`
+      ).join('');
+      
+      // 작성자
+      const authorHtml = item.author_handle 
+        ? `<div class="author-info">
+            ${item.author_avatar ? `<img class="author-avatar" src="${escapeHtml(item.author_avatar)}" alt="" loading="lazy" />` : ''}
+            <span>@${escapeHtml(item.author_handle)}</span>
+           </div>`
+        : '';
+      
+      // 원문
+      const originalText = item.tweet_text || item.title || '';
+      
+      // 미디어
+      const mediaHtml = item.media_url 
+        ? `<div class="card-media"><img src="${escapeHtml(item.media_url)}" alt="" loading="lazy" /></div>` 
+        : '';
+      
+      // 참여도
+      const engagementHtml = (item.likes || item.retweets) 
+        ? `<div class="engagement">
+            ${item.likes ? `<span>♥ ${formatNumber(item.likes)}</span>` : ''}
+            ${item.retweets ? `<span>🔁 ${formatNumber(item.retweets)}</span>` : ''}
+           </div>` 
+        : '<div></div>';
+      
+      // 코인 태그
+      const currenciesHtml = (item.currencies || []).slice(0, 4).map(c => 
+        `<span class="currency-pill">${escapeHtml(c)}</span>`
+      ).join('');
+
+      return `
+        <article class="news-card ${cat}">
+          <div class="card-header">
+            <div class="card-meta">
+              <span class="category-tag ${cat}">${catLabel}</span>
+              ${authorHtml}
+            </div>
+            <div class="importance-stars">${stars}</div>
+          </div>
+          
+          <div class="card-original">${escapeHtml(originalText)}</div>
+          ${mediaHtml}
+          
+          <div class="card-translation">${escapeHtml(item.korean_title || item.title || '')}</div>
+          ${item.korean_analysis 
+            ? `<div class="card-analysis">${escapeHtml(item.korean_analysis)}</div>` 
+            : ''}
+          
+          <div class="card-footer">
+            ${engagementHtml}
+            <div style="display:flex; align-items:center; gap:8px;">
+              <div class="currencies">${currenciesHtml}</div>
+              ${item.source_url 
+                ? `<a class="source-link" href="${escapeHtml(item.source_url)}" target="_blank" rel="noopener">원문 →</a>` 
+                : ''}
+            </div>
+          </div>
+        </article>
+      `;
+    }
+
+    // ─── 유틸 ──────────────────────────────────────
+    function escapeHtml(str) {
+      if (!str) return '';
+      const map = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
+      return String(str).replace(/[&<>"']/g, c => map[c]);
+    }
+    
+    function formatNumber(n) {
+      if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
+      if (n >= 1000) return (n / 1000).toFixed(1) + 'K';
+      return String(n);
+    }
+
+    // ─── 필터 이벤트 ──────────────────────────────────
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentFilter = btn.dataset.filter;
+        renderFeed();
+      });
+    });
+
+    // ─── 초기화 ─────────────────────────────────────
+    loadData();
+    setInterval(loadData, REFRESH_INTERVAL);
+  </script>
+</body>
+</html>
