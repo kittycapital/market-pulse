@@ -263,54 +263,61 @@ def translate_with_gemini(items):
         f"?key={GEMINI_API_KEY}"
     )
 
-    prompt = build_translation_prompt(items)
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.3, "maxOutputTokens": 8192},
-    }
+    # 배치로 나누기 (한번에 15개씩 → 응답 잘림 방지)
+    batch_size = 15
+    for i in range(0, len(items), batch_size):
+        batch = items[i : i + batch_size]
+        prompt = build_translation_prompt(batch)
+        payload = {
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {"temperature": 0.3, "maxOutputTokens": 16384},
+        }
 
-    max_retries = 3
-    for attempt in range(max_retries):
-        req = urllib.request.Request(
-            url,
-            data=json.dumps(payload).encode("utf-8"),
-            headers={"Content-Type": "application/json"},
-            method="POST",
-        )
-        try:
-            with urllib.request.urlopen(req, timeout=60) as resp:
-                result = json.loads(resp.read().decode("utf-8"))
-                text = (
-                    result.get("candidates", [{}])[0]
-                    .get("content", {})
-                    .get("parts", [{}])[0]
-                    .get("text", "")
-                )
-                parse_gemini_response(text, items)
-                print(f"  → Translation OK")
-                return items
-        except urllib.error.HTTPError as e:
-            body = ""
+        max_retries = 3
+        for attempt in range(max_retries):
+            req = urllib.request.Request(
+                url,
+                data=json.dumps(payload).encode("utf-8"),
+                headers={"Content-Type": "application/json"},
+                method="POST",
+            )
             try:
-                body = e.read().decode("utf-8")[:200]
-            except Exception:
-                pass
-            print(f"[ERROR] Gemini API: HTTP {e.code} (attempt {attempt+1}/{max_retries})")
-            if body:
-                print(f"[ERROR] {body[:150]}")
-            if e.code == 429 and attempt < max_retries - 1:
-                wait = 60 * (attempt + 1)
-                print(f"  → Waiting {wait}s before retry...")
-                time.sleep(wait)
-            else:
+                with urllib.request.urlopen(req, timeout=60) as resp:
+                    result = json.loads(resp.read().decode("utf-8"))
+                    text = (
+                        result.get("candidates", [{}])[0]
+                        .get("content", {})
+                        .get("parts", [{}])[0]
+                        .get("text", "")
+                    )
+                    parse_gemini_response(text, batch)
+                    print(f"  → Batch {i//batch_size + 1} OK")
+                    break
+            except urllib.error.HTTPError as e:
+                body = ""
+                try:
+                    body = e.read().decode("utf-8")[:200]
+                except Exception:
+                    pass
+                print(f"[ERROR] Gemini API: HTTP {e.code} (attempt {attempt+1}/{max_retries})")
+                if body:
+                    print(f"[ERROR] {body[:150]}")
+                if e.code == 429 and attempt < max_retries - 1:
+                    wait = 60 * (attempt + 1)
+                    print(f"  → Waiting {wait}s before retry...")
+                    time.sleep(wait)
+                else:
+                    for item in batch:
+                        item.setdefault("korean_summary", "")
+                    break
+            except Exception as e:
+                print(f"[ERROR] Gemini API: {e}")
+                for item in batch:
+                    item.setdefault("korean_summary", "")
                 break
-        except Exception as e:
-            print(f"[ERROR] Gemini API: {e}")
-            break
 
-    print("  → Skipping translation")
-    for item in items:
-        item.setdefault("korean_summary", "")
+        time.sleep(3)  # 배치 간 대기
+
     return items
 
 
@@ -344,7 +351,23 @@ def parse_gemini_response(text, batch):
         if text.startswith("```"):
             text = re.sub(r"^```(?:json)?\s*", "", text)
             text = re.sub(r"\s*```$", "", text)
-        translations = json.loads(text)
+
+        # 잘린 JSON 복구 시도
+        try:
+            translations = json.loads(text)
+        except json.JSONDecodeError:
+            # 마지막 완전한 객체까지만 파싱
+            last_brace = text.rfind("}")
+            if last_brace > 0:
+                truncated = text[:last_brace + 1]
+                # 배열 닫기
+                if not truncated.rstrip().endswith("]"):
+                    truncated = truncated.rstrip().rstrip(",") + "]"
+                translations = json.loads(truncated)
+                print(f"  [WARN] Recovered {len(translations)} items from truncated response")
+            else:
+                raise
+
         for t in translations:
             idx = t.get("idx", -1)
             if 0 <= idx < len(batch):
