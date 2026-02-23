@@ -1,8 +1,104 @@
 {
-  "last_updated": "2026-02-23T14:41:47.042033+00:00",
-  "last_updated_kst": "2026-02-23 23:41 KST",
-  "total_items": 37,
+  "last_updated": "2026-02-23T14:46:43.937332+00:00",
+  "last_updated_kst": "2026-02-23 23:46 KST",
+  "total_items": 58,
   "items": [
+    {
+      "title": "FTSE 100 Breakout? Why U.K. Stocks May Finally Catch Up With Wall Street",
+      "body_preview": "For most of the last quarter-century, the FTSE 100 has been a dead duck, effectively going sideways for a generation. But this is now changing.",
+      "source_url": "https://www.forbes.com/sites/digital-assets/2026/02/23/ftse-100-breakout-why-uk-stocks-may-finally-catch-up-with-wall-street/",
+      "source_name": "Forbes Digital Assets",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:43:22+00:00",
+      "category": "stocks",
+      "currencies": [
+        "OTHER"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/94/58376535.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Ripple Prime Exec Breaks Down Significance of Ripple USD Stablecoin Listing on Binance",
+      "body_preview": "Is RLUSD more than just another stablecoin? Mike Higgins of Ripple Prime dives into the strategic significance of the Binance integration of Ripple USD stablecoin.",
+      "source_url": "https://u.today/ripple-prime-exec-breaks-down-significance-of-ripple-usd-stablecoin-listing-on-binance",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:43:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "XRP",
+        "BNB"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58376539.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Anthropic Military AI Showdown: Defense Secretary Issues Critical Ultimatum Over Claude’s Combat Role",
+      "body_preview": "BitcoinWorld Anthropic Military AI Showdown: Defense Secretary Issues Critical Ultimatum Over Claude’s Combat Role WASHINGTON, D.C. — February 23, 2026 — Defense Secretary Pete Hegseth has summoned Anthropic CEO Dario Amodei to the Pentagon for a critical Tuesday morning meeting about the military u",
+      "source_url": "https://bitcoinworld.co.in/anthropic-military-ai-pentagon-ultimatum/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:40:12+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ASIA"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "XMR Technical Analysis February 23, 2026: Will It Rise or Fall?",
+      "body_preview": "XMR consolidating in a downtrend at $315.95; RSI shows oversold bounce potential while MACD is bearish. Watch for $328 breakout for upside, $306 for downside – be prepared for both scenarios.",
+      "source_url": "https://en.coinotag.com/analysis/xmr-technical-analysis-february-23-2026-will-it-rise-or-fall",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:40:03+00:00",
+      "category": "crypto",
+      "currencies": [
+        "XMR"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58376438.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "XRP and Solana Hold Market as Crypto Funds Shed $288 Million",
+      "body_preview": "Crypto funds just recorded outflows for the fifth time in a row as XRP and Solana bucked the trend.",
+      "source_url": "https://u.today/xrp-and-solana-hold-market-as-crypto-funds-shed-288-million",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:39:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "SOL",
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58376420.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Revolut confirms ex-employee threatened to leak KYC data for crypto ransom",
+      "body_preview": "A crypto trader said a former Revolut employee tried to extort him and contacted his relatives. Revolut confirmed an investigation and said no systems were breached.",
+      "source_url": "https://cointelegraph.com/news/ex-revolut-employee-crypto-trader-extortion-doxxing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:35:31+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
     {
       "title": "Bitcoin Prints the Worst Level in 6 Months in Network Activity: How This Affects the Market",
       "body_preview": "Bitcoin hits the ground as activity momentum rapidly decreases and shows a lack of conviction among investors.",
@@ -12,32 +108,28 @@
       "tweet_id": null,
       "published_at": "2026-02-23T14:32:00+00:00",
       "category": "crypto",
-      "importance": 3,
       "currencies": [
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58376143.jpeg",
-      "korean_title": "비트코인(Bitcoin), 활동 모멘텀 감소 및 투자자 확신 부족으로 하락세",
-      "korean_analysis": "온체인(on-chain) 활동 감소는 매수 압력 약화를 시사하며, 투자자들의 확신 부족은 추가 하락 가능성을 높이므로 단기적으로 보수적인 접근이 필요합니다.",
-      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
     },
     {
       "title": "Developer On XRP Rally: Once This Finally Breaks Again, $27 Is coming",
-      "body_preview": "XRP has remained in a period of prolonged price stability, leaving many investors anticipating its next significant move. Crypto analyst and developer Bird (@Bird_XRPL) noted in a recent post that XRP",
+      "body_preview": "XRP has remained in a period of prolonged price stability, leaving many investors anticipating its next significant move. Crypto analyst and developer Bird (@Bird_XRPL) noted in a recent post that XRP has not entered true price discovery in 2,992 days. The last instance occurred on December 13, 2017",
       "source_url": "https://timestabloid.com/developer-on-xrp-rally-once-this-finally-breaks-again-27-is-coming/",
       "source_name": "TimesTabloid",
       "twitter_url": null,
       "tweet_id": null,
       "published_at": "2026-02-23T14:31:36+00:00",
       "category": "crypto",
-      "importance": 3,
       "currencies": [
         "XRP"
       ],
       "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_title": "XRP, 장기간 가격 안정세 유지하며 다음 주요 움직임에 대한 기대감 고조",
-      "korean_analysis": "XRP의 장기 횡보는 에너지를 축적하는 기간으로 해석될 수 있으며, 주요 지지/저항선 돌파 시 강한 추세 움직임이 나타날 수 있으므로 변동성 확대에 대비해야 합니다.",
-      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
     },
     {
       "title": "Curve founder says DeFi must ditch token emissions for real revenue",
@@ -47,70 +139,62 @@
       "twitter_url": null,
       "tweet_id": null,
       "published_at": "2026-02-23T14:30:30+00:00",
-      "category": "stocks",
-      "importance": 3,
+      "category": "crypto",
       "currencies": [],
       "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_title": "커브(Curve) 창립자, 토큰 인센티브 효과 감소로 \"실질 수익 없는 프로토콜은 생존 불가\" 경고",
-      "korean_analysis": "디파이(DeFi) 프로토콜의 지속 가능성에 대한 근본적인 질문이며, 토큰 인센티브에만 의존하는 프로젝트는 장기적으로 투자 가치가 낮아질 수 있으므로 실질 수익 모델을 가진 프로젝트에 주목해야 합니다.",
-      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
     },
     {
       "title": "Missouri Lawmakers Push for State-Backed Bitcoin Reserve",
-      "body_preview": "Missouri has advanced a bill allowing its treasury to hold donated Bitcoin under strict conditions. The bill bars the use of taxpayer funds for Bitcoin purchases and mandates transparent oversight. Co",
+      "body_preview": "Missouri has advanced a bill allowing its treasury to hold donated Bitcoin under strict conditions. The bill bars the use of taxpayer funds for Bitcoin purchases and mandates transparent oversight. Continue Reading: Missouri Lawmakers Push for State-Backed Bitcoin Reserve The post Missouri Lawmakers",
       "source_url": "https://en.coin-turk.com/missouri-lawmakers-push-for-state-backed-bitcoin-reserve/",
       "source_name": "CoinTurk News",
       "twitter_url": null,
       "tweet_id": null,
       "published_at": "2026-02-23T14:30:29+00:00",
       "category": "macro",
-      "importance": 3,
       "currencies": [
         "BTC",
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/79/58376089.jpeg",
-      "korean_title": "미주리주, 엄격한 조건 하에 기부받은 비트코인(Bitcoin) 국고 보유 법안 추진",
-      "korean_analysis": "주 정부 차원의 비트코인 수용은 암호화폐의 제도권 편입을 가속화하는 긍정적 신호이나, 납세자 자금 사용 금지 및 투명성 강조는 보수적 접근을 의미하며 시장에 미치는 직접적인 영향은 제한적일 수 있습니다.",
-      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
     },
     {
       "title": "Vitalik Buterin Accelerates ETH Sales Amid Renewed Market Weakness",
-      "body_preview": "Vitalik Buterin has ramped up ETH sales again. On-chain data revealed that the Ethereum co-founder sold 1,869 ETH worth roughly $3.67 million over the past two days. During the same period, Ethereum’s",
+      "body_preview": "Vitalik Buterin has ramped up ETH sales again. On-chain data revealed that the Ethereum co-founder sold 1,869 ETH worth roughly $3.67 million over the past two days. During the same period, Ethereum’s native token declined from about $1,980 to $1,850, a drop of over 5%. ETH Sales The transaction pat",
       "source_url": "https://cryptopotato.com/vitalik-buterin-accelerates-eth-sales-amid-renewed-market-weakness/",
       "source_name": "Crypto Potato",
       "twitter_url": null,
       "tweet_id": null,
       "published_at": "2026-02-23T14:28:47+00:00",
       "category": "crypto",
-      "importance": 3,
       "currencies": [
         "ETH",
         "ARKM"
       ],
       "media_url": "https://resources.cryptocompare.com/news/27/58376138.jpeg",
-      "korean_title": "비탈릭 부테린(Vitalik Buterin), 이더리움(ETH) 매도 재개",
-      "korean_analysis": "이더리움(Ethereum) 공동 창립자의 대규모 ETH 매도는 단기적으로 매도 압력을 가중시킬 수 있으며, 시장 심리에 부정적인 영향을 미칠 수 있으므로 가격 변동성에 주의해야 합니다.",
-      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
     },
     {
       "title": "Bitcoin briefly slides below $65K as tariff uncertainty hits crypto prices",
-      "body_preview": "More on Bitcoin USD, Ethereum USD Bitcoin Is Not Going To Zero Ethereum Price Tests $2,000 Floor As Risk Sentiment Turns Bitcoin After The Cycle Peak: What Comes Next And How We're Positioning Bitcoin",
+      "body_preview": "More on Bitcoin USD, Ethereum USD Bitcoin Is Not Going To Zero Ethereum Price Tests $2,000 Floor As Risk Sentiment Turns Bitcoin After The Cycle Peak: What Comes Next And How We're Positioning Bitcoin ETFs see $3.8B in outflows over five-week streak - report Gemini slashes jobs, exits overseas marke",
       "source_url": "https://seekingalpha.com/news/4555130-bitcoin-briefly-slides-below-65k-as-tariff-uncertainty-hits-crypto-prices?utm_source=cryptocompare.com&utm_medium=referral&feed_item_type=news",
       "source_name": "Seeking Alpha",
       "twitter_url": null,
       "tweet_id": null,
       "published_at": "2026-02-23T14:28:42+00:00",
       "category": "macro",
-      "importance": 3,
       "currencies": [
         "BTC",
         "ETH"
       ],
       "media_url": "https://resources.cryptocompare.com/news/50/58376056.jpeg",
-      "korean_title": "비트코인(Bitcoin)과 이더리움(Ethereum), 위험 심리 변화 속 주요 지지선 테스트",
-      "korean_analysis": "시장의 위험 심리 변화는 암호화폐 전반에 영향을 미치며, 이더리움(ETH)이 2,000달러 지지선을 테스트하는 것은 중요한 변곡점이 될 수 있으므로 주요 지지/저항선 움직임을 주시해야 합니다.",
-      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
     },
     {
       "title": "Every Central Bank to Own Bitcoin by 2050: Bitwise Invest CIO",
@@ -121,33 +205,29 @@
       "tweet_id": null,
       "published_at": "2026-02-23T14:28:00+00:00",
       "category": "crypto",
-      "importance": 3,
       "currencies": [
         "BTC",
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58375997.jpeg",
-      "korean_title": "비트와이즈 인베스트(Bitwise Invest) CIO, 비트코인(Bitcoin) 비판에 반박",
-      "korean_analysis": "주요 기관 투자자의 비트코인(Bitcoin)에 대한 긍정적 입장은 시장 신뢰도를 높일 수 있지만, 비판에 대한 반박은 여전히 비트코인에 대한 회의론이 존재함을 보여주므로 양측의 논리를 균형 있게 볼 필요가 있습니다.",
-      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
     },
     {
       "title": "WLFI USD1 Depegging: Critical Investigation Unfolds After Stablecoin’s Brief Deviation",
-      "body_preview": "BitcoinWorld WLFI USD1 Depegging: Critical Investigation Unfolds After Stablecoin’s Brief Deviation World Liberty Financial (WLFI) confirmed a technical investigation on Thursday, February 13, 2025, f",
+      "body_preview": "BitcoinWorld WLFI USD1 Depegging: Critical Investigation Unfolds After Stablecoin’s Brief Deviation World Liberty Financial (WLFI) confirmed a technical investigation on Thursday, February 13, 2025, following a brief but notable depegging event involving its USD1 stablecoin, an incident that sent ri",
       "source_url": "https://bitcoinworld.co.in/wlfi-usd1-stablecoin-depegging-investigation/",
       "source_name": "Bitcoin World",
       "twitter_url": null,
       "tweet_id": null,
       "published_at": "2026-02-23T14:25:11+00:00",
       "category": "macro",
-      "importance": 3,
       "currencies": [
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_title": "스테이블코인(Stablecoin) WLFI USD1, 일시적 디페깅(Depegging) 후 기술 조사 착수",
-      "korean_analysis": "스테이블코인(Stablecoin)의 디페깅(Depegging)은 암호화폐 시장 전반의 신뢰도에 악영향을 미칠 수 있으며, 특히 WLFI와 같은 소규모 스테이블코인의 안정성 문제는 투자자들에게 리스크 관리의 중요성을 상기시킵니다.",
-      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
     },
     {
       "title": "JPMorgan Closes Trump Accounts: Shift to WLFI",
@@ -158,14 +238,222 @@
       "tweet_id": null,
       "published_at": "2026-02-23T14:24:44+00:00",
       "category": "crypto",
-      "importance": 3,
       "currencies": [
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/77/58375898.jpeg",
-      "korean_title": "JP모건(JPMorgan), 트럼프 계좌 폐쇄 후 에릭 트럼프 WLFI 이용, WLFI 암호화폐 은행 대안 가능성 부상",
-      "korean_analysis": "전통 금융기관의 '디뱅킹(debanking)'이 암호화폐 플랫폼으로의 전환을 유도할 수 있음을 보여주며, WLFI의 가격 하락세에도 불구하고 특정 수요층을 확보할 경우 잠재적 가치 상승 여지가 있으나 현재는 하방 리스크가 큽니다.",
-      "fetched_at": "2026-02-23T14:41:47.041554+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "body_preview": "President Trump is raising his threatened global tariff to 15%, and Eli Lilly triumphs over obesity rival Novo Nordisk once again.",
+      "source_url": "https://www.cnbc.com/2026/02/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T14:06:52+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108230191-17637574202025-11-21t203348z_1528530032_rc231ianvoco_rtrmadp_0_usa-stocks.jpeg?v=1763757480&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Fed’s Waller says next jobs report, not Supreme Court ruling, will be key for March interest rate decision",
+      "body_preview": "The February jobs report, and not the Supreme Court ruling overturning a large part of President Donald Trump’s tariffs on imported goods, will be key to whether the Federal Reserve needs to cut interest rates in March, Federal Reserve Governor Christopher Waller said on Monday.",
+      "source_url": "https://www.marketwatch.com/story/feds-waller-says-next-jobs-report-not-supreme-court-ruling-will-impact-feds-march-rate-cut-decision-4ca7ca11",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:33:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Congress must enact Trump’s tariffs now to steer the U.S. away from a massive revenue cliff",
+      "body_preview": "Tariffs need to become law or the federal budget will take a hit. Lawmakers have less than 150 days to decide.",
+      "source_url": "https://www.marketwatch.com/story/congress-must-enact-trumps-tariffs-now-to-steer-the-u-s-away-from-a-massive-revenue-cliff-c147c999",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:31:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Snowstorm hits airline stocks as total flight cancellations top 5,300",
+      "body_preview": "Airline stocks are taking a hit as a major Northeast snowstorm is leading to thousands of flight cancellations.",
+      "source_url": "https://www.marketwatch.com/story/snowstorm-hits-airline-stocks-as-total-flight-cancellations-top-5-300-764ef9b6",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:29:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Tariff jitters are pushing gold over $5,100 and powering silver higher",
+      "body_preview": "The week has started on a positive footing for precious metals as investors look wary at fresh tariff stress out of the U.S.",
+      "source_url": "https://www.marketwatch.com/story/tariff-jitters-are-pushing-gold-over-5-100-and-powering-silver-higher-34126fbb",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T13:22:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "The ‘Magnificent Seven’ is now the ‘Lag 7.’ How Big Tech’s slump is dragging down the S&P 500.",
+      "body_preview": "A breakdown of the “Magnificent Seven” and AI hyperscalers raises concern for the stock market and the economy",
+      "source_url": "https://www.marketwatch.com/story/the-magnificent-seven-is-now-the-lag-7-how-big-techs-slump-is-dragging-down-the-s-p-500-8d6c62e9",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T12:57:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "How Lowe’s stock has trounced Home Depot’s — and what may lie ahead",
+      "body_preview": "The hardware and home-furnishings rivals will both report quarterly results this week.",
+      "source_url": "https://www.marketwatch.com/story/how-lowes-stock-has-trounced-home-depots-and-what-may-lie-ahead-d066d8a4",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T12:28:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Gilead shows its belief in its partner’s cancer treatment with a $7.8 billion buyout",
+      "body_preview": "Arcellx’s stock is heading toward a record after the $7.8 billion deal to be acquired by Gilead.",
+      "source_url": "https://www.marketwatch.com/story/gilead-shows-its-belief-in-its-partners-cancer-treatment-with-a-7-8-billion-buyout-3f86f10c",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T12:13:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "There’s another AI-doom post doing the rounds. This time, the S&P 500 dives nearly 40%.",
+      "body_preview": "A booming AI economy may be very bad for the broader economy, according to Citrini Research",
+      "source_url": "https://www.marketwatch.com/story/theres-another-ai-doom-post-doing-the-rounds-this-time-the-s-p-500-dives-nearly-40-13162b42",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T11:45:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "‘I found out too late’: My stepmother cheated me out of $500K from my father’s estate. What can I do?",
+      "body_preview": "“Within a week or two after the deadline to contest the will expired, my stepmother sent me an email stating she would not share anything.”",
+      "source_url": "https://www.marketwatch.com/story/i-found-out-too-late-my-stepmother-cheated-me-out-of-500k-from-my-fathers-estate-what-can-i-do-97f387c6",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T11:30:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Here are the five companies that $9 trillion of funds agree on right now",
+      "body_preview": "Vertiv has been a top holding among hedge and mutual funds in the first quarter of this year so far, and a lucrative one.",
+      "source_url": "https://www.marketwatch.com/story/here-are-the-five-companies-that-9-trillion-of-funds-agree-on-right-now-4ac77fc3",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T10:53:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "‘I spend $7,500 a month’: I’m 47, earn $260K, and have $3 million. Can I retire at 50?",
+      "body_preview": "“I own a home worth $520,000 and do not have a mortgage on it.”",
+      "source_url": "https://www.marketwatch.com/story/i-spend-7-500-a-month-im-47-earn-260k-and-have-3-million-can-i-retire-at-50-05afc0b5",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T10:30:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Why JPMorgan says the international stock story still has legs",
+      "body_preview": "Decent growth, benign inflation, a dovish Fed and a weaker dollar all favor equities but international and emerging stocks look set to build on the outperformance of the last year",
+      "source_url": "https://www.marketwatch.com/story/why-jpmorgan-says-the-international-stock-story-still-has-legs-bfd6cd61",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T10:19:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Novo Nordisk pitted a new weight-loss drug against Eli Lilly — and lost",
+      "body_preview": "Novo Nordisk shares were under pressure on Monday as the struggling Danish pharmaceutical said a head-to-head study found a drug in development didn’t cut as much weight as an Eli Lilly product.",
+      "source_url": "https://www.marketwatch.com/story/novo-nordisk-pitted-a-new-weight-loss-drug-against-eli-lilly-and-lost-5652d079",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T10:07:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
+    },
+    {
+      "title": "Former Canada PM Justin Trudeau buys a $3.1 million home in Montreal—will he live there with Katy Perry?",
+      "body_preview": "Justin Trudeau has forked over $3.1 million for an expansive estate in Montreal’s exclusive Outremont neighborhood—and got the seal of approval from girlfriend Katy Perry.",
+      "source_url": "https://www.marketwatch.com/story/former-canada-pm-justin-trudeau-buys-a-3-1-million-home-in-montrealwill-he-live-there-with-katy-perry-5b8b53cf",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-23T10:02:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-23T14:46:43.936716+00:00"
     },
     {
       "title": "CoinDesk 20 performance update: AAVE gains 1.7% while index trades lower over weekend",
