@@ -183,6 +183,12 @@
       margin-bottom: 12px;
     }
 
+    .card-summary-kr.fallback {
+      color: var(--text-secondary);
+      font-size: 13px;
+      font-weight: 400;
+    }
+
     /* 출처 링크 */
     .card-source {
       font-size: 12px;
@@ -393,8 +399,9 @@
       var cat = item.category || 'crypto';
       var catLabel = { crypto: '암호화폐', stocks: '주식', macro: '매크로' }[cat] || '뉴스';
 
-      // 한글 요약 (있으면 표시, 없으면 제목 표시)
-      var summaryText = item.korean_summary || item.title || '';
+      // 한글 요약 (있으면 표시, 없으면 영문 요약 표시)
+      var summaryText = item.korean_summary || item.body_preview || '';
+      var summaryClass = item.korean_summary ? 'card-summary-kr' : 'card-summary-kr fallback';
 
       // 미디어
       var mediaHtml = item.media_url
@@ -432,7 +439,7 @@
         '</div></div>' +
         '<div class="card-title-en">' + esc(item.title || '') + '</div>' +
         mediaHtml +
-        '<div class="card-summary-kr">' + esc(summaryText) + '</div>' +
+        (summaryText ? '<div class="' + summaryClass + '">' + esc(summaryText) + '</div>' : '') +
         sourceHtml +
         (curHtml || engHtml ? '<div class="card-footer">' + engHtml +
           '<div class="currencies">' + curHtml + '</div></div>' : '') +
