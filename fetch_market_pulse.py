@@ -214,33 +214,32 @@ def translate_with_gemini(items):
 
     url = (
         f"https://generativelanguage.googleapis.com/v1beta/models/"
-        f"gemini-2.0-flash:generateContent"
+        f"gemini-2.5-flash:generateContent"
         f"?key={GEMINI_API_KEY}"
     )
 
-    # 배치로 번역 (레이트 리밋 방지를 위해 소량씩)
-    batch_size = 3
-    for i in range(0, len(items), batch_size):
-        batch = items[i : i + batch_size]
-        prompt = build_translation_prompt(batch)
-        
-        payload = {
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {
-                "temperature": 0.3,
-                "maxOutputTokens": 4096,
-            },
-        }
-        
-        req = urllib.request.Request(
-            url,
-            data=json.dumps(payload).encode("utf-8"),
-            headers={"Content-Type": "application/json"},
-            method="POST",
-        )
-        
+    # 전체를 한 번에 번역 (API 호출 1회로 최소화)
+    prompt = build_translation_prompt(items)
+    
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "temperature": 0.3,
+            "maxOutputTokens": 8192,
+        },
+    }
+    
+    req = urllib.request.Request(
+        url,
+        data=json.dumps(payload).encode("utf-8"),
+        headers={"Content-Type": "application/json"},
+        method="POST",
+    )
+    
+    max_retries = 3
+    for attempt in range(max_retries):
         try:
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=60) as resp:
                 result = json.loads(resp.read().decode("utf-8"))
                 text = (
                     result.get("candidates", [{}])[0]
@@ -248,47 +247,40 @@ def translate_with_gemini(items):
                     .get("parts", [{}])[0]
                     .get("text", "")
                 )
-                parse_gemini_response(text, batch)
-                print(f"  → Batch {i//batch_size + 1} translated OK")
+                parse_gemini_response(text, items)
+                print(f"  → Translation OK")
+                break
         except urllib.error.HTTPError as e:
-            print(f"[ERROR] Gemini API failed: HTTP {e.code}")
-            if e.code == 429:
-                print(f"  → Rate limited, waiting 30s...")
-                time.sleep(30)
-                # 재시도
-                try:
-                    req2 = urllib.request.Request(
-                        url,
-                        data=json.dumps(payload).encode("utf-8"),
-                        headers={"Content-Type": "application/json"},
-                        method="POST",
-                    )
-                    with urllib.request.urlopen(req2, timeout=30) as resp2:
-                        result2 = json.loads(resp2.read().decode("utf-8"))
-                        text2 = (
-                            result2.get("candidates", [{}])[0]
-                            .get("content", {})
-                            .get("parts", [{}])[0]
-                            .get("text", "")
-                        )
-                        parse_gemini_response(text2, batch)
-                        print(f"  → Retry batch {i//batch_size + 1} OK")
-                except Exception as e2:
-                    print(f"[ERROR] Retry also failed: {e2}")
-                    for item in batch:
-                        item["korean_title"] = item["title"]
-                        item["korean_analysis"] = ""
+            body = ""
+            try:
+                body = e.read().decode("utf-8")[:200]
+            except Exception:
+                pass
+            print(f"[ERROR] Gemini API: HTTP {e.code} (attempt {attempt+1}/{max_retries})")
+            if body:
+                print(f"[ERROR] {body[:150]}")
+            if e.code == 429 and attempt < max_retries - 1:
+                wait = 60 * (attempt + 1)  # 60s, 120s
+                print(f"  → Waiting {wait}s before retry...")
+                time.sleep(wait)
+                # 새 Request 객체 생성 (이전 것은 소비됨)
+                req = urllib.request.Request(
+                    url,
+                    data=json.dumps(payload).encode("utf-8"),
+                    headers={"Content-Type": "application/json"},
+                    method="POST",
+                )
             else:
-                for item in batch:
+                print("  → Using original titles (no translation)")
+                for item in items:
                     item["korean_title"] = item["title"]
                     item["korean_analysis"] = ""
         except Exception as e:
-            print(f"[ERROR] Gemini API failed: {e}")
-            for item in batch:
+            print(f"[ERROR] Gemini API: {e}")
+            for item in items:
                 item["korean_title"] = item["title"]
                 item["korean_analysis"] = ""
-        
-        time.sleep(5)  # 배치 간 5초 대기
+            break
 
     return items
 
