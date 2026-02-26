@@ -1,8 +1,458 @@
 {
-  "last_updated": "2026-02-26T21:31:18.511766+00:00",
-  "last_updated_kst": "2026-02-27 06:31 KST",
+  "last_updated": "2026-02-26T22:30:38.365118+00:00",
+  "last_updated_kst": "2026-02-27 07:30 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "SEC Chief Paul Atkins Headlines Bitcoin 2026 in Las Vegas, Signaling Shift in US Crypto Policy",
+      "body_preview": "SEC Chairman Paul Atkins to headline Bitcoin 2026 in Las Vegas, reflecting a regulatory shift. The event will gather global industry leaders, developers, and policymakers for critical discussions. Continue Reading: SEC Chief Paul Atkins Headlines Bitcoin 2026 in Las Vegas, Signaling Shift in US Cryp",
+      "source_url": "https://en.coin-turk.com/sec-chief-paul-atkins-headlines-bitcoin-2026-in-las-vegas-signaling-shift-in-us-crypto-policy/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:20:37+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/79/58536603.jpeg",
+      "korean_summary": "미국 증권거래위원회(SEC) 의장 폴 앳킨스(Paul Atkins)가 라스베이거스에서 열리는 비트코인 2026(Bitcoin 2026) 행사의 헤드라인 연사로 나선다. 이는 미국 암호화폐 정책의 규제 변화를 시사하며, 글로벌 업계 리더와 정책 입안자들이 모여 중요한 논의를 진행할 예정이다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Bitcoin futures, options market flash caution even as BTC chases $70K",
+      "body_preview": "Bitcoin bulls are chasing after $70,000 but cautious signals from the futures and derivatives market could explain why success remains elusive.",
+      "source_url": "https://cointelegraph.com/news/bitcoin-futures-options-market-flash-caution-even-as-btc-chases-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:15:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "비트코인(Bitcoin)이 7만 달러를 추격하고 있지만, 선물(futures) 및 옵션(options) 시장에서 신중한 신호가 포착되어 상승세가 주춤하는 이유를 설명한다. 이는 파생상품(derivatives) 시장의 경고음이 성공적인 돌파를 어렵게 하고 있음을 시사한다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Senator Blumenthal Demands Binance Records Over Alleged $1.7B Iran Sanctions Breach",
+      "body_preview": "A U.S. Senator has launched a formal Senate Homeland Security Committee inquiry into Binance following reports that the exchange facilitated $1.7 billion in cryptocurrency transfers to Iranian entities linked to terrorism. Investigating the Hong Kong Connection U.S. Sen. Richard Blumenthal, D-Conn.,",
+      "source_url": "https://news.bitcoin.com/senator-blumenthal-demands-binance-records-over-alleged-1-7b-iran-sanctions-breach/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:10:48+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ASIA",
+        "BNB"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/14/58536313.jpeg",
+      "korean_summary": "미국 상원의원 블루멘탈(Blumenthal)이 바이낸스(Binance)가 이란 제재를 위반하고 17억 달러 규모의 암호화폐(cryptocurrency) 이체를 도왔다는 보도에 따라 공식적인 상원 국토안보위원회(Senate Homeland Security Committee) 조사를 시작했다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Reid Hoffman’s $6.1M Ethereum Holdings Reveal Stunning Institutional Crypto Confidence",
+      "body_preview": "BitcoinWorld Reid Hoffman’s $6.1M Ethereum Holdings Reveal Stunning Institutional Crypto Confidence In a stunning revelation that underscores the accelerating institutional embrace of digital assets, LinkedIn co-founder Reid Hoffman reportedly holds $6.1 million worth of Ethereum (ETH) according to ",
+      "source_url": "https://bitcoinworld.co.in/reid-hoffman-ethereum-holdings-2025/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:10:12+00:00",
+      "category": "macro",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "링크드인(LinkedIn) 공동 창업자 리드 호프만(Reid Hoffman)의 610만 달러 규모 이더리움(Ethereum) 보유 사실이 공개되며, 기관 투자자들의 디지털 자산(digital assets)에 대한 놀라운 신뢰와 수용 가속화를 보여주고 있다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Block's stock jumps over 25% following a 24% YoY Q4 gross profit growth",
+      "body_preview": "Block shares surged more than 25% in extended trading Thursday after it announced layoffs of more than 4,000 employees. The cut is half the workforce, taking Block from over 10,000 to under 6,000. In a shareholder letter, Block called it “a difficult decision” and tied the change to intelligence too",
+      "source_url": "https://www.cryptopolitan.com/why-is-blocks-stock-up-by-25-today/",
+      "source_name": "Cryptopolitan",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:09:24+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/43/58536370.jpeg",
+      "korean_summary": "블록(Block) 주가가 4분기 총이익(gross profit)이 전년 대비 24% 성장했음에도 불구하고, 4,000명 이상의 직원 해고 발표 후 장외 거래에서 25% 이상 급등했다. 이는 대규모 구조조정에도 불구하고 시장이 긍정적으로 반응했음을 시사한다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Bitcoin falls below $67k as speculative assets take a hit amid slide in stocks",
+      "body_preview": "",
+      "source_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-68k-on-bargain-buying-positive-wall-st-cues-4526522",
+      "source_name": "Investing.com Crypto News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:07:03+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
+      "korean_summary": "주식 시장 하락세 속에서 투기성 자산(speculative assets)들이 타격을 받으며 비트코인(Bitcoin) 가격이 6만 7천 달러 아래로 떨어졌다. 이는 전반적인 시장 불안정성이 암호화폐 시장에도 영향을 미치고 있음을 보여준다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Solana Price Prediction: Bulls Defend $83.50 as SOL Eyes $94 Target",
+      "body_preview": "Solana faces a decisive moment as price action tightens between stubborn resistance and firm support. The token trades at $85.95 as of press time after a 4.15% daily drop . However, it still holds a 5.05% gain over the past week. With $5.18 billion in daily volume and a $48.9 billion market cap, par",
+      "source_url": "https://coinpaper.com/14975/solana-price-prediction-bulls-defend-83-50-as-sol-eyes-94-target",
+      "source_name": "Coinpaper",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:06:38+00:00",
+      "category": "crypto",
+      "currencies": [
+        "SOL"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/93/default.png",
+      "korean_summary": "솔라나(Solana) 가격이 83.50달러 지지선을 방어하며 94달러 목표를 주시하는 결정적인 순간에 직면했다. 현재 85.95달러에 거래되며 저항선과 지지선 사이에서 가격 움직임이 좁혀지고 있다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Netherlands Economic Growth: ABN AMRO’s Surprising Export-Driven Forecast for 2025",
+      "body_preview": "BitcoinWorld Netherlands Economic Growth: ABN AMRO’s Surprising Export-Driven Forecast for 2025 AMSTERDAM, Netherlands – March 2025: Dutch banking giant ABN AMRO has significantly upgraded its growth outlook for the Netherlands, pointing to unexpectedly robust export performance as the primary drive",
+      "source_url": "https://bitcoinworld.co.in/netherlands-growth-outlook-exports-abn-amro/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:05:13+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "네덜란드 은행 대기업 ABN 암로(ABN AMRO)가 2025년 네덜란드 경제 성장률 전망치를 수출 주도형(export-driven)으로 크게 상향 조정했다. 이는 예상치 못한 긍정적인 경제 지표 변화를 시사한다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Michael Burry warned that Nvidia's purchase obligations jumped to $95.2 billion from $16.1 billion in one year",
+      "body_preview": "Michael Burry is leaning harder into his bearish case on Nvidia after the largest company on earth beat earnings yet again on Wednesday, something Cryptopolitan extensively reported. In a Thursday Substack newsletter, Michael pointed to Nvidia’s purchase obligations jumping to $95.2 billion, from $1",
+      "source_url": "https://www.cryptopolitan.com/michael-burry-on-nvidias-supply-commitments/",
+      "source_name": "Cryptopolitan",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:00:58+00:00",
+      "category": "macro",
+      "currencies": [
+        "ZRX"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/43/58536369.jpeg",
+      "korean_summary": "마이클 버리(Michael Burry)는 엔비디아(Nvidia)의 구매 의무(purchase obligations)가 1년 만에 161억 달러에서 952억 달러로 급증했다고 경고하며, 엔비디아에 대한 자신의 약세(bearish) 전망을 더욱 강화했다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Ethereum Still Undervalued As Bitcoin, XRP Sit Near Neutral, Santiment Says",
+      "body_preview": "On-chain analytics firm Santiment has highlighted how Ethereum is still undervalued on the MVRV, while Bitcoin and XRP have turned neutral. Profitability Has Shifted For Bitcoin, XRP, & Ethereum After The Price Jump In a new post on X, Santiment has talked about how the 30-day Market Value to Realiz",
+      "source_url": "https://www.newsbtc.com/news/ethereum/ethereum-undervalued-bitcoin-xrp-neutral-santiment/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:00:56+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/58536099.jpeg",
+      "korean_summary": "온체인 분석 기업 산티멘트(Santiment)는 이더리움(Ethereum)이 MVRV 지표상 여전히 저평가(undervalued)되어 있는 반면, 비트코인(Bitcoin)과 XRP는 중립(neutral) 수준에 근접했다고 밝혔다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "AI FUD eases as NVDA posts stronger earnings – What it means for Bitcoin",
+      "body_preview": "Rising AI risks put NVDA earnings and Bitcoin leverage in the spotlight.",
+      "source_url": "https://ambcrypto.com/ai-fud-eases-as-nvda-posts-stronger-earnings-what-it-means-for-bitcoin/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:00:44+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "엔비디아(NVDA)가 예상보다 강력한 실적을 발표하면서 인공지능(AI) 관련 공포(FUD)가 완화되었다. 이는 비트코인(Bitcoin) 시장의 레버리지(leverage)와 투자 심리에 긍정적인 영향을 미칠 수 있음을 시사한다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "XRP-Paypal Rumors: What This Acquisition Would Mean For Ripple",
+      "body_preview": "PayPal, the digital payments company, has seen its stock price slump by almost half its value in recent months, which has led to conversations about who could realistically step in if a deal were ever pursued. Among the names circulating in online discussions is Ripple, the blockchain payments firm,",
+      "source_url": "https://bitcoinist.com/what-xrp-paypal-mean-for-ripple/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:00:43+00:00",
+      "category": "macro",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/58536102.jpeg",
+      "korean_summary": "디지털 결제 기업 페이팔(PayPal)의 주가가 최근 몇 달간 거의 절반 수준으로 급락하면서, XRP와 페이팔의 인수 루머가 확산되고 있다. 이는 리플(Ripple)에 어떤 의미를 가질지 관심이 집중된다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "China’s Masterful Growth Strategy: Standard Chartered Charts Reveal Long-Game Economic Transformation",
+      "body_preview": "BitcoinWorld China’s Masterful Growth Strategy: Standard Chartered Charts Reveal Long-Game Economic Transformation BEIJING, March 2025 – Standard Chartered Bank has released comprehensive analysis charts detailing China’s sophisticated long-game growth strategy, revealing a multi-decade economic tra",
+      "source_url": "https://bitcoinworld.co.in/china-growth-strategy-standard-chartered-charts/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:00:13+00:00",
+      "category": "macro",
+      "currencies": [
+        "ASIA",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "스탠다드차타드(Standard Chartered) 은행의 분석 자료에 따르면, 중국이 장기적인 경제 전환(economic transformation)을 목표로 하는 능숙한 성장 전략(growth strategy)을 추진하고 있는 것으로 나타났다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Jane Street Faces the Wrath of Crypto Natives Nursing Old Wounds",
+      "body_preview": "Ryan Weeks writes on the uneasy relationship between crypto natives and Wall Street.",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-02-26/jane-street-faces-the-wrath-of-crypto-natives-nursing-old-wounds",
+      "source_name": "Bloomberg (Crypto)",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:00:05+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/103/58536204.jpeg",
+      "korean_summary": "월스트리트(Wall Street)의 주요 트레이딩 회사인 제인 스트리트(Jane Street)가 암호화폐(crypto) 업계의 기존 참여자들(crypto natives)로부터 과거의 불신으로 인한 비판에 직면하고 있다. 이는 양측의 불편한 관계를 보여준다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "There’s a New DeFi Bill in Congress—What Does That Mean for Crypto Market Structure?",
+      "body_preview": "Lawmakers introduced a bill Thursday protecting crypto software developers from criminal prosecution. Does that mean the crypto market structure bill is falling by the wayside?",
+      "source_url": "https://decrypt.co/359343/new-defi-bill-congress-what-mean-crypto-market-structure",
+      "source_name": "Decrypt",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T22:00:03+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/44/58536098.jpeg",
+      "korean_summary": "의회에 암호화폐(crypto) 소프트웨어 개발자를 형사 기소로부터 보호하는 새로운 탈중앙화 금융(DeFi) 법안이 발의되었다. 이는 암호화폐 시장 구조(market structure)에 대한 기존 법안의 향방에 어떤 영향을 미칠지 주목된다.",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "U.S.-Iran nuclear talks end, but with hope that negotiations continue. That still leaves the oil market in limbo.",
+      "body_preview": "Nuclear talks on Thursday were expected to ease the uncertainty surrounding tensions between the U.S. and Iran. They ended with the promise of further discussions.",
+      "source_url": "https://www.marketwatch.com/story/u-s-iran-nuclear-talks-end-but-with-hope-that-negotiations-continue-that-still-leaves-the-oil-market-in-limbo-bd462461",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T21:56:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "CoreWeave’s stock drops as losses swell and interest expenses climb",
+      "body_preview": "While AI demand remains high, CoreWeave’s widening net loss in the fourth quarter is giving investors pause.",
+      "source_url": "https://www.marketwatch.com/story/coreweaves-stock-drops-as-losses-swell-and-interest-expenses-climb-9a09e137",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T21:55:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Rocket Lab’s stock slides as yet another rocket delay overshadows ‘record year’",
+      "body_preview": "The Neutron rocket was expected to have its debut last year. Now, it’s projected to launch at the end of 2026.",
+      "source_url": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-yet-another-rocket-delay-overshadows-record-year-5b9987ea",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T21:52:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "FanDuel parent Flutter reports disappointing fourth-quarter earnings",
+      "body_preview": "Flutter's 2026 revenue guidance of $17.75 billion to $19.05 billion was lower than analysts' projection.",
+      "source_url": "https://www.cnbc.com/2026/02/26/fanduel-parent-flutter-flut-q4-2025-earnings.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T21:13:47+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108217313-1761583003824-gettyimages-2155741121-AFP_34VQ69G.jpeg?v=1761583032&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Block plans to lay off nearly half its staff in ‘deliberate and bold’ embrace of AI",
+      "body_preview": "‘Intelligence tools have changed what it means to build and run a company,’ CEO Jack Dorsey says",
+      "source_url": "https://www.marketwatch.com/story/block-plans-to-lay-off-nearly-half-its-staff-in-deliberate-and-bold-embrace-of-ai-81e99247",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T21:13:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Why Corning's near record stock price and historically expensive valuation are worth it",
+      "body_preview": "Shares were up more than 70% year to date — making it one of the best performers in the S&P 500 and, by far, our top 2026 Club stock.",
+      "source_url": "https://www.cnbc.com/2026/02/26/why-cornings-near-record-stock-price-and-expensive-valuation-are-worth-it.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T20:29:08+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1769216172&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Nvidia takes the market lower — but one area of beaten-up tech moves higher",
+      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source_url": "https://www.cnbc.com/2026/02/26/nvidia-takes-the-market-lower-but-one-area-of-beaten-up-tech-moves-higher.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T19:53:41+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108248407-1767646313623-gettyimages-2254214508-CES_2026.jpeg?v=1772134769&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Yields in a crucial part of the Treasury market keep falling — and it may have something to do with AI",
+      "body_preview": "Concerns about AI’s potential as a destructive force on U.S. jobs have contributed to a rally in the 10-year Treasury note, sending its yield toward a 2026 low.",
+      "source_url": "https://www.marketwatch.com/story/yields-in-a-crucial-part-of-the-treasury-market-keep-falling-and-it-may-have-something-to-do-with-ai-20f5701d",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T19:34:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Musk, Altman and China are fighting to control a potential $320 billion market for brain implants",
+      "body_preview": "It’s still very early days for brain chips that let people control devices with their thoughts — but the market opportunity has become increasingly intriguing to tech CEOs and politicians.",
+      "source_url": "https://www.marketwatch.com/story/musk-altman-and-china-are-fighting-to-control-a-potential-320-billion-market-for-brain-implants-391ad0d8",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T19:21:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Software stocks bounce as Nvidia shares falter. Is a new rotation trade in store?",
+      "body_preview": "While Nvidia’s latest results were deemed “phenomenal,” a massive shift in trading flows has sent software stocks rising as investors ditch AI chip names.",
+      "source_url": "https://www.marketwatch.com/story/software-stocks-bounce-as-nvidia-shares-falter-is-a-new-rotation-trade-in-store-fba0b7aa",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T18:54:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "We're exiting an inconsistent stock to free up space for better prospects ahead",
+      "body_preview": "Our early spring cleaning of the portfolio continued.",
+      "source_url": "https://www.cnbc.com/2026/02/26/were-exiting-an-inconsistent-stock-to-free-up-space-for-better-prospects-ahead.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T18:43:30+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108175221-1753203608449-gettyimages-1476119142-zhan1730_dc9b96b3-928f-4a43-90b1-ba09d3b7784a.jpeg?v=1772130317&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "EBay to cut 800 jobs, joining other tech names in announcing layoffs as AI reshapes workforces",
+      "body_preview": "The layoff announcement comes a week after eBay agreed to buy secondhand-clothing site Depop and follows job cuts earlier this year by Amazon and Pinterest.",
+      "source_url": "https://www.marketwatch.com/story/ebay-to-cut-800-jobs-joining-other-tech-names-in-announcing-layoffs-as-ai-reshapes-workforces-9131cacf",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T18:09:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Mortgage rates fall below 6%, giving buyers a glimpse of affordability",
+      "body_preview": "Falling rates could “drive more potential buyers into the market for spring home-buying season,” says Freddie Mac’s chief economist.",
+      "source_url": "https://www.marketwatch.com/story/mortgage-rates-fall-below-6-giving-buyers-a-glimpse-of-affordability-67829c50",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T18:09:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Jim Cramer says this unfairly punished stock is worth buying for new investors",
+      "body_preview": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source_url": "https://www.cnbc.com/2026/02/26/jim-cramer-says-this-unfairly-punished-stock-is-worth-buying-for-new-investors.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T17:33:55+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/100665030-20130418-0066-119.jpg?v=1366730648&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
+    {
+      "title": "Small investors buy Nvidia in record numbers after Thursday's open",
+      "body_preview": "Everyday traders recorded their highest levels of net buying in the stock during the first 80 minutes of a trading day going back to at least 2012, data shows.",
+      "source_url": "https://www.cnbc.com/2026/02/26/small-investors-buy-nvidia-in-record-numbers-after-thursdays-open.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T17:14:26+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108229156-1763651123145-gettyimages-2246743088-raa-nvidiaph251118_nprRy.jpeg?v=1772124975&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-02-26T22:30:38.361344+00:00"
+    },
     {
       "title": "Federal Reserve’s Goolsbee Urges Critical Caution: Navigating Monetary Policy Amid Economic Uncertainty",
       "body_preview": "BitcoinWorld Federal Reserve’s Goolsbee Urges Critical Caution: Navigating Monetary Policy Amid Economic Uncertainty WASHINGTON, D.C. – Federal Reserve Bank of Chicago President Austan Goolsbee has emphasized a cautious approach to monetary policy, signaling potential implications for interest rates",
@@ -241,174 +691,6 @@
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "FanDuel parent Flutter reports disappointing fourth-quarter earnings",
-      "body_preview": "Flutter's 2026 revenue guidance of $17.75 billion to $19.05 billion was lower than analysts' projection.",
-      "source_url": "https://www.cnbc.com/2026/02/26/fanduel-parent-flutter-flut-q4-2025-earnings.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T21:13:47+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108217313-1761583003824-gettyimages-2155741121-AFP_34VQ69G.jpeg?v=1761583032&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "Block plans to lay off nearly half its staff in ‘deliberate and bold’ embrace of AI",
-      "body_preview": "‘Intelligence tools have changed what it means to build and run a company,’ CEO Jack Dorsey says",
-      "source_url": "https://www.marketwatch.com/story/block-plans-to-lay-off-nearly-half-its-staff-in-deliberate-and-bold-embrace-of-ai-81e99247",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T21:13:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "Why Corning's near record stock price and historically expensive valuation are worth it",
-      "body_preview": "Shares were up more than 70% year to date — making it one of the best performers in the S&P 500 and, by far, our top 2026 Club stock.",
-      "source_url": "https://www.cnbc.com/2026/02/26/why-cornings-near-record-stock-price-and-expensive-valuation-are-worth-it.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T20:29:08+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108256652-1769211369805-Contour_wide.jpg?v=1769216172&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "Nvidia takes the market lower — but one area of beaten-up tech moves higher",
-      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source_url": "https://www.cnbc.com/2026/02/26/nvidia-takes-the-market-lower-but-one-area-of-beaten-up-tech-moves-higher.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T19:53:41+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108248407-1767646313623-gettyimages-2254214508-CES_2026.jpeg?v=1772134769&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "Yields in a crucial part of the Treasury market keep falling — and it may have something to do with AI",
-      "body_preview": "Concerns about AI’s potential as a destructive force on U.S. jobs have contributed to a rally in the 10-year Treasury note, sending its yield toward a 2026 low.",
-      "source_url": "https://www.marketwatch.com/story/yields-in-a-crucial-part-of-the-treasury-market-keep-falling-and-it-may-have-something-to-do-with-ai-20f5701d",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T19:34:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "Musk, Altman and China are fighting to control a potential $320 billion market for brain implants",
-      "body_preview": "It’s still very early days for brain chips that let people control devices with their thoughts — but the market opportunity has become increasingly intriguing to tech CEOs and politicians.",
-      "source_url": "https://www.marketwatch.com/story/musk-altman-and-china-are-fighting-to-control-a-potential-320-billion-market-for-brain-implants-391ad0d8",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T19:21:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "Software stocks bounce as Nvidia shares falter. Is a new rotation trade in store?",
-      "body_preview": "While Nvidia’s latest results were deemed “phenomenal,” a massive shift in trading flows has sent software stocks rising as investors ditch AI chip names.",
-      "source_url": "https://www.marketwatch.com/story/software-stocks-bounce-as-nvidia-shares-falter-is-a-new-rotation-trade-in-store-fba0b7aa",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T18:54:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "We're exiting an inconsistent stock to free up space for better prospects ahead",
-      "body_preview": "Our early spring cleaning of the portfolio continued.",
-      "source_url": "https://www.cnbc.com/2026/02/26/were-exiting-an-inconsistent-stock-to-free-up-space-for-better-prospects-ahead.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T18:43:30+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108175221-1753203608449-gettyimages-1476119142-zhan1730_dc9b96b3-928f-4a43-90b1-ba09d3b7784a.jpeg?v=1772130317&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "EBay to cut 800 jobs, joining other tech names in announcing layoffs as AI reshapes workforces",
-      "body_preview": "The layoff announcement comes a week after eBay agreed to buy secondhand-clothing site Depop and follows job cuts earlier this year by Amazon and Pinterest.",
-      "source_url": "https://www.marketwatch.com/story/ebay-to-cut-800-jobs-joining-other-tech-names-in-announcing-layoffs-as-ai-reshapes-workforces-9131cacf",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T18:09:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "Mortgage rates fall below 6%, giving buyers a glimpse of affordability",
-      "body_preview": "Falling rates could “drive more potential buyers into the market for spring home-buying season,” says Freddie Mac’s chief economist.",
-      "source_url": "https://www.marketwatch.com/story/mortgage-rates-fall-below-6-giving-buyers-a-glimpse-of-affordability-67829c50",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T18:09:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "Jim Cramer says this unfairly punished stock is worth buying for new investors",
-      "body_preview": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source_url": "https://www.cnbc.com/2026/02/26/jim-cramer-says-this-unfairly-punished-stock-is-worth-buying-for-new-investors.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T17:33:55+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/100665030-20130418-0066-119.jpg?v=1366730648&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-02-26T21:31:18.508036+00:00"
-    },
-    {
-      "title": "Small investors buy Nvidia in record numbers after Thursday's open",
-      "body_preview": "Everyday traders recorded their highest levels of net buying in the stock during the first 80 minutes of a trading day going back to at least 2012, data shows.",
-      "source_url": "https://www.cnbc.com/2026/02/26/small-investors-buy-nvidia-in-record-numbers-after-thursdays-open.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T17:14:26+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108229156-1763651123145-gettyimages-2246743088-raa-nvidiaph251118_nprRy.jpeg?v=1772124975&w=1920&h=1080",
       "korean_summary": "",
       "fetched_at": "2026-02-26T21:31:18.508036+00:00"
     },
@@ -1124,22 +1406,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/106/default.png",
       "korean_summary": "파이프 네트워크(Pipe Network)가 솔라나(Solana)용 무료 오픈소스 검증자 클라이언트인 솔라나CDN(SolanaCDN)을 출시했다. 이는 솔라나 네트워크의 가속 기능을 내장하여 성능 향상을 목표로 한다.",
-      "fetched_at": "2026-02-26T18:42:00.574282+00:00"
-    },
-    {
-      "title": "Bitcoin rises near $68k on bargain buying, positive Wall St cues",
-      "body_preview": "",
-      "source_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-to-68k-on-bargain-buying-positive-wall-st-cues-4526522",
-      "source_name": "Investing.com Crypto News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T18:16:23+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
-      "korean_summary": "비트코인(Bitcoin) 가격이 저가 매수세와 긍정적인 월스트리트(Wall Street) 신호에 힘입어 6만 8천 달러에 육박하는 상승세를 보였다. 이는 투자 심리 개선을 반영한다.",
       "fetched_at": "2026-02-26T18:42:00.574282+00:00"
     },
     {
@@ -2812,268 +3078,6 @@
       "media_url": "https://resources.cryptocompare.com/news/5/58514737.jpeg",
       "korean_summary": "비트코인(Bitcoin)은 7만 달러 아래에서 횡보하는 모습을 보인 반면, 폴카닷(Polkadot, DOT)과 유니스왑(Uniswap, UNI) 등 일부 알트코인(altcoin)은 상승세를 주도했다. 코스모스(Cosmos, ATOM)는 하락했다.",
       "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "Strategic Investment: Anchorage Digital’s Bold Move into Strategy’s Perpetual Preferred Stock Signals Maturing Crypto Market",
-      "body_preview": "BitcoinWorld Strategic Investment: Anchorage Digital’s Bold Move into Strategy’s Perpetual Preferred Stock Signals Maturing Crypto Market Institutional cryptocurrency adoption reaches a new milestone as Anchorage Digital, alongside Prevalon Energy and OranjeBTC, commits significant capital to Strate",
-      "source_url": "https://bitcoinworld.co.in/anchorage-digital-strategy-perpetual-stock/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:25:12+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "앵커리지 디지털(Anchorage Digital)이 스트래티지(Strategy)의 영구 우선주(perpetual preferred stock)에 전략적으로 투자하며, 기관 투자자들의 암호화폐(crypto) 시장 채택이 성숙 단계에 접어들었음을 시사했다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "Solana Peaks at 1K TPS: Stripe Says AI Needs 1 Billion",
-      "body_preview": "Patrick Collison and John Collison, founders of the payments company Stripe, stated on social network X that blockchain networks will need to handle up to 1 billion transactions per second (TPS) to meet future demand from AI agents. Otherwise, current infrastructure will fail to keep up with the sur",
-      "source_url": "https://coinpaper.com/14948/solana-peaks-at-1-k-tps-stripe-says-ai-needs-1-billion",
-      "source_name": "Coinpaper",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:22:30+00:00",
-      "category": "macro",
-      "currencies": [
-        "SOL"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/93/default.png",
-      "korean_summary": "결제 기업 스트라이프(Stripe) 창업자들은 인공지능(AI) 시대에 블록체인(blockchain) 네트워크가 초당 10억 건의 거래(TPS)를 처리해야 한다고 주장했다. 현재 솔라나(Solana)는 최대 1천 TPS를 기록하고 있다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "US Bitcoin Searches Surge as Retail Interest Returns",
-      "body_preview": "“Buy Bitcoin” searches in the US have hit their highest level in five years. Renewed online curiosity suggests retail investors are re-engaging with the cryptocurrency market. Continue Reading: US Bitcoin Searches Surge as Retail Interest Returns The post US Bitcoin Searches Surge as Retail Interest",
-      "source_url": "https://en.coin-turk.com/us-bitcoin-searches-surge-as-retail-interest-returns/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:20:31+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/79/58514435.jpeg",
-      "korean_summary": "미국 내 \"비트코인(Bitcoin) 구매\" 검색량이 5년 만에 최고치를 기록하며, 개인 투자자들의 암호화폐(cryptocurrency) 시장에 대한 관심이 다시 증가하고 있음을 나타냈다. 이는 시장 활성화의 신호로 해석된다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "EUR/USD Analysis: Unpacking the Alarming Euro Strength and Dollar Decline – Commerzbank Charts Reveal 2025 Risks",
-      "body_preview": "BitcoinWorld EUR/USD Analysis: Unpacking the Alarming Euro Strength and Dollar Decline – Commerzbank Charts Reveal 2025 Risks FRANKFURT, March 2025 – The EUR/USD currency pair, the world’s most traded financial instrument, currently displays concerning volatility according to recent technical analys",
-      "source_url": "https://bitcoinworld.co.in/eur-usd-euro-strength-dollar-decline-commerzbank/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:20:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "코메르츠방크(Commerzbank) 분석에 따르면 유로/달러(EUR/USD) 환율에서 유로화(Euro) 강세와 달러화(Dollar) 약세가 심화되고 있으며, 이는 2025년 시장에 상당한 위험을 초래할 수 있다고 경고했다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "UK By-Election Markets: Rabobank Warns of Potential Volatility Surge",
-      "body_preview": "BitcoinWorld UK By-Election Markets: Rabobank Warns of Potential Volatility Surge LONDON, UK – Financial markets face potential turbulence as analysts at Rabobank highlight how upcoming UK by-elections could trigger significant volatility across multiple asset classes. The Dutch banking giant’s rese",
-      "source_url": "https://bitcoinworld.co.in/uk-by-election-markets-rabobank-analysis/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:15:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "라보뱅크(Rabobank) 분석가들은 다가오는 영국 보궐선거(by-election)가 금융 시장에 잠재적인 변동성(volatility) 급증을 야기할 수 있다고 경고했다. 이는 투자자들에게 주의를 요하는 신호다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "EUR/USD Holds Firm as Lagarde’s Crucial Inflation Signals Boost Euro Confidence",
-      "body_preview": "BitcoinWorld EUR/USD Holds Firm as Lagarde’s Crucial Inflation Signals Boost Euro Confidence FRANKFURT, March 15, 2025 – The EUR/USD currency pair demonstrates remarkable stability today, trading within a narrow 30-pip range as European Central Bank President Christine Lagarde delivers cautiously op",
-      "source_url": "https://bitcoinworld.co.in/eur-usd-steady-lagarde-inflation-german-cpi/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:10:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "유럽중앙은행(ECB) 라가르드(Lagarde) 총재의 핵심 인플레이션(inflation) 신호가 유로화(Euro)에 대한 신뢰를 높이면서, 유로/달러(EUR/USD) 환율이 견고한 흐름을 유지하고 있다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "Gemini Space Station: Losses Outpace Scale",
-      "body_preview": "Summary Gemini Space Station delivers strong revenue growth but remains unprofitable, with operating losses and payroll outpacing revenues. GEMI trades at a superficially low price-to-sales multiple, but enterprise value multiples are higher due to significant debt and cash burn. Revenue is highly d",
-      "source_url": "https://seekingalpha.com/article/4875151-gemini-space-station-losses-outpace-scale?utm_source=cryptocompare.com&utm_medium=referral&feed_item_type=article",
-      "source_name": "Seeking Alpha",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:08:34+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/50/58513969.jpeg",
-      "korean_summary": "제미니 스페이스 스테이션(Gemini Space Station)은 견고한 매출 성장을 보였지만, 영업 손실과 인건비가 매출을 초과하며 여전히 수익을 내지 못하고 있다. 이는 규모 확장에 비해 수익성이 부족함을 나타낸다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "Indiana lawmakers pass crypto rights bill banning discriminatory taxes",
-      "body_preview": "Indiana’s HB 1042 cleared both chambers and heads to Governor Mike Braun, limiting crypto-specific taxes and opening the door to crypto options for retirement accounts.",
-      "source_url": "https://cointelegraph.com/news/indiana-crypto-rights-bill-governor-signature?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:07:29+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "인디애나주(Indiana) 의원들이 암호화폐(crypto)에 대한 차별적 과세를 금지하고, 은퇴 계좌에 암호화폐 옵션을 허용하는 법안(HB 1042)을 통과시켰다. 이는 암호화폐 권리 보호에 중요한 진전이다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "Analyst to XRP Holders: We Are Heading Straight Into a Potential Breakout. Here’s the Signal",
-      "body_preview": "The cryptocurrency market often moves quietly before making its loudest statements. XRP stands at one of those critical technical moments. After a sustained period of consolidation and tightening price action, the asset is pressing against a resistance level that could define its next major move. Tr",
-      "source_url": "https://timestabloid.com/analyst-to-xrp-holders-we-are-heading-straight-into-a-potential-breakout-heres-the-signal/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:05:14+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "한 분석가는 XRP가 오랜 기간의 통합(consolidation)과 가격 압축 이후 중요한 기술적 순간에 도달했으며, 잠재적인 돌파(breakout)를 앞두고 있다고 XRP 보유자들에게 전했다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "Bitcoin Bottom Analysis: Why the Market Hasn’t Reached Its Critical Capitulation Phase",
-      "body_preview": "BitcoinWorld Bitcoin Bottom Analysis: Why the Market Hasn’t Reached Its Critical Capitulation Phase Market analysts scrutinizing Bitcoin’s price action in early 2025 have identified a crucial missing signal: the futures market has not yet entered backwardation, a historical indicator that typically ",
-      "source_url": "https://bitcoinworld.co.in/bitcoin-bottom-analysis-cme-futures/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:05:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "시장 분석가들은 비트코인(Bitcoin) 가격 움직임에서 중요한 항복(capitulation) 단계가 아직 나타나지 않았다고 지적하며, 시장이 아직 바닥을 찍지 않았을 가능성이 있다고 분석했다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "Ripple CTO Emeritus Clarifies the Only Way a 'Valid' XRP Transaction Can Be Blocked",
-      "body_preview": "Ripple CTO Emeritus David Schwartz says there is only one way a valid XRP transaction can be blocked, outlining XRPL consensus rules and escrow mechanics.",
-      "source_url": "https://u.today/ripple-cto-emeritus-clarifies-only-way-valid-xrp-transaction-can-be-blocked",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:01:00+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/58513684.jpeg",
-      "korean_summary": "리플(Ripple)의 명예 최고기술책임자(CTO Emeritus) 데이비드 슈워츠(David Schwartz)는 유효한 XRP 거래가 차단될 수 있는 유일한 방법을 XRPL 합의 규칙과 에스크로(escrow) 메커니즘을 통해 설명했다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "House Dems project midterm optimism at annual policy retreat following State of the Union",
-      "body_preview": "House Democrats hammered home economic concerns ahead of 2026 elections at their annual policy conference, the day after President Trump's State of the Union.",
-      "source_url": "https://www.cnbc.com/2026/02/25/state-of-the-union-house-democrats-midterms-retreat.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-25T21:53:57+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108265868-17710169432026-02-13t204643z_1104577556_rc26lja0ve84_rtrmadp_0_usa-congress-shutdown.jpeg?v=1771016979&w=1920&h=1080",
-      "korean_summary": "하원 민주당(House Democrats)은 연례 정책 회의에서 2026년 선거를 앞두고 경제 문제(economic concerns)를 강조하며 중간선거(midterm)에 대한 낙관적인 전망을 내비쳤다. 이는 유권자들의 경제적 우려를 해소하려는 의지를 반영한다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "Urban Outfitters’ once-struggling namesake stores are now driving its sales gains",
-      "body_preview": "Shares of Urban Outfitters were up after hours on Wednesday, after the clothing retailer reported fourth-quarter results that beat estimates, helped by a turnaround at its namesake stores.",
-      "source_url": "https://www.marketwatch.com/story/urban-outfitters-once-struggling-namesake-stores-are-now-driving-its-sales-gains-a841972d",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-25T21:48:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "의류 소매업체 어반 아웃피터스(Urban Outfitters)의 주식이 예상치를 상회하는 4분기 실적 발표 후 상승했다. 한때 부진했던 동명 매장들의 턴어라운드(turnaround)가 매출 증가(sales gains)를 견인하며 실적 개선에 기여했다.",
-      "fetched_at": "2026-02-26T11:34:42.721442+00:00"
-    },
-    {
-      "title": "Oobit Launches Real-Time Wallet-to-Bank Transfers to Bridge Stablecoins and Local Banking",
-      "body_preview": "Oobit has introduced a new infrastructure layer that allows users to send stablecoins from self-custody wallets directly into local bank accounts with near-instant settlement. Announced on February 23, 2026, Oobit’s Wallet-to-Bank feature effectively removes the “banking wall” that typically delays ",
-      "source_url": "https://news.bitcoin.com/oobit-launches-real-time-wallet-to-bank-transfers-to-bridge-stablecoins-and-local-banking/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T10:30:45+00:00",
-      "category": "crypto",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/14/58512571.jpeg",
-      "korean_summary": "오빗(Oobit)이 스테이블코인(stablecoin)을 자체 수탁 지갑(self-custody wallet)에서 현지 은행 계좌로 거의 즉시 이체할 수 있는 새로운 인프라를 출시했다. 이를 통해 스테이블코인과 전통 금융 시스템 간의 연결성을 강화하며, 사용자 편의성을 높일 것으로 기대된다.",
-      "fetched_at": "2026-02-26T10:38:09.415923+00:00"
-    },
-    {
-      "title": "Jane Street’s Alleged Impact on Bitcoin Price Swings Sparks Heated Debate",
-      "body_preview": "Jane Street faces scrutiny over alleged influence on sharp Bitcoin sell-offs during US market opens. Authorities and exchanges have not confirmed any coordinated activity linked to Jane Street. Continue Reading: Jane Street’s Alleged Impact on Bitcoin Price Swings Sparks Heated Debate The post Jane ",
-      "source_url": "https://en.coin-turk.com/jane-streets-alleged-impact-on-bitcoin-price-swings-sparks-heated-debate/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T10:30:37+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/79/58512575.jpeg",
-      "korean_summary": "제인 스트리트(Jane Street)가 미국 시장 개장 시 비트코인(Bitcoin) 급락에 영향을 미쳤다는 의혹으로 조사를 받고 있다. 당국과 거래소는 제인 스트리트와 관련된 어떠한 공모 활동도 확인하지 않았다.",
-      "fetched_at": "2026-02-26T10:38:09.415923+00:00"
-    },
-    {
-      "title": "Silver Price Today Plummets: Bitcoin World Data Reveals Concerning Market Shift",
-      "body_preview": "BitcoinWorld Silver Price Today Plummets: Bitcoin World Data Reveals Concerning Market Shift Global precious metals markets witnessed significant movement today as silver prices fell sharply, according to the latest data from Bitcoin World. The decline represents one of the most notable single-day m",
-      "source_url": "https://bitcoinworld.co.in/silver-price-today-falls-analysis-2/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T10:30:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "비트코인월드(BitcoinWorld) 데이터에 따르면 오늘 은 가격이 급락하며 글로벌 귀금속 시장에서 우려스러운 시장 변화가 감지되었다. 이는 투자자들의 관심이 다른 자산으로 이동하고 있음을 시사한다.",
-      "fetched_at": "2026-02-26T10:38:09.415923+00:00"
-    },
-    {
-      "title": "Ethereum Volatility Explosion: Why ETH’s Return to $2K Might Be a ‘Turning Point’",
-      "body_preview": "Ethereum reclaimed the coveted $2,000 level on Wednesday, amidst a broader improvement in market tone. The world’s largest altcoin by market cap extended its gains and rallied by 8% over the past day. But new data suggest that ETH’s price action may be entering a more unstable phase. Ethereum at a C",
-      "source_url": "https://cryptopotato.com/ethereum-volatility-explosion-why-eths-return-to-2k-might-be-a-turning-point/",
-      "source_name": "Crypto Potato",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T10:28:29+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/27/58512629.jpeg",
-      "korean_summary": "이더리움(Ethereum, ETH)이 시장 분위기 개선 속에서 2,000달러 선을 회복하며 하루 만에 8% 상승했다. 이는 이더리움의 변동성 폭발과 함께 중요한 '전환점(turning point)'이 될 수 있다는 분석이 나온다.",
-      "fetched_at": "2026-02-26T10:38:09.415923+00:00"
     }
   ]
 }
