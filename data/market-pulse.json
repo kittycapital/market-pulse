@@ -1,8 +1,453 @@
 {
-  "last_updated": "2026-02-26T14:05:13.884492+00:00",
-  "last_updated_kst": "2026-02-26 23:05 KST",
+  "last_updated": "2026-02-26T15:45:40.976468+00:00",
+  "last_updated_kst": "2026-02-27 00:45 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Antelope Enterprise launches $1 million Bitcoin investment strategy",
+      "body_preview": "",
+      "source_url": "https://www.investing.com/news/cryptocurrency-news/antelope-enterprise-launches-1-million-bitcoin-investment-strategy-432SI-4528000",
+      "source_name": "Investing.com Crypto News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:43:17+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
+      "korean_summary": "Antelope Enterprise는 100만 달러 규모의 비트코인(Bitcoin) 투자 전략을 공식적으로 발표하며, 암호화폐 시장에서의 입지를 강화하고 투자 다각화를 모색하고 있습니다. 이는 기업의 디지털 자산 포트폴리오 확장에 기여할 것으로 보입니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Ethereum Climbs 10% As Investors Gain Confidence",
+      "body_preview": "",
+      "source_url": "https://www.investing.com/news/cryptocurrency-news/ethereum-climbs-10-as-investors-gain-confidence-4525185",
+      "source_name": "Investing.com Crypto News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:40:59+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
+      "korean_summary": "이더리움(Ethereum) 가격이 투자자들의 신뢰 회복에 힘입어 10% 상승했습니다. 이는 암호화폐 시장 전반에 긍정적인 분위기를 조성하며, 이더리움에 대한 매수세가 강화되고 있음을 시사합니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Bitcoin Price Plummets Below $67,000: Analyzing the Sudden Market Shift",
+      "body_preview": "BitcoinWorld Bitcoin Price Plummets Below $67,000: Analyzing the Sudden Market Shift Global cryptocurrency markets experienced significant volatility today as Bitcoin’s price dropped below the crucial $67,000 threshold, currently trading at $66,983.75 on Binance’s USDT market according to Bitcoin Wo",
+      "source_url": "https://bitcoinworld.co.in/bitcoin-price-falls-below-67000-15/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:40:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "비트코인(Bitcoin) 가격이 67,000달러 아래로 급락하며 글로벌 암호화폐 시장에 상당한 변동성을 야기했습니다. 이는 갑작스러운 시장 변화를 분석하고 투자자들의 주의를 요구하는 상황입니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "XRP Climbs 10% In Bullish Trade",
+      "body_preview": "",
+      "source_url": "https://www.investing.com/news/cryptocurrency-news/xrp-climbs-10-in-bullish-trade-4525838",
+      "source_name": "Investing.com Crypto News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:39:48+00:00",
+      "category": "crypto",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
+      "korean_summary": "리플(XRP) 가격이 강세 거래 속에서 10% 상승했습니다. 이는 암호화폐 시장 내에서 XRP에 대한 긍정적인 투자 심리가 확산되고 있음을 보여주며, 추가 상승 가능성에 대한 기대를 높이고 있습니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Y Combinator-Backed Axiom Exchange Employees Accused of Insider Trading: ZachXBT",
+      "body_preview": "Multiple employees at Axiom, a non-custodial trading platform, allegedly engaged in insider trading, said blockchain investigator ZachXBT.",
+      "source_url": "https://decrypt.co/359223/y-combinator-backed-axiom-employees-accused-insider-trading-zachxbt",
+      "source_name": "Decrypt",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:38:37+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/44/58523467.jpeg",
+      "korean_summary": "블록체인(Blockchain) 탐정 ZachXBT는 Y Combinator가 지원하는 비수탁형 거래 플랫폼 Axiom Exchange의 여러 직원이 내부자 거래에 연루되었다고 주장했습니다. 이는 암호화폐 업계의 윤리 문제에 대한 논란을 불러일으키고 있습니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Bitcoin falls back below $67,000, rapidly giving back Wednesday's gains",
+      "body_preview": "The declines are coming as the Nasdaq tumbles nearly 2%, led by a post-earnings selloff in Nvidia.",
+      "source_url": "https://www.coindesk.com/markets/2026/02/26/bitcoin-falls-back-below-usd67-000-rapidly-giving-back-wednesday-s-gains",
+      "source_name": "CoinDesk",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:37:58+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/5/58523415.jpeg",
+      "korean_summary": "비트코인(Bitcoin) 가격이 67,000달러 아래로 다시 하락하며 전날의 상승분을 빠르게 반납했습니다. 이는 나스닥(Nasdaq)의 약 2% 하락과 엔비디아(Nvidia)의 실적 발표 후 매도세에 영향을 받은 것으로 분석됩니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Bitcoin surges to above $68k amid bargain buying, positive session for Wall Street",
+      "body_preview": "",
+      "source_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-65k-amid-bargain-buying-wall-st-gains-4523276",
+      "source_name": "Investing.com Crypto News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:37:28+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
+      "korean_summary": "비트코인(Bitcoin) 가격이 저가 매수세와 월스트리트(Wall Street)의 긍정적인 장세에 힘입어 68,000달러 이상으로 급등했습니다. 이는 암호화폐 시장에 대한 투자 심리가 개선되고 있음을 시사합니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "EOS Climbs 10% In Rally",
+      "body_preview": "",
+      "source_url": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-rally-4524968",
+      "source_name": "Investing.com Crypto News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:36:12+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
+      "korean_summary": "이오스(EOS) 가격이 최근 랠리(Rally) 속에서 10% 상승했습니다. 이는 해당 암호화폐에 대한 투자자들의 관심이 증가하고 있음을 나타내며, 시장 내에서 긍정적인 모멘텀을 형성하고 있습니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "ZachXBT Exposé: Axiom Exchange Staff Allegedly Misusing Internal Data For Trading",
+      "body_preview": "After several days of online speculation, blockchain investigator ZachXBT has published the findings of a probe he first alluded to earlier this week, detailing what he describes as insider trading and internal data abuse at Axiom Exchange. In a series of posts, ZachXBT identified Broox Bauer, known",
+      "source_url": "https://bitcoinist.com/zachxbt-expose-axiom-exchange-staff-internal-data/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:36:02+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/13/58523352.jpeg",
+      "korean_summary": "블록체인(Blockchain) 탐정 ZachXBT가 Axiom Exchange 직원들이 내부 데이터를 오용하여 내부자 거래를 했다는 조사 결과를 발표했습니다. 이는 암호화폐 업계의 투명성과 윤리적 문제에 대한 우려를 증폭시키고 있습니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Yuan Cross-Border Financing Gets Major Boost as China Central Bank Unveils Revolutionary New Rules",
+      "body_preview": "BitcoinWorld Yuan Cross-Border Financing Gets Major Boost as China Central Bank Unveils Revolutionary New Rules BEIJING, March 2025 – The People’s Bank of China (PBOC) has unveiled transformative new regulations designed to dramatically expand yuan cross-border financing, marking a significant accel",
+      "source_url": "https://bitcoinworld.co.in/china-yuan-cross-border-financing-rules/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:35:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "ASIA",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "중국 인민은행(People’s Bank of China, PBOC)이 위안화(Yuan) 역외 금융을 크게 활성화할 혁신적인 새 규정을 발표했습니다. 이는 위안화의 국제적 사용을 촉진하고 중국 금융 시장의 개방을 확대할 것으로 기대됩니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "The Protocol: Blockchain sleuth ZachXBT alleges Axiom employee conducted insider trading",
+      "body_preview": "Also: Ethereum’s “strawmap”, Robinhood chain update and OpenAI + smart contracts",
+      "source_url": "https://www.coindesk.com/tech/2026/02/26/the-protocol-blockchain-sleuth-zachxbt-alleges-axiom-employee-conducted-insider-trading",
+      "source_name": "CoinDesk",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:34:35+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/5/58523266.jpeg",
+      "korean_summary": "블록체인(Blockchain) 탐정 ZachXBT가 Axiom 거래소 직원의 내부자 거래 혐의를 주장하며, 암호화폐 시장 내 윤리적 문제에 대한 논의를 촉발했습니다. 이는 업계의 투명성 강화 필요성을 다시 한번 부각시키고 있습니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "BTCC Earn Tops 50 Million USDT in Total Subscriptions as BTCC Reports 132% Reserves for February 2026",
+      "body_preview": "",
+      "source_url": "https://www.investing.com/news/cryptocurrency-news/btcc-earn-tops-50-million-usdt-in-total-subscriptions-as-btcc-reports-132-reserves-for-february-2026-4527841",
+      "source_name": "Investing.com Crypto News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:33:45+00:00",
+      "category": "crypto",
+      "currencies": [
+        "USDT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
+      "korean_summary": "BTCC Earn의 총 구독액이 5천만 USDT를 넘어섰으며, BTCC는 2026년 2월 기준 132%의 준비금(Reserves)을 보고했습니다. 이는 플랫폼의 성장과 재정적 안정성을 보여주는 지표로 평가됩니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Stablecoins becoming part of how people manage money, BVNK co-founder says",
+      "body_preview": "",
+      "source_url": "https://www.investing.com/news/cryptocurrency-news/stablecoins-becoming-part-of-how-people-manage-money-bvnk-cofounder-says-4524996",
+      "source_name": "Investing.com Crypto News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:32:36+00:00",
+      "category": "crypto",
+      "currencies": [
+        "OTHER"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
+      "korean_summary": "BVNK 공동 창업자는 스테이블코인(Stablecoins)이 사람들이 자금을 관리하는 방식의 중요한 부분으로 자리 잡고 있다고 밝혔습니다. 이는 디지털 자산이 일상 금융 생활에 더욱 통합되고 있음을 시사합니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Coin Bureau CEO on Bitcoin in 2026: Cycles, Liquidity and a Divided Market",
+      "body_preview": "In an interview with Cointelegraph, CEO Nic Puckrin breaks down the forces behind Bitcoin’s bear market and what could come next in 2026.",
+      "source_url": "https://cointelegraph.com/news/coin-bureau-ceo-on-bitcoin-in-2026-cycles-liquidity-and-a-divided-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:32:04+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "코인 뷰로(Coin Bureau) CEO는 2026년 비트코인(Bitcoin) 시장을 주기, 유동성(Liquidity), 그리고 분열된 시장으로 분석하며, 현재 약세장(Bear Market)의 주요 요인들을 설명했습니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "American Bitcoin Reports $59 Million Loss as Bitcoin Price Drops in Late 2025",
+      "body_preview": "American Bitcoin posted a $59 million loss as Bitcoin’s value fell in late 2025. The company raised $150.5 million post-IPO, boosting its bitcoin holdings and exposure. Continue Reading: American Bitcoin Reports $59 Million Loss as Bitcoin Price Drops in Late 2025 The post American Bitcoin Reports $",
+      "source_url": "https://en.coin-turk.com/american-bitcoin-reports-59-million-loss-as-bitcoin-price-drops-in-late-2025/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:30:38+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/79/58523124.jpeg",
+      "korean_summary": "아메리칸 비트코인(American Bitcoin)은 2025년 말 비트코인(Bitcoin) 가격 하락으로 5,900만 달러의 손실을 보고했습니다. 이 회사는 기업공개(IPO) 이후 1억 5,050만 달러를 조달하여 비트코인 보유량을 늘렸습니다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "EBay laying off about 800 roles, or 6% of its workforce",
+      "body_preview": "The job cuts are occurring across the company, and are a result of its push to focus on \"strategic priorities,\" eBay said.",
+      "source_url": "https://www.cnbc.com/2026/02/26/ebay-layoffs-800-workforce.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:10:08+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/105403368-1534522864426gettyimages-632621396.jpeg?v=1772114493&w=1920&h=1080",
+      "korean_summary": "이베이(eBay)가 '전략적 우선순위'에 집중하기 위해 전체 인력의 6%에 해당하는 약 800명을 해고한다고 밝혔다. 이번 감원은 회사 전반에 걸쳐 진행되며, 경영 효율성 제고를 위한 조치로 풀이된다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "If global investors fall out of love with U.S. equities, it could spell trouble for the dollar",
+      "body_preview": "Valuation arguments and earnings momentum favor the rest of the world and emerging markets over the U.S.",
+      "source_url": "https://www.marketwatch.com/story/if-global-investors-fall-out-of-love-with-u-s-equities-it-could-spell-trouble-for-the-dollar-9dc78983",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T15:00:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "글로벌 투자자들이 미국 주식에 대한 선호를 잃을 경우 달러화에 문제가 발생할 수 있다는 분석이 나왔다. 현재 밸류에이션(Valuation)과 실적 모멘텀(Earnings Momentum)은 미국보다 신흥시장 등 다른 지역에 유리하다는 평가다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Krispy Kreme’s sales fell again. Here’s why it was good for the stock this time.",
+      "body_preview": "Krispy Kreme’s stock was soaring Thursday as fourth-quarter results provide signs that a turnaround may be starting to take hold.",
+      "source_url": "https://www.marketwatch.com/story/krispy-kremes-sales-fell-again-heres-why-it-was-good-for-the-stock-this-time-e53ee33d",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T14:31:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "크리스피 크림(Krispy Kreme)의 4분기 매출은 다시 감소했지만, 실적 발표 후 주가는 급등했다. 이는 회복세가 시작될 조짐을 보이면서 투자자들이 턴어라운드(Turnaround) 가능성에 긍정적으로 반응했기 때문이다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "U.S. Treasury proposes to sever a Swiss bank from the U.S. financial system over Iran, Russia links",
+      "body_preview": "In a dramatic step, the U.S. Treasury Department on Thursday said it’s proposing to sever a Swiss bank from the U.S. financial system over its alleged illicit ties to Russia and Iran.",
+      "source_url": "https://www.marketwatch.com/story/u-s-treasury-proposes-to-sever-a-swiss-bank-from-the-u-s-financial-system-over-iran-russia-links-13456c28",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T14:30:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "미국 재무부(U.S. Treasury Department)가 스위스 은행 한 곳을 러시아 및 이란과의 불법적인 연루 혐의로 미국 금융 시스템에서 배제할 것을 제안했다. 이는 양국에 대한 제재를 강화하려는 강력한 조치로 풀이된다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "body_preview": "Nvidia is a different story now, and the problem with Salesforce's quarter was not its fast-growing Agentforce suite.",
+      "source_url": "https://www.cnbc.com/2026/02/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T13:55:54+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108248994-1767729949197-gettyimages-2254367461-AFP_89UC72B.jpeg?v=1772113407&w=1920&h=1080",
+      "korean_summary": "짐 크레이머(Jim Cramer)는 목요일 주식시장에서 엔비디아(Nvidia)의 상황이 달라졌으며, 세일즈포스(Salesforce)의 분기 실적 문제는 빠르게 성장하는 에이전트포스(Agentforce) 스위트가 아니었다고 언급하며 주요 관전 포인트를 제시했다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "CEOs say they won’t add many jobs in 2026. Is a low-hire, low-fire labor market the new norm?",
+      "body_preview": "The “low-fire, low-hire” labor market appears here to stay — at least in 2026. Most CEOs of U.S. companies say they no plans to increase the size of their workforce this year.",
+      "source_url": "https://www.marketwatch.com/story/ceos-say-they-wont-add-many-jobs-in-2026-is-a-low-hire-low-fire-labor-market-the-new-norm-1d700dc3",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T13:53:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "미국 기업 최고경영자(CEO)들은 2026년에도 고용을 크게 늘릴 계획이 없다고 밝혔다. 이는 '적게 고용하고 적게 해고하는(Low-hire, Low-fire)' 노동 시장이 새로운 표준으로 자리 잡을 수 있음을 시사한다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Private-credit managers are betting your money on a market that has never been truly stress-tested",
+      "body_preview": "Retail investors seeking fast cash could trigger a financial crisis.",
+      "source_url": "https://www.marketwatch.com/story/private-credit-managers-are-betting-your-money-on-a-market-that-has-never-been-truly-stress-tested-b65546a6",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T13:35:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "사모 신용(Private Credit) 운용사들이 스트레스 테스트(Stress Test)를 제대로 거치지 않은 시장에 투자자 자금을 베팅하고 있다. 소액 투자자들이 급하게 현금을 인출하려 할 경우 금융 위기를 촉발할 수 있다는 우려가 제기된다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "If you can’t beat the market, you’d better hope it falls",
+      "body_preview": "Investment professionals rarely outperform in a bull market. If you want stock picking to pay off, you’re essentially rooting for a crash.",
+      "source_url": "https://www.marketwatch.com/story/if-you-cant-beat-the-market-youd-better-hope-it-falls-87c53697",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T13:15:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "강세장(Bull Market)에서는 투자 전문가들이 시장 수익률을 능가하기 어렵다. 시장을 이기지 못한다면 차라리 시장이 하락하기를 바라는 것이 주식 선택의 성공 가능성을 높이는 방법이라는 역설적인 주장이 나왔다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Victory Capital swoops in with counterbid for Janus Henderson",
+      "body_preview": "Victory Capital says it’s mounted a bid for Janus Henderson that’s 16% higher than the $7.4 billion bid from Trian Fund Management the fund manager already agreed.",
+      "source_url": "https://www.marketwatch.com/story/victory-capital-swoops-in-with-counterbid-for-janus-henderson-66ea0b3e",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T13:12:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "빅토리 캐피털(Victory Capital)이 자누스 헨더슨(Janus Henderson)에 대해 트라이언 펀드 매니지먼트(Trian Fund Management)의 74억 달러 제안보다 16% 높은 역제안을 했다고 밝혔다. 이는 인수 경쟁을 심화시킬 전망이다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Wall Street is courting Main Street with shiny private-market products — the risks are hiding in plain sight",
+      "body_preview": "Private credit and other institutional investments are now within reach for individuals. But their promises don’t always align with your portfolio.",
+      "source_url": "https://www.marketwatch.com/story/wall-street-is-courting-main-street-with-shiny-private-market-products-the-risks-are-hiding-in-plain-sight-d2242f8e",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T13:05:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "월스트리트(Wall Street)가 개인 투자자들에게 사모 신용(Private Credit) 등 기관 투자 상품을 제공하고 있지만, 그 위험은 명백하게 존재한다. 이러한 상품의 약속이 개인 포트폴리오(Portfolio)와 항상 일치하지 않을 수 있다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "These increasingly popular loans can save you thousands of dollars in interest — or double your debt. Here’s when they work.",
+      "body_preview": "A personal loan can be a powerful tool for consolidating high-interest debt, but it’s far from a cure-all.",
+      "source_url": "https://www.marketwatch.com/story/these-increasingly-popular-loans-can-save-you-thousands-of-dollars-in-interest-or-double-your-debt-heres-when-they-work-79649449",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T13:00:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "개인 대출(Personal Loan)은 고금리 부채를 통합하여 이자를 절약하는 강력한 도구가 될 수 있지만, 만병통치약은 아니다. 잘못 사용할 경우 오히려 부채를 두 배로 늘릴 위험이 있어 신중한 접근이 필요하다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Lawsuit over $21 million donor-advised fund highlights risks of DAF giving",
+      "body_preview": "Wealthy Americans use DAFs to give back and save on taxes, but the popular strategy comes with strings attached.",
+      "source_url": "https://www.cnbc.com/2026/02/26/lawsuit-donor-advised-fund-risks.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T12:33:47+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108269989-1772039634404-gettyimages-2252422637-218a8000.jpeg?v=1772039664&w=1920&h=1080",
+      "korean_summary": "2,100만 달러 규모의 기부자 조언 기금(DAF: Donor-Advised Fund) 관련 소송이 DAF 기부의 위험성을 부각시켰다. 부유층이 세금 절감과 기부를 위해 DAF를 활용하지만, 이 인기 있는 전략에는 숨겨진 조건들이 따른다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Billionaire family offices invested in pro soccer, bitcoin and semiconductors before the new year",
+      "body_preview": "The private investment firms of Leon Cooperman and the Walton family disclosed bold stock buys last quarter.",
+      "source_url": "https://www.cnbc.com/2026/02/26/billionaire-family-office-investments.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T12:30:01+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/105904186-1557428172192img_2809r.jpg?v=1703703990&w=1920&h=1080",
+      "korean_summary": "새해를 앞두고 억만장자 패밀리 오피스(Family Office)들이 프로 축구, 비트코인(Bitcoin), 반도체 등에 투자한 것으로 나타났다. 레온 쿠퍼만과 월튼 가문의 사모 투자 회사들은 지난 분기 과감한 주식 매입을 공개했다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Democrat senators press Commerce Secretary Lutnick on conflict of interest concerns in USA Rare Earth deal",
+      "body_preview": "Senators Elizabeth Warren, Chris Van Hollen and Ron Wyden are pressing Commerce Secretary Howard Lutnick for more information on the USA Rare Earth deal.",
+      "source_url": "https://www.cnbc.com/2026/02/26/warren-lutnick-usa-rare-earth-usar-critical-minerals.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T11:59:11+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108133387-1744900687913-108133387-17449005912025-04-08t162310z_1392428932_rc2stdarxtul_rtrmadp_0_usa-trump-tariffs-greer-1.jpg?v=1769189864&w=1920&h=1080",
+      "korean_summary": "민주당 상원의원들이 하워드 루트닉 상무장관에게 USA 희토류(Rare Earth) 거래와 관련한 이해 상충(Conflict of Interest) 우려에 대해 추가 정보를 요구했다. 엘리자베스 워렌 등 의원들은 투명성을 강조했다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
+    {
+      "title": "Why strategist Tom Lee believes the AI bloodbath and crypto selloff is almost over",
+      "body_preview": "Fundstrat’s Tom Lee says the tech and crypto selloff has gone just about as far as it’s going to go.",
+      "source_url": "https://www.marketwatch.com/story/why-strategist-tom-lee-believes-the-ai-bloodbath-and-crypto-selloff-is-almost-over-0ccdbb49",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-26T11:55:00+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "펀드스트랫(Fundstrat)의 전략가 톰 리(Tom Lee)는 인공지능(AI) 관련 주식 폭락과 암호화폐(Crypto) 매도세가 거의 끝났다고 분석했다. 그는 기술주와 암호화폐 시장의 하락세가 한계에 도달했다고 보고 있다.",
+      "fetched_at": "2026-02-26T15:45:40.972767+00:00"
+    },
     {
       "title": "Bitcoin slips, wipes out 50% from October record high at session low",
       "body_preview": "",
@@ -33,22 +478,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/69/58520075.jpeg",
       "korean_summary": "파일코인(Filecoin, FIL)이 최근 하락세 이후 지지선에서 반등하며 1.02달러 수준에서 거래되고 있다. 피보나치 되돌림(Fibonacci retracement) 신호는 1.17달러까지의 잠재적 상승 가능성을 시사한다.",
-      "fetched_at": "2026-02-26T14:05:13.880041+00:00"
-    },
-    {
-      "title": "Antelope Enterprise launches $1 million Bitcoin investment strategy",
-      "body_preview": "",
-      "source_url": "https://www.investing.com/news/cryptocurrency-news/antelope-enterprise-launches-1-million-bitcoin-investment-strategy-432SI-4528000",
-      "source_name": "Investing.com Crypto News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T14:01:10+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
-      "korean_summary": "앤틸롭 엔터프라이즈(Antelope Enterprise)가 100만 달러 규모의 비트코인(Bitcoin) 투자 전략을 새롭게 발표했다. 이는 기업의 디지털 자산 포트폴리오 확장을 위한 움직임으로 풀이된다.",
       "fetched_at": "2026-02-26T14:05:13.880041+00:00"
     },
     {
@@ -234,146 +663,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/52/58519912.jpeg",
       "korean_summary": "기관 투자자들이 이더리움(Ethereum) 투자 상품에 1억 5,700만 달러를 유입한 후 15% 가격 랠리가 발생했다. 이는 월스트리트(Wall Street)가 개인 투자자보다 먼저 움직였음을 시사한다.",
-      "fetched_at": "2026-02-26T14:05:13.880041+00:00"
-    },
-    {
-      "title": "CEOs say they won’t add many jobs in 2026. Is a low-hire, low-fire labor market the new norm?",
-      "body_preview": "The “low-fire, low-hire” labor market appears here to stay — at least in 2026. Most CEOs of U.S. companies say they no plans to increase the size of their workforce this year.",
-      "source_url": "https://www.marketwatch.com/story/ceos-say-they-wont-add-many-jobs-in-2026-is-a-low-hire-low-fire-labor-market-the-new-norm-1d700dc3",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T13:53:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "미국 기업 CEO들이 2026년에도 인력 증원 계획이 없다고 밝히면서, '적게 고용하고 적게 해고하는(low-hire, low-fire)' 노동 시장이 새로운 표준이 될 수 있다는 전망이 나왔다.",
-      "fetched_at": "2026-02-26T14:05:13.880041+00:00"
-    },
-    {
-      "title": "Private-credit managers are betting your money on a market that has never been truly stress-tested",
-      "body_preview": "Retail investors seeking fast cash could trigger a financial crisis.",
-      "source_url": "https://www.marketwatch.com/story/private-credit-managers-are-betting-your-money-on-a-market-that-has-never-been-truly-stress-tested-b65546a6",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T13:35:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "개인 투자자들이 빠른 현금을 추구하면서 금융 위기를 촉발할 수 있다는 경고가 나왔다. 특히 사모 신용(private credit) 시장은 아직 제대로 된 스트레스 테스트를 거치지 않아 위험성이 제기된다.",
-      "fetched_at": "2026-02-26T14:05:13.880041+00:00"
-    },
-    {
-      "title": "If you can’t beat the market, you’d better hope it falls",
-      "body_preview": "Investment professionals rarely outperform in a bull market. If you want stock picking to pay off, you’re essentially rooting for a crash.",
-      "source_url": "https://www.marketwatch.com/story/if-you-cant-beat-the-market-youd-better-hope-it-falls-87c53697",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T13:15:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "강세장(bull market)에서 투자 전문가들이 시장 수익률을 능가하기 어렵다는 분석이 나왔다. 개별 종목 선정(stock picking)으로 수익을 내려면 시장 하락을 바라는 셈이라는 지적이다.",
-      "fetched_at": "2026-02-26T14:05:13.880041+00:00"
-    },
-    {
-      "title": "Victory Capital swoops in with counterbid for Janus Henderson",
-      "body_preview": "Victory Capital says it’s mounted a bid for Janus Henderson that’s 16% higher than the $7.4 billion bid from Trian Fund Management the fund manager already agreed.",
-      "source_url": "https://www.marketwatch.com/story/victory-capital-swoops-in-with-counterbid-for-janus-henderson-66ea0b3e",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T13:12:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "빅토리 캐피탈(Victory Capital)이 자산운용사 야누스 헨더슨(Janus Henderson)에 대해 트라이언 펀드 매니지먼트(Trian Fund Management)의 74억 달러 제안보다 16% 높은 역제안을 했다고 밝혔다.",
-      "fetched_at": "2026-02-26T14:05:13.880041+00:00"
-    },
-    {
-      "title": "Wall Street is courting Main Street with shiny private-market products — the risks are hiding in plain sight",
-      "body_preview": "Private credit and other institutional investments are now within reach for individuals. But their promises don’t always align with your portfolio.",
-      "source_url": "https://www.marketwatch.com/story/wall-street-is-courting-main-street-with-shiny-private-market-products-the-risks-are-hiding-in-plain-sight-d2242f8e",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T13:05:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "월스트리트(Wall Street)가 개인 투자자들에게 사모 신용(private credit) 등 기관 투자 상품을 제공하고 있으나, 이러한 상품의 약속이 개인 포트폴리오와 항상 일치하지 않아 잠재적 위험이 존재한다.",
-      "fetched_at": "2026-02-26T14:05:13.880041+00:00"
-    },
-    {
-      "title": "These increasingly popular loans can save you thousands of dollars in interest — or double your debt. Here’s when they work.",
-      "body_preview": "A personal loan can be a powerful tool for consolidating high-interest debt, but it’s far from a cure-all.",
-      "source_url": "https://www.marketwatch.com/story/these-increasingly-popular-loans-can-save-you-thousands-of-dollars-in-interest-or-double-your-debt-heres-when-they-work-79649449",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T13:00:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "개인 대출(personal loan)이 고금리 부채 통합에 효과적인 도구가 될 수 있지만, 이자 비용을 절감하거나 오히려 부채를 두 배로 늘릴 수 있어 만능 해결책은 아니라는 분석이 나왔다.",
-      "fetched_at": "2026-02-26T14:05:13.880041+00:00"
-    },
-    {
-      "title": "Lawsuit over $21 million donor-advised fund highlights risks of DAF giving",
-      "body_preview": "Wealthy Americans use DAFs to give back and save on taxes, but the popular strategy comes with strings attached.",
-      "source_url": "https://www.cnbc.com/2026/02/26/lawsuit-donor-advised-fund-risks.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T12:33:47+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108269989-1772039634404-gettyimages-2252422637-218a8000.jpeg?v=1772039664&w=1920&h=1080",
-      "korean_summary": "2,100만 달러 규모의 기부자 조언 기금(DAF, donor-advised fund) 관련 소송이 제기되며, 부유층의 세금 절감 및 기부 전략으로 인기 있는 DAF 활용의 잠재적 위험이 부각되었다.",
-      "fetched_at": "2026-02-26T14:05:13.880041+00:00"
-    },
-    {
-      "title": "Billionaire family offices invested in pro soccer, bitcoin and semiconductors before the new year",
-      "body_preview": "The private investment firms of Leon Cooperman and the Walton family disclosed bold stock buys last quarter.",
-      "source_url": "https://www.cnbc.com/2026/02/26/billionaire-family-office-investments.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T12:30:01+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/105904186-1557428172192img_2809r.jpg?v=1703703990&w=1920&h=1080",
-      "korean_summary": "리언 쿠퍼만(Leon Cooperman)과 월튼 가문 등 억만장자 패밀리 오피스(family office)들이 지난 분기 프로 축구, 비트코인(bitcoin), 반도체 등 다양한 분야에 과감한 투자를 단행한 것으로 나타났다.",
-      "fetched_at": "2026-02-26T14:05:13.880041+00:00"
-    },
-    {
-      "title": "Democrat senators press Commerce Secretary Lutnick on conflict of interest concerns in USA Rare Earth deal",
-      "body_preview": "Senators Elizabeth Warren, Chris Van Hollen and Ron Wyden are pressing Commerce Secretary Howard Lutnick for more information on the USA Rare Earth deal.",
-      "source_url": "https://www.cnbc.com/2026/02/26/warren-lutnick-usa-rare-earth-usar-critical-minerals.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:59:11+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108133387-1744900687913-108133387-17449005912025-04-08t162310z_1392428932_rc2stdarxtul_rtrmadp_0_usa-trump-tariffs-greer-1.jpg?v=1769189864&w=1920&h=1080",
-      "korean_summary": "민주당 상원의원들이 하워드 루트닉(Howard Lutnick) 상무장관에게 USA 희토류(USA Rare Earth) 거래 관련 이해 상충(conflict of interest) 우려에 대한 추가 정보 제출을 요구하며 압박하고 있다.",
-      "fetched_at": "2026-02-26T14:05:13.880041+00:00"
-    },
-    {
-      "title": "Why strategist Tom Lee believes the AI bloodbath and crypto selloff is almost over",
-      "body_preview": "Fundstrat’s Tom Lee says the tech and crypto selloff has gone just about as far as it’s going to go.",
-      "source_url": "https://www.marketwatch.com/story/why-strategist-tom-lee-believes-the-ai-bloodbath-and-crypto-selloff-is-almost-over-0ccdbb49",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T11:55:00+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "펀드스트랫(Fundstrat)의 전략가 톰 리(Tom Lee)는 인공지능(AI) 관련 주식과 암호화폐(crypto) 시장의 매도세가 거의 끝났다고 분석하며, 기술주 및 암호화폐 하락장이 막바지에 이르렀다고 전망했다.",
       "fetched_at": "2026-02-26T14:05:13.880041+00:00"
     },
     {
@@ -2808,304 +3097,6 @@
       "media_url": "https://resources.cryptocompare.com/news/21/58497614.jpeg",
       "korean_summary": "비탈릭 부테린(Vitalik Buterin)의 11,422 ETH 청산이 이더리움(Ethereum)의 약세장(Bear Market) 흡수력을 시험하고 있습니다. 이더리움은 연중 지속적인 매도 압력에 직면하며 2,000달러 선 회복에 어려움을 겪고 있습니다.",
       "fetched_at": "2026-02-26T04:11:39.864292+00:00"
-    },
-    {
-      "title": "Bitwise Plants Its Flag In ETF Staking With Chorus One Buyout",
-      "body_preview": "Crypto asset manager Bitwise just made one of its boldest moves yet. The company has acquired Chorus One , a staking infrastructure firm that manages more than $2.2 billion in assets across dozens of blockchain networks. The deal brings 50 Chorus One employees into Bitwise’s growing onchain division",
-      "source_url": "https://bitcoinist.com/bitwise-plants-its-flag-in-etf-staking-with-chorus-one-buyout/",
-      "source_name": "Bitcoinist",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T03:00:02+00:00",
-      "category": "macro",
-      "currencies": [
-        "ETH",
-        "SOL"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/13/58497620.jpeg",
-      "korean_summary": "암호화폐(Crypto) 자산 운용사 비트와이즈(Bitwise)가 스테이킹(Staking) 인프라 기업 코러스 원(Chorus One)을 인수하며 상장지수펀드(ETF) 스테이킹 분야에 진출했습니다. 코러스 원은 22억 달러 이상의 자산을 관리하고 있습니다.",
-      "fetched_at": "2026-02-26T04:11:39.864292+00:00"
-    },
-    {
-      "title": "Kalshi Insider Trading Bans: Politician and YouTuber Punished",
-      "body_preview": "Kalshi banned California gubernatorial candidate Kyle Langford for 5 years on suspicion of insider trading, fined YouTuber Artem Kaptur 20.000$. CFTC oversight is tightening. While crypto predictio...",
-      "source_url": "https://en.coinotag.com/kalshi-insider-trading-bans-politician-and-youtuber-punished",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T01:08:25+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/77/58494032.jpeg",
-      "korean_summary": "예측 시장 플랫폼 Kalshi는 내부자 거래 혐의로 캘리포니아 주지사 후보를 5년간 금지하고 유튜버에게 2만 달러 벌금을 부과하며 규제 강화 움직임을 보였다. 이는 상품선물거래위원회(CFTC)의 감독 강화 기조와 맞물려 있다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Ethereum DeFi Warning: Vitalik Flags Oracles As A Hidden Time Bomb",
-      "body_preview": "Ethereum co-founder Vitalik Buterin is urging the Ethereum ecosystem to treat oracle design and decentralization as a priority security problem, warning that key parts of DeFi’s stack still hide uncomfortable fragilities behind the industry’s recent growth. In a post outlining how the Ethereum Found",
-      "source_url": "https://www.newsbtc.com/news/ethereum/ethereum-defi-vitalik-oracles-hidden-time-bomb/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T01:00:52+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/58493758.jpeg",
-      "korean_summary": "이더리움(Ethereum) 공동 설립자 비탈릭 부테린은 오라클(oracle) 설계와 탈중앙화(decentralization)를 최우선 보안 문제로 다루라고 촉구했다. 그는 탈중앙화 금융(DeFi)의 핵심 부분이 여전히 숨겨진 시한폭탄을 안고 있다고 경고했다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "How VIRTUAL surged 12% while $190K tokens left exchanges – Assessing…",
-      "body_preview": "VIRTUAL builds pressure beneath $0.70 as buyers position for structural reclaim.",
-      "source_url": "https://ambcrypto.com/how-virtual-surged-12-while-190k-tokens-left-exchanges-assessing/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T01:00:48+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "가상자산 VIRTUAL은 구매자들이 구조적 회복을 위해 포지션을 잡으면서 0.70달러 아래에서 상승 압력을 받고 있다. 거래소에서 19만 달러 상당의 토큰이 유출되었음에도 12% 급등했다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Dogecoin And XRP Open Interest Crash To 2024 Levels, Here Are The Figures",
-      "body_preview": "Open interest in the derivatives markets for Dogecoin and XRP has fallen back to levels last seen in 2024, according to data from Coinglass. Slower capital inflows into the broader crypto market and extended outflows have weighed on the price action of these cryptocurrencies, and the impact is now v",
-      "source_url": "https://bitcoinist.com/dogecoin-xrp-open-interest-crash/",
-      "source_name": "Bitcoinist",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T01:00:41+00:00",
-      "category": "crypto",
-      "currencies": [
-        "DOGE",
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/13/58493765.jpeg",
-      "korean_summary": "도지코인(Dogecoin)과 XRP(리플)의 파생상품 시장 미결제 약정(open interest)이 2024년 수준으로 급락했다. 이는 광범위한 암호화폐 시장으로의 자본 유입 둔화와 관련이 있으며, 투자자들의 관심 감소를 시사한다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Bitcoin Depot launches ID checks as crypto ATM scams hit $333.5M",
-      "body_preview": "Bitcoin Depot has finally launched a new rule requiring ID checks for all transactions. The company introduced the new identity check to prevent crypto ATM fraud and improve its compliance program. The Bitcoin ATM operator has begun a gradual implementation of the new rule. Customers must show ID fo",
-      "source_url": "https://www.cryptopolitan.com/bitcoin-depot-adds-id-checks-lost-333-5m/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T00:54:57+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/43/58493876.jpeg",
-      "korean_summary": "비트코인 디포(Bitcoin Depot)는 암호화폐 ATM 사기가 3억 3,350만 달러에 달하자 모든 거래에 신분증 확인(ID checks)을 의무화하는 새 규정을 도입했다. 이는 사기 방지 및 규정 준수 프로그램 강화를 목표로 한다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Ripple Deploys Billions to Transform Global Finance, CEO Says He’s ‘Incredibly Excited’",
-      "body_preview": "Ripple is accelerating its push into institutional finance after deploying roughly $4 billion in acquisitions, as CEO Brad Garlinghouse positions the blockchain firm as core infrastructure linking traditional markets with digital assets. Ripple Channels Billions Into Powering the Next Era of Corpora",
-      "source_url": "https://news.bitcoin.com/ripple-deploys-billions-to-transform-global-finance-ceo-says-hes-incredibly-excited/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T00:46:16+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/14/58493349.jpeg",
-      "korean_summary": "리플(Ripple)은 약 40억 달러 규모의 인수를 통해 기관 금융(institutional finance) 시장 진출을 가속화하고 있다. 브래드 갈링하우스 CEO는 리플을 전통 금융과 연결하는 핵심 블록체인(blockchain) 인프라로 자리매김하겠다고 밝혔다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Bitcoin traders turn bearish as funding rates dive despite $68K support hold",
-      "body_preview": "Bitcoin traders are showing growing bearish sentiment as derivatives markets tilt toward short positions, even though the flagship cryptocurrency continues to defend key support near $68,000–$69,000. Data from derivatives analytics platforms indicates that Bitcoin funding rates have plunged deep int",
-      "source_url": "https://www.cryptopolitan.com/bitcoin-traders-turn-bearish/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T00:30:31+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/43/58492983.jpeg",
-      "korean_summary": "비트코인(Bitcoin) 트레이더들이 6만 8천 달러 지지선 유지에도 불구하고 약세(bearish) 심리를 보이며 파생상품 시장에서 매도 포지션(short positions)이 증가하고 있다. 펀딩 비율(funding rates) 하락이 이러한 추세를 뒷받침한다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Kalshi boots a US politician off the platform for insider trading",
-      "body_preview": "CFTC chair Mike Selig said the agency established a prediction markets advisory to help catch insider traders, warning there would be consequences.",
-      "source_url": "https://cointelegraph.com/news/kalshi-booted-politician-youtuber-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T00:11:04+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "예측 시장 플랫폼 Kalshi가 내부자 거래 혐의로 미국 정치인을 플랫폼에서 퇴출했다. 상품선물거래위원회(CFTC) 의장은 내부자 거래 적발을 위한 예측 시장 자문단을 설립했으며, 위반 시 강력한 조치가 있을 것이라고 경고했다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "USDT Market Capitalization Drops by Over $3 Billion, Raising Market Concerns",
-      "body_preview": "Tether’s market capitalization has declined for a second straight month, a rare occurrence last seen after the 2022 Terra collapse. This contraction, alongside muted bitcoin ETF demand, points to fragile market conditions. Stablecoin Slowdown Signals Crypto Capital Outflows Tether ( USDT) is flashin",
-      "source_url": "https://news.bitcoin.com/usdt-market-capitalization-drops-by-over-3-billion-raising-market-concerns/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T00:09:57+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "USDT",
-        "USDC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/14/58492194.jpeg",
-      "korean_summary": "테더(USDT)의 시가총액(market capitalization)이 두 달 연속 30억 달러 이상 감소하며 시장 우려를 키우고 있다. 이는 2022년 테라 붕괴 이후 처음 있는 드문 현상으로, 비트코인 현물 ETF(Bitcoin ETF) 수요 둔화와 함께 시장 취약성을 시사한다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Crypto Market Review: Bitcoin's Hides a Bearish Divergence Pattern, Ethereum (ETH) Bounces in Attempt to Recover $2,000, Will XRP Hold the Support Line?",
-      "body_preview": "Market's attempt to recover got shut down by elevated exchange inflows of a substantial transition of capital.",
-      "source_url": "https://u.today/crypto-market-review-will-xrp-hold-support-line-bitcoin-hides-severe-price-divergence-ethereum-eth",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T00:01:00+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/58491928.jpeg",
-      "korean_summary": "암호화폐 시장의 회복 시도가 상당한 자본 이동에 따른 거래소 유입(exchange inflows) 증가로 좌절되었다. 비트코인(Bitcoin)은 약세 다이버전스(bearish divergence) 패턴을 보이고, 이더리움(Ethereum)은 2,000달러 회복을 시도 중이다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "DoubleZero gains 11% – Analyzing if 2Z can hold above $0.08",
-      "body_preview": "DoubleZero's daily rally was driven by USD inflows, institutional backing and price breakout.",
-      "source_url": "https://ambcrypto.com/doublezero-up-11-analyzing-if-2z-can-hold-above-0-08/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T00:00:56+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "가상자산 DoubleZero(2Z)가 미국 달러(USD) 유입, 기관 지원(institutional backing) 및 가격 돌파에 힘입어 11% 상승했다. 0.08달러 이상을 유지할 수 있을지 관심이 모아지고 있다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Elliot Wave Analyst Predicts Bitcoin Price Will Crash In Final Move, What’s The Target?",
-      "body_preview": "According to a new forecast from an Elliott Wave analyst, the Bitcoin price could be gearing up for more pain as bearish pressures continue to weigh heavily on it. As a final bear market move, the analyst has projected that Bitcoin could crash by more than 14% from its current price near $65,000. Bi",
-      "source_url": "https://www.newsbtc.com/bitcoin-news/bitcoin-crash-in-final-move/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T00:00:41+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/58491853.jpeg",
-      "korean_summary": "엘리엇 파동(Elliot Wave) 분석가는 비트코인(Bitcoin) 가격이 약세 압력으로 인해 최종 약세장(bear market) 움직임으로 급락할 수 있다고 예측했다. 추가 하락 가능성에 대한 우려가 커지고 있다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Why Is the Crypto Market Surging Today? Breakout Momentum Builds Ahead of U.S. Data",
-      "body_preview": "The crypto market is showing renewed strength after several days of volatility, with prices rebounding as traders reposition ahead of key U.S. economic data. A mix of technical recovery, macroeconomic expectations, and market structure dynamics has helped digital assets regain momentum. After recent",
-      "source_url": "https://bitcoinist.com/why-crypto-market-surging-today-breakout-momentum/",
-      "source_name": "Bitcoinist",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-26T00:00:25+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/13/58491859.jpeg",
-      "korean_summary": "암호화폐 시장이 며칠간의 변동성 이후 다시 강세를 보이며 가격이 반등하고 있다. 트레이더들이 주요 미국 경제 지표 발표를 앞두고 포지션을 재조정하면서 기술적 회복과 거시경제(macroeconomic) 요인이 복합적으로 작용하고 있다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Santiment Reveals What Cardano (ADA) Have Whales Are Doing Quietly",
-      "body_preview": "Large holders of Cardano have increased their ADA positions over the past six months, even as the asset experienced a steep decline in market value. Recent on-chain metrics indicate that wallets containing between 100,000 and 100 million ADA steadily accumulated tokens throughout the downturn, showi",
-      "source_url": "https://timestabloid.com/santiment-reveals-what-cardano-ada-have-whales-are-doing-quietly/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-25T23:30:11+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ADA"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "카르다노(Cardano)의 대규모 보유자들, 일명 '고래(whales)'들이 지난 6개월간 ADA 포지션을 늘린 것으로 나타났다. 자산 가치가 크게 하락했음에도 불구하고, 최근 온체인 지표(on-chain metrics)는 이들의 조용한 매집을 보여준다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Bitcoin Goes Sovereign: 23 Nation-States Estimated to Own BTC",
-      "body_preview": "A new research report from bitcoin-focused financial services firm River estimates that 23 nation-states now hold bitcoin, signaling a steady shift from fringe asset to sovereign balance sheet contender. River Report: Nearly 2 Dozen Countries Now Hold Bitcoin as Nation-State Adoption Expands River’s",
-      "source_url": "https://news.bitcoin.com/bitcoin-goes-sovereign-23-nation-states-estimated-to-own-btc/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-25T23:15:10+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/14/58490357.jpeg",
-      "korean_summary": "비트코인(Bitcoin) 전문 금융 서비스 기업 리버(River)의 보고서에 따르면, 현재 23개 국가(nation-states)가 비트코인을 보유하고 있는 것으로 추정된다. 이는 비트코인이 주변 자산에서 국가 주권(sovereign) 대차대조표 자산으로 꾸준히 전환되고 있음을 시사한다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "Trump says AI will pay its fair share for electricity. Don’t expect cheaper power bills soon.",
-      "body_preview": "President Donald Trump said during the State of the Union address that tech companies will provide their own power for AI data centers — but energy experts say things are not that simple.",
-      "source_url": "https://www.marketwatch.com/story/trump-says-ai-will-pay-its-fair-share-for-electricity-dont-expect-cheaper-power-bills-soon-a3984cee",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-25T17:34:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "트럼프 대통령은 국정연설에서 AI가 전력 비용을 공정하게 지불할 것이라고 언급했습니다. 그러나 에너지 전문가들은 기술 기업들이 AI 데이터센터(data center)에 자체 전력을 공급하는 것이 간단치 않다고 지적하며, 전기료 인하를 기대하기 어렵다고 말합니다.",
-      "fetched_at": "2026-02-26T01:17:04.286378+00:00"
-    },
-    {
-      "title": "GDC BTC Sales Authorization: Conversion for Share Buyback",
-      "body_preview": "GD Culture Group (GDC) received authorization to sell its BTC treasury for share buybacks. The company's investment, ranking 15th with 7,500 BTC, lost 41% of its value. Shares rose 24%. BTC at 68,2...",
-      "source_url": "https://en.coinotag.com/gdc-btc-sales-authorization-conversion-for-share-buyback",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-25T23:07:37+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/58490117.jpeg",
-      "korean_summary": "GD컬처그룹(GDC)은 자사주 매입을 위해 보유 중인 비트코인(BTC) 매각을 승인받았다. 7,500 BTC 규모의 투자 가치는 41% 하락했으나, 이 소식에 회사 주가는 24% 상승했다.",
-      "fetched_at": "2026-02-25T23:22:17.569900+00:00"
-    },
-    {
-      "title": "Bitcoin surges to above $68k amid bargain buying, positive session for Wall Street",
-      "body_preview": "",
-      "source_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-to-65k-amid-bargain-buying-wall-st-gains-4523276",
-      "source_name": "Investing.com Crypto News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-25T23:01:04+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
-      "korean_summary": "비트코인(Bitcoin) 가격이 저가 매수세와 월스트리트(Wall Street)의 긍정적인 분위기에 힘입어 6만 8천 달러를 돌파하며 급등했다. 이는 투자 심리 개선에 따른 것으로 분석된다.",
-      "fetched_at": "2026-02-25T23:22:17.569900+00:00"
     }
   ]
 }
