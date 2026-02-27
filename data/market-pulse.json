@@ -1,8 +1,467 @@
 {
-  "last_updated": "2026-02-27T22:18:46.068554+00:00",
-  "last_updated_kst": "2026-02-28 07:18 KST",
+  "last_updated": "2026-02-27T23:17:27.242149+00:00",
+  "last_updated_kst": "2026-02-28 08:17 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Bitcoin Drops to $65,000 as Retail Panic Grows, But There Is A Catch",
+      "body_preview": "Bitcoin (BTC) traded sideways on Friday following a volatile week that left the market on edge.",
+      "source_url": "https://zycrypto.com/bitcoin-drops-to-65000-as-retail-panic-grows-but-there-is-a-catch/",
+      "source_name": "ZyCrypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T23:07:28+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
+      "korean_summary": "비트코인(BTC)은 변동성이 큰 한 주를 보낸 후 금요일에 횡보세를 나타내며 시장의 긴장감을 유지했습니다. 소매 투자자들의 패닉이 커지는 가운데 65,000달러 선에서 움직였습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "XRP Daily Liquidity Is Pointing To A Rally To $4, Analyst Explains What’s Going On",
+      "body_preview": "XRP’s liquidity structure on higher timeframes is in a situation where the path of least resistance could extend to the $4 level. The remark came from crypto analyst Bird in response to hourly and daily liquidity heatmaps shared by Cryptoinsightuk, which show a clear contrast between short-term and ",
+      "source_url": "https://www.newsbtc.com/analysis/xrp/xrp-daily-liquidity-pointing-4/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T23:00:53+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/58586280.jpeg",
+      "korean_summary": "암호화폐 분석가 Bird는 XRP의 유동성 구조가 $4 수준까지 상승할 수 있는 최소 저항 경로를 나타낸다고 분석했습니다. 이는 XRP의 잠재적 랠리에 대한 기대를 높이고 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "TRUMP’s $3.18 vs $3.60 liquidity battle: What’s next for price?",
+      "body_preview": "TRUMP compresses near key support as whale deposit reshapes market expectations.",
+      "source_url": "https://ambcrypto.com/trumps-3-18-vs-3-60-liquidity-battle-whats-next-for-price/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T23:00:52+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "TRUMP 토큰은 고래(whale) 투자자의 예치로 시장 기대치가 재편되면서 핵심 지지선 근처에서 압축되고 있습니다. $3.18 대 $3.60 유동성 싸움이 가격 향방을 결정할 것으로 보입니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "The Most Important Variable For Bitcoin That Investors Should Know About",
+      "body_preview": "While Bitcoin investors often prioritize price targets , support zones, and percentage moves, a recent breakdown by analyst @ArdiNSC shifts attention toward a different and often overlooked metric: time. He argues that the duration of consolidation within a downtrend can reveal more about the streng",
+      "source_url": "https://bitcoinist.com/most-important-variable-bitcoin/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T23:00:51+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/58586283.jpeg",
+      "korean_summary": "비트코인(Bitcoin) 투자자들은 주로 가격 목표와 지지선을 중요시하지만, 분석가 @ArdiNSC는 간과되기 쉬운 '시간'이라는 변수가 가장 중요하다고 강조했습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "ZEC Comprehensive Technical Analysis: February 27, 2026 Detailed Review",
+      "body_preview": "ZEC is in a strong bear trend at the 218.34$ level; supports at 212$ and 184$ are critical, RSI is giving an oversold signal. BTC downtrend correlation is increasing risk, short-term bounce has lim...",
+      "source_url": "https://en.coinotag.com/analysis/zec-comprehensive-technical-analysis-february-27-2026-detailed-review",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T23:00:28+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "ZEC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58586401.jpeg",
+      "korean_summary": "ZEC는 $218.34 수준에서 강한 하락 추세에 있으며, $212와 $184 지지선이 중요합니다. 상대강도지수(RSI)는 과매도 신호를 보이지만, 비트코인(BTC) 하락 추세와의 상관관계로 단기 반등은 제한적입니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "LinkedIn Co-Founder Reid Hoffman Makes Major Ethereum Bet — His ETH Holdings Revealed",
+      "body_preview": "Billionaire tech entrepreneur Reid Hoffman, best known for co-founding business networking platform LinkedIn, has emerged as a major Ethereum supporter.",
+      "source_url": "https://zycrypto.com/linkedin-co-founder-reid-hoffman-makes-major-ethereum-bet-his-eth-holdings-revealed/",
+      "source_name": "ZyCrypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:58:41+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
+      "korean_summary": "비즈니스 네트워킹 플랫폼 링크드인(LinkedIn)의 공동 창업자인 억만장자 기술 기업가 리드 호프만(Reid Hoffman)이 이더리움(Ethereum)의 주요 지지자로 부상하며 대규모 투자를 진행했습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Bitcoin Price Plummets: BTC Falls Below $65,000 Amidst Market Uncertainty",
+      "body_preview": "BitcoinWorld Bitcoin Price Plummets: BTC Falls Below $65,000 Amidst Market Uncertainty Global cryptocurrency markets witnessed a significant shift on April 10, 2025, as the Bitcoin price decisively broke below the $65,000 support level. According to real-time data from Bitcoin World market monitorin",
+      "source_url": "https://bitcoinworld.co.in/bitcoin-price-falls-below-65000-7/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:55:12+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "2025년 4월 10일, 글로벌 암호화폐 시장에서 비트코인(BTC) 가격이 $65,000 아래로 급락하며 시장 불확실성이 커졌습니다. 이는 투자자들에게 상당한 변화를 가져왔습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "SoFi Becomes First US Bank to Enable Direct Solana Deposits",
+      "body_preview": "The growing convergence between traditional banking and public blockchains took a notable step forward this week. SoFi became the first nationally chartered US bank to enable direct deposits on the Solana network. As a result, more than 13.7 million customers can now transfer SOL tokens from externa",
+      "source_url": "https://coinpaper.com/15021/so-fi-becomes-first-us-bank-to-enable-direct-solana-deposits",
+      "source_name": "Coinpaper",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:40:15+00:00",
+      "category": "crypto",
+      "currencies": [
+        "FIAT",
+        "SOL"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/93/default.png",
+      "korean_summary": "핀테크 기업 소파이(SoFi)가 미국 최초로 솔라나(Solana) 직접 예치를 지원하는 국영 은행이 되었습니다. 이는 전통 은행과 퍼블릭 블록체인(public blockchain) 간의 융합에서 중요한 진전으로 평가됩니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "SUI Technical Analysis February 27, 2026: Weekly Strategy",
+      "body_preview": "SUI is maintaining its downtrend structure with a weekly %4,23 loss, testing critical support at $0,89. Even though MACD gives a positive signal, BTC's bearish context increases risk in favor of sh...",
+      "source_url": "https://en.coinotag.com/analysis/sui-technical-analysis-february-27-2026-weekly-strategy",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:38:44+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "SUI"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58585583.jpeg",
+      "korean_summary": "SUI는 주간 4.23% 하락하며 하락 추세를 유지하고 있으며, $0.89의 중요 지지선을 테스트 중입니다. MACD는 긍정적 신호를 보이지만, 비트코인(BTC)의 약세장이 단기 하락 위험을 높이고 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Crypto Price Prediction Today 26 February – XRP, Solana, Dogecoin",
+      "body_preview": "With the CLARITY Act nearing completion, investors are watching closely for signals from U.S. regulators that could trigger the next bull run. Clear regulations in the US are no small thing. They’ve been a core demand of the industry since its inception. So, when they finally arrive XRP, Solana and ",
+      "source_url": "https://cryptonews.com/news/crypto-price-prediction-today-26-february-xrp-solana-dogecoin/",
+      "source_name": "cryptonews",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:35:00+00:00",
+      "category": "macro",
+      "currencies": [
+        "DOGE",
+        "SOL",
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/52/58585380.jpeg",
+      "korean_summary": "CLARITY 법안이 마무리 단계에 접어들면서, 투자자들은 미국 규제 당국의 명확한 신호가 다음 강세장(bull run)을 촉발할지 주목하고 있습니다. 이는 XRP, 솔라나, 도지코인 등 암호화폐 시장에 큰 영향을 미칠 수 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Solana price prediction 2026-2032: Trends and insights for investors",
+      "body_preview": "Key takeaways Solana’s price can reach a maximum of $148.23 with an average trading value of $94.64 in 2026. By 2029, SOL is expected to reach a high of $286.59, supported by continued ecosystem growth and network adoption. Solana’s price could see further upside by 2032, potentially reaching $552.1",
+      "source_url": "https://www.cryptopolitan.com/solana-price-prediction/",
+      "source_name": "Cryptopolitan",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:30:00+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "SOL"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/43/39039.jpeg",
+      "korean_summary": "솔라나(Solana) 가격은 2026년에 최대 $148.23, 평균 $94.64에 도달할 수 있으며, 2029년에는 지속적인 생태계 성장에 힘입어 $286.59까지 상승할 것으로 예측됩니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "China’s DeepSeek AI Predicts the Price of XRP, Bitcoin and Ethereum",
+      "body_preview": "DeepSeek AI predicts great things this year for HODLers of XRP, Bitcoin and Ethereum. Despite months of persistent downside pressure across the crypto market, DeepSeek has a notably optimistic stance on the market leaders, projecting that all three could reach fresh all-time highs within the next te",
+      "source_url": "https://cryptonews.com/news/chinas-deepseek-ai-predicts-the-price-of-xrp-bitcoin-and-ethereum/",
+      "source_name": "cryptonews",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:30:00+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/52/58585245.jpeg",
+      "korean_summary": "중국의 딥시크 AI(DeepSeek AI)는 수개월간의 암호화폐 시장 하락 압력에도 불구하고, 올해 XRP, 비트코인(Bitcoin), 이더리움(Ethereum) 보유자들에게 긍정적인 전망을 내놓았습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Bitcoin Price Prediction: Wikipedia Founder Warns BTC Could Collapse Below $10K — Should Investors Panic?",
+      "body_preview": "Bitcoin is back under fire after Wikipedia co-founder Jimmy Wales warned it could one day trade below $10,000 fueling bearish price prediction . Wales does not think Bitcoin goes to zero. But he questions whether it truly becomes global money or a reliable store of value. People who think that Bitco",
+      "source_url": "https://cryptonews.com/news/bitcoin-price-prediction-wikipedia-founder-warns-btc-could-collapse-below-10k-should-investors-panic/",
+      "source_name": "cryptonews",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:30:00+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/52/58585246.jpeg",
+      "korean_summary": "위키피디아(Wikipedia) 공동 창업자 지미 웨일스(Jimmy Wales)는 비트코인(Bitcoin)이 언젠가 $10,000 아래로 떨어질 수 있다고 경고하며 약세 전망을 부추겼습니다. 투자자들의 우려가 커지고 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Bitcoin price slump versus gold’s gains highlights evolving crypto market",
+      "body_preview": "Investors’ risk appetite for Bitcoin and crypto fragmented as AI, tech stocks and gold took center stage. Will increasing global money supply put wind in BTC’s sails?",
+      "source_url": "https://cointelegraph.com/news/bitcoin-price-slump-versus-gold-s-gains-highlights-evolving-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:30:00+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "FIAT"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "비트코인(Bitcoin) 가격 하락과 금(gold)의 상승은 암호화폐 시장의 변화를 보여줍니다. 인공지능(AI)과 기술주, 금이 주목받으며 투자자들의 비트코인 위험 선호도가 분산되고 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Bitcoin trading below $67k, set for fifth straight red month as crypto suffers",
+      "body_preview": "",
+      "source_url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-back-below-68k-as-rebound-stalls-set-for-5th-straight-monthly-loss-4530480",
+      "source_name": "Investing.com Crypto News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:18:23+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
+      "korean_summary": "비트코인(Bitcoin)이 $67,000 아래에서 거래되며 암호화폐 시장의 어려움 속에 5개월 연속 하락세를 기록할 것으로 예상됩니다. 이는 시장 전반의 약세를 반영합니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Here’s what’s worth streaming in March 2026 on Netflix, Hulu, HBO Max and more",
+      "body_preview": "Shows like HBO’s ‘DTF St. Louis’ and ‘Rooster,’ Paramount’s ‘The Madison’ and Netflix’s ‘Peaky Blinders’ movie jump out of the gate as Emmy season gets underway",
+      "source_url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-march-2026-on-netflix-hulu-hbo-max-and-more-83f5b64d",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:51:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "2026년 3월, 넷플릭스(Netflix), 훌루(Hulu), HBO 맥스(HBO Max) 등 주요 스트리밍 서비스에서 HBO의 'DTF St. Louis', 넷플릭스의 '피키 블라인더스' 영화 등 다양한 신규 콘텐츠가 에미상(Emmy) 시즌을 앞두고 공개되며 주목받고 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Trump warns‘sometimes you have to’ use force on Friday. Oil markets now see high odds of a U.S. strike on Iran.",
+      "body_preview": "Oil prices jolted higher on Friday, booking their biggest daily gains in over a week, after President Trump signaled the window for using diplomacy to end Tehran’s nuclear program may be closing.",
+      "source_url": "https://www.marketwatch.com/story/trump-said-sometimes-you-have-to-use-force-on-friday-oil-markets-now-see-high-odds-of-the-u-s-striking-iran-abbaf88c",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:38:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "트럼프(Trump) 대통령이 이란 핵 프로그램의 외교적 해결 시한이 끝나가며 무력 사용 가능성을 시사하자, 금요일 유가(oil prices)가 일주일 만에 최대폭으로 급등했습니다. 시장은 미국의 이란 공격 가능성을 높게 보고 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Trump blacklists Anthropic, opening the door to Elon Musk and xAI",
+      "body_preview": "Grok will let its model be used for classified purposes, while Anthropic has balked at the idea that its products could be used for mass surveillance.",
+      "source_url": "https://www.marketwatch.com/story/trump-blacklists-anthropic-opening-the-door-to-elon-musk-and-xai-03011fda",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T22:11:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "트럼프(Trump) 행정부가 앤트로픽(Anthropic)을 블랙리스트에 올리면서 일론 머스크(Elon Musk)의 xAI에 기회가 열렸습니다. xAI의 그록(Grok)은 기밀 목적 사용에 동의했지만, 앤트로픽은 자사 제품의 대량 감시 활용에 반대했습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "The real winner in the battle for Warner Bros. isn’t who you think it is",
+      "body_preview": "Also in Weekend Reads: How to invest during the AI transition, what OpenAI needs to do and a warning for aspiring day traders.",
+      "source_url": "https://www.marketwatch.com/story/the-real-winner-in-the-battle-for-warner-bros-isnt-who-you-think-it-is-e737789e",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T20:37:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "워너 브라더스(Warner Bros.) 인수전의 숨겨진 승자에 대한 분석과 함께, AI 전환기 투자 방법, 오픈AI(OpenAI)의 향후 과제, 그리고 신규 데이 트레이더(day traders)들을 위한 경고 등 다양한 금융 시장 인사이트가 소개되었습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Palantir’s stock nabs another upgrade, with its valuation now less of a ‘struggle’",
+      "body_preview": "Palantir Technologies’ stock has been a fan favorite among retail investors. Now, Wall Street analysts are warming to the software company’s story.",
+      "source_url": "https://www.marketwatch.com/story/palantirs-stock-nabs-another-upgrade-with-its-valuation-now-less-of-a-struggle-e354edf5",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T20:37:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "소매 투자자(retail investors)들 사이에서 인기를 끌었던 팔란티어 테크놀로지스(Palantir Technologies) 주식이 또다시 상향 평가를 받았습니다. 월스트리트(Wall Street) 애널리스트들도 이 소프트웨어 기업의 성장 스토리에 긍정적인 시각을 보이며, 기업 가치 평가의 어려움이 줄어들고 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "The bond market has been doing something strange despite a hot inflation report",
+      "body_preview": "Worries over the destructive impact of artificial intelligence on the U.S.  economy were sweeping through the $30 trillion bond market on Friday.",
+      "source_url": "https://www.marketwatch.com/story/the-bond-market-has-been-doing-something-strange-despite-a-hot-inflation-report-8670c7da",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T20:15:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "뜨거운 인플레이션(inflation) 보고서에도 불구하고 채권 시장(bond market)에서 이상 현상이 관측되었습니다. 금요일, 30조 달러 규모의 미국 채권 시장에는 인공지능(AI)이 미국 경제에 미칠 파괴적인 영향에 대한 우려가 확산되었습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Software stocks fall as Block’s big job cuts stoke further AI fears",
+      "body_preview": "Block’s layoffs exacerbated concerns that artificial-intelligence could decimate employee counts and hurt demand for software.",
+      "source_url": "https://www.marketwatch.com/story/software-stocks-fall-as-blocks-big-job-cuts-stoke-further-ai-fears-c66aef8e",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T19:55:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "블록(Block)의 대규모 해고(layoffs) 소식으로 소프트웨어 주식(software stocks)이 하락했습니다. 이는 인공지능(AI)이 고용을 감소시키고 소프트웨어 수요를 위축시킬 수 있다는 시장의 우려를 더욱 증폭시켰습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Her accountant went to prison. Now the IRS is coming after her for $328,000.",
+      "body_preview": "She didn’t intend to evade taxes when she hired the accountant in 1993, but she’s still on the hook for his actions.",
+      "source_url": "https://www.marketwatch.com/story/her-accountant-went-to-prison-now-the-irs-is-coming-after-her-for-328-000-56e9ba11",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T19:46:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "한 여성이 1993년 고용한 회계사(accountant)의 탈세(tax evasion) 행위로 인해 32만 8천 달러의 세금 추징을 당하게 되었습니다. 본인의 탈세 의도가 없었음에도 불구하고, 회계사의 잘못된 행동에 대한 책임은 여전히 본인에게 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Nvidia's stock wrapping up tough week as Wall Street focuses more on competition than growth",
+      "body_preview": "Meta will use AMD's chips and is reportedly interested in Google processors, while OpenAI is turning to Amazon silicon, as Nvidia faces increasing competition.",
+      "source_url": "https://www.cnbc.com/2026/02/27/nvidia-wraps-tough-week-as-investors-focus-on-competition-over-growth.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T19:42:39+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108271131-1772216713295-gettyimages-2258612695-TAIWAN_JENSEN_HUANG.jpeg?v=1772216782&w=1920&h=1080",
+      "korean_summary": "엔비디아(Nvidia) 주식이 힘든 한 주를 마감했습니다. 월스트리트(Wall Street)는 엔비디아의 성장보다 경쟁 심화에 더 주목하며, 메타(Meta)가 AMD 칩을 사용하고 오픈AI(OpenAI)가 아마존(Amazon) 실리콘을 활용하는 등 경쟁사들의 움직임이 활발합니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "United’s stock and other airline shares get a reality check from rising oil prices, market jitters",
+      "body_preview": "United Airlines’ stock was leading S&P 500 index decliners on Friday and heading for its worst drop in 10 months, with other airline stocks also seeing steep declines amid rising oil futures prices and increased market jitters.",
+      "source_url": "https://www.marketwatch.com/story/uniteds-stock-and-other-airline-shares-get-a-reality-check-from-rising-oil-prices-market-jitters-2b6adfd0",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T19:03:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "유나이티드 항공(United Airlines) 주식이 금요일 S&P 500 지수(index) 하락을 주도하며 10개월 만에 최악의 하락세를 기록했습니다. 유가(oil prices) 선물 가격 상승과 시장 불안정으로 인해 다른 항공주(airline shares)들도 급락세를 보였습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "10-year yield falls below 4% on stagflation risk following hot producer prices reading",
+      "body_preview": "U.S. Treasury yields were lower on Friday as investors reacted to wholesale inflation that came in above Wall Street estimates.",
+      "source_url": "https://www.cnbc.com/2026/02/27/us-treasury-yields-investors-await-wholesale-inflation-reading.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T18:39:35+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108266902-1771437546576-Traders-OB-Photo-20260218-CC-PRESS-11.jpg?v=1771437734&w=1920&h=1080",
+      "korean_summary": "뜨거운 생산자 물가 지수(producer prices) 발표 이후 스태그플레이션(stagflation) 위험이 부각되면서 10년물 국채 수익률(10-year yield)이 4% 아래로 떨어졌습니다. 금요일, 투자자들은 월스트리트(Wall Street) 예상치를 웃돈 도매 인플레이션(wholesale inflation) 수치에 반응하며 미국 국채 수익률이 하락했습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Medicare will run out of money 12 years earlier than expected",
+      "body_preview": "The Congressional Budget Office warns America’s public retirement programs are deteriorating at a shocking rate.",
+      "source_url": "https://www.marketwatch.com/story/medicare-will-run-out-of-money-12-years-earlier-than-expected-23b24c83",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T18:16:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "의회예산국(CBO)은 미국의 공공 연금 프로그램이 충격적인 속도로 악화되고 있다고 경고했습니다. 이에 따라 메디케어(Medicare) 자금이 예상보다 12년 일찍 고갈될 것으로 전망되어 우려가 커지고 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Did Paramount overpay and Netflix get away scot-free? Taking stock of the Warner Bros. deal.",
+      "body_preview": "Paramount must now absorb a troubled asset at a high cost, while Netflix investors seem overjoyed to not have such problems.",
+      "source_url": "https://www.marketwatch.com/story/did-paramount-overpay-and-netflix-get-away-scot-free-taking-stock-of-the-warner-bros-deal-98ee934d",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T18:00:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "파라마운트(Paramount)가 워너 브라더스(Warner Bros.) 인수로 고비용의 문제 자산을 떠안게 된 반면, 넷플릭스(Netflix) 투자자들은 이러한 문제에서 벗어난 것에 대해 기뻐하는 분위기입니다. 이번 워너 브라더스 딜에 대한 시장의 평가가 엇갈리고 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Boomers waste money, too. These are the spending traps tripping up the richest generation.",
+      "body_preview": "Baby boomers may not be the “avocado toast” generation, but they have plenty of their own wasteful and financially damaging habits.",
+      "source_url": "https://www.marketwatch.com/story/boomers-waste-money-too-these-are-the-spending-traps-tripping-up-the-richest-generation-ddc3f112",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T17:21:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "베이비부머(Baby boomers) 세대도 낭비적인 지출 습관으로 재정적 손실을 겪을 수 있습니다. 이들은 '아보카도 토스트' 세대는 아니지만, 부유한 세대임에도 불구하고 다양한 소비 함정에 빠져 돈을 낭비하는 경향이 있습니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
+    {
+      "title": "Most banks fail miserably at helping grieving families make this vital financial move",
+      "body_preview": "When a loved one dies, the last thing you want to hear is hold music.",
+      "source_url": "https://www.marketwatch.com/story/most-banks-fail-miserably-at-helping-grieving-families-make-this-vital-financial-move-66831e97",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-27T17:13:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "사랑하는 사람을 잃은 유가족(grieving families)들이 중요한 재정적 조치를 취할 때, 대부분의 은행(banks)들이 제대로 도움을 주지 못하고 있습니다. 이는 슬픔에 잠긴 가족들에게 불필요한 어려움을 가중시키는 문제로 지적됩니다.",
+      "fetched_at": "2026-02-27T23:17:27.238673+00:00"
+    },
     {
       "title": "Anthropic Federal Ban: President Trump’s Explosive Order Halts AI Contracts After Pentagon Standoff",
       "body_preview": "BitcoinWorld Anthropic Federal Ban: President Trump’s Explosive Order Halts AI Contracts After Pentagon Standoff WASHINGTON, D.C. — February 27, 2026: In a dramatic escalation of tensions between Silicon Valley and the federal government, President Donald Trump has ordered all federal agencies to ce",
@@ -237,174 +696,6 @@
       "currencies": [],
       "media_url": "https://resources.cryptocompare.com/news/5/58583162.jpeg",
       "korean_summary": "코인베이스(Coinbase)의 법무 책임자는 주(state) 정부들이 예측 시장(prediction markets)을 차단하려 연방 법률을 왜곡하고 있다고 주장했다. 이는 예측 시장의 합법성과 규제 경계에 대한 논쟁을 심화시키고 있다.",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "The real winner in the battle for Warner Bros. isn’t who you think it is",
-      "body_preview": "Also in Weekend Reads: How to invest during the AI transition, what OpenAI needs to do and a warning for aspiring day traders.",
-      "source_url": "https://www.marketwatch.com/story/the-real-winner-in-the-battle-for-warner-bros-isnt-who-you-think-it-is-e737789e",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T20:37:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "Palantir’s stock nabs another upgrade, with its valuation now less of a ‘struggle’",
-      "body_preview": "Palantir Technologies’ stock has been a fan favorite among retail investors. Now, Wall Street analysts are warming to the software company’s story.",
-      "source_url": "https://www.marketwatch.com/story/palantirs-stock-nabs-another-upgrade-with-its-valuation-now-less-of-a-struggle-e354edf5",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T20:37:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "The bond market has been doing something strange despite a hot inflation report",
-      "body_preview": "Worries over the destructive impact of artificial intelligence on the U.S.  economy were sweeping through the $30 trillion bond market on Friday.",
-      "source_url": "https://www.marketwatch.com/story/the-bond-market-has-been-doing-something-strange-despite-a-hot-inflation-report-8670c7da",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T20:15:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "Software stocks fall as Block’s big job cuts stoke further AI fears",
-      "body_preview": "Block’s layoffs exacerbated concerns that artificial-intelligence could decimate employee counts and hurt demand for software.",
-      "source_url": "https://www.marketwatch.com/story/software-stocks-fall-as-blocks-big-job-cuts-stoke-further-ai-fears-c66aef8e",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T19:55:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "Her accountant went to prison. Now the IRS is coming after her for $328,000.",
-      "body_preview": "She didn’t intend to evade taxes when she hired the accountant in 1993, but she’s still on the hook for his actions.",
-      "source_url": "https://www.marketwatch.com/story/her-accountant-went-to-prison-now-the-irs-is-coming-after-her-for-328-000-56e9ba11",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T19:46:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "Nvidia's stock wrapping up tough week as Wall Street focuses more on competition than growth",
-      "body_preview": "Meta will use AMD's chips and is reportedly interested in Google processors, while OpenAI is turning to Amazon silicon, as Nvidia faces increasing competition.",
-      "source_url": "https://www.cnbc.com/2026/02/27/nvidia-wraps-tough-week-as-investors-focus-on-competition-over-growth.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T19:42:39+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108271131-1772216713295-gettyimages-2258612695-TAIWAN_JENSEN_HUANG.jpeg?v=1772216782&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "United’s stock and other airline shares get a reality check from rising oil prices, market jitters",
-      "body_preview": "United Airlines’ stock was leading S&P 500 index decliners on Friday and heading for its worst drop in 10 months, with other airline stocks also seeing steep declines amid rising oil futures prices and increased market jitters.",
-      "source_url": "https://www.marketwatch.com/story/uniteds-stock-and-other-airline-shares-get-a-reality-check-from-rising-oil-prices-market-jitters-2b6adfd0",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T19:03:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "10-year yield falls below 4% on stagflation risk following hot producer prices reading",
-      "body_preview": "U.S. Treasury yields were lower on Friday as investors reacted to wholesale inflation that came in above Wall Street estimates.",
-      "source_url": "https://www.cnbc.com/2026/02/27/us-treasury-yields-investors-await-wholesale-inflation-reading.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T18:39:35+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108266902-1771437546576-Traders-OB-Photo-20260218-CC-PRESS-11.jpg?v=1771437734&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "Medicare will run out of money 12 years earlier than expected",
-      "body_preview": "The Congressional Budget Office warns America’s public retirement programs are deteriorating at a shocking rate.",
-      "source_url": "https://www.marketwatch.com/story/medicare-will-run-out-of-money-12-years-earlier-than-expected-23b24c83",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T18:16:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "Did Paramount overpay and Netflix get away scot-free? Taking stock of the Warner Bros. deal.",
-      "body_preview": "Paramount must now absorb a troubled asset at a high cost, while Netflix investors seem overjoyed to not have such problems.",
-      "source_url": "https://www.marketwatch.com/story/did-paramount-overpay-and-netflix-get-away-scot-free-taking-stock-of-the-warner-bros-deal-98ee934d",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T18:00:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "Boomers waste money, too. These are the spending traps tripping up the richest generation.",
-      "body_preview": "Baby boomers may not be the “avocado toast” generation, but they have plenty of their own wasteful and financially damaging habits.",
-      "source_url": "https://www.marketwatch.com/story/boomers-waste-money-too-these-are-the-spending-traps-tripping-up-the-richest-generation-ddc3f112",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T17:21:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-02-27T22:18:46.064581+00:00"
-    },
-    {
-      "title": "Most banks fail miserably at helping grieving families make this vital financial move",
-      "body_preview": "When a loved one dies, the last thing you want to hear is hold music.",
-      "source_url": "https://www.marketwatch.com/story/most-banks-fail-miserably-at-helping-grieving-families-make-this-vital-financial-move-66831e97",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T17:13:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
       "fetched_at": "2026-02-27T22:18:46.064581+00:00"
     },
     {
@@ -2818,288 +3109,6 @@
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "비트코인(Bitcoin)이 글로벌 디지털 자산으로 성숙해감에 따라, 2026년부터 2030년까지 비트코인 가격을 형성할 핵심 요인들을 분석하는 전망이 제시되었다. 투자자와 분석가들은 비트코인의 여정에 주목하고 있다.",
       "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "MARA Stock Up 12% Despite $1.71B Loss as Company Shifts to AI",
-      "body_preview": "MARA Holdings reported a net loss of $1.71 billion for Q4 2025, compared with a $528.3 million profit in the same period last year. Quarterly revenue fell 6% to $202.3 million, according to a filing with the SEC, as the decline in Bitcoin prices outweighed gains from higher network hash rates. The b",
-      "source_url": "https://coinpaper.com/14997/mara-stock-up-12-despite-1-71-b-loss-as-company-shifts-to-ai",
-      "source_name": "Coinpaper",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:43:51+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/93/default.png",
-      "korean_summary": "MARA 홀딩스(Holdings)는 2025년 4분기 17.1억 달러의 순손실을 기록했음에도 불구하고, 인공지능(AI)으로 사업 전환을 발표하며 주가가 12% 상승했다. 분기 매출은 6% 감소한 2억 230만 달러를 기록했다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "Canton Crypto Network vs. XRP: Breaking Down DTCC’s Infrastructure and Liquidity Needs",
-      "body_preview": "A heated debate has erupted over whether Canton Network is quietly positioning itself to replace XRP as the likely onboarder of institutions into crypto technology. A fourth set of onchain repo transactions has been completed on @CantonNetwork . This round marks the first cross-border intraday repo ",
-      "source_url": "https://cryptonews.com/news/canton-network-vs-xrp-dtcc-crypto-infrastructure-liquidity/",
-      "source_name": "cryptonews",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:42:41+00:00",
-      "category": "macro",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/52/58566202.jpeg",
-      "korean_summary": "Canton 네트워크가 기관들을 암호화폐(crypto) 기술로 유입시키는 데 XRP를 대체할 수 있을지에 대한 논쟁이 가열되고 있다. DTCC의 인프라 및 유동성 요구 사항을 중심으로 두 네트워크의 역할에 대한 분석이 진행 중이다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "South Korea’s Tax Agency Leak Triggers $4.8 Million Crypto Heist",
-      "body_preview": "South Korea’s tax authority leaked a crypto recovery phrase during a public statement. Unauthorized transactions funneled $4.8 million in tokens to unknown addresses after the leak. Continue Reading: South Korea’s Tax Agency Leak Triggers $4.8 Million Crypto Heist The post South Korea’s Tax Agency L",
-      "source_url": "https://en.coin-turk.com/south-koreas-tax-agency-leak-triggers-4-8-million-crypto-heist/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:40:30+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ASIA"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/79/58566119.jpeg",
-      "korean_summary": "한국 국세청이 공개 성명 중 암호화폐(crypto) 복구 문구를 유출하여, 이로 인해 480만 달러 상당의 토큰이 미상의 주소로 무단 전송되는 사건이 발생했다. 당국은 유출 경위와 피해 규모를 조사 중이다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "WLFI Token Deposit Sparks Market Speculation: World Liberty Financial Moves $1.31M to OKX",
-      "body_preview": "BitcoinWorld WLFI Token Deposit Sparks Market Speculation: World Liberty Financial Moves $1.31M to OKX In a significant on-chain development that captured market attention this week, an address associated with World Liberty Financial executed a substantial token transfer to a major exchange, potenti",
-      "source_url": "https://bitcoinworld.co.in/wlfi-token-deposit-okx-market/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:40:17+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "월드 리버티 파이낸셜(World Liberty Financial)과 연관된 주소가 131만 달러 상당의 WLFI 토큰을 OKX 거래소로 예치하며 시장의 이목을 끌었다. 이는 시장 내 WLFI 토큰에 대한 투기적 움직임을 촉발하고 있다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "Ondo Price Prediction 2026-2030: The Realistic Path to $10 Revealed",
-      "body_preview": "BitcoinWorld Ondo Price Prediction 2026-2030: The Realistic Path to $10 Revealed As institutional adoption of tokenized real-world assets accelerates globally, Ondo Finance’s ONDO token emerges as a critical infrastructure component for the 2025-2030 financial landscape. This comprehensive analysis ",
-      "source_url": "https://bitcoinworld.co.in/ondo-price-prediction-2026-2030-analysis-4/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:35:13+00:00",
-      "category": "macro",
-      "currencies": [
-        "ONDO"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "토큰화된 실물 자산(RWA)의 기관 채택이 전 세계적으로 가속화됨에 따라, 온도 파이낸스(Ondo Finance)의 ONDO 토큰이 주목받고 있다. 2026년부터 2030년까지 ONDO 토큰이 10달러에 도달할 수 있다는 가격 전망이 제시되었다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "Former Biden Economists Declare BTC, ETH, BNB, XRP, SOL, ADA are Pointless and Trump Cannot Save Them",
-      "body_preview": "Two advisors from the previous Joe Biden administration have written a scathing opinion piece in The New York Times regarding the future of the crypto sector.",
-      "source_url": "https://zycrypto.com/former-biden-economists-declare-btc-eth-bnb-xrp-sol-ada-are-pointless-and-trump-cannot-save-them/",
-      "source_name": "ZyCrypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:32:49+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ADA",
-        "BTC",
-        "SOL",
-        "BNB"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
-      "korean_summary": "조 바이든 전 행정부의 두 고문이 뉴욕타임스(The New York Times)에 기고한 칼럼에서 비트코인(BTC), 이더리움(ETH) 등 주요 암호화폐(crypto)들이 무의미하며, 도널드 트럼프 전 대통령도 이들을 구할 수 없다고 비판했다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "Game Designer: XRP Could Become Best Performing Fund In History. Here’s how",
-      "body_preview": "Crypto expert Chad Steingraber has highlighted XRP’s potential for record performance in a recent post. Referencing the chart, he noted the trajectory of XRP’s price since late 2024 and made a bold claim: “No ETF has ever pulled a 5x in its first year of launch in all of Wall Street history.” He add",
-      "source_url": "https://timestabloid.com/game-designer-xrp-could-become-best-performing-fund-in-history-heres-how/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:30:48+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "암호화폐(crypto) 전문가 채드 스타인그레이버(Chad Steingraber)는 최근 게시물에서 XRP가 역사상 최고의 성과를 내는 펀드가 될 잠재력이 있다고 강조했다. 그는 2024년 말 이후 XRP의 가격 궤적을 언급하며 대담한 주장을 펼쳤다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "Bitcoin Holds the Line as Analysts Debate Market Bottom",
-      "body_preview": "Bitcoin trades near $66,000 while debate continues on whether a market bottom is in place. Short-term stabilization contrasts with missing technical signals seen in past bear market lows. Continue Reading: Bitcoin Holds the Line as Analysts Debate Market Bottom The post Bitcoin Holds the Line as Ana",
-      "source_url": "https://en.coin-turk.com/bitcoin-holds-the-line-as-analysts-debate-market-bottom/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:30:41+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/79/58565868.jpeg",
-      "korean_summary": "비트코인(Bitcoin)이 66,000달러 부근에서 거래되며 시장 바닥 형성 여부에 대한 분석가들의 논쟁이 계속되고 있다. 단기적인 안정세에도 불구하고, 과거 약세장 저점에서 나타났던 기술적 신호들이 아직 부족하다는 지적이 나온다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "Bitcoin Options Traders Confidently Position for Stunning $90K Rebound as Market Stabilizes",
-      "body_preview": "BitcoinWorld Bitcoin Options Traders Confidently Position for Stunning $90K Rebound as Market Stabilizes March 2025 – Global cryptocurrency markets are witnessing a significant shift in trader sentiment as Bitcoin options traders establish strategic positions targeting a $90,000 price rebound, signa",
-      "source_url": "https://bitcoinworld.co.in/bitcoin-options-traders-position-90k-rebound/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:30:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "글로벌 암호화폐(crypto) 시장이 안정화되면서 비트코인(Bitcoin) 옵션 트레이더들이 9만 달러 반등에 대한 자신감 있는 포지션을 취하고 있다. 이는 트레이더 심리의 중요한 변화를 반영하며 시장의 기대를 높이고 있다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "Worldcoin Price Prediction 2026-2030: Will WLD’s Ambitious Vision Propel It to $10?",
-      "body_preview": "BitcoinWorld Worldcoin Price Prediction 2026-2030: Will WLD’s Ambitious Vision Propel It to $10? As global digital identity solutions gain unprecedented traction, Worldcoin’s WLD token emerges as a focal point for cryptocurrency analysts and investors worldwide. This comprehensive analysis examines ",
-      "source_url": "https://bitcoinworld.co.in/worldcoin-wld-price-prediction-2030-3/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:25:11+00:00",
-      "category": "crypto",
-      "currencies": [
-        "WLD"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "글로벌 디지털 신원 확인 솔루션이 주목받는 가운데, 월드코인(Worldcoin)의 WLD 토큰이 부상하고 있다. 2026년부터 2030년까지 WLD 토큰이 10달러에 도달할 수 있을지에 대한 가격 전망과 야심찬 비전이 제시되었다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "2026 Guide to 8 Trusted Bitcoin Cloud Mining Platforms – Features, Fees, and Free Entry Options Compared",
-      "body_preview": "With advancements in technology and the growing popularity of cryptocurrencies, free and legal cloud mining in 2026 has become one of the easiest ways to earn Bitcoin daily. Without the need for expensive mining rigs or complex technical setups, cloud mining, powered by AI-driven optimization and su",
-      "source_url": "https://cryptodaily.co.uk/2026/02/2026-guide-to-8-trusted-bitcoin-cloud-mining-platforms-features-fees-and-free-entry-options-compared",
-      "source_name": "Crypto Daily",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:21:10+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/75/58565695.jpeg",
-      "korean_summary": "2026년 비트코인(Bitcoin) 클라우드 마이닝(cloud mining)은 기술 발전과 암호화폐(crypto) 인기에 힘입어 비트코인을 쉽게 얻는 방법 중 하나로 부상했다. 8개의 신뢰할 수 있는 플랫폼의 특징, 수수료, 무료 진입 옵션이 비교 분석되었다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "Bitcoin must hold this price or it could crash the entire market",
-      "body_preview": "Having failed to reclaim $70,000 during the recovery started on February 24, Bitcoin ( BTC ) abruptly started a crash in the early hours of Friday, February 27, falling about 3.3% within just four hours. Indeed, BTC’s swift collapse from $68,000 to its press time price of $65,770 brought into sharp ",
-      "source_url": "https://finbold.com/bitcoin-must-hold-this-price-or-it-could-crash-the-entire-market/",
-      "source_name": "Finbold",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:20:41+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "FIAT"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/finbold.png",
-      "korean_summary": "비트코인(Bitcoin)이 7만 달러 회복에 실패한 후 2월 27일 급락하며 3.3% 하락했다. 분석가들은 특정 가격대를 유지하지 못할 경우 전체 암호화폐(crypto) 시장에 더 큰 하락을 초래할 수 있다고 경고했다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "Pantera and Franklin Templeton Joined Sentient Arena",
-      "body_preview": "Pantera Capital and Franklin Templeton joined the Sentient Arena AI cohort. The platform tests institutional AI agents. The Celonis report highlights the agentic enterprises goal. It was enriched w...",
-      "source_url": "https://en.coinotag.com/pantera-and-franklin-templeton-joined-sentient-arena",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T13:19:36+00:00",
-      "category": "stocks",
-      "currencies": [
-        "OTHER"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/58565591.jpeg",
-      "korean_summary": "판테라 캐피탈(Pantera Capital)과 프랭클린 템플턴(Franklin Templeton)이 기관 인공지능(AI) 에이전트를 테스트하는 플랫폼인 센티언트 아레나(Sentient Arena) AI 코호트에 합류했다. 이는 에이전트 기반 기업의 목표를 강조하는 셀로니스 보고서와 연관된다.",
-      "fetched_at": "2026-02-27T13:54:45.320490+00:00"
-    },
-    {
-      "title": "Egrag Crypto to XRP Investors: Just Do It “You Must Be Buying, Not Crying”",
-      "body_preview": "XRP’s market trajectory shows a strong bullish pattern, signaling that current price levels may present significant accumulation opportunities. Crypto analyst EGRAG CRYPTO (@egragcrypto) emphasized that the current phase is not a dead market but a macro reset within a long-term expansion. In his wor",
-      "source_url": "https://timestabloid.com/egrag-crypto-to-xrp-investors-just-do-it-you-must-be-buying-not-crying/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T12:30:38+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "암호화폐 분석가 EGRAG CRYPTO는 XRP의 시장 흐름이 강한 상승세를 보이며, 현재 가격대가 중요한 축적 기회를 제공한다고 강조했다. 투자자들에게 매수를 권장하며 낙관적인 시장 전망을 제시했다.",
-      "fetched_at": "2026-02-27T12:38:39.630737+00:00"
-    },
-    {
-      "title": "OKX and Chainalysis to Deploy AI for Proactive Fraud Prevention",
-      "body_preview": "OKX has adopted Chainalysis Alterya, an artificial intelligence (AI)-powered security solution designed to identify and block fraudulent transfers before funds leave the platform. OKX announced the expansion of its partnership with Chainalysis on February 26, 2026, shifting its security focus from r",
-      "source_url": "https://news.bitcoin.com/okx-and-chainalysis-to-deploy-ai-for-proactive-fraud-prevention/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T12:30:27+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/14/58563859.jpeg",
-      "korean_summary": "암호화폐 거래소 OKX는 인공지능(AI) 기반 보안 솔루션 Chainalysis Alterya를 도입했다. 이는 사기성 자금 이체를 플랫폼 외부로 나가기 전에 식별하고 차단하여 선제적인 사기 방지를 강화하기 위함이다.",
-      "fetched_at": "2026-02-27T12:38:39.630737+00:00"
-    },
-    {
-      "title": "Canada GDP: Resilient Recovery Forecast After Q4 Contraction – TD Securities Analysis",
-      "body_preview": "BitcoinWorld Canada GDP: Resilient Recovery Forecast After Q4 Contraction – TD Securities Analysis OTTAWA, March 2025 – Canada’s economy contracted by 0.3% in the fourth quarter of 2024, marking its first quarterly decline since early 2023, according to Statistics Canada data released this morning. ",
-      "source_url": "https://bitcoinworld.co.in/canada-gdp-q4-contraction-q1-recovery/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T12:30:13+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "TD 증권 분석에 따르면, 캐나다 경제는 2024년 4분기에 0.3% 위축되었으나, 이후 회복력 있는 반등이 예상된다. 이는 경기 침체 이후 견고한 회복세를 보일 것이라는 전망을 제시한다.",
-      "fetched_at": "2026-02-27T12:38:39.630737+00:00"
-    },
-    {
-      "title": "Pantera, Franklin Templeton join Sentient Arena to test AI agents",
-      "body_preview": "Sentient launched Arena, a production-style platform to test AI agents on enterprise tasks, with Pantera and Franklin Templeton joining the initial cohort.",
-      "source_url": "https://cointelegraph.com/news/sentient-arena-tests-ai-agents-pantera-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T12:27:18+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "Sentient는 기업 업무용 인공지능(AI) 에이전트 테스트 플랫폼 'Arena'를 출시했다. Pantera와 Franklin Templeton이 초기 참여사로 합류하여, AI 기술의 실제 적용 가능성과 성능 검증에 나설 예정이다.",
-      "fetched_at": "2026-02-27T12:38:39.630737+00:00"
-    },
-    {
-      "title": "Axiom Crypto Exposed: ZachXBT Alleges $400k Insider Trading",
-      "body_preview": "ZachXBT just uncovered what looks like a coordinated insider trading ring at Axiom crypto. According to his findings, senior employees used internal data tools to front-run user trades for more than 10 months, allegedly pocketing over $400,000 in the process. The method involved privileged back-end ",
-      "source_url": "https://cryptonews.com/news/axiom-crypto-data-scandal-insider-trading-governance-failures/",
-      "source_name": "cryptonews",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T12:26:25+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/52/58563685.jpeg",
-      "korean_summary": "ZachXBT는 Axiom 암호화폐 프로젝트에서 고위 직원들이 내부 데이터 도구를 이용해 사용자 거래를 선행 매매(front-run)하여 40만 달러 이상의 부당 이득을 취한 내부자 거래 정황을 폭로했다.",
-      "fetched_at": "2026-02-27T12:38:39.630737+00:00"
     }
   ]
 }
