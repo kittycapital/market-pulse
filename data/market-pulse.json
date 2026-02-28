@@ -1,8 +1,250 @@
 {
-  "last_updated": "2026-02-28T04:51:39.070109+00:00",
-  "last_updated_kst": "2026-02-28 13:51 KST",
+  "last_updated": "2026-02-28T05:30:35.424205+00:00",
+  "last_updated_kst": "2026-02-28 14:30 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "US Pentagon chief orders Anthropic retaliation designation and lays out the ban",
+      "body_preview": "Anthropic is now tagged as a Supply-Chain Risk to National Security by the Department of War, according to U.S. Defense Secretary Pete Hegseth, who posted a long statement on X targeting the AI company. Pete said his department is permanently breaking up with Anthropic, adhering to President Donald ",
+      "source_url": "https://www.cryptopolitan.com/us-pentagon-anthropic-national-security/",
+      "source_name": "Cryptopolitan",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T05:20:46+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/43/58596415.jpeg",
+      "korean_summary": "미국 국방부(Department of War)는 AI 기업 앤트로픽(Anthropic)을 국가 안보 공급망 위험(Supply-Chain Risk to National Security) 대상으로 지정하고 제재를 명령했습니다. 이는 미국 국방장관이 X에 올린 성명에서 밝혀졌으며, 해당 기업에 대한 제재 조치가 뒤따를 것으로 예상됩니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "Mt. Gox Former CEO's 80,000 BTC Recovery Call",
+      "body_preview": "Mt. Gox former CEO Karpelès proposed a hard fork to recover 79.956 BTC. 15+ year dormant UTXOs sparked debate. Community criticisms are harsh, BTC in downtrend at 65.679 USD. Trustee distributions ...",
+      "source_url": "https://en.coinotag.com/mt-gox-former-ceos-80000-btc-recovery-call",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T05:17:02+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "FORKS"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58596273.jpeg",
+      "korean_summary": "마운트곡스(Mt. Gox) 전 CEO 카펠레스(Karpelès)가 8만 BTC 회수를 위해 하드 포크(hard fork)를 제안했습니다. 15년 이상 휴면 상태인 UTXO(Unspent Transaction Output)가 논란을 일으켰으며, 커뮤니티의 비판이 거셉니다. 비트코인(BTC)은 현재 하락세입니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "7 Top Altcoins for 2026: APEMARS Stage 9 Presale Leads as High ROI Crypto Investment – 6,900% ROI Ending Soon",
+      "body_preview": "The crypto market is attracting huge attention! With coins like Apeing, Bitcoin Cash, Chainlink, Sui, Monero, and World Liberty Financial showing strong growth, investors are hunting for the high ROI crypto investment that can skyrocket their portfolio. Among the top altcoins for 2026 , emerging pro",
+      "source_url": "https://timestabloid.com/7-top-altcoins-for-2026-apemars-stage-9-presale-leads-as-high-roi/",
+      "source_name": "TimesTabloid",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T05:15:30+00:00",
+      "category": "macro",
+      "currencies": [
+        "BCH",
+        "LINK"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
+      "korean_summary": "암호화폐 시장이 높은 관심을 받고 있으며, 에이핑(Apeing), 비트코인 캐시(Bitcoin Cash) 등 여러 알트코인(Altcoin)이 강한 성장세를 보입니다. 특히 APEMARS의 9단계 프리세일(Presale)이 높은 ROI(Return on Investment) 암호화폐 투자처로 주목받고 있습니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "KAS Technical Analysis February 28, 2026: Volume and Accumulation",
+      "body_preview": "KAS volume remains below recent averages, indicating that the decline lacks conviction; accumulation signs are becoming apparent. Market participation is low, and the price-volume divergence carrie...",
+      "source_url": "https://en.coinotag.com/analysis/kas-technical-analysis-february-28-2026-volume-and-accumulation",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T05:12:32+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/77/58596272.jpeg",
+      "korean_summary": "KAS의 거래량(Volume)이 최근 평균치를 밑돌아 하락세의 확신이 부족함을 시사합니다. 축적(Accumulation) 징후가 나타나고 있으며, 시장 참여도가 낮습니다. 가격-거래량 괴리(Price-Volume Divergence)는 향후 움직임을 예측하는 데 중요합니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "US and Japan Regulators Discuss Crypto Oversight in High-Level Strategic Talks",
+      "body_preview": "Global regulators intensify cross-border oversight as the SEC and Japan’s FSA deepen cooperation on crypto supervision, digital assets, and investor protection, signaling tighter alignment across two of the world’s most influential capital markets. US SEC and Japan’s FSA Expand Crypto and Cross-Bord",
+      "source_url": "https://news.bitcoin.com/us-and-japan-regulators-discuss-crypto-oversight-in-high-level-strategic-talks/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T05:05:53+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ASIA"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/14/58595962.jpeg",
+      "korean_summary": "미국 증권거래위원회(SEC)와 일본 금융청(FSA)이 암호화폐(Crypto) 감독, 디지털 자산(Digital Assets) 및 투자자 보호(Investor Protection)에 대한 협력을 강화합니다. 이는 양국 간 규제 정렬을 강화하고, 글로벌 규제 당국의 국경 간 감독 강화 추세를 반영합니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "Hyperliquid (HYPE) Eyes Native Token Issuance With Latest Upgrade Plan",
+      "body_preview": "Hyperliquid (HYPE), one of the largest decentralized exchanges (DEXs) in the crypto sector, is preparing a significant upgrade that could reshape how new projects launch tokens on its platform. The proposal, known as HIP-6, introduces a framework designed to enable permissionless, on-chain token lau",
+      "source_url": "https://www.newsbtc.com/news/hyperliquid-hype-eyes-native-token-issuance-with-latest-upgrade-plan/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T05:00:33+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/21/58595821.jpeg",
+      "korean_summary": "주요 탈중앙화 거래소(DEX) 중 하나인 하이퍼리퀴드(Hyperliquid, HYPE)가 최신 업그레이드 계획을 통해 네이티브 토큰(Native Token) 발행을 추진합니다. 이는 플랫폼에서 새로운 프로젝트가 토큰을 출시하는 방식에 큰 변화를 가져올 것으로 예상됩니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "Arbitrum’s post-breakout predictions – Is $0.22 next for ARB’s price?",
+      "body_preview": "Here is why Arbitrum One's price rallied by double-digits in 24 hours.",
+      "source_url": "https://ambcrypto.com/arbitrums-post-breakout-predictions-is-0-22-next-for-arbs-price/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T05:00:29+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ARB"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "아비트럼(Arbitrum)의 ARB 가격이 24시간 만에 두 자릿수 급등세를 보였습니다. 이는 특정 요인에 의해 촉발된 것으로 분석되며, 향후 ARB 가격이 0.22달러까지 상승할 수 있을지에 대한 예측이 나오고 있습니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "Binance Surpasses $35B In Gold Volume As Crypto-Native Traders Disrupt Traditional Commodity Desks",
+      "body_preview": "Binance expanded its product suite on January 5 with the launch of gold futures trading, offering users 24/7 access to price exposure on the precious metal. The move reflects a broader trend within digital asset platforms: the convergence of traditional macro assets and crypto-native infrastructure.",
+      "source_url": "https://bitcoinist.com/binance-surpasses-35b-in-gold-volume-crypto-native/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T05:00:04+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT",
+        "BNB"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/58595831.jpeg",
+      "korean_summary": "바이낸스(Binance)가 금 선물 거래(Gold Futures Trading)를 출시하며 금 거래량 350억 달러를 넘어섰습니다. 이는 암호화폐(Crypto) 기반 트레이더들이 전통적인 상품 시장에 진출하며 시장을 변화시키는 광범위한 추세를 반영합니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "Mt. Gox's former CEO floats hard fork to recover 80K hacked Bitcoin",
+      "body_preview": "Mark Karpelès said it has been 12 years since the start of Mt. Gox’s bankruptcy proceedings and “this is probably the last sore point on this whole case.”",
+      "source_url": "https://cointelegraph.com/news/mt-gox-former-ceo-proposes-hard-fork-recover-lost-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T04:59:48+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "FORKS"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "마운트곡스(Mt. Gox) 전 CEO 마크 카펠레스(Mark Karpelès)가 해킹당한 비트코인(Bitcoin) 8만 개 회수를 위해 하드 포크(hard fork)를 제안했습니다. 그는 파산 절차(bankruptcy proceedings) 시작 12년 만에 이 문제가 마지막 난제가 될 것이라고 밝히며, 커뮤니티 내 논쟁을 촉발했습니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "Buying Bitcoin Before $54,420 May be Premature, Bollinger Bands Warn",
+      "body_preview": "Bollinger Bands suggest that buying Bitcoin before $54,420 carries high risk, while this price point may present an opportunity last seen in 2022.",
+      "source_url": "https://u.today/buying-bitcoin-before-54420-may-be-premature-bollinger-bands-warn",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T04:52:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58595583.jpeg",
+      "korean_summary": "볼린저 밴드(Bollinger Bands) 분석에 따르면, 비트코인(Bitcoin)이 54,420달러에 도달하기 전에 매수하는 것은 높은 위험을 수반할 수 있습니다. 하지만 이 가격대는 2022년 이후 볼 수 없었던 매수 기회를 제공할 가능성도 있습니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "APT Technical Analysis February 28, 2026: Volume and Accumulation",
+      "body_preview": "APT's 24h volume at 102.21M stays below the average, not confirming the decline; this divergence gives an accumulation signal. While market participation is low, BTC's downtrend increases altcoin r...",
+      "source_url": "https://en.coinotag.com/analysis/apt-technical-analysis-february-28-2026-volume-and-accumulation",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T04:32:09+00:00",
+      "category": "crypto",
+      "currencies": [
+        "APT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58595138.jpeg",
+      "korean_summary": "APT의 24시간 거래량(Volume)이 평균치 이하로, 하락세가 확정되지 않았음을 시사하며 축적(Accumulation) 신호를 보입니다. 시장 참여도는 낮지만, 비트코인(BTC)의 하락세는 알트코인(Altcoin)의 위험을 증가시키는 요인으로 작용합니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "Bitcoin slides to $65,000 in weekend sell-off, with solana, XRP, dogecoin down 6%",
+      "body_preview": "The pullback erased most of Wednesday's push toward $70,000 as hot producer-price data and a post-earnings Nvidia decline dragged risk assets lower heading into the weekend.",
+      "source_url": "https://www.coindesk.com/markets/2026/02/28/bitcoin-slides-to-usd65-000-in-weekend-sell-off-with-solana-xrp-dogecoin-down-6",
+      "source_name": "CoinDesk",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T04:24:51+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "DOGE",
+        "SOL",
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/5/58594892.jpeg",
+      "korean_summary": "주말 동안 비트코인(Bitcoin)이 65,000달러로 하락했으며, 솔라나(Solana), XRP, 도지코인(Dogecoin) 등 주요 알트코인(Altcoin)도 6% 하락했습니다. 높은 생산자물가지수(Producer Price Index)와 엔비디아(Nvidia) 실적 하락이 위험 자산(Risk Assets) 전반의 하락을 이끌었습니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "WLD Technical Analysis February 28, 2026: Will It Rise or Fall?",
+      "body_preview": "WLD at $0.39 is at critical levels; a breakout above $0.3929 could trigger an upside move, while a breakout below $0.3853 could trigger a downside. MACD positivity supports the bullish scenario, wh...",
+      "source_url": "https://en.coinotag.com/analysis/wld-technical-analysis-february-28-2026-will-it-rise-or-fall",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T04:12:28+00:00",
+      "category": "stocks",
+      "currencies": [
+        "WLD"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58594628.jpeg",
+      "korean_summary": "WLD 가격이 0.39달러로 중요한 수준에 도달했습니다. 0.3929달러 돌파 시 상승, 0.3853달러 하회 시 하락 가능성이 있습니다. MACD(Moving Average Convergence Divergence)의 긍정적 신호는 강세 시나리오를 지지하지만, 시장의 변동성이 큽니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "‘Making Bitcoin Bankable’: Citi Plans 2026 BTC Integration With Traditional Finance",
+      "body_preview": "A Citibank executive has announced the firm’s plan to introduce infrastructure “to make Bitcoin (BTC) bankable” as part of a broader institutional push to integrate the flagship cryptocurrency into traditional financial systems. Citi To Integrate Bitcoin Into Traditional Finance On Thursday, Nisha S",
+      "source_url": "https://bitcoinist.com/citi-2026-bitcoin-integration-traditional-finance/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T04:00:50+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/58595828.jpeg",
+      "korean_summary": "씨티은행(Citi)이 2026년까지 비트코인(Bitcoin, BTC)을 전통 금융(Traditional Finance) 시스템에 통합하여 '은행에서 사용 가능한(bankable)' 암호화폐(Cryptocurrency)로 만들 계획을 발표했습니다. 이는 기관 투자자들의 암호화폐 시장 진출 확대 추세를 반영합니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
+    {
+      "title": "Bitcoin ETF Investors Show Diamond Hands: Only $6.5B In Outflows Since October 10",
+      "body_preview": "Spot Bitcoin (BTC) Exchange-Traded Funds (ETFs) have shown strength amid the crypto market’s correction and the flagship crypto’s latest performance. Some experts have praised investors’ resilience, suggesting that the “real story” is not in the recent outflows. Related Reading: Ethereum’s Fate Hang",
+      "source_url": "https://www.newsbtc.com/news/bitcoin/bitcoin-etf-investors-diamond-hands-6-5b-outflows/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T04:00:15+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/58594248.jpeg",
+      "korean_summary": "비트코인 현물 상장지수펀드(Spot Bitcoin ETF) 투자자들이 암호화폐 시장 조정(Crypto Market Correction) 속에서도 '다이아몬드 핸즈(Diamond Hands)'를 보여주며 강세를 유지하고 있습니다. 작년 10월 10일 이후 유출액(Outflows)은 65억 달러에 불과하며, 전문가들은 투자자들의 회복력을 높이 평가합니다.",
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
+    },
     {
       "title": "Private-credit ‘cockroaches’ and the AI ‘scare trade’ hammered stocks in February. Here’s what else has investors shaken up.",
       "body_preview": "Stocks were caught up Friday in a whirlwind of market-moving headlines, making for a wild final trading day in a rough month for U.S. equities.",
@@ -15,7 +257,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "Here’s what’s worth streaming in March 2026 on Netflix, Hulu, HBO Max and more",
@@ -29,7 +271,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "Trump warns‘sometimes you have to’ use force on Friday. Oil markets now see high odds of a U.S. strike on Iran.",
@@ -43,7 +285,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "Trump blacklists Anthropic, opening the door to Elon Musk and xAI",
@@ -57,7 +299,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "The real winner in the battle for Warner Bros. isn’t who you think it is",
@@ -71,7 +313,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "Palantir’s stock nabs another upgrade, with its valuation now less of a ‘struggle’",
@@ -85,7 +327,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "The bond market has been doing something strange despite a hot inflation report",
@@ -99,7 +341,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "Software stocks fall as Block’s big job cuts stoke further AI fears",
@@ -113,7 +355,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "Her accountant went to prison. Now the IRS is coming after her for $328,000.",
@@ -127,7 +369,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "Nvidia's stock wrapping up tough week as Wall Street focuses more on competition than growth",
@@ -141,7 +383,7 @@
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108271131-1772216713295-gettyimages-2258612695-TAIWAN_JENSEN_HUANG.jpeg?v=1772216782&w=1920&h=1080",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "United’s stock and other airline shares get a reality check from rising oil prices, market jitters",
@@ -155,7 +397,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "10-year yield falls below 4% on stagflation risk following hot producer prices reading",
@@ -169,7 +411,7 @@
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108266902-1771437546576-Traders-OB-Photo-20260218-CC-PRESS-11.jpg?v=1771437734&w=1920&h=1080",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "Medicare will run out of money 12 years earlier than expected",
@@ -183,7 +425,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "Did Paramount overpay and Netflix get away scot-free? Taking stock of the Warner Bros. deal.",
@@ -197,7 +439,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "Boomers waste money, too. These are the spending traps tripping up the richest generation.",
@@ -211,7 +453,7 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-02-28T04:51:39.066431+00:00"
+      "fetched_at": "2026-02-28T05:30:35.420520+00:00"
     },
     {
       "title": "ICP Technical Analysis February 28, 2026: Risk and Stop Loss",
@@ -2882,236 +3124,6 @@
       "media_url": "https://resources.cryptocompare.com/news/93/default.png",
       "korean_summary": "레이어제로(LayerZero, ZRO) 토큰 가격이 탈중앙화자율조직(DAO)의 3억 3백만 STG 소각 발표 이후 24시간 동안 8% 이상 상승하며 1.63달러를 기록했다. 이는 최근 일주일간 약 11% 오른 수치다.",
       "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "US Law Enforcement Seizes $580 Million in Crypto Linked to Southeast Asian Fraud Rings",
-      "body_preview": "US authorities have seized over $580 million in crypto connected to Southeast Asian fraud operations. The Scam Center Strike Force leads an aggressive crackdown on crypto scams targeting Americans. Continue Reading: US Law Enforcement Seizes $580 Million in Crypto Linked to Southeast Asian Fraud Rin",
-      "source_url": "https://en.coin-turk.com/us-law-enforcement-seizes-580-million-in-crypto-linked-to-southeast-asian-fraud-rings/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T16:20:37+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/79/58571696.jpeg",
-      "korean_summary": "미국 사법 당국이 동남아시아 사기 조직과 연루된 5억 8천만 달러 이상의 암호화폐(Crypto)를 압수했다. 이는 미국인을 대상으로 한 암호화폐 사기에 대한 강력한 단속의 일환으로, 스캠 센터 스트라이크 포스(Scam Center Strike Force)가 주도하고 있다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "Bitwise CIO and ETF analysts urge calm as bitcoin drawdown sparks panic",
-      "body_preview": "Bitwise CIO Matt Hougan and Nate Geraci, the p resident of NovaDius Wealth Management , have led calls for calm as panicky voices have become louder with each crypto price drawdown. Whale wallet accumulation trends and positive funding rates in the US have also begun to appear as the proverbial ligh",
-      "source_url": "https://www.cryptopolitan.com/crypto-winter-fears-whale-etf-inflow/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T16:20:30+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/43/58571873.jpeg",
-      "korean_summary": "비트와이즈(Bitwise) 최고투자책임자(CIO) 매트 호건과 ETF 분석가들이 비트코인(Bitcoin) 가격 하락으로 인한 시장의 공포 분위기 속에서 투자자들에게 침착함을 유지할 것을 촉구했다. 이는 암호화폐(Crypto) 가격 조정 시마다 나타나는 패닉에 대한 대응이다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "14M USDCx on Cardano Minted in One Hour as Mainnet Debut Approaches",
-      "body_preview": "USDCx sees 14 million minted on Cardano ahead of the February deadline, as Circle's stablecoin integration nears official confirmation within 36 hours.",
-      "source_url": "https://u.today/14-million-usdcx-on-cardano-minted-in-one-hour-as-mainnet-debut-approaches",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T16:20:00+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ADA"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/58571626.jpeg",
-      "korean_summary": "서클(Circle)의 스테이블코인(Stablecoin) 통합이 임박한 가운데, 카르다노(Cardano) 네트워크에서 1시간 만에 1,400만 USDCx가 발행되었다. 이는 메인넷(Mainnet) 출시를 앞두고 공식 확인이 36시간 이내에 이루어질 것으로 예상되는 상황이다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "UK Gambling Commission Moves Toward Crypto Payments in Regulated Gaming",
-      "body_preview": "The UK Gambling Commission is drafting frameworks for crypto payments in regulated gambling. No timeline exists yet, but shifting policies aim to counter illegal, unregulated platforms. Continue Reading: UK Gambling Commission Moves Toward Crypto Payments in Regulated Gaming The post UK Gambling Com",
-      "source_url": "https://en.coin-turk.com/uk-gambling-commission-moves-toward-crypto-payments-in-regulated-gaming/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T16:10:31+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/79/58571290.jpeg",
-      "korean_summary": "영국 도박 위원회(UK Gambling Commission)가 규제된 도박 부문에서 암호화폐(Crypto) 결제를 허용하기 위한 프레임워크를 마련 중이다. 이는 불법 및 비규제 플랫폼에 대응하고 정책 변화를 모색하려는 움직임으로, 아직 구체적인 시기는 정해지지 않았다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "Buterin Offloads ETH, Bitcoin Unable to Push Past $70K, XRP Spot Buying Increases: This Week’s Crypto Recap",
-      "body_preview": "It’s been a relatively dynamic week within the cryptocurrency industry. The total market capitalization currently stands at around $2.36 trillion, which is more or less where it was last Friday when we did the previous weekly recap, but this doesn’t paint the whole picture. You see, BTC started the ",
-      "source_url": "https://cryptopotato.com/buterin-offloads-eth-bitcoin-unable-to-push-past-70k-xrp-spot-buying-increases-this-weeks-crypto-recap/",
-      "source_name": "Crypto Potato",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T16:10:02+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/27/58571350.jpeg",
-      "korean_summary": "이번 주 암호화폐(Crypto) 시장은 비탈릭 부테린(Vitalik Buterin)의 이더리움(ETH) 매도, 비트코인(Bitcoin)의 7만 달러 돌파 실패, XRP 현물 매수 증가 등 역동적인 움직임을 보였다. 전체 시가총액은 약 2조 3,600억 달러를 유지했다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "XRP Is Becoming Collateral Inside the U.S. Financial System, Coinbase CEO Confirms",
-      "body_preview": "Cryptocurrencies continue to blur the line between traditional finance and digital assets, and XRP is now stepping into a new , more practical role. Once viewed primarily as a fast settlement token, XRP is increasingly recognized as a usable financial instrument within regulated systems, signaling g",
-      "source_url": "https://timestabloid.com/xrp-is-becoming-collateral-inside-the-u-s-financial-system-coinbase-ceo-confirms/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T16:05:24+00:00",
-      "category": "macro",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "코인베이스(Coinbase) 최고경영자(CEO)는 XRP가 미국 금융 시스템 내에서 담보로 활용되기 시작했다고 확인했다. 이는 암호화폐(Crypto)가 전통 금융과 디지털 자산의 경계를 허물며, XRP가 단순한 빠른 결제 토큰을 넘어 실용적인 역할을 수행하고 있음을 시사한다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "Silver Price Surge Skyrockets Past $91 as Soaring PPI and Tariffs Spark Dire Inflation Fears",
-      "body_preview": "BitcoinWorld Silver Price Surge Skyrockets Past $91 as Soaring PPI and Tariffs Spark Dire Inflation Fears NEW YORK, March 2025 – The silver market has erupted, with the spot price catapulting beyond the critical $91 per ounce threshold. This dramatic silver price surge represents a multi-year high a",
-      "source_url": "https://bitcoinworld.co.in/silver-price-surge-inflation-fears/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T16:05:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "생산자물가지수(PPI) 급등과 관세 부과로 심각한 인플레이션(Inflation) 우려가 고조되면서 은(Silver) 가격이 91달러를 돌파하며 급등했다. 이는 거시 경제 지표들이 시장에 미치는 영향이 커지고 있음을 보여준다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "How the EU’s crypto tax rules are expected to work for users and platforms",
-      "body_preview": "The EU’s new crypto tax rules will require platforms to report user data and transactions, reshaping tax transparency for digital assets starting in 2026.",
-      "source_url": "https://cointelegraph.com/news/how-the-eu-s-crypto-tax-rules-are-expected-to-work-for-users-and-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T16:04:50+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "유럽연합(EU)의 새로운 암호화폐(Crypto) 세금 규정은 2026년부터 플랫폼이 사용자 데이터와 거래 내역을 보고하도록 의무화할 예정이다. 이는 디지털 자산에 대한 세금 투명성을 재정립하는 중요한 변화가 될 것으로 예상된다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "XRP Ledger Exits Top 10 List of RWA Protocols",
-      "body_preview": "XRP Ledger faces slowdown in its push to become a dominant RWA chain.",
-      "source_url": "https://u.today/xrp-ledger-exits-top-10-list-of-rwa-protocols",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T16:02:00+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/58571035.jpeg",
-      "korean_summary": "XRP 렛저(XRP Ledger)가 실물자산(RWA) 프로토콜 상위 10위권 밖으로 밀려나며, 지배적인 RWA 체인이 되려는 추진력에 제동이 걸렸다. 이는 RWA 시장 내 경쟁 심화를 반영하는 것으로 보인다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "XRP’s Macro Plan Hasn’t Changed, And This Target Remains Valid",
-      "body_preview": "Crypto analyst CasiTrades has declared that XRP’s macro plan hasn’t changed, with the targets still the same. Her comment follows the recent relief rally, which saw the altcoin record double-digit gains. XRP Still At Risk Of A Further Decline As Macro Plan Remains Intact In an X post , CasiTrades st",
-      "source_url": "https://bitcoinist.com/xrps-macro-plan-hasnt-changed/",
-      "source_name": "Bitcoinist",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T16:00:37+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/bitcoinist.png",
-      "korean_summary": "암호화폐(Crypto) 분석가 캐시트레이즈(CasiTrades)는 XRP의 거시적 계획과 목표가 변함없이 유효하다고 밝혔다. 이는 최근 알트코인(Altcoin)이 두 자릿수 상승률을 기록한 랠리 이후 나온 발언으로, 장기적 관점을 강조한다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "Bitcoin Nears Major Milestone As 100 BTC Wallets Approach Record Levels",
-      "body_preview": "As market participants focus on short-term price movements, Bitcoin is approaching a notable on-chain milestone, with the number of wallets holding at least 100 BTC climbing toward record levels. This growing concentration of high-value holdings reflects increasing accumulation by large investors, a",
-      "source_url": "https://www.newsbtc.com/news/bitcoin/bitcoin-nears-major-milestone/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T16:00:32+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/58570955.jpeg",
-      "korean_summary": "시장 참여자들이 단기 가격 변동에 집중하는 가운데, 비트코인(Bitcoin)은 100 BTC 이상을 보유한 지갑 수가 사상 최고치에 근접하며 중요한 온체인(On-chain) 이정표에 도달하고 있다. 이는 장기 보유자 증가 추세를 나타낸다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "‘My sister and I are his only family’: My brother is paranoid and forgot he sold his house. What can I do?",
-      "body_preview": "In an email, his lawyer said, “He’s gone over the deep end.”",
-      "source_url": "https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T10:15:00+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "한 남성이 편집증으로 집을 팔았다는 사실을 잊어버려 가족들이 대책을 모색 중이다. 변호사는 그가 심각한 상태라고 전했으며, 이는 정신 건강 문제와 재산 관리의 어려움을 보여주는 사례로 주목된다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "KISS rocker Gene Simmons lowers price of Beverly Hills home to $12.5 million after months on the market",
-      "body_preview": "This is the second time KISS bassist Gene Simmons has cut the price of the luxury home.",
-      "source_url": "https://www.marketwatch.com/story/kiss-rocker-gene-simmons-lowers-price-of-beverly-hills-home-to-12-5-million-after-months-on-the-market-68bed304",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T10:04:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "록 밴드 키스(KISS)의 진 시몬스(Gene Simmons)가 수개월간 매물로 내놓았던 베벌리힐스 자택 가격을 1,250만 달러로 인하했다. 이는 해당 고급 주택의 가격을 두 번째로 조정한 것으로, 부동산 시장의 동향을 반영한다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "Yes, consumers in China are consuming again. It’s just not their No. 1 priority these days.",
-      "body_preview": "Retail sales are still rising, but record household savings, stepped-up gold buying and reined-in income expectations suggest the population of the world’s second largest economy is now prioritizing security over splurges — with consequences for global brands and investors.",
-      "source_url": "https://www.marketwatch.com/story/yes-consumers-in-china-are-consuming-again-its-just-not-their-no-1-priority-these-days-598c2c02",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T02:00:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "중국 소비가 다시 증가하고 있지만, 최우선 순위는 아니다. 소매 판매는 늘고 있으나, 사상 최고치 가계 저축, 금 매입 증가, 소득 기대치 하향 조정은 중국 소비자들이 저축을 우선시하고 있음을 시사한다.",
-      "fetched_at": "2026-02-27T16:31:45.787612+00:00"
-    },
-    {
-      "title": "DOGE Price Poised for 'Last Dance' Rally After Five Months of Decline",
-      "body_preview": "Dogecoin may be approaching a turning point. After five consecutive months of price decline, analysts at Swissblock are pointing to a convergence of technical signals that could push the meme coin higher in the near term. The largest meme coin by market capitalization, currently valued at over $16 b",
-      "source_url": "https://coinpaper.com/15004/doge-price-poised-for-last-dance-rally-after-five-months-of-decline",
-      "source_name": "Coinpaper",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T15:26:48+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "DOGE"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/93/default.png",
-      "korean_summary": "도지코인(DOGE)이 5개월 연속 하락세 이후 기술적 신호들이 수렴하며 반등할 가능성이 제기되었다. 스위스블록(Swissblock) 애널리스트들은 DOGE 가격이 중요한 전환점에 도달하여 랠리를 시작할 수 있다고 분석했다.",
-      "fetched_at": "2026-02-27T15:32:06.903855+00:00"
     }
   ]
 }
