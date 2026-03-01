@@ -1,8 +1,198 @@
 {
-  "last_updated": "2026-03-01T20:23:14.124518+00:00",
-  "last_updated_kst": "2026-03-02 05:23 KST",
+  "last_updated": "2026-03-01T21:18:22.036255+00:00",
+  "last_updated_kst": "2026-03-02 06:18 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "MSTR Stock Forecast: Michael Saylor Confirms STRC Dividend Increase to 11.50%",
+      "body_preview": "Michael Saylor led Strategy has lifted the monthly STRC dividend to 11.50% as the company navigates sharp crypto market weakness and renewed pressure on MSTR shares. Strategy Raises STRC Dividend During Market Decline Strategy confirmed that its perpetual preferred stock, STRC, will pay an 11.50% an",
+      "source_url": "https://coinpaper.com/15059/mstr-stock-forecast-michael-saylor-confirms-strc-dividend-increase-to-11-50",
+      "source_name": "Coinpaper",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T21:11:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/93/default.png",
+      "korean_summary": "마이클 세일러가 이끄는 스트래티지(Strategy, MSTR)는 암호화폐 시장(crypto market) 약세와 MSTR 주식 압박 속에서도 월별 STRC 배당금(dividend)을 11.50%로 인상했다고 밝혔다. 이는 시장 변동성에 대응하는 전략으로 풀이된다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Time Traveler: This Major Event Could Trigger 5,360,600% XRP Price Rally",
+      "body_preview": "The world is experiencing unprecedented conflict. Countries clash, ideologies collide, and global economies feel the pressure. In this environment, digital assets designed for speed and efficiency are gaining renewed attention. XRP is emerging as a candidate to support a new financial system once th",
+      "source_url": "https://timestabloid.com/time-traveler-this-major-event-could-trigger-5360600-xrp-price-rally/",
+      "source_name": "TimesTabloid",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T21:02:53+00:00",
+      "category": "macro",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
+      "korean_summary": "전례 없는 글로벌 갈등과 경제적 압박 속에서, 효율적인 디지털 자산(digital assets)의 중요성이 부각되고 있다. 한 주요 이벤트(major event)가 XRP 가격(price)을 5,360,600%까지 폭등시킬 수 있다는 전망이 제기되었다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Inside Lighter’s New Strategy System First Major Test: Handling $50M in ARC Perpetual Volume",
+      "body_preview": "On February 26, Lighter, a decentralized crypto exchange, announced that its upgraded liquidity pool system successfully resisted a $50 million ARC perpetual long squeeze attempt. This occurred after approximately 600 traders reversed a whale’s position, resulting in an $8.2 million loss, and the ep",
+      "source_url": "https://cryptopotato.com/inside-lighters-new-strategy-system-first-major-test-handling-50m-in-arc-perpetual-volume/",
+      "source_name": "Crypto Potato",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T21:02:30+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/27/58683601.jpeg",
+      "korean_summary": "탈중앙화 암호화폐 거래소(decentralized crypto exchange) 라이터(Lighter)의 업그레이드된 유동성 풀(liquidity pool) 시스템이 2월 26일 5천만 달러 규모의 ARC 무기한 롱 스퀴즈(perpetual long squeeze) 시도를 성공적으로 방어했다고 발표했다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Why Bitcoin in 2026 feels like two completely different markets at once",
+      "body_preview": "The November exit that changed Bitcoin’s 2026 market structure.",
+      "source_url": "https://ambcrypto.com/why-bitcoin-in-2026-feels-like-two-completely-different-markets-at-once/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T21:00:29+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "2026년 비트코인(Bitcoin) 시장은 11월의 특정 사건으로 인해 기존과 완전히 다른 두 가지 시장 구조(market structure)를 동시에 보이는 것처럼 느껴진다는 분석이 나왔다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Ethereum Price Under Pressure: Whales, Derivatives Market Exits Signal Waning Appetite",
+      "body_preview": "After dipping below $1,800 earlier in the month, the price of Ethereum has since reclaimed the $2,000 level, which is considered a psychological support zone for many traders. Over the past week, though, the price showed mild downward pressure, struggling to hold sustainably above the $2,000 level. ",
+      "source_url": "https://www.newsbtc.com/news/ethereum/ethereum-price-under-pressure-whales-and-derivatives/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T21:00:22+00:00",
+      "category": "macro",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/58657636.jpeg",
+      "korean_summary": "이더리움(Ethereum) 가격이 2,000달러를 회복했으나, 고래(whales)들의 움직임과 파생상품 시장(derivatives market)에서의 이탈 신호가 투자 심리(appetite) 약화를 시사하며 여전히 압박을 받고 있다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "AR Technical Analysis March 1, 2026: Risk and Stop Loss",
+      "body_preview": "AR at $1.51 is in a downtrend with oversold RSI, carrying high risk; protect capital with a stop below $1.49. Volatility and BTC downtrend are endangering long positions, conservative sizing is ess...",
+      "source_url": "https://en.coinotag.com/analysis/ar-technical-analysis-march-1-2026-risk-and-stop-loss",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T20:52:28+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "AR"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58683031.jpeg",
+      "korean_summary": "AR은 1.51달러에서 과매도 RSI(oversold RSI)와 함께 하락 추세(downtrend)에 있어 높은 위험을 안고 있다. 1.49달러 아래로 손절매(stop loss)를 설정하여 자본을 보호하고, 비트코인(BTC) 하락 추세에 주의해야 한다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "COMP Technical Analysis March 1, 2026: Risk and Stop Loss",
+      "body_preview": "COMP is testing support at $17.39 in a downtrend; a break below $17.27 carries deep drop risk. With BTC bearish pressure, the risk/reward balance is disrupted; for capital protection, the 1% risk r...",
+      "source_url": "https://en.coinotag.com/analysis/comp-technical-analysis-march-1-2026-risk-and-stop-loss",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T20:32:28+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "COMP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58682377.jpeg",
+      "korean_summary": "COMP는 하락 추세(downtrend) 속 17.39달러 지지선(support)을 테스트 중이며, 17.27달러 아래로 하락 시 급락 위험이 크다. 비트코인(BTC) 약세 압력으로 위험/보상 균형이 깨져 손절매(stop loss)가 필수적이다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Dogecoin price prediction 2026-2032: DOGE to the moon?",
+      "body_preview": "Key takeaways : DOGE price may reach $0.16865 by the end of 2026. By 2028, DOGE may potentially achieve a peak price of $0.356039. By 2032, DOGE might touch $0.730818 with an average trading price of $0.702709. Propelled by a dedicated community of part-time developers and enthusiastic internet supp",
+      "source_url": "https://www.cryptopolitan.com/dogecoin-price-prediction/",
+      "source_name": "Cryptopolitan",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T20:30:39+00:00",
+      "category": "crypto",
+      "currencies": [
+        "DOGE"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/43/1684774.jpeg",
+      "korean_summary": "도지코인(DOGE) 가격(price)이 2026년 말까지 0.16865달러, 2028년에는 0.356039달러, 그리고 2032년에는 평균 거래가 0.730818달러에 도달할 수 있다는 장기 예측이 나왔다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Ditch the Spreadsheets: Automated Profit & Loss Tracking Has Arrived",
+      "body_preview": "Check out the new info box on coin chart pages! Now you can get a feel for the market in a single glance. Continue Reading: Ditch the Spreadsheets: Automated Profit & Loss Tracking Has Arrived The post Ditch the Spreadsheets: Automated Profit & Loss Tracking Has Arrived appeared first on COINTURK NE",
+      "source_url": "https://en.coin-turk.com/ditch-the-spreadsheets-automated-profit-loss-tracking-has-arrived/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T20:22:54+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/79/58681905.jpeg",
+      "korean_summary": "코인 차트(coin chart) 페이지에 새로운 정보 상자(info box)가 추가되어, 이제 스프레드시트 없이도 자동화된 손익 추적(automated Profit & Loss Tracking)이 가능해졌다. 이는 시장 상황 파악에 도움을 줄 것으로 기대된다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "U.S. Justice Department Freezes Over $580 Million in Nationwide Crypto Scam Crackdown",
+      "body_preview": "The U.S. Justice Department seized over $580 million combating industrial-scale crypto fraud. Continue Reading: U.S. Justice Department Freezes Over $580 Million in Nationwide Crypto Scam Crackdown The post U.S. Justice Department Freezes Over $580 Million in Nationwide Crypto Scam Crackdown appeare",
+      "source_url": "https://en.coin-turk.com/u-s-justice-department-freezes-over-580-million-in-nationwide-crypto-scam-crackdown/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T20:20:29+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/79/58681788.jpeg",
+      "korean_summary": "미국 법무부(U.S. Justice Department)가 전국적인 암호화폐 사기(crypto scam) 단속을 통해 5억 8천만 달러(580 million dollars) 이상의 자금을 동결했다고 발표했다. 이는 대규모 암호화폐 사기에 대한 강력한 대응이다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Hyperliquid Whale Sees $42M Bitcoin Long Position Partially Liquidated After BTC Pullback",
+      "body_preview": "This weekend, market watchers are fixated on a sizable whale on Hyperliquid who opened a $42 million long position on bitcoin using 40x leverage. It’s a high-wire act with no safety net, as a slip below $65,400 would trigger a full liquidation of the bet. Leveraged Bitcoin Bet Under Pressure To kick",
+      "source_url": "https://news.bitcoin.com/hyperliquid-whale-sees-42m-bitcoin-long-position-partially-liquidated-after-btc-pullback/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T20:15:02+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "ZRX"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/14/58681579.jpeg",
+      "korean_summary": "하이퍼리퀴드(Hyperliquid)의 한 고래(whale)가 40배 레버리지(leverage)로 개설한 4,200만 달러(42 million dollars) 규모의 비트코인(Bitcoin) 롱 포지션(long position)이 BTC 가격 하락 후 부분 청산(partially liquidated)되었다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "MANA Technical Analysis March 1, 2026: Risk and Stop Loss",
+      "body_preview": "MANA in downtrend risky at $0.09 with low volatility; support breakdowns can lead to capital erosion. Tight stops and 1% risk rule essential for protection, BTC downtrend suppressing altcoins.",
+      "source_url": "https://en.coinotag.com/analysis/mana-technical-analysis-march-1-2026-risk-and-stop-loss",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T20:11:29+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "MANA"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58681728.jpeg",
+      "korean_summary": "MANA는 0.09달러에서 낮은 변동성(low volatility)과 함께 하락 추세(downtrend)에 있어 위험하다. 지지선(support) 붕괴 시 자본 손실이 우려되며, 비트코인(BTC) 하락 추세로 인해 손절매(stop loss) 설정이 필수적이다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
     {
       "title": "Egrag Crypto Sends Critical Message to XRP Investors",
       "body_preview": "XRP is approaching a pivotal stage in its long-term trajectory. Crypto analyst EGRAG CRYPTO (@egragcrypto) highlighted a potential “Face-Melting Phase” for XRP, emphasizing that short-term price movements may present significant accumulation opportunities. According to the chart shared, XRP is curre",
@@ -16,8 +206,8 @@
         "XRP"
       ],
       "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
+      "korean_summary": "암호화폐 분석가(crypto analyst) EGRAG CRYPTO는 XRP가 장기 궤적(long-term trajectory)의 중요한 단계에 접근하고 있으며, 단기 가격 움직임보다는 잠재적인 \"Face-Melting Phase\"에 주목해야 한다고 투자자들에게 강조했다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
     },
     {
       "title": "The Best AI Tools That Actually Respect Your Privacy",
@@ -32,8 +222,8 @@
         "OTHER"
       ],
       "media_url": "https://resources.cryptocompare.com/news/44/58681147.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
+      "korean_summary": "빅테크(Big Tech) AI 도구들이 사용자 데이터를 활용하는 방식에 대한 우려가 커지는 가운데, 개인 정보 보호(privacy)를 존중하는 9가지 AI 도구(AI tools)가 대안으로 제시되었다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
     },
     {
       "title": "Bitcoin Sentiment Hits Record Low as 2026 Crash Drives Fear Index Down to 5",
@@ -48,8 +238,218 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/79/58681100.jpeg",
+      "korean_summary": "2026년 위기 동안 비트코인(Bitcoin)의 공포 및 탐욕 지수(Fear and Greed Index)가 5를 기록하며 사상 최저치로 떨어졌다. 이는 이전 어떤 폭락장보다도 투자 심리(sentiment)가 약화되었음을 나타낸다.",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Prediction-market bets tied to Iran conflict stoke backlash over suspicions of insider trading",
+      "body_preview": "This weekend was a big one for prediction markets like Polymarket and Kalshi, but allegations of insider trading and a controversy surrounding the handling of one particularly sensitive market appear to have set off a firestorm of criticism.",
+      "source_url": "https://www.marketwatch.com/story/prediction-market-bets-tied-to-iran-conflict-stoke-backlash-over-suspicions-of-insider-trading-66ddfe87",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T20:31:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Here’s where traders expect crude-oil prices to open after this weekend’s attack on Iran",
+      "body_preview": "Crude-oil markets won’t officially open for a few more hours, but traders are already using prediction markets like Kalshi to take bets on where prices will settle on Monday.",
+      "source_url": "https://www.marketwatch.com/story/heres-where-traders-expect-crude-oil-prices-to-open-after-this-weekends-attack-on-iran-d5dc2ee4",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T19:17:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "U.S. crude oil set to top $70 a barrel when trading begins on fears of Iran supply disruption",
+      "body_preview": "It is unclear who is governing Iran, the fourth-largest oil producer in OPEC, after U.S.-Israel strikes killed Ayatollah Ali Khamenei.",
+      "source_url": "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T18:28:46+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108271616-1772386431302-gettyimages-2262961669-AFP_98WG8TR.jpeg?v=1772387642&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "The whole world is watching this critical energy chokepoint as Iran conflict enters more dangerous phase",
+      "body_preview": "Traffic through the Strait of Hormuz has dropped off amid warnings from the Iranian Revolutionary Guard. What happens next could have major implications for the global economy.",
+      "source_url": "https://www.marketwatch.com/story/the-whole-world-is-watching-this-critical-energy-chokepoint-as-iran-conflict-enters-more-dangerous-phase-ea308cc4",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T18:18:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Stocks face Iran jitters and a crucial jobs report in the week ahead as AI layoffs loom large",
+      "body_preview": "“You’ve got this somewhat dystopian narrative permeating the psychology of the market” with respect to AI and jobs, asset-management firm’s CIO says.",
+      "source_url": "https://www.marketwatch.com/story/stocks-face-iran-jitters-and-a-crucial-jobs-report-in-the-week-ahead-as-ai-layoffs-loom-large-5da09c93",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T17:00:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Here are the 5 big things we're watching in the stock market this week",
+      "body_preview": "The week ahead promises to be jammed-packed with key jobs data and Club earnings reports.",
+      "source_url": "https://www.cnbc.com/2026/03/01/here-are-the-5-big-things-were-watching-in-the-stock-market-this-week.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T15:44:24+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108271053-17722088882026-02-27t161130z_2011811321_rc2dujagplv7_rtrmadp_0_usa-stocks.jpeg?v=1772209043&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Has the retail industry rebounded? We’ll find out this week from Target, Costco, Best Buy and others’ earnings",
+      "body_preview": "Some analysts felt the retail industry was due for a modest recovery in 2026. Results from some of the biggest chains this week will offer a sense of how that rebound is going.",
+      "source_url": "https://www.marketwatch.com/story/has-the-retail-industry-rebounded-well-find-out-this-week-from-target-costco-best-buy-and-others-earnings-4ea65430",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T15:00:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "As investors wait for crude-oil trading to reopen amid Iran conflict, shares of the world’s biggest producer are climbing",
+      "body_preview": "Oil futures will begin trading later on Sunday. Saudi Aramco shares were climbing as trading resumed in Saudi Arabia, possibly hinting that crude is headed for a surge.",
+      "source_url": "https://www.marketwatch.com/story/as-investors-wait-for-crude-oil-trading-to-reopen-amid-iran-conflict-shares-of-the-worlds-biggest-producer-are-climbing-dd812149",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T14:03:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "A big AI worry? It will destroy old jobs faster than it creates new ones. The only thing lacking is proof.",
+      "body_preview": "Artificial intelligence might lead to a revolution in the U.S. economy and dramatically reshape the jobs market. That’s precisely why so many people are worried about it.",
+      "source_url": "https://www.marketwatch.com/story/a-big-ai-worry-it-will-destroy-old-jobs-faster-than-it-creates-new-ones-the-only-thing-lacking-is-proof-617e27cf",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T14:00:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "$100 oil? Prolonged Hormuz closure could spark a 1970s-style energy shock",
+      "body_preview": "Energy analysts are bracing for a possible oil supply shock after U.S. strikes on Iran reignited fears of disruptions in the Strait of Hormuz.",
+      "source_url": "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T10:57:52+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108162591-1750694632193-gettyimages-2221006178-AFP_63G96JB.jpeg?v=1750694774&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Here’s how much you could pay for a gallon of gas by May because of the attacks on Iran",
+      "body_preview": "U.S.-Israel strikes against Iran will push up oil prices, as well as how much Americans pay for gasoline at the pump: GasBuddy",
+      "source_url": "https://www.marketwatch.com/story/heres-how-much-you-could-pay-for-a-gallon-of-gas-by-may-because-of-the-attacks-on-iran-e12e976f",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T09:04:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Drone warfare could mean investors need a new guidebook for this Iran conflict",
+      "body_preview": "Use of ‘shoot and scoot’ drone warfare could prolong Iran conflict, warns Papic at BCA Research",
+      "source_url": "https://www.marketwatch.com/story/drone-warfare-could-mean-investors-need-a-new-guidebook-for-this-iran-conflict-ccac6a82",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T22:31:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Middle Eastern airports are crossroads of the world. Here’s how the U.S.-Israel attack on Iran will sow chaos on air travel.",
+      "body_preview": "Dubai and Doha airports are among the largest international hubs for air travel.",
+      "source_url": "https://www.marketwatch.com/story/middle-eastern-airports-are-crossroads-of-the-world-heres-how-the-u-s-israel-attack-on-iran-will-sow-chaos-on-air-travel-3f34465d",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T19:50:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Iran conflict raises talk of a return to $100-a-barrel oil",
+      "body_preview": "The U.S. and Israel attacked Iran on Saturday, putting a key regional source of the world’s crude oil at risk and raising talk of a return to $100-a-barrel oil prices.",
+      "source_url": "https://www.marketwatch.com/story/iran-conflict-raises-talk-of-a-return-to-100-a-barrel-oil-63bbc1b3",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T19:39:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
+    },
+    {
+      "title": "Stanley Druckenmiller says this is how he’d build a portfolio from scratch right now",
+      "body_preview": "The legendary investor says he’s been shifting his investment focus and AI is no longer playing a starring role.",
+      "source_url": "https://www.marketwatch.com/story/stanley-druckenmiller-says-this-is-how-hed-build-a-portfolio-from-scratch-right-now-98c23d33",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T15:38:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-01T21:18:22.032653+00:00"
     },
     {
       "title": "Samson Mow: BTC 24-66% Undervalued Compared to Gold!",
@@ -247,202 +647,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/43/32413296.jpeg",
       "korean_summary": "",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "Here’s where traders expect crude-oil prices to open after this weekend’s attack on Iran",
-      "body_preview": "Crude-oil markets won’t officially open for a few more hours, but traders are already using prediction markets like Kalshi to take bets on where prices will settle on Monday.",
-      "source_url": "https://www.marketwatch.com/story/heres-where-traders-expect-crude-oil-prices-to-open-after-this-weekends-attack-on-iran-d5dc2ee4",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T19:17:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "트레이더들은 원유(Crude-oil) 시장 개장 전부터 칼시(Kalshi)와 같은 예측 시장(prediction markets)을 통해 월요일 유가에 베팅하고 있다. 이란 공격 이후 유가 변동성에 대한 시장의 높은 관심이 반영된 것으로 보인다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "U.S. crude oil set to top $70 a barrel when trading begins on fears of Iran supply disruption",
-      "body_preview": "It is unclear who is governing Iran, the fourth-largest oil producer in OPEC, after U.S.-Israel strikes killed Ayatollah Ali Khamenei.",
-      "source_url": "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T18:28:46+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108271616-1772386431302-gettyimages-2262961669-AFP_98WG8TR.jpeg?v=1772387642&w=1920&h=1080",
-      "korean_summary": "미국-이스라엘의 공격으로 이란 최고지도자 아야톨라 알리 하메네이(Ayatollah Ali Khamenei)가 사망한 후, OPEC 4위 산유국인 이란의 통치 주체가 불분명해졌다. 이에 따라 원유(crude oil) 공급 차질 우려로 유가가 배럴당 70달러를 넘어설 전망이다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "The whole world is watching this critical energy chokepoint as Iran conflict enters more dangerous phase",
-      "body_preview": "Traffic through the Strait of Hormuz has dropped off amid warnings from the Iranian Revolutionary Guard. What happens next could have major implications for the global economy.",
-      "source_url": "https://www.marketwatch.com/story/the-whole-world-is-watching-this-critical-energy-chokepoint-as-iran-conflict-enters-more-dangerous-phase-ea308cc4",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T18:18:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "이란 혁명수비대(Iranian Revolutionary Guard)의 경고로 호르무즈 해협(Strait of Hormuz) 통행량이 감소했다. 이란 분쟁이 위험한 단계로 접어들면서, 이 에너지 핵심 통로의 상황은 세계 경제에 중대한 영향을 미칠 수 있다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "Stocks face Iran jitters and a crucial jobs report in the week ahead as AI layoffs loom large",
-      "body_preview": "“You’ve got this somewhat dystopian narrative permeating the psychology of the market” with respect to AI and jobs, asset-management firm’s CIO says.",
-      "source_url": "https://www.marketwatch.com/story/stocks-face-iran-jitters-and-a-crucial-jobs-report-in-the-week-ahead-as-ai-layoffs-loom-large-5da09c93",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T17:00:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "이번 주 증시는 이란발 지정학적 불안감과 중요한 고용 보고서 발표를 앞두고 있다. 특히 인공지능(AI)으로 인한 대규모 해고 우려가 커지면서, 시장 심리에는 다소 디스토피아적인 분위기가 만연해 있다고 자산운용사 CIO가 언급했다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "Here are the 5 big things we're watching in the stock market this week",
-      "body_preview": "The week ahead promises to be jammed-packed with key jobs data and Club earnings reports.",
-      "source_url": "https://www.cnbc.com/2026/03/01/here-are-the-5-big-things-were-watching-in-the-stock-market-this-week.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T15:44:24+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108271053-17722088882026-02-27t161130z_2011811321_rc2dujagplv7_rtrmadp_0_usa-stocks.jpeg?v=1772209043&w=1920&h=1080",
-      "korean_summary": "이번 주는 주요 고용 지표(jobs data) 발표와 클럽 기업들의 실적 보고서(earnings reports)로 가득할 예정이다. 투자자들은 이란 분쟁과 인공지능(AI) 관련 우려 속에서 시장의 방향성을 가늠할 중요한 경제 지표와 기업 성과에 주목하고 있다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "Has the retail industry rebounded? We’ll find out this week from Target, Costco, Best Buy and others’ earnings",
-      "body_preview": "Some analysts felt the retail industry was due for a modest recovery in 2026. Results from some of the biggest chains this week will offer a sense of how that rebound is going.",
-      "source_url": "https://www.marketwatch.com/story/has-the-retail-industry-rebounded-well-find-out-this-week-from-target-costco-best-buy-and-others-earnings-4ea65430",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T15:00:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "일부 분석가들은 소매 산업(retail industry)이 2026년에 완만한 회복세를 보일 것으로 예상했다. 이번 주 타겟(Target), 코스트코(Costco), 베스트바이(Best Buy) 등 주요 소매 체인들의 실적 발표를 통해 이러한 회복세가 어떻게 진행되고 있는지 파악할 수 있을 것이다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "As investors wait for crude-oil trading to reopen amid Iran conflict, shares of the world’s biggest producer are climbing",
-      "body_preview": "Oil futures will begin trading later on Sunday. Saudi Aramco shares were climbing as trading resumed in Saudi Arabia, possibly hinting that crude is headed for a surge.",
-      "source_url": "https://www.marketwatch.com/story/as-investors-wait-for-crude-oil-trading-to-reopen-amid-iran-conflict-shares-of-the-worlds-biggest-producer-are-climbing-dd812149",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T14:03:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "이란 분쟁 속에서 원유 선물(Oil futures) 거래 재개를 앞두고, 사우디아라비아 증시에서 세계 최대 산유국인 사우디 아람코(Saudi Aramco)의 주가가 상승했다. 이는 원유 가격이 급등할 수 있음을 시사하는 것으로 풀이된다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "A big AI worry? It will destroy old jobs faster than it creates new ones. The only thing lacking is proof.",
-      "body_preview": "Artificial intelligence might lead to a revolution in the U.S. economy and dramatically reshape the jobs market. That’s precisely why so many people are worried about it.",
-      "source_url": "https://www.marketwatch.com/story/a-big-ai-worry-it-will-destroy-old-jobs-faster-than-it-creates-new-ones-the-only-thing-lacking-is-proof-617e27cf",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T14:00:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "인공지능(AI)이 미국 경제에 혁명을 일으키고 고용 시장(jobs market)을 극적으로 재편할 수 있다는 우려가 커지고 있다. AI가 새로운 일자리를 창출하는 속도보다 기존 일자리를 파괴하는 속도가 더 빠를 수 있다는 점이 주요 걱정거리지만, 아직 명확한 증거는 부족하다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "$100 oil? Prolonged Hormuz closure could spark a 1970s-style energy shock",
-      "body_preview": "Energy analysts are bracing for a possible oil supply shock after U.S. strikes on Iran reignited fears of disruptions in the Strait of Hormuz.",
-      "source_url": "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T10:57:52+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108162591-1750694632193-gettyimages-2221006178-AFP_63G96JB.jpeg?v=1750694774&w=1920&h=1080",
-      "korean_summary": "미국이 이란을 공격하면서 호르무즈 해협(Strait of Hormuz)의 공급 차질 우려가 재점화되자, 에너지 분석가들은 원유 공급 충격(oil supply shock)에 대비하고 있다. 이는 1970년대와 같은 에너지 위기를 촉발하며 유가가 배럴당 100달러에 이를 수 있다는 전망을 낳고 있다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "Here’s how much you could pay for a gallon of gas by May because of the attacks on Iran",
-      "body_preview": "U.S.-Israel strikes against Iran will push up oil prices, as well as how much Americans pay for gasoline at the pump: GasBuddy",
-      "source_url": "https://www.marketwatch.com/story/heres-how-much-you-could-pay-for-a-gallon-of-gas-by-may-because-of-the-attacks-on-iran-e12e976f",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T09:04:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "미국-이스라엘의 이란 공격으로 인해 유가(oil prices)가 상승할 것이며, 이는 미국인들이 주유소에서 지불하는 휘발유(gasoline) 가격 또한 인상시킬 것이라고 가스버디(GasBuddy)가 전망했다. 이란 분쟁이 에너지 시장에 미치는 영향에 대한 우려가 커지고 있다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "Drone warfare could mean investors need a new guidebook for this Iran conflict",
-      "body_preview": "Use of ‘shoot and scoot’ drone warfare could prolong Iran conflict, warns Papic at BCA Research",
-      "source_url": "https://www.marketwatch.com/story/drone-warfare-could-mean-investors-need-a-new-guidebook-for-this-iran-conflict-ccac6a82",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T22:31:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "BCA 리서치(BCA Research)의 파픽(Papic)은 '치고 빠지는(shoot and scoot)' 드론(drone) 전술이 이란 분쟁을 장기화시킬 수 있다고 경고했다. 투자자들은 새로운 전쟁 양상에 맞춰 투자 전략을 재고해야 할 수 있다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "Middle Eastern airports are crossroads of the world. Here’s how the U.S.-Israel attack on Iran will sow chaos on air travel.",
-      "body_preview": "Dubai and Doha airports are among the largest international hubs for air travel.",
-      "source_url": "https://www.marketwatch.com/story/middle-eastern-airports-are-crossroads-of-the-world-heres-how-the-u-s-israel-attack-on-iran-will-sow-chaos-on-air-travel-3f34465d",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T19:50:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "두바이(Dubai)와 도하(Doha) 공항은 세계 최대 국제 항공 허브(international hubs) 중 하나이다. 미국-이스라엘의 이란 공격은 중동 지역의 항공 여행(air travel)에 큰 혼란을 야기할 것으로 예상되며, 이는 글로벌 항공 산업에도 영향을 미칠 수 있다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "Iran conflict raises talk of a return to $100-a-barrel oil",
-      "body_preview": "The U.S. and Israel attacked Iran on Saturday, putting a key regional source of the world’s crude oil at risk and raising talk of a return to $100-a-barrel oil prices.",
-      "source_url": "https://www.marketwatch.com/story/iran-conflict-raises-talk-of-a-return-to-100-a-barrel-oil-63bbc1b3",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T19:39:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "미국과 이스라엘이 토요일 이란을 공격하면서, 세계 원유(crude oil)의 주요 공급원이 위험에 처했다. 이로 인해 유가(oil prices)가 배럴당 100달러까지 다시 상승할 수 있다는 전망이 제기되고 있으며, 에너지 시장의 불안감이 고조되고 있다.",
-      "fetched_at": "2026-03-01T20:23:14.120877+00:00"
-    },
-    {
-      "title": "Stanley Druckenmiller says this is how he’d build a portfolio from scratch right now",
-      "body_preview": "The legendary investor says he’s been shifting his investment focus and AI is no longer playing a starring role.",
-      "source_url": "https://www.marketwatch.com/story/stanley-druckenmiller-says-this-is-how-hed-build-a-portfolio-from-scratch-right-now-98c23d33",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T15:38:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "전설적인 투자자 스탠리 드러켄밀러(Stanley Druckenmiller)는 현재 투자 초점을 전환하고 있으며, 인공지능(AI)이 더 이상 핵심적인 역할을 하지 않는다고 밝혔다. 그는 지금부터 포트폴리오(portfolio)를 어떻게 구성할지에 대한 자신의 견해를 제시했다.",
       "fetched_at": "2026-03-01T20:23:14.120877+00:00"
     },
     {
@@ -2967,214 +3171,6 @@
       "media_url": "https://resources.cryptocompare.com/news/52/58654289.jpeg",
       "korean_summary": "맨해튼 연방 판사가 바이낸스(Binance)의 증권 소송을 사적 중재로 옮기려는 시도를 거부하며, 거래소가 미등록 디지털 토큰을 판매했다는 집단 소송(class action)을 계속 진행하도록 허용했다.",
       "fetched_at": "2026-03-01T08:22:01.638555+00:00"
-    },
-    {
-      "title": "Crypto losses from hacks fall to lowest level since March 2025",
-      "body_preview": "February 2026 ended with the lowest recorded figure in monthly losses from cryptocurrency scams since March 2025 at $37.7 million, despite address poisoning scams on the rise. The cryptocurrency sector frequently suffers attacks from bad actors targeting liquidity-rich environments with social engin",
-      "source_url": "https://www.cryptopolitan.com/crypto-lowest-monthly-loss-since-march-2025/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T07:41:25+00:00",
-      "category": "macro",
-      "currencies": [
-        "ETH",
-        "ENS"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/43/58654171.jpeg",
-      "korean_summary": "2026년 2월, 암호화폐(cryptocurrency) 사기로 인한 월별 손실액이 3,770만 달러를 기록하며 2025년 3월 이후 최저치를 경신했다. 주소 도용 사기(address poisoning scams)가 증가했음에도 불구하고 달성된 수치다.",
-      "fetched_at": "2026-03-01T08:22:01.638555+00:00"
-    },
-    {
-      "title": "NEXO Technical Analysis March 1, 2026: Support and Resistance Levels and Market Commentary",
-      "body_preview": "While NEXO draws attention with a strong daily rise at $0.86, it is testing the $0.8780 resistance within the downtrend. RSI is neutral, although MACD gives a bullish signal, BTC correlation increa...",
-      "source_url": "https://en.coinotag.com/analysis/nexo-technical-analysis-march-1-2026-support-and-resistance-levels-and-market-commentary",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T07:33:11+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "NEXO"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/58653910.jpeg",
-      "korean_summary": "넥소(NEXO)는 $0.86에서 강한 일일 상승을 보이며 주목받지만, 하락 추세 내에서 $0.8780 저항선을 테스트 중이다. MACD는 강세 신호를 주지만, 상대강도지수(RSI)는 중립적이며 비트코인(BTC)과의 상관관계가 증가했다.",
-      "fetched_at": "2026-03-01T08:22:01.638555+00:00"
-    },
-    {
-      "title": "Alchemy Unveils Autonomous Infrastructure Access for AI Agents via x402 Standard",
-      "body_preview": "Alchemy has launched a new “agentic” gateway that allows artificial intelligence (AI) agents to independently purchase compute credits and access blockchain data without any human intervention. Announced on February 26, 2026, the update introduces a programmatic payment flow using x402, an open-sour",
-      "source_url": "https://news.bitcoin.com/alchemy-unveils-autonomous-infrastructure-access-for-ai-agents-via-x402-standard/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T07:30:22+00:00",
-      "category": "crypto",
-      "currencies": [
-        "USDC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/14/58653609.jpeg",
-      "korean_summary": "알케미(Alchemy)는 인공지능(AI) 에이전트가 사람 개입 없이 컴퓨팅 크레딧을 구매하고 블록체인 데이터에 접근할 수 있는 자율적 인프라 접근 게이트웨이를 x402 표준을 통해 출시했다.",
-      "fetched_at": "2026-03-01T08:22:01.638555+00:00"
-    },
-    {
-      "title": "BITmarkets Releases Crypto Outlook for 2026",
-      "body_preview": "Kingstown, Saint Vincent and the Grenadines, March 1st, 2026, Chainwire BITmarkets has published its January 2026 report examining recent developments in the cryptocurrency market and assessing whether current conditions may signal the emergence of a new crypto winter. The report examines Bitcoin’s ",
-      "source_url": "https://cryptodaily.co.uk/2026/03/bitmarkets-releases-crypto-outlook-for-2026",
-      "source_name": "Crypto Daily",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T07:27:51+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/75/58653597.jpeg",
-      "korean_summary": "BITmarkets는 2026년 1월 보고서를 통해 암호화폐(cryptocurrency) 시장의 최근 동향을 분석하고 향후 전망을 제시하는 '2026년 암호화폐 전망(Crypto Outlook)'을 발표했다.",
-      "fetched_at": "2026-03-01T08:22:01.638555+00:00"
-    },
-    {
-      "title": "Ether, solana, xrp surge up to 10% as majors recover Saturday's war-driven losses",
-      "body_preview": "Solana led major tokens with a 10.8% bounce, while ether reclaimed $2,000 and bitcoin climbed back above $66,800 ahead of traditional futures opens on Sunday.",
-      "source_url": "https://www.coindesk.com/markets/2026/03/01/ether-solana-xrp-surge-up-to-10-as-majors-recover-saturday-s-war-driven-losses",
-      "source_name": "CoinDesk",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T07:25:47+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "SOL"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/5/58653411.jpeg",
-      "korean_summary": "이더리움(Ether), 솔라나(Solana), 리플(XRP) 등 주요 암호화폐(cryptocurrency)가 최대 10% 급등하며 토요일 전쟁으로 인한 손실을 회복했다. 솔라나가 10.8% 상승을 주도했고, 이더리움은 $2,000, 비트코인(Bitcoin)은 $66,800를 회복했다.",
-      "fetched_at": "2026-03-01T08:22:01.638555+00:00"
-    },
-    {
-      "title": "6 Polymarket traders net $1M on US-Iran strike, spark insider fears: Report",
-      "body_preview": "The newly created Polymarket wallets placed bets on the timing of a US strike against Iran, buying shares hours before the first explosions were reported in Tehran.",
-      "source_url": "https://cointelegraph.com/news/polymarket-traders-1m-us-iran-strike-insider-trading-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T07:16:30+00:00",
-      "category": "stocks",
-      "currencies": [
-        "OTHER"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "폴리마켓(Polymarket) 트레이더 6명이 미국-이란 공습 시점에 베팅하여 100만 달러 수익을 올렸으며, 이는 테헤란 폭발 보도 몇 시간 전 주식을 매수해 내부자 거래(insider trading) 의혹을 불러일으켰다.",
-      "fetched_at": "2026-03-01T08:22:01.638555+00:00"
-    },
-    {
-      "title": "Missed Big Gains On Cosmos And Aptos? Invest in APEMARS Stage 10 With 5900% ROI – Top Altcoin To Explode in Q1 2026",
-      "body_preview": "Meta Title : Missed Aptos? APEMARS Lead as Top Altcoin To Explode Meta Description : Missed Cosmos and Aptos at ICO? Discover why APEMARS ($APRZ) presale Stage 10 is gaining momentum as the top altcoin to explode. Missed Big Gains On Cosmos And Aptos? Invest in APEMARS Stage 10 With 5900% ROI – Top ",
-      "source_url": "https://timestabloid.com/missed-big-gains-on-cosmos-and-aptos-invest-in-apemars-stage/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T07:15:26+00:00",
-      "category": "crypto",
-      "currencies": [
-        "APT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "코스모스(Cosmos)와 앱토스(Aptos)의 큰 수익 기회를 놓쳤다면, 5900%의 투자수익률(ROI)을 제시하는 APEMARS($APRZ) 10단계 사전 판매(presale)에 주목할 만하다. APEMARS는 2026년 1분기 급등할 최고의 알트코인(altcoin)으로 부상 중이다.",
-      "fetched_at": "2026-03-01T08:22:01.638555+00:00"
-    },
-    {
-      "title": "These fintech stocks are loved by analysts and could bounce back in a big way",
-      "body_preview": "Shares of PayPal and Block are both cheap relative to historic levels, but only one of them commands heavy enthusiasm from analysts.",
-      "source_url": "https://www.marketwatch.com/story/these-fintech-stocks-are-loved-by-analysts-and-could-bounce-back-in-a-big-way-567f0f46",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T12:30:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "페이팔(PayPal)과 블록(Block) 등 핀테크(fintech) 기업 주식이 역사적 저점 대비 저렴한 수준으로 평가받고 있으며, 분석가들의 높은 관심을 받고 있어 큰 폭의 반등 가능성이 제기되었다. 다만, 두 기업 중 한 곳에 대한 애널리스트(analyst)들의 열기가 더 뜨겁다.",
-      "fetched_at": "2026-03-01T08:22:01.638555+00:00"
-    },
-    {
-      "title": "QNT Technical Analysis March 1, 2026: Will It Rise or Fall?",
-      "body_preview": "QNT testing critical resistance at $63.59; if $65.26 breaks, rise to $84 possible, drop to $38 if it slips below. BTC correlation and volume confirmations will determine both scenarios.",
-      "source_url": "https://en.coinotag.com/analysis/qnt-technical-analysis-march-1-2026-will-it-rise-or-fall",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T07:03:00+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "QNT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/58652720.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-01T07:30:24.924823+00:00"
-    },
-    {
-      "title": "Ripple CEO: Gary Gensler Apologizes to Ripple (XRP), Says “Sorry, I Was Wrong”",
-      "body_preview": "Crypto researcher BankXRP has published a tweet claiming that former U.S. Securities and Exchange Commission Chair Gary Gensler personally apologized to Ripple CEO Brad Garlinghouse. According to the post , the apology was revealed during remarks delivered at the XRP Australia Sydney 2026 conference",
-      "source_url": "https://timestabloid.com/ripple-ceo-gary-gensler-apologizes-to-ripple-xrp-says-sorry-i-was-wrong/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T07:02:02+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-01T07:30:24.924823+00:00"
-    },
-    {
-      "title": "Bitcoin whipsaw liquidates nearly $300 mln in 24 hours – What comes next",
-      "body_preview": "The $63k support zone was defended once again, helping make Bitcoin's short-term bullish case.",
-      "source_url": "https://ambcrypto.com/bitcoin-whipsaw-liquidates-nearly-300-mln-in-24-hours-what-comes-next/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T07:00:39+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-01T07:30:24.924823+00:00"
-    },
-    {
-      "title": "Bitmine and Strategy Report Largest Unrealized Losses in Crypto Holdings",
-      "body_preview": "Bitmine and Strategy report a combined $15.9 billion in unrealized losses on crypto holdings. Losses remain unrealized unless assets are sold, despite mounting investor scrutiny. Continue Reading: Bitmine and Strategy Report Largest Unrealized Losses in Crypto Holdings The post Bitmine and Strategy ",
-      "source_url": "https://en.coin-turk.com/bitmine-and-strategy-report-largest-unrealized-losses-in-crypto-holdings/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T06:40:28+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/79/58651663.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-01T07:30:24.924823+00:00"
-    },
-    {
-      "title": "ARB Technical Analysis 1 March 2026: RSI MACD Momentum",
-      "body_preview": "ARB's momentum is weak with RSI at 37.59 but shows bullish divergence, MACD is signaling recovery with positive histogram expansion. Although the downtrend prevails, there is potential for a volume...",
-      "source_url": "https://en.coinotag.com/analysis/arb-technical-analysis-1-march-2026-rsi-macd-momentum",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T06:32:14+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ARB"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/58651395.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-01T07:30:24.924823+00:00"
     }
   ]
 }
