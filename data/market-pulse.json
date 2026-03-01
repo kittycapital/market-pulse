@@ -1,8 +1,182 @@
 {
-  "last_updated": "2026-03-01T04:15:06.473408+00:00",
-  "last_updated_kst": "2026-03-01 13:15 KST",
+  "last_updated": "2026-03-01T05:48:45.611299+00:00",
+  "last_updated_kst": "2026-03-01 14:48 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Arrival of The Machines, The Race of the Superapps, and More – Week In Review",
+      "body_preview": "Financial and crypto markets are flashing crosscurrents. JPMorgan CEO Jamie Dimon warns of 2008-style overconfidence and rising credit risks, including potential AI-driven shocks. Binance faces a Senate probe over alleged $1.7B in Iran-linked transfers, intensifying regulatory scrutiny. Meanwhile, B",
+      "source_url": "https://news.bitcoin.com/arrival-of-the-machines-the-race-of-the-superapps-and-more-week-in-review/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T05:30:44+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "BNB"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/14/58648981.jpeg",
+      "korean_summary": "JP모건(JPMorgan) CEO 제이미 다이먼이 금융 및 암호화폐 시장의 교차 흐름 속에서 2008년 금융 위기(financial crisis)와 유사한 과신 및 신용 위험(credit risks) 증가를 경고했다. 특히 인공지능(AI)으로 인한 충격 가능성도 언급했다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "Assessing SPX6900’s 55% crash – Why SPX bulls need $0.27 to hold",
+      "body_preview": "SPX6900 slides toward $0.27 support as bears continue controlling the trend.",
+      "source_url": "https://ambcrypto.com/assessing-spx6900s-55-crash-why-spx-bulls-need-0-27-to-hold/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T05:30:17+00:00",
+      "category": "stocks",
+      "currencies": [
+        "OTHER"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "SPX6900이 하락세를 지속하며 $0.27 지지선(support level)을 향해 미끄러지고 있다. 약세장(bear market)이 추세를 계속 지배하고 있어, SPX 강세론자(bulls)들은 해당 지지선 유지가 중요하다고 분석된다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "ATOM Technical Analysis March 1, 2026: Will It Rise or Fall?",
+      "body_preview": "ATOM is trapped between support and resistance at $1.86; a breakout above $1.8772 could trigger upside, while a breakout below $1.7733 could trigger downside. RSI shows oversold rebound potential, ...",
+      "source_url": "https://en.coinotag.com/analysis/atom-technical-analysis-march-1-2026-will-it-rise-or-fall",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T05:27:16+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ATOM"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58648914.jpeg",
+      "korean_summary": "ATOM은 $1.86 지지선(support)과 저항선(resistance) 사이에 갇혀 있다. $1.8772 돌파 시 상승 가능성이, $1.7733 하향 돌파 시 하락 가능성이 제기된다. 상대강도지수(RSI)는 과매도(oversold) 반등 잠재력을 시사한다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "ONDO Technical Analysis March 1, 2026: Risk and Stop Loss",
+      "body_preview": "ONDO is under high risk with downtrend and bearish indicators; even though the bullish $0.3705 target looks attractive, don't ignore the bearish $0.1098 downside. Due to BTC correlation, prioritize...",
+      "source_url": "https://en.coinotag.com/analysis/ondo-technical-analysis-march-1-2026-risk-and-stop-loss",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T05:07:08+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "ONDO"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58648135.jpeg",
+      "korean_summary": "ONDO는 하락 추세(downtrend)와 약세 지표(bearish indicators)로 인해 높은 위험에 처해 있다. $0.3705의 강세 목표(bullish target)가 매력적이지만, $0.1098의 약세 하락(bearish downside) 가능성도 무시할 수 없다. 비트코인(BTC)과의 상관관계도 고려해야 한다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "XRP Ledger Dev Raises Alert on Fake \"Passes\" Scam Targeting Wallets",
+      "body_preview": "XRP wallet holders have been warned of scams attempting to drain funds in a recent alert.",
+      "source_url": "https://u.today/xrp-ledger-dev-raises-alert-on-fake-passes-scam-targeting-wallets",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T05:02:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58647867.jpeg",
+      "korean_summary": "XRP 렛저(XRP Ledger) 개발자들은 XRP 지갑(wallet) 보유자들을 대상으로 한 가짜 \"패스(passes)\" 사기(scam)에 대해 경고했다. 이 사기는 지갑 자금을 탈취하려는 시도로, 사용자들의 각별한 주의가 요구된다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "XRP Ledger Positioned For Real World Asset Explosion As Securitize Teases $400-T Market",
+      "body_preview": "The conversation around real-world asset (RWA) tokenization is heating up, and the numbers are staggering. After digital asset securities firm Securitize highlighted the potential for a $400 trillion global asset market to move on-chain, attention quickly shifted to the blockchains positioned to sup",
+      "source_url": "https://bitcoinist.com/xrp-ledger-real-world-asset-spike/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T05:00:46+00:00",
+      "category": "macro",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/58648399.jpeg",
+      "korean_summary": "실물자산(RWA) 토큰화(tokenization)에 대한 논의가 활발해지는 가운데, 디지털 자산 증권사 시큐리타이즈(Securitize)는 XRP 렛저(XRP Ledger)가 400조 달러 규모의 시장 잠재력을 가질 수 있다고 언급하며 주목받고 있다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "Bitcoin recovers to $68K following death of Iranian Supreme Leader",
+      "body_preview": "Donald Trump described Ayatollah Khamenei as “one of the most evil people in history,” on Truth Social.",
+      "source_url": "https://cointelegraph.com/news/bitcoin-recovers-to-68k-following-reported-death-of-iranian-supreme-leader?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T04:58:31+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "이란 최고 지도자의 사망 소식 이후 비트코인(Bitcoin) 가격이 $68,000 수준으로 회복했다. 도널드 트럼프 전 미국 대통령은 사망한 아야톨라 하메네이를 \"역사상 가장 사악한 인물 중 한 명\"이라고 평가했다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "APT Technical Analysis March 1, 2026: Will it Rise or Fall?",
+      "body_preview": "APT faces critical resistance at $0.96 with $0.9737; MACD positivity supports the upside, while downtrend and Supertrend bearish support the downside. Traders should monitor trigger levels in both ...",
+      "source_url": "https://en.coinotag.com/analysis/apt-technical-analysis-march-1-2026-will-it-rise-or-fall",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T04:46:57+00:00",
+      "category": "crypto",
+      "currencies": [
+        "APT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58647215.jpeg",
+      "korean_summary": "APT는 $0.96 및 $0.9737에서 중요한 저항선(resistance)에 직면해 있다. 이동평균 수렴확산 지수(MACD)의 긍정적 신호는 상승을 지지하지만, 하락 추세(downtrend)와 슈퍼트렌드(Supertrend)의 약세 신호는 하락을 지지한다. 양방향 트리거 레벨(trigger levels)을 주시해야 한다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "Anthropic’s 2026 Agentic Coding Report Maps the Rise of Multi-Agent Dev Teams",
+      "body_preview": "Anthropic’s 2026 Agentic Coding Trends Report makes a bold claim: software development is no longer about writing code — it’s about orchestrating AI agents that write it for you. Engineers as Conductors: AI Agents Take the Coding Stage Unless you’ve been living in a cave for the first two months of ",
+      "source_url": "https://news.bitcoin.com/anthropics-2026-agentic-coding-report-maps-the-rise-of-multi-agent-dev-teams/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T04:30:21+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/14/58646598.jpeg",
+      "korean_summary": "앤트로픽(Anthropic)의 2026년 에이전틱 코딩 트렌드 보고서(Agentic Coding Trends Report)는 소프트웨어 개발이 코드를 직접 작성하는 것에서 인공지능(AI) 에이전트를 조율하는 방식으로 변화하고 있다고 주장했다. 이는 개발자의 역할 변화를 시사한다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "U.S.-Iran war attracts $600 million bets on Polymarket",
+      "body_preview": "The prediction market has spun up over a dozen Iran-related contracts since Saturday's strikes, with the Khamenei removal market alone pulling in $45 million in volume.",
+      "source_url": "https://www.coindesk.com/markets/2026/03/01/iran-war-becomes-usd50-million-betting-frenzy-on-polymarket",
+      "source_name": "CoinDesk",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T04:19:51+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/5/58646228.jpeg",
+      "korean_summary": "미국-이란 전쟁 관련 예측 시장(prediction market)인 폴리마켓(Polymarket)에 6억 달러 규모의 베팅이 몰렸다. 특히 이란 최고 지도자 하메네이 제거 관련 시장에서만 4,500만 달러의 거래량이 발생하며 투자자들의 높은 관심을 반영했다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "ASTER Technical Analysis March 1, 2026: Risk and Stop Loss",
+      "body_preview": "Although ASTER shows an uptrend, Supertrend is bearish and BTC downtrend risk is high; protect capital with a stop below $0.7189. Risk/reward unbalanced, volatility should be managed with ATR, posi...",
+      "source_url": "https://en.coinotag.com/analysis/aster-technical-analysis-march-1-2026-risk-and-stop-loss",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-01T04:17:02+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58646172.jpeg",
+      "korean_summary": "ASTER는 상승 추세(uptrend)를 보이지만, 슈퍼트렌드(Supertrend)는 약세이며 비트코인(BTC) 하락 추세 위험이 높다. $0.7189 아래에서 손절매(stop loss)로 자본을 보호해야 한다. 위험/보상(risk/reward) 불균형과 높은 변동성(volatility) 관리가 중요하다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
     {
       "title": "Ripple Exec Clears The Air On Blocked XRP Transactions – When Does It Happen?",
       "body_preview": "Former Ripple Chief Technology Officer (CTO) David Schwartz has addressed speculation that the crypto firm can block transactions on the XRP Ledger (XRPL) . He explained the only way this could happen amid claims that the network is centralized. Ripple CTO Emeritus Explains How An XRP Transaction Ca",
@@ -17,8 +191,8 @@
         "XRP"
       ],
       "media_url": "https://resources.cryptocompare.com/news/13/58645448.jpeg",
-      "korean_summary": "리플(Ripple)의 전 최고기술책임자(CTO) 데이비드 슈워츠는 XRP 렛저(XRPL)에서 리플이 거래를 차단할 수 있다는 추측에 대해 해명했다. 그는 특정 조건에서만 이러한 일이 발생할 수 있다고 설명하며 논란을 해소했다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
+      "korean_summary": "리플(Ripple)의 전 최고기술책임자(CTO) 데이비드 슈워츠(David Schwartz)는 리플이 XRP 렛저(XRP Ledger) 상의 거래를 차단할 수 있다는 추측에 대해 해명했다. 그는 특정 조건에서만 이러한 상황이 발생할 수 있다고 설명했다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
     },
     {
       "title": "ICP Technical Analysis March 1, 2026: Will It Rise or Fall?",
@@ -33,8 +207,8 @@
         "ICP"
       ],
       "media_url": "https://resources.cryptocompare.com/news/77/58645386.jpeg",
-      "korean_summary": "ICP는 $2.50에서 혼조세를 보이며 중요한 변곡점에 도달했다. MACD는 강세 신호이나 하락 추세가 우세하다. $2.60 돌파 시 상승, $2.38 하회 시 하락 가능성이 있으며, 비트코인(BTC)과의 상관관계도 주목된다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
+      "korean_summary": "ICP는 $2.50에서 혼합된 신호와 함께 중요한 변곡점에 있다. 이동평균 수렴확산 지수(MACD)는 강세지만, 하락 추세(downtrend)가 우세하다. $2.60 돌파 시 상승, $2.38 하향 돌파 시 하락 가능성이 있으며 비트코인(BTC) 상관관계도 고려해야 한다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
     },
     {
       "title": "Cardano Falls 10% In Rout",
@@ -49,8 +223,8 @@
         "ADA"
       ],
       "media_url": "https://resources.cryptocompare.com/news/106/default.png",
-      "korean_summary": "카르다노(Cardano) 가격이 급락세를 보이며 10% 하락했다. 이는 전반적인 암호화폐(crypto) 시장의 약세 분위기 속에서 발생한 것으로, 투자자들의 매도세가 강하게 나타났다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
+      "korean_summary": "암호화폐 카르다노(Cardano)가 최근 시장의 전반적인 약세 속에서 10% 급락하는 모습을 보였다. 이는 투자자들의 우려를 키우며 시장의 변동성이 확대되고 있음을 시사한다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
     },
     {
       "title": "Bitcoin trading below $67k, set for fifth straight red month as crypto suffers",
@@ -65,8 +239,218 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/106/default.png",
-      "korean_summary": "비트코인(Bitcoin) 가격이 $67,000 아래로 떨어지며 암호화폐(crypto) 시장 전반의 침체 속에 5개월 연속 하락세를 기록할 위기에 처했다. 시장은 약세 압력을 받고 있다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
+      "korean_summary": "비트코인(Bitcoin) 가격이 $67,000 아래로 떨어지며 암호화폐 시장의 전반적인 침체 속에서 5개월 연속 하락세를 기록할 위기에 처했다. 이는 투자 심리(investor sentiment) 위축을 반영한다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "Drone warfare could mean investors need a new guidebook for this Iran conflict",
+      "body_preview": "Use of ‘shoot and scoot’ drone warfare could prolong Iran conflict, warns Papic at BCA Research",
+      "source_url": "https://www.marketwatch.com/story/drone-warfare-could-mean-investors-need-a-new-guidebook-for-this-iran-conflict-ccac6a82",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T22:31:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "BCA Research의 파픽은 '치고 빠지는(shoot and scoot)' 드론(drone) 전쟁이 이란(Iran) 분쟁을 장기화시킬 수 있다고 경고하며, 투자자들이 새로운 투자 지침을 마련해야 할 필요성을 제기했다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "Middle Eastern airports are crossroads of the world. Here’s how the U.S.-Israel attack on Iran will sow chaos on air travel.",
+      "body_preview": "Dubai and Doha airports are among the largest international hubs for air travel.",
+      "source_url": "https://www.marketwatch.com/story/middle-eastern-airports-are-crossroads-of-the-world-heres-how-the-u-s-israel-attack-on-iran-will-sow-chaos-on-air-travel-3f34465d",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T19:50:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "두바이(Dubai)와 도하(Doha) 공항 등 중동의 주요 국제 항공 허브들이 미국-이스라엘(U.S.-Israel)의 이란(Iran) 공격으로 인해 항공 여행에 큰 혼란을 겪을 수 있다는 우려가 제기되었다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "Iran conflict raises talk of a return to $100-a-barrel oil",
+      "body_preview": "The U.S. and Israel attacked Iran on Saturday, putting a key regional source of the world’s crude oil at risk and raising talk of a return to $100-a-barrel oil prices.",
+      "source_url": "https://www.marketwatch.com/story/iran-conflict-raises-talk-of-a-return-to-100-a-barrel-oil-63bbc1b3",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T19:39:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "미국과 이스라엘의 이란(Iran) 공격으로 세계 원유 공급의 주요 지역이 위험에 처하며, 이란 분쟁이 배럴당 100달러 유가 시대를 다시 불러올 수 있다는 전망이 나오고 있다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "Stanley Druckenmiller says this is how he’d build a portfolio from scratch right now",
+      "body_preview": "The legendary investor says he’s been shifting his investment focus and AI is no longer playing a starring role.",
+      "source_url": "https://www.marketwatch.com/story/stanley-druckenmiller-says-this-is-how-hed-build-a-portfolio-from-scratch-right-now-98c23d33",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T15:38:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "전설적인 투자자 스탠리 드러켄밀러(Stanley Druckenmiller)는 현재 포트폴리오(portfolio)를 구성한다면 인공지능(AI)이 더 이상 핵심적인 역할을 하지 않을 것이며, 투자 초점을 전환하고 있다고 밝혔다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "This could be Nvidia’s next big move, with the stock in search of a positive catalyst",
+      "body_preview": "A report says Nvidia is planning a new chip platform that seeks to address evolving customer needs as the AI era transitions more toward inference workloads.",
+      "source_url": "https://www.marketwatch.com/story/this-could-be-nvidias-next-big-move-with-the-stock-in-search-of-a-positive-catalyst-11caa4ac",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T15:24:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "엔비디아(Nvidia)가 인공지능(AI) 시대의 추론(inference) 워크로드 전환에 맞춰 고객 요구를 충족할 새로운 칩 플랫폼을 계획 중이며, 이는 주가에 긍정적인 촉매제가 될 수 있다는 보도가 나왔다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "Berkshire Hathaway shrinks cash pile in Buffett’s last act as CEO. Here’s how successor Greg Abel is now looking to spend.",
+      "body_preview": "Company’s cash hoard at end of 2025 — which Abel noted was not a sign of an investment retreat — was down 2.1% from September to $373.3 billion.",
+      "source_url": "https://www.marketwatch.com/story/berkshire-hathaway-shrinks-cash-pile-in-buffetts-last-act-as-ceo-heres-how-successor-greg-abel-is-now-looking-to-spend-477eeaf3",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T15:02:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "버크셔 해서웨이(Berkshire Hathaway)의 현금 보유액이 9월 대비 2.1% 감소한 3,733억 달러를 기록했다. 이는 워런 버핏(Warren Buffett)의 마지막 행보로, 후임 그렉 아벨(Greg Abel)의 투자 방향에 관심이 쏠린다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "Worried about the job market or stuck in a toxic workplace? These 2 movies can feel like 'catharsis,' workplace psychologist says",
+      "body_preview": "\"No Other Choice\" and \"Send Help\" capture the sheer desperation and disillusionment workers and job seekers are feeling right now.",
+      "source_url": "https://www.cnbc.com/2026/02/28/worried-about-the-job-market-or-stuck-in-a-toxic-workplace-these-2-movies-can-feel-like-catharsis.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T14:15:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108270424-1772116648624-gettyimages-2193882365-tae00008.jpeg?v=1772116675&w=1920&h=1080",
+      "korean_summary": "직장 심리학자는 영화 \"No Other Choice\"와 \"Send Help\"가 현재 직장인과 구직자들이 느끼는 절망감과 환멸을 잘 담아내며, 카타르시스(catharsis)를 제공할 수 있다고 분석했다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "‘Can’t sell house’ searches are higher now than during the 2008 housing crisis",
+      "body_preview": "Here are some expert tips to help you sell your house in a slow market.",
+      "source_url": "https://www.marketwatch.com/story/cant-sell-house-searches-are-higher-now-than-during-the-2008-housing-crisis-1525fccd",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T14:00:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "'집을 팔 수 없다'는 검색량이 2008년 주택 위기 때보다 높아진 것으로 나타났다. 전문가들은 둔화된 시장에서 주택을 판매하기 위한 조언을 제시했다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "With free storage at max from Google to Shutterfly to Snap, the price for your memories is rising",
+      "body_preview": "With close to half of Americans having over 1,000 photos on phones, the era of free cloud storage is ending. Keeping your memories now comes at a rising cost.",
+      "source_url": "https://www.cnbc.com/2026/02/28/cloud-storage-prices-apple-icloud-google-snap-shutterfly.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T13:30:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108268231-1771771434653-gettyimages-1388134976-20220327dscf3563.jpeg?v=1771771447&w=1920&h=1080",
+      "korean_summary": "구글(Google) 등 주요 플랫폼의 무료 클라우드 저장 공간이 한계에 도달하면서, 미국인 절반 가까이가 1,000장 이상의 사진을 보유한 상황에서 추억을 보관하는 비용이 증가하고 있다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "The week, FOBO — ‘fear of becoming obsolete’ because of AI — became real for workers and markets",
+      "body_preview": "Massive jobs cuts at Block and a cataclysmic Citrini blog post stoked anxieties — but some CEOs and researchers are skeptical about doomsday scenarios.",
+      "source_url": "https://www.marketwatch.com/story/the-week-fobo-fear-of-becoming-obsolete-because-of-ai-became-real-for-workers-and-markets-1206b279",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T13:30:00+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "인공지능(AI)으로 인한 '시대에 뒤떨어질 것이라는 두려움(FOBO)'이 블록(Block)의 대량 해고 등으로 현실화되며 노동자와 시장의 불안감이 커졌다. 다만 일부 전문가들은 종말론적 시나리오에 회의적이다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "NASA is sending its first Black and first female astronauts to the moon",
+      "body_preview": "NASA is sending the first Black and first female astronauts to the moon in an upcoming launch, marking the first journey to the moon in over 50 years.",
+      "source_url": "https://www.cnbc.com/2026/02/28/nasa-astronauts-moon-artemis.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T13:00:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108268510-1771859407827-gettyimages-2252867035-jr_12990_qbup7at5.jpeg?v=1771859428&w=1920&h=1080",
+      "korean_summary": "미국 항공우주국(NASA)이 50여 년 만의 달 탐사에서 최초의 흑인 및 여성 우주비행사를 달에 보낼 예정이라고 발표하며, 우주 탐사의 새로운 역사를 예고했다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "My boss told me to dress better. Now I feel uncomfortable. He is a white man and I am a Black woman.",
+      "body_preview": "During my first review last year, he said, “I just feel like you don’t dress for the occasion.”",
+      "source_url": "https://www.marketwatch.com/story/my-boss-told-me-to-dress-better-now-i-feel-uncomfortable-he-is-a-white-man-and-i-am-a-black-woman-70a7fd80",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T13:00:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "한 흑인 여성 직원이 백인 남성 상사로부터 복장에 대한 부적절한 지적을 받아 불편함을 느끼고 있다고 전했다. 이는 직장 내 인종 및 성별 관련 미묘한 차별 문제를 시사한다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "Can China just steal America’s AI brain that’s costing trillions to develop?",
+      "body_preview": "American companies are spending enormous sums to develop high-performing AI models. Distillation attacks are attempting to maliciously extract them — and nobody is doing much to stop it.",
+      "source_url": "https://www.marketwatch.com/story/can-china-just-steal-americas-ai-brain-thats-costing-trillions-to-develop-da126634",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T13:00:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "미국 기업들이 막대한 비용을 들여 개발한 고성능 인공지능(AI) 모델이 증류 공격(distillation attacks)을 통해 중국으로 유출될 수 있다는 우려가 제기되었다. 이에 대한 효과적인 방지책은 미흡한 상황이다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "‘I dread the snow’: My heating and air conditioning always breaks down. Do I spend $15K on a new one?",
+      "body_preview": "“Is there a formula or method for figuring out when replacement becomes more cost-effective than ongoing repairs?”",
+      "source_url": "https://www.marketwatch.com/story/i-dread-the-snow-my-heating-and-air-conditioning-always-breaks-down-do-i-spend-15k-on-a-new-one-e4cbf07e",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T12:45:00+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "잦은 고장으로 난방 및 에어컨 교체를 고민하는 소비자가 1만 5천 달러의 비용을 들여 새 제품을 구매하는 것이 지속적인 수리보다 경제적인지 판단하는 방법에 대해 문의했다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
+    },
+    {
+      "title": "These fintech stocks are loved by analysts and could bounce back in a big way",
+      "body_preview": "Shares of PayPal and Block are both cheap relative to historic levels, but only one of them commands heavy enthusiasm from analysts.",
+      "source_url": "https://www.marketwatch.com/story/these-fintech-stocks-are-loved-by-analysts-and-could-bounce-back-in-a-big-way-567f0f46",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-02-28T12:30:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "페이팔(PayPal)과 블록(Block) 등 핀테크(fintech) 주식들이 역사적 저점 대비 저렴한 수준에 거래되고 있으며, 애널리스트(analyst)들의 높은 관심 속에 큰 폭으로 반등할 가능성이 있다는 분석이 나왔다.",
+      "fetched_at": "2026-03-01T05:48:45.608223+00:00"
     },
     {
       "title": "Bybit Introduces Fixed-Rate UTA Loans Offering Up to 10x Leverage and Up to 180-Day Borrowing",
@@ -243,216 +627,6 @@
       ],
       "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
       "korean_summary": "비탈릭 부테린은 이더리움(Ethereum) 스마트 계정이 \"1년 내\" 도입될 것이라고 밝혔다. 그는 계정 추상화(account abstraction)를 통한 중개자 제거가 \"사이버펑크 이더리움의 핵심 원칙\"이라고 강조했다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "Drone warfare could mean investors need a new guidebook for this Iran conflict",
-      "body_preview": "Use of ‘shoot and scoot’ drone warfare could prolong Iran conflict, warns Papic at BCA Research",
-      "source_url": "https://www.marketwatch.com/story/drone-warfare-could-mean-investors-need-a-new-guidebook-for-this-iran-conflict-ccac6a82",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T22:31:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "BCA Research는 '쏘고 도망치는(shoot and scoot)' 드론(drone) 전쟁이 이란(Iran) 분쟁을 장기화할 수 있다고 경고하며, 투자자들이 새로운 투자 지침을 마련해야 할 필요성을 제기했습니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "Middle Eastern airports are crossroads of the world. Here’s how the U.S.-Israel attack on Iran will sow chaos on air travel.",
-      "body_preview": "Dubai and Doha airports are among the largest international hubs for air travel.",
-      "source_url": "https://www.marketwatch.com/story/middle-eastern-airports-are-crossroads-of-the-world-heres-how-the-u-s-israel-attack-on-iran-will-sow-chaos-on-air-travel-3f34465d",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T19:50:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "두바이(Dubai)와 도하(Doha) 등 중동 주요 공항은 세계적인 항공 허브로, 미국-이스라엘(U.S.-Israel)의 이란(Iran) 공격이 항공 여행에 큰 혼란을 초래할 수 있다는 우려가 제기되었습니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "Iran conflict raises talk of a return to $100-a-barrel oil",
-      "body_preview": "The U.S. and Israel attacked Iran on Saturday, putting a key regional source of the world’s crude oil at risk and raising talk of a return to $100-a-barrel oil prices.",
-      "source_url": "https://www.marketwatch.com/story/iran-conflict-raises-talk-of-a-return-to-100-a-barrel-oil-63bbc1b3",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T19:39:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "미국과 이스라엘의 이란(Iran) 공격으로 세계 원유 공급의 주요 지역이 위험에 처하며, 유가가 배럴당 100달러로 다시 상승할 수 있다는 전망이 나오고 있습니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "Stanley Druckenmiller says this is how he’d build a portfolio from scratch right now",
-      "body_preview": "The legendary investor says he’s been shifting his investment focus and AI is no longer playing a starring role.",
-      "source_url": "https://www.marketwatch.com/story/stanley-druckenmiller-says-this-is-how-hed-build-a-portfolio-from-scratch-right-now-98c23d33",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T15:38:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "전설적인 투자자 스탠리 드러켄밀러(Stanley Druckenmiller)는 현재 투자 초점을 전환하고 있으며, 인공지능(AI)이 더 이상 핵심적인 역할을 하지 않는 방식으로 포트폴리오(portfolio)를 구성할 것이라고 밝혔습니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "This could be Nvidia’s next big move, with the stock in search of a positive catalyst",
-      "body_preview": "A report says Nvidia is planning a new chip platform that seeks to address evolving customer needs as the AI era transitions more toward inference workloads.",
-      "source_url": "https://www.marketwatch.com/story/this-could-be-nvidias-next-big-move-with-the-stock-in-search-of-a-positive-catalyst-11caa4ac",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T15:24:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "엔비디아(Nvidia)가 인공지능(AI) 시대의 추론 워크로드(inference workloads) 전환에 따른 고객 수요 변화에 대응하기 위해 새로운 칩 플랫폼을 계획 중이라는 보도가 나왔습니다. 이는 주가에 긍정적인 촉매제가 될 수 있습니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "Berkshire Hathaway shrinks cash pile in Buffett’s last act as CEO. Here’s how successor Greg Abel is now looking to spend.",
-      "body_preview": "Company’s cash hoard at end of 2025 — which Abel noted was not a sign of an investment retreat — was down 2.1% from September to $373.3 billion.",
-      "source_url": "https://www.marketwatch.com/story/berkshire-hathaway-shrinks-cash-pile-in-buffetts-last-act-as-ceo-heres-how-successor-greg-abel-is-now-looking-to-spend-477eeaf3",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T15:02:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "버크셔 해서웨이(Berkshire Hathaway)의 현금 보유액이 9월 대비 2.1% 감소한 3,733억 달러를 기록했습니다. 후임 CEO 그렉 아벨(Greg Abel)은 이를 투자 위축 신호가 아니라고 밝히며 향후 지출 계획에 관심이 쏠리고 있습니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "Worried about the job market or stuck in a toxic workplace? These 2 movies can feel like 'catharsis,' workplace psychologist says",
-      "body_preview": "\"No Other Choice\" and \"Send Help\" capture the sheer desperation and disillusionment workers and job seekers are feeling right now.",
-      "source_url": "https://www.cnbc.com/2026/02/28/worried-about-the-job-market-or-stuck-in-a-toxic-workplace-these-2-movies-can-feel-like-catharsis.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T14:15:01+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108270424-1772116648624-gettyimages-2193882365-tae00008.jpeg?v=1772116675&w=1920&h=1080",
-      "korean_summary": "직장 심리학자는 영화 \"No Other Choice\"와 \"Send Help\"가 현재 직장인과 구직자들이 느끼는 절망감과 환멸을 잘 담아내며, 카타르시스(catharsis)를 제공할 수 있다고 언급했습니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "‘Can’t sell house’ searches are higher now than during the 2008 housing crisis",
-      "body_preview": "Here are some expert tips to help you sell your house in a slow market.",
-      "source_url": "https://www.marketwatch.com/story/cant-sell-house-searches-are-higher-now-than-during-the-2008-housing-crisis-1525fccd",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T14:00:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "주택을 팔 수 없다는 검색량이 2008년 주택 위기 때보다 높아졌습니다. 전문가들은 침체된 시장에서 주택을 판매하는 데 도움이 될 수 있는 조언을 제시했습니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "With free storage at max from Google to Shutterfly to Snap, the price for your memories is rising",
-      "body_preview": "With close to half of Americans having over 1,000 photos on phones, the era of free cloud storage is ending. Keeping your memories now comes at a rising cost.",
-      "source_url": "https://www.cnbc.com/2026/02/28/cloud-storage-prices-apple-icloud-google-snap-shutterfly.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:30:01+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108268231-1771771434653-gettyimages-1388134976-20220327dscf3563.jpeg?v=1771771447&w=1920&h=1080",
-      "korean_summary": "구글(Google), 셔터플라이(Shutterfly), 스냅(Snap) 등에서 제공하던 무료 클라우드 저장 공간 시대가 끝나가며, 사진 등 디지털 추억을 보관하는 비용이 증가하고 있습니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "The week, FOBO — ‘fear of becoming obsolete’ because of AI — became real for workers and markets",
-      "body_preview": "Massive jobs cuts at Block and a cataclysmic Citrini blog post stoked anxieties — but some CEOs and researchers are skeptical about doomsday scenarios.",
-      "source_url": "https://www.marketwatch.com/story/the-week-fobo-fear-of-becoming-obsolete-because-of-ai-became-real-for-workers-and-markets-1206b279",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:30:00+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "인공지능(AI)으로 인한 '구식화 공포(FOBO)'가 블록(Block)의 대규모 해고 등으로 현실화되며 노동자와 시장의 불안감이 커졌습니다. 하지만 일부 CEO와 연구자들은 종말론적 시나리오에 회의적인 시각을 보였습니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "NASA is sending its first Black and first female astronauts to the moon",
-      "body_preview": "NASA is sending the first Black and first female astronauts to the moon in an upcoming launch, marking the first journey to the moon in over 50 years.",
-      "source_url": "https://www.cnbc.com/2026/02/28/nasa-astronauts-moon-artemis.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:00:01+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108268510-1771859407827-gettyimages-2252867035-jr_12990_qbup7at5.jpeg?v=1771859428&w=1920&h=1080",
-      "korean_summary": "NASA가 50여 년 만에 처음으로 달에 흑인과 여성을 포함한 우주인들을 보낼 예정입니다. 이는 우주 탐사의 다양성을 상징하는 역사적인 발걸음으로 평가됩니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "My boss told me to dress better. Now I feel uncomfortable. He is a white man and I am a Black woman.",
-      "body_preview": "During my first review last year, he said, “I just feel like you don’t dress for the occasion.”",
-      "source_url": "https://www.marketwatch.com/story/my-boss-told-me-to-dress-better-now-i-feel-uncomfortable-he-is-a-white-man-and-i-am-a-black-woman-70a7fd80",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:00:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "한 흑인 여성이 백인 남성 상사로부터 복장 지적을 받고 불편함을 느꼈다는 사연이 전해졌습니다. 이는 직장 내 복장 규정과 인종, 성별 간의 미묘한 갈등을 보여줍니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "Can China just steal America’s AI brain that’s costing trillions to develop?",
-      "body_preview": "American companies are spending enormous sums to develop high-performing AI models. Distillation attacks are attempting to maliciously extract them — and nobody is doing much to stop it.",
-      "source_url": "https://www.marketwatch.com/story/can-china-just-steal-americas-ai-brain-thats-costing-trillions-to-develop-da126634",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:00:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "미국 기업들이 막대한 비용을 들여 개발한 고성능 인공지능(AI) 모델이 증류 공격(distillation attacks)을 통해 중국으로 유출될 수 있다는 우려가 제기되었습니다. 이에 대한 효과적인 방지책이 부족하다는 지적입니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "‘I dread the snow’: My heating and air conditioning always breaks down. Do I spend $15K on a new one?",
-      "body_preview": "“Is there a formula or method for figuring out when replacement becomes more cost-effective than ongoing repairs?”",
-      "source_url": "https://www.marketwatch.com/story/i-dread-the-snow-my-heating-and-air-conditioning-always-breaks-down-do-i-spend-15k-on-a-new-one-e4cbf07e",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T12:45:00+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "잦은 고장으로 난방 및 에어컨 교체를 고민하는 소비자가 1만 5천 달러의 비용 지출을 망설이고 있습니다. 지속적인 수리보다 교체가 경제적인 시점을 판단하는 방법에 대한 질문이 제기되었습니다.",
-      "fetched_at": "2026-03-01T04:15:06.469843+00:00"
-    },
-    {
-      "title": "These fintech stocks are loved by analysts and could bounce back in a big way",
-      "body_preview": "Shares of PayPal and Block are both cheap relative to historic levels, but only one of them commands heavy enthusiasm from analysts.",
-      "source_url": "https://www.marketwatch.com/story/these-fintech-stocks-are-loved-by-analysts-and-could-bounce-back-in-a-big-way-567f0f46",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T12:30:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "페이팔(PayPal)과 블록(Block) 등 일부 핀테크(fintech) 주식들이 역사적 저점 대비 저평가되어 있으며, 애널리스트(analyst)들의 높은 관심 속에 큰 폭의 주가 반등 가능성이 있다는 분석이 나왔습니다.",
       "fetched_at": "2026-03-01T04:15:06.469843+00:00"
     },
     {
@@ -2976,181 +3150,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/93/default.png",
       "korean_summary": "인디애나주는 2027년부터 발효되는 HEA 1042 법안을 통해 공공 연기금(Pension Funds)의 암호화폐(Crypto) 투자를 의무화했다. 이는 디지털 자산(Digital Asset) 시대에 대한 인디애나주의 선구적인 움직임으로 평가된다.",
-      "fetched_at": "2026-02-28T13:32:00.922068+00:00"
-    },
-    {
-      "title": "JASMY Technical Analysis February 28, 2026: Will It Rise or Fall?",
-      "body_preview": "JASMY at $0.01 critical threshold; for upside, $0.01 breakout and RSI recovery, for downside, $0.0074 break should be watched. BTC downtrend increases altcoin risk, be prepared for both scenarios.",
-      "source_url": "https://en.coinotag.com/analysis/jasmy-technical-analysis-february-28-2026-will-it-rise-or-fall",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:08:54+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "JASMY"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/58611964.jpeg",
-      "korean_summary": "JASMY 코인은 0.01달러의 중요한 지지선에 있으며, 상승을 위해서는 0.01달러 돌파와 RSI 회복이, 하락 시에는 0.0074달러 이탈에 주목해야 한다. 비트코인(BTC) 하락세는 알트코인(Altcoin) 위험을 증가시킨다.",
-      "fetched_at": "2026-02-28T13:32:00.922068+00:00"
-    },
-    {
-      "title": "Expert Shares XRP March Structure: Consolidation for Several Months Before Next Move Up",
-      "body_preview": "XRP is closing February at a technical crossroads. After enduring extended consolidation and macro-driven volatility, the asset now shows signs of building pressure beneath the surface. Traders sense that compression often precedes expansion. The only question is whether XRP will deliver a controlle",
-      "source_url": "https://timestabloid.com/expert-shares-xrp-march-structure-consolidation-for-several-months-before-next-move-up/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:05:38+00:00",
-      "category": "macro",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "XRP는 2월을 기술적 기로에서 마감하며, 수개월간의 장기 횡보(Consolidation)와 거시 경제(Macro) 변동성을 겪었다. 전문가들은 XRP가 다음 상승 움직임 전까지 추가적인 압력 축적 기간을 가질 것으로 분석한다.",
-      "fetched_at": "2026-02-28T13:32:00.922068+00:00"
-    },
-    {
-      "title": "Stellar Lumens price prediction 2026-2032: How high can XLM go?",
-      "body_preview": "Key takeaway: Stellar price prediction for 2026 is a maximum value of $0.268258. In 2028, XLM will range between $0.476902 and $0.566322, with an average price of $0.521612. The token could reach as high as $1.16 in 2032. Stellar (XLM) is a decentralized cryptocurrency and payment protocol launched ",
-      "source_url": "https://www.cryptopolitan.com/stellar-lumens-price-prediction/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:00:36+00:00",
-      "category": "macro",
-      "currencies": [
-        "XLM"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/43/1707175.jpeg",
-      "korean_summary": "스텔라 루멘(Stellar Lumens, XLM)의 2026년 최대 가격은 0.268258달러로 예측되며, 2028년에는 0.476902달러에서 0.566322달러 사이에서 평균 0.521612달러를 기록할 것으로 전망된다.",
-      "fetched_at": "2026-02-28T13:32:00.922068+00:00"
-    },
-    {
-      "title": "Mt. Gox Ex-CEO Wants Bitcoin’s Rules Rewritten To Claw Back $5B In Stolen Coins",
-      "body_preview": "Twelve years is a long time to wait. For thousands of people who lost their Bitcoin when the Mt. Gox exchange collapsed in 2014, the wait has stretched on with little hope of getting everything back. Now, the man who ran the exchange is pushing for an extraordinary solution — one that would require ",
-      "source_url": "https://bitcoinist.com/mt-gox-ex-ceo-wants-bitcoins-rules-rewritten-to-claw-back-5b-in-stolen-coins/",
-      "source_name": "Bitcoinist",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:00:32+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "FORKS"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/bitcoinist.png",
-      "korean_summary": "마운트곡스(Mt. Gox) 전 CEO는 2014년 거래소 붕괴로 도난당한 50억 달러 상당의 비트코인(Bitcoin)을 회수하기 위해 비트코인 규칙 재작성을 주장했다. 이는 피해자들의 오랜 기다림과 자산 회수 문제에 대한 논의를 촉발한다.",
-      "fetched_at": "2026-02-28T13:32:00.922068+00:00"
-    },
-    {
-      "title": "PIPPIN retraces after false breakout: Should traders buy or sell?",
-      "body_preview": "PIPPIN has retraced into a key demand zone following the recent market-wide sell-off, presenting a risky buying opportunity.",
-      "source_url": "https://ambcrypto.com/pippin-retraces-after-false-breakout-should-traders-buy-or-sell/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:00:22+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "PIPPIN 토큰이 최근 시장 전반의 매도세 이후 주요 수요 영역(Demand Zone)으로 되돌림(Retrace)하며, 이는 위험한 매수 기회를 제공할 수 있다. 투자자들은 추가 하락 가능성을 고려해야 한다.",
-      "fetched_at": "2026-02-28T13:32:00.922068+00:00"
-    },
-    {
-      "title": "Iran Missile Strikes: Alarming Escalation Targets Israel and US Base in Kuwait",
-      "body_preview": "BitcoinWorld Iran Missile Strikes: Alarming Escalation Targets Israel and US Base in Kuwait In a significant escalation of regional hostilities, Iran has reportedly launched further missile strikes targeting Israeli territory and a United States military installation in Kuwait, according to a report",
-      "source_url": "https://bitcoinworld.co.in/iran-missile-strikes-israel-kuwait/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:00:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "ASIA"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "이란이 이스라엘과 쿠웨이트 주둔 미군 기지를 겨냥한 미사일 공격을 감행하며 역내 적대 행위가 크게 고조되었다. 이는 중동 지역의 긴장을 더욱 심화시키는 심각한 사태로 평가된다.",
-      "fetched_at": "2026-02-28T13:32:00.922068+00:00"
-    },
-    {
-      "title": "Bitcoin's five-month slide: Why BTC is set for worst losing streak since 2018",
-      "body_preview": "With BTC down nearly 50% from its peak, analysts are sparring over whether the slump marks early repricing or signals more pain to come.",
-      "source_url": "https://www.coindesk.com/markets/2026/02/27/bitcoin-set-for-worst-5-month-streak-since-2018-as-usd3-8-billion-etf-outflows-mount",
-      "source_name": "CoinDesk",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:00:00+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/5/58611558.jpeg",
-      "korean_summary": "비트코인(BTC)이 최고점 대비 약 50% 하락하며 5개월 연속 하락세를 기록, 2018년 이후 최악의 손실 기간을 맞이할 수 있다는 분석이 나왔다. 전문가들은 이를 초기 가격 재조정 또는 추가 하락의 신호로 보고 있다.",
-      "fetched_at": "2026-02-28T13:32:00.922068+00:00"
-    },
-    {
-      "title": "Why institutions still prefer Ethereum despite faster blockchains",
-      "body_preview": "TPS breakthroughs get engineers excited, but TradFi is looking at Ethereum because that’s where the liquidity is, says Kevin Lepsoe of ETHGas.",
-      "source_url": "https://cointelegraph.com/news/institutions-prefer-eth-faster-blockchains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T13:00:00+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ETH"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "기관 투자자(Institutions)들은 더 빠른 블록체인(Blockchain) 기술에도 불구하고 이더리움(Ethereum)을 선호하는데, 이는 이더리움에 풍부한 유동성(Liquidity)이 존재하기 때문이라고 전문가가 분석했다.",
-      "fetched_at": "2026-02-28T13:32:00.922068+00:00"
-    },
-    {
-      "title": "Bitcoin Exchange Inflows: The Alarming Signal of 23,300 BTC Held at a Loss Moving for Stop-Loss Selling",
-      "body_preview": "BitcoinWorld Bitcoin Exchange Inflows: The Alarming Signal of 23,300 BTC Held at a Loss Moving for Stop-Loss Selling On April 15, 2025, a significant and potentially bearish signal emerged from the Bitcoin blockchain: approximately 23,300 BTC, representing a substantial volume of coins acquired at h",
-      "source_url": "https://bitcoinworld.co.in/bitcoin-loss-exchange-inflows-analysis/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T12:55:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "2025년 4월 15일, 손실 상태의 비트코인(Bitcoin) 23,300 BTC가 손절매(Stop-Loss Selling)를 위해 거래소로 유입되는 움직임이 포착되었다. 이는 시장에 잠재적인 약세(Bearish) 신호로 해석될 수 있다.",
-      "fetched_at": "2026-02-28T13:32:00.922068+00:00"
-    },
-    {
-      "title": "GRT Technical Analysis February 28, 2026: Weekly Strategy",
-      "body_preview": "GRT closed the week at $0.02 with a weak base, downtrend intact but MACD divergence gives hope. Critical $0.0226 support and BTC correlation will determine the weekly strategy.",
-      "source_url": "https://en.coinotag.com/analysis/grt-technical-analysis-february-28-2026-weekly-strategy",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-28T12:47:10+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "GRT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/58611225.jpeg",
-      "korean_summary": "GRT는 0.02달러로 주간을 마감하며 약한 기반과 하락 추세를 유지했으나, MACD 다이버전스(Divergence)는 희망을 준다. 0.0226달러 지지선과 비트코인(BTC) 상관관계가 주간 전략을 결정할 것이다.",
-      "fetched_at": "2026-02-28T13:32:00.922068+00:00"
-    },
-    {
-      "title": "The bond market has been doing something strange despite a hot inflation report",
-      "body_preview": "Worries over the destructive impact of artificial intelligence on the U.S.  economy were sweeping through the $30 trillion bond market on Friday.",
-      "source_url": "https://www.marketwatch.com/story/the-bond-market-has-been-doing-something-strange-despite-a-hot-inflation-report-8670c7da",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-02-27T20:15:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "뜨거운 인플레이션(inflation) 보고서에도 불구하고 채권 시장(bond market)에서 이상 현상이 관찰되었다. 30조 달러 규모의 미국 채권 시장은 인공지능(AI)이 미국 경제에 미칠 파괴적인 영향에 대한 우려로 흔들렸다.",
       "fetched_at": "2026-02-28T13:32:00.922068+00:00"
     }
   ]
