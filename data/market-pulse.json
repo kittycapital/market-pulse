@@ -1,8 +1,455 @@
 {
-  "last_updated": "2026-03-02T14:38:39.964894+00:00",
-  "last_updated_kst": "2026-03-02 23:38 KST",
+  "last_updated": "2026-03-02T15:34:21.621201+00:00",
+  "last_updated_kst": "2026-03-03 00:34 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Ethereum Extends Losing Streak as Technical Pressure Mounts",
+      "body_preview": "Ethereum’s extended run of monthly declines keeps technical pressure high and investor caution elevated. Key support levels at $1,800 and $1,700 are being closely monitored for further breakdown. Continue Reading: Ethereum Extends Losing Streak as Technical Pressure Mounts The post Ethereum Extends ",
+      "source_url": "https://en.coin-turk.com/ethereum-extends-losing-streak-as-technical-pressure-mounts/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:32:30+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/79/58721781.jpeg",
+      "korean_summary": "이더리움(Ethereum, ETH)이 월간 하락세를 이어가며 기술적 압력과 투자자 경계심이 높아지고 있다. 핵심 지지선인 1,800달러와 1,700달러가 추가 하락 여부를 결정할 중요한 지점으로 주목받고 있다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Bitcoin Holds Mid-Range as Geopolitical Shock Fails to Break the Trend",
+      "body_preview": "",
+      "source_url": "https://www.investing.com/analysis/bitcoin-holds-midrange-as-geopolitical-shock-fails-to-break-the-trend-200675881",
+      "source_name": "Investing.Com Crypto Opinion and Analysis",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:32:21+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/107/default.png",
+      "korean_summary": "비트코인(Bitcoin, BTC)이 지정학적 충격에도 불구하고 기존 추세를 깨지 않고 중간 가격대를 유지하고 있다. 이는 시장이 외부 요인에 크게 흔들리지 않고 안정적인 흐름을 보이고 있음을 시사한다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "What Happens To The XRP Price If It Follows The Amazon Trend And Begins Parabola",
+      "body_preview": "Technical analysis of XRP’s current price action has presented an interesting structural comparison to Amazon that could lead to an upside cycle stretch for the cryptocurrency. The comparison focuses on structure and symmetry between XRP’s current price action and how Amazon’s stock price played out",
+      "source_url": "https://www.newsbtc.com/analysis/xrp/xrp-if-it-follows-amazon-trend/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:30:21+00:00",
+      "category": "macro",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/58721728.jpeg",
+      "korean_summary": "XRP의 현재 가격 움직임이 아마존(Amazon)의 과거 추세와 유사하다는 기술적 분석이 나왔다. 이는 XRP가 상승 사이클을 시작하며 상당한 가격 상승을 보일 가능성을 시사한다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Bitcoin Soars: BTC Price Surges Above $67,000 Milestone in Major Market Rally",
+      "body_preview": "BitcoinWorld Bitcoin Soars: BTC Price Surges Above $67,000 Milestone in Major Market Rally In a significant development for global digital asset markets, Bitcoin (BTC) has decisively broken through the $67,000 barrier. According to real-time data from Bitcoin World market monitoring, the premier cry",
+      "source_url": "https://bitcoinworld.co.in/bitcoin-price-surges-above-67000-3/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:30:12+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "비트코인(Bitcoin, BTC) 가격이 주요 시장 랠리 속에서 67,000달러를 돌파하며 급등했다. 이는 글로벌 디지털 자산 시장에 중요한 진전으로 평가되며, 투자자들의 관심이 집중되고 있다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Energym Dystopia: AI Job Losses and ALT Analysis",
+      "body_preview": "AiCandy's Energym parody satirizes AI job losses. Block shrank 40%, finance jobs dropped 50%. Citrini warns, Valory recommends crypto AI. ALT expects strong support at $0.01, BTC rose 0.7% in crisi...",
+      "source_url": "https://en.coinotag.com/energym-dystopia-ai-job-losses-and-alt-analysis",
+      "source_name": "CoinOtag",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:26:48+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/77/58721724.jpeg",
+      "korean_summary": "AI 캔디의 '에너지엄' 패러디는 AI로 인한 일자리 손실을 풍자하며, 금융 부문 일자리가 50% 감소했다고 지적했다. 한편, ALT는 0.01달러에서 강력한 지지를 예상하며, 비트코인(Bitcoin, BTC)은 위기 속 0.7% 상승했다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Bitcoin Soars: BTC Price Surges Above $68,000 in Major Market Rally",
+      "body_preview": "BitcoinWorld Bitcoin Soars: BTC Price Surges Above $68,000 in Major Market Rally In a significant market movement on April 15, 2025, the price of Bitcoin (BTC) has surged above the $68,000 threshold, trading at $68,010.73 on the Binance USDT market according to Bitcoin World data. This pivotal momen",
+      "source_url": "https://bitcoinworld.co.in/bitcoin-price-surges-above-68000-8/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:25:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "2025년 4월 15일, 비트코인(Bitcoin, BTC) 가격이 주요 시장 랠리 속에서 68,000달러를 돌파하며 급등했다. 이는 글로벌 디지털 자산 시장의 중요한 움직임으로, 강세장을 시사한다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Strategy Spends $200 Million on Bitcoin, Raises STRC Dividend Yet Again",
+      "body_preview": "Strategy disclosed its third-largest Bitcoin purchase of the year, scooping up the asset using proceeds that partially came from STRC.",
+      "source_url": "https://decrypt.co/359593/strategy-spends-200-million-bitcoin-raises-strc-dividend",
+      "source_name": "Decrypt",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:22:28+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/44/58721436.jpeg",
+      "korean_summary": "스트래티지(Strategy)는 올해 세 번째로 큰 규모의 비트코인(Bitcoin, BTC) 매입을 발표하며 2억 달러를 지출했다. 매입 자금의 일부는 STRC 수익금에서 조달되었으며, STRC 배당금도 다시 인상되었다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "DOGE Price Prediction: Dogecoin Risks Major Breakdown Below $0.087",
+      "body_preview": "Dogecoin is trading at $0.09339 at the time of writing. The path forward is narrow. Bulls need a 20% rally to reach the $0.110 resistance level. Bears only need a modest decline to collapse the current support. Technical signals increasingly favor the downside. The setup is straightforward. Break ab",
+      "source_url": "https://coinpaper.com/15086/doge-price-prediction-dogecoin-risks-major-breakdown-below-0-087",
+      "source_name": "Coinpaper",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:22:13+00:00",
+      "category": "crypto",
+      "currencies": [
+        "DOGE"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/93/default.png",
+      "korean_summary": "도지코인(Dogecoin, DOGE)이 현재 0.09339달러에 거래되며 0.087달러 아래로 하락할 위험에 직면했다. 강세론자들은 0.110달러 저항선 도달을 위해 20% 상승이 필요하지만, 약세론자들은 소폭 하락만으로도 현재 지지선이 무너질 수 있다고 분석된다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "AI Customer Support Revolution: How 14.ai’s Groundbreaking Agency Model is Displacing Startup Teams",
+      "body_preview": "BitcoinWorld AI Customer Support Revolution: How 14.ai’s Groundbreaking Agency Model is Displacing Startup Teams In Boston, a quiet but profound shift is reshaping how startups manage customer relationships. Founded by the married duo Marie Schneegans and Michael Fester, the Y Combinator-backed star",
+      "source_url": "https://bitcoinworld.co.in/ai-customer-support-agency-14ai/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:20:12+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "보스턴에서 14.ai의 혁신적인 에이전시 모델이 스타트업의 고객 지원 방식을 변화시키며 AI 고객 지원 혁명을 이끌고 있다. 이는 기존 스타트업 팀을 대체하며 효율성을 높이는 새로운 트렌드를 제시한다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "US Stocks Open Lower: A Sobering Start as Major Indices Slide Over 1%",
+      "body_preview": "BitcoinWorld US Stocks Open Lower: A Sobering Start as Major Indices Slide Over 1% NEW YORK, NY – A wave of selling pressure washed over Wall Street at the opening bell today, sending the three major US stock indices decisively into negative territory. This immediate downturn marks a significant shi",
+      "source_url": "https://bitcoinworld.co.in/us-stocks-open-lower-analysis-11/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:15:11+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "뉴욕 증시 개장과 함께 매도 압력이 확산되며 미국 주요 주가지수들이 1% 이상 하락 출발했다. 이는 월스트리트에 냉정한 시작을 알리며 투자자들의 우려를 키우고 있다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "$0 in Dogecoin ETF Daily Net Inflow: Cause for Concern?",
+      "body_preview": "Dogecoin ETFs attracted nil inflows, drawing the attention of the market.",
+      "source_url": "https://u.today/0-in-dogecoin-etf-daily-net-inflow-cause-for-concern",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:11:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "DOGE"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58721087.jpeg",
+      "korean_summary": "도지코인(Dogecoin, DOGE) 상장지수펀드(ETF)에 일일 순유입액이 0달러를 기록하며 시장의 주목을 받고 있다. 이는 투자자들의 관심 부족 또는 신중한 태도를 반영하는 것으로, 우려의 목소리가 나온다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Tom Lee's Bitmine boosts ether holdings to 4.47 million tokens with  $98 million ETH purchase",
+      "body_preview": "The ether treasury firm now has nearly $10 billion in assets and more than $6 billion of ETH staked.",
+      "source_url": "https://www.coindesk.com/business/2026/03/02/bitmine-boosts-ether-holdings-to-4-47m-tokens-after-usd98m-eth-purchase",
+      "source_name": "CoinDesk",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:10:25+00:00",
+      "category": "macro",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/5/58721015.jpeg",
+      "korean_summary": "톰 리(Tom Lee)의 빗마인(Bitmine)이 9,800만 달러 상당의 이더리움(Ethereum, ETH)을 매입하여 보유량을 447만 토큰으로 늘렸다. 이더리움 보유 기업은 현재 약 100억 달러의 자산과 60억 달러 이상의 스테이킹된 이더리움을 보유하고 있다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Aluminium Supply Risks Surge as Middle East Tensions Threaten Global Industrial Stability",
+      "body_preview": "BitcoinWorld Aluminium Supply Risks Surge as Middle East Tensions Threaten Global Industrial Stability Global aluminium markets face escalating supply risks as renewed Middle East tensions threaten critical shipping routes and production stability, potentially disrupting industrial sectors worldwide",
+      "source_url": "https://bitcoinworld.co.in/aluminium-supply-risks-middle-east/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:10:12+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "중동 지역의 긴장이 고조되면서 글로벌 알루미늄(Aluminium) 시장의 공급 위험이 급증하고 있다. 이는 전 세계 산업 안정성을 위협하며, 원자재 시장에 불확실성을 가중시키고 있다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Ethereum price forecast: ETH struggles to rally above $2,092 amid strong institutional support",
+      "body_preview": "Ethereum (ETH) price has been trapped in a tight consolidation range between $1,819 and $2,092 in the past four weeks. As such, Ethereum’s daily Bollinger Bands have been squeezing in this tight range signaling an imminent breakout in the near term. ETH/USD 1-Day Chart. Source: TradingView Ethereum ",
+      "source_url": "https://finbold.com/ethereum-price-forecast-eth-struggles-to-rally-above-2092-amid-strong-institutional-support/",
+      "source_name": "Finbold",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:07:25+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/finbold.png",
+      "korean_summary": "이더리움(Ethereum, ETH) 가격이 지난 4주간 1,819달러에서 2,092달러 사이의 좁은 통합(consolidation) 범위에 갇혀 2,092달러 이상으로 상승하는 데 어려움을 겪고 있다. 강력한 기관 지원에도 불구하고 볼린저 밴드(Bollinger Bands)가 수축하고 있다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "XRP Ledger Officially Enters Australia’s Banking System. Here’s the Latest",
+      "body_preview": "Digital assets are no longer confined to speculative trading or pilot programs. They are increasingly becoming part of regulated financial systems , reshaping how banks and businesses handle payments. When a blockchain network secures formal access to a nation’s banking framework, it represents a st",
+      "source_url": "https://timestabloid.com/xrp-ledger-officially-enters-australias-banking-system-heres-the-latest/",
+      "source_name": "TimesTabloid",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:05:36+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT",
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
+      "korean_summary": "XRP 렛저(XRP Ledger)가 호주 은행 시스템에 공식적으로 진입하며 디지털 자산이 규제 금융 시스템의 일부가 되고 있음을 보여줬다. 이는 은행과 기업의 결제 방식에 변화를 가져올 중요한 진전이다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Coherent and Lumentum shares pop on Nvidia deals. Why optical stocks are so hot these days.",
+      "body_preview": "Optical technologies are increasingly critical in data centers as they support energy-efficient, ultrahigh-bandwidth connections.",
+      "source_url": "https://www.marketwatch.com/story/coherent-and-lumentum-shares-pop-on-nvidia-deals-why-optical-stocks-are-so-hot-these-days-806f603d",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:25:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "엔비디아(Nvidia)와의 계약 소식에 코히어런트(Coherent)와 루멘텀(Lumentum) 등 광학 기술 관련 주가가 상승했다. 데이터 센터에서 에너지 효율적이고 초고대역폭 연결을 지원하는 광학 기술의 중요성이 커지고 있기 때문이다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "U.S. manufacturers grow for second straight month, but ‘tariff instability still exists’",
+      "body_preview": "American manufacturers grew in February for the second month in a row for the first time in a year, but rising metal prices tied to U.S. tariffs are weighing on business and sapping customer demand.",
+      "source_url": "https://www.marketwatch.com/story/u-s-manufacturers-grow-for-second-straight-month-but-tariff-instability-still-exists-44ff359f",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T15:04:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "미국 제조업이 2월까지 두 달 연속 성장하며 1년 만에 처음으로 회복세를 보였다. 하지만 미국 관세와 연관된 금속 가격 상승이 기업 활동에 부담을 주고 고객 수요를 약화시켜 관세 불안정성이 여전히 존재한다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "We're initiating a position in this health-care stock with a $260 price target",
+      "body_preview": "This backbone of the U.S. health-care industry generates about 99% of its revenue domestically, insulating it from overseas pressure.",
+      "source_url": "https://www.cnbc.com/2026/03/02/were-initiating-a-position-of-this-health-care-stock-with-a-260-price-target.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T14:28:18+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108271052-17722088882026-02-27t161129z_1133059677_rc2dujaw76te_rtrmadp_0_usa-stocks.jpeg?v=1772209043&w=1920&h=1080",
+      "korean_summary": "미국 헬스케어 산업의 핵심 기업 주식에 대해 260달러의 목표가로 포지션을 개시한다. 이 기업은 매출의 약 99%를 국내에서 창출하여 해외 압력으로부터 비교적 자유롭다는 특징이 있다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "American’s, Delta’s stocks fall as Iran conflict sparks worries about fuel costs, travel demand",
+      "body_preview": "Airline stocks drop as the Iran conflict sparks worries about rising fuel costs.",
+      "source_url": "https://www.marketwatch.com/story/american-delta-stocks-fall-as-iran-conflict-sparks-worries-about-fuel-costs-travel-demand-c691eb25",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T14:24:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "이란 분쟁으로 인한 유가 상승 우려가 커지면서 아메리칸 항공(American Airlines)과 델타 항공(Delta Air Lines) 등 항공사 주가가 하락했다. 이는 연료비 증가와 여행 수요 감소에 대한 시장의 불안감을 반영한다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "My friend was laid off from our company, but I wasn’t. How should I console her?",
+      "body_preview": "You can empathize with your friend without demonizing your own position or potentially patronizing her about how everything will be OK.",
+      "source_url": "https://www.marketwatch.com/story/my-friend-was-laid-off-from-our-company-but-i-wasnt-how-should-i-console-her-5070c21c",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T14:22:00+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "친구가 회사에서 해고되었으나 본인은 그렇지 않은 상황에서 친구를 위로하는 방법에 대한 조언이다. 자신의 위치를 비난하거나 모든 것이 괜찮을 것이라고 위로하기보다는 공감하는 태도가 중요하다고 강조한다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Palantir, Lockheed and these other defense stocks are rising on heels of Iran conflict",
+      "body_preview": "Defense spending is due to get “more urgent and less controversial,” an analyst notes, and numerous stocks could benefit.",
+      "source_url": "https://www.marketwatch.com/story/palantir-lockheed-and-these-other-defense-stocks-are-rising-on-heels-of-iran-conflict-3832f763",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T14:19:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "이란 분쟁의 여파로 팔란티어(Palantir), 록히드 마틴(Lockheed Martin) 등 방산 관련 주가가 상승했다. 한 애널리스트는 국방비 지출이 더욱 시급하고 논란의 여지가 적어질 것이며, 다수의 방산 기업이 수혜를 입을 것이라고 분석했다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "body_preview": "The stock market can accept a short war with a limited oil price impact, not a long one where oil runs hot.",
+      "source_url": "https://www.cnbc.com/2026/03/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T14:00:15+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108162130-17505936352025-06-18t154538z_1822239137_rc225fad2idy_rtrmadp_0_iran-nuclear-shipping-hormuz.jpeg?v=1750593667&w=1920&h=1080",
+      "korean_summary": "짐 크레이머(Jim Cramer)는 월요일 주식 시장에서 주목할 10가지 사항을 제시하며, 시장은 유가 영향이 제한적인 단기 전쟁은 수용할 수 있지만, 유가가 급등하는 장기 전쟁은 받아들이기 어렵다고 분석했다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Anthropic’s Claude suffers an outage. Here’s what to know.",
+      "body_preview": "Claude had been gaining more respect with users following ChatGPT backlash and the introduction of new coding tools, though an outage might erode some of that goodwill.",
+      "source_url": "https://www.marketwatch.com/story/anthropics-claude-suffers-an-outage-heres-what-to-know-df8ada64",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T13:29:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "앤트로픽(Anthropic)의 AI 챗봇 클로드(Claude)가 서비스 중단 사태를 겪었다. 클로드는 챗GPT(ChatGPT) 논란 이후 사용자들로부터 신뢰를 얻고 있었으나, 이번 서비스 중단이 그간 쌓아온 좋은 이미지를 훼손할 수 있다는 우려가 제기된다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Travel stocks sink after thousands of flights grounded following Iran strikes",
+      "body_preview": "Airlines and some hotel stocks fell after the U.S.-Israeli attacks on Iran and subsequent retaliation strikes.",
+      "source_url": "https://www.cnbc.com/2026/03/02/iran-strikes-flights-travel-stocks.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T13:15:54+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108271858-17724534992026-03-02t075929z_1304138344_rc23wjaaaj9j_rtrmadp_0_iran-crisis-vietnam.jpeg?v=1772453539&w=1920&h=1080",
+      "korean_summary": "미국-이스라엘의 이란 공격과 이어진 보복 공습으로 수천 편의 항공편이 결항되면서 항공 및 일부 호텔 주식 등 여행 관련 주가가 하락했다. 이는 중동 정세 불안이 여행 산업에 미치는 부정적 영향을 반영한다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "‘I don’t earn enough to support us and our baby’: My husband is unemployed and lost $22,000 trading sports cards. What now?",
+      "body_preview": "“I intervened, shut the business down and got him into therapy and support for gambling-type behaviors.”",
+      "source_url": "https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T13:11:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "남편이 실직 상태에서 스포츠 카드 거래로 2만 2천 달러를 잃어 경제적 어려움을 겪는 상황에 대한 조언이다. 도박성 행동에 대한 치료와 지원을 통해 문제를 해결하려는 노력이 필요하다고 제시한다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "The economy looks great on paper — but this split in consumer mood spells trouble",
+      "body_preview": "Recession is more likely when consumers are gloomy about the economy and their own finances.",
+      "source_url": "https://www.marketwatch.com/story/the-economy-looks-great-on-paper-but-this-split-in-consumer-mood-spells-trouble-89ad2a6e",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T13:10:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "경제 지표는 긍정적이지만, 소비자의 경제 및 개인 재정 상황에 대한 비관적인 심리가 문제의 징후로 해석된다. 소비자들이 경제에 대해 우울할 때 경기 침체 가능성이 더 높아진다고 분석한다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Why Big Tech’s slide is the best thing to happen to your portfolio",
+      "body_preview": "Megacap tech stocks are becoming more realistically valued and still offer solid growth.",
+      "source_url": "https://www.marketwatch.com/story/why-big-techs-slide-is-the-best-thing-to-happen-to-your-portfolio-17a33766",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T12:55:00+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "거대 기술 기업(Big Tech) 주식의 하락세가 투자 포트폴리오에 긍정적일 수 있다는 분석이다. 메가캡 기술주(Megacap tech stocks)들이 보다 현실적인 가치 평가를 받게 되면서도 여전히 견고한 성장 잠재력을 제공하고 있다고 설명한다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Conflict in the Middle East won’t stop market’s rotation away from U.S. tech stocks but accelerate it, says BCA strategist",
+      "body_preview": "BCA Research reiterate their conviction in energy and oil services companies, while adding a shipping tanker ETF",
+      "source_url": "https://www.marketwatch.com/story/conflict-in-the-middle-east-wont-stop-markets-rotation-away-from-u-s-tech-stocks-but-accelerate-it-says-bca-strategist-bd0bedd8",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T12:51:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "BCA 리서치(BCA Research) 전략가는 중동 분쟁이 미국 기술주(U.S. tech stocks)에서 벗어나는 시장의 순환을 멈추기보다 가속화할 것이라고 전망했다. 에너지 및 석유 서비스 기업에 대한 확신을 재확인하며 해운 탱커 ETF를 추가했다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Cruise stocks drop, as there’s more the just the Iran conflict to worry about",
+      "body_preview": "Norwegian’s sales miss and downbeat booking and profit outlooks spark concern about demand for cruises.",
+      "source_url": "https://www.marketwatch.com/story/cruise-stocks-drop-as-theres-more-the-just-the-iran-conflict-to-worry-about-808189e4",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T12:51:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "노르웨이지안 크루즈 라인(Norwegian Cruise Line)의 매출 부진과 비관적인 예약 및 수익 전망으로 인해 크루즈 수요에 대한 우려가 커지면서 크루즈 관련 주가가 하락했다. 이는 이란 분쟁 외의 다른 요인도 시장에 영향을 미치고 있음을 보여준다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
+    {
+      "title": "Here’s how far oil is away from dragging stocks into a bear market, according to Morgan Stanley",
+      "body_preview": "History shows market can recover quite quickly from geopolitical shocks",
+      "source_url": "https://www.marketwatch.com/story/heres-how-far-oil-is-away-from-dragging-stocks-into-a-bear-market-according-to-morgan-stanley-b8e1932b",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T11:38:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "모건 스탠리(Morgan Stanley)는 유가가 주식 시장을 약세장(bear market)으로 끌어내리는 수준까지 얼마나 남았는지 분석했다. 역사적으로 시장은 지정학적 충격에서 비교적 빠르게 회복할 수 있음을 보여준다고 언급했다.",
+      "fetched_at": "2026-03-02T15:34:21.617647+00:00"
+    },
     {
       "title": "U.S. Embassy Lebanon Issues Urgent Warning: Citizens Must Leave Immediately",
       "body_preview": "BitcoinWorld U.S. Embassy Lebanon Issues Urgent Warning: Citizens Must Leave Immediately BEIRUT, Lebanon – In a decisive move underscoring grave concerns, the U.S. Embassy in Lebanon has issued an urgent advisory for all American citizens to depart the country immediately. This directive, announced ",
@@ -238,188 +685,6 @@
       "currencies": [],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "이스라엘 군이 레바논 전역의 헤즈볼라(Hezbollah) 목표물에 대규모 공습을 감행하며 이스라엘-헤즈볼라 분쟁이 크게 격화되었다. 이는 지역 안보 상황에 심각한 영향을 미칠 것으로 예상된다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "We're initiating a position in this health-care stock with a $260 price target",
-      "body_preview": "This backbone of the U.S. health-care industry generates about 99% of its revenue domestically, insulating it from overseas pressure.",
-      "source_url": "https://www.cnbc.com/2026/03/02/were-initiating-a-position-of-this-health-care-stock-with-a-260-price-target.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T14:28:18+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108271052-17722088882026-02-27t161129z_1133059677_rc2dujaw76te_rtrmadp_0_usa-stocks.jpeg?v=1772209043&w=1920&h=1080",
-      "korean_summary": "미국 헬스케어 산업의 핵심 기업에 대한 투자를 시작하며, 260달러의 목표 주가를 제시했다. 이 기업은 매출의 99%를 국내에서 창출하여 해외 압력으로부터 자유롭다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "American’s, Delta’s stocks fall as Iran conflict sparks worries about fuel costs, travel demand",
-      "body_preview": "Airline stocks drop as the Iran conflict sparks worries about rising fuel costs.",
-      "source_url": "https://www.marketwatch.com/story/american-delta-stocks-fall-as-iran-conflict-sparks-worries-about-fuel-costs-travel-demand-c691eb25",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T14:24:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "이란 분쟁으로 유가 상승 및 여행 수요 감소 우려가 커지면서 아메리칸항공(American Airlines), 델타항공(Delta Air Lines) 등 항공주가 하락했다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "My friend was laid off from our company, but I wasn’t. How should I console her?",
-      "body_preview": "You can empathize with your friend without demonizing your own position or potentially patronizing her about how everything will be OK.",
-      "source_url": "https://www.marketwatch.com/story/my-friend-was-laid-off-from-our-company-but-i-wasnt-how-should-i-console-her-5070c21c",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T14:22:00+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "친구가 회사에서 해고되었으나 본인은 해고되지 않은 상황에서 친구를 위로하는 방법에 대한 조언이 제시되었다. 자신의 입장을 비난하거나 모든 것이 괜찮을 것이라고 위로하는 대신 공감하는 것이 중요하다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "Palantir, Lockheed and these other defense stocks are rising on heels of Iran conflict",
-      "body_preview": "Defense spending is due to get “more urgent and less controversial,” an analyst notes, and numerous stocks could benefit.",
-      "source_url": "https://www.marketwatch.com/story/palantir-lockheed-and-these-other-defense-stocks-are-rising-on-heels-of-iran-conflict-3832f763",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T14:19:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "이란 분쟁 여파로 팔란티어(Palantir), 록히드마틴(Lockheed Martin) 등 방산주가 상승했다. 한 애널리스트는 국방비 지출이 더욱 시급해지고 논란이 줄어들 것이며, 여러 관련 주식이 수혜를 볼 것이라고 분석했다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "body_preview": "The stock market can accept a short war with a limited oil price impact, not a long one where oil runs hot.",
-      "source_url": "https://www.cnbc.com/2026/03/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T14:00:15+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108162130-17505936352025-06-18t154538z_1822239137_rc225fad2idy_rtrmadp_0_iran-nuclear-shipping-hormuz.jpeg?v=1750593667&w=1920&h=1080",
-      "korean_summary": "짐 크레이머(Jim Cramer)는 월요일 주식 시장에서 주목할 10가지 사항을 제시하며, 주식 시장은 유가 영향이 제한적인 단기 전쟁은 수용할 수 있지만, 유가가 급등하는 장기 전쟁은 어렵다고 분석했다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "Anthropic’s Claude suffers an outage. Here’s what to know.",
-      "body_preview": "Claude had been gaining more respect with users following ChatGPT backlash and the introduction of new coding tools, though an outage might erode some of that goodwill.",
-      "source_url": "https://www.marketwatch.com/story/anthropics-claude-suffers-an-outage-heres-what-to-know-df8ada64",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T13:29:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "앤트로픽(Anthropic)의 인공지능(AI) 챗봇 클로드(Claude)가 서비스 중단 사태를 겪었다. 클로드는 챗GPT(ChatGPT) 논란 이후 사용자들의 신뢰를 얻었으나, 이번 중단 사태로 일부 호의가 훼손될 수 있다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "Travel stocks sink after thousands of flights grounded following Iran strikes",
-      "body_preview": "Airlines and some hotel stocks fell after the U.S.-Israeli attacks on Iran and subsequent retaliation strikes.",
-      "source_url": "https://www.cnbc.com/2026/03/02/iran-strikes-flights-travel-stocks.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T13:15:54+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108271858-17724534992026-03-02t075929z_1304138344_rc23wjaaaj9j_rtrmadp_0_iran-crisis-vietnam.jpeg?v=1772453539&w=1920&h=1080",
-      "korean_summary": "미국-이스라엘의 이란 공격과 이어진 보복 공습으로 수천 편의 항공편이 결항되면서 항공주와 일부 호텔주 등 여행 관련 주식이 하락했다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "‘I don’t earn enough to support us and our baby’: My husband is unemployed and lost $22,000 trading sports cards. What now?",
-      "body_preview": "“I intervened, shut the business down and got him into therapy and support for gambling-type behaviors.”",
-      "source_url": "https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T13:11:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "남편이 실직 상태에서 스포츠 카드 거래로 22,000달러를 잃어 재정적 어려움을 겪는 부부의 사연이 소개되었다. 아내는 남편의 도박성 행동을 치료하기 위해 사업을 중단시키고 상담을 받도록 조치했다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "The economy looks great on paper — but this split in consumer mood spells trouble",
-      "body_preview": "Recession is more likely when consumers are gloomy about the economy and their own finances.",
-      "source_url": "https://www.marketwatch.com/story/the-economy-looks-great-on-paper-but-this-split-in-consumer-mood-spells-trouble-89ad2a6e",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T13:10:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "경제 지표는 양호해 보이지만, 소비자의 경제 심리 분열이 문제의 조짐을 보인다. 소비자들이 경제와 개인 재정에 대해 비관적일 때 경기 침체(recession) 가능성이 더 높아진다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "Why Big Tech’s slide is the best thing to happen to your portfolio",
-      "body_preview": "Megacap tech stocks are becoming more realistically valued and still offer solid growth.",
-      "source_url": "https://www.marketwatch.com/story/why-big-techs-slide-is-the-best-thing-to-happen-to-your-portfolio-17a33766",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T12:55:00+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "거대 기술주(Big Tech)의 하락이 투자 포트폴리오에 긍정적일 수 있다는 분석이 나왔다. 대형 기술주(Megacap Tech Stocks)들이 보다 현실적인 가치로 평가받고 있으며 여전히 견고한 성장세를 제공한다고 언급되었다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "Conflict in the Middle East won’t stop market’s rotation away from U.S. tech stocks but accelerate it, says BCA strategist",
-      "body_preview": "BCA Research reiterate their conviction in energy and oil services companies, while adding a shipping tanker ETF",
-      "source_url": "https://www.marketwatch.com/story/conflict-in-the-middle-east-wont-stop-markets-rotation-away-from-u-s-tech-stocks-but-accelerate-it-says-bca-strategist-bd0bedd8",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T12:51:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "BCA 리서치(BCA Research) 전략가는 중동 분쟁이 미국 기술주(U.S. Tech Stocks)에서 벗어나는 시장의 순환을 가속화할 것이라고 전망했다. 에너지 및 석유 서비스 기업에 대한 확신을 재확인하며 해운 탱커 상장지수펀드(ETF)를 추가했다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "Cruise stocks drop, as there’s more the just the Iran conflict to worry about",
-      "body_preview": "Norwegian’s sales miss and downbeat booking and profit outlooks spark concern about demand for cruises.",
-      "source_url": "https://www.marketwatch.com/story/cruise-stocks-drop-as-theres-more-the-just-the-iran-conflict-to-worry-about-808189e4",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T12:51:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "이란 분쟁 외에도 노르웨이지안 크루즈 라인(Norwegian Cruise Line)의 매출 부진과 비관적인 예약 및 이익 전망으로 크루즈 수요에 대한 우려가 커지면서 크루즈 관련 주식이 하락했다.",
-      "fetched_at": "2026-03-02T14:38:39.961359+00:00"
-    },
-    {
-      "title": "Here’s how far oil is away from dragging stocks into a bear market, according to Morgan Stanley",
-      "body_preview": "History shows market can recover quite quickly from geopolitical shocks",
-      "source_url": "https://www.marketwatch.com/story/heres-how-far-oil-is-away-from-dragging-stocks-into-a-bear-market-according-to-morgan-stanley-b8e1932b",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:38:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "모건스탠리(Morgan Stanley)는 유가가 주식 시장을 약세장(bear market)으로 끌어내리는 수준까지 얼마나 남았는지 분석했다. 역사적으로 시장은 지정학적 충격(geopolitical shocks)으로부터 상당히 빠르게 회복될 수 있다고 언급했다.",
       "fetched_at": "2026-03-02T14:38:39.961359+00:00"
     },
     {
@@ -2847,271 +3112,6 @@
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "디지털 자산 산업에서 암호화폐(crypto) 해킹으로 인한 손실액이 98.2% 급감하여 2,650만 달러를 기록했다. 이는 업계의 보안 수준이 크게 향상되었음을 시사하며, 보안 혁명의 신호탄으로 평가된다.",
       "fetched_at": "2026-03-02T05:46:18.972167+00:00"
-    },
-    {
-      "title": "Magic Eden’s Strategic Pivot: NFT Marketplace Scales Down to Fuel Thriving Dicey Casino Platform",
-      "body_preview": "BitcoinWorld Magic Eden’s Strategic Pivot: NFT Marketplace Scales Down to Fuel Thriving Dicey Casino Platform In a significant strategic shift that reflects broader market dynamics, the prominent NFT marketplace Magic Eden announced plans to scale down its core NFT operations. The company will redir",
-      "source_url": "https://bitcoinworld.co.in/magic-eden-nft-casino-pivot/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T05:05:11+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "주요 대체불가토큰(NFT) 마켓플레이스인 매직 에덴(Magic Eden)이 광범위한 시장 역학을 반영하여 전략적 전환을 단행했다. NFT 사업 규모를 축소하고 성장하는 다이시 카지노(Dicey Casino) 플랫폼에 집중할 계획이다.",
-      "fetched_at": "2026-03-02T05:46:18.972167+00:00"
-    },
-    {
-      "title": "RAF Cyprus Drone Strike: Alarming Attack Targets British Military Base in Mediterranean",
-      "body_preview": "BitcoinWorld RAF Cyprus Drone Strike: Alarming Attack Targets British Military Base in Mediterranean RAF Akrotiri, a crucial British military base on the Mediterranean island of Cyprus, became the target of a suspected drone strike this week, marking a significant escalation in regional security thr",
-      "source_url": "https://bitcoinworld.co.in/raf-cyprus-drone-strike-akrotiri/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T05:00:12+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "지중해 키프로스(Cyprus)에 위치한 영국 핵심 군사 기지인 RAF 아크로티리(Akrotiri)가 드론 공격의 표적이 되었다. 이 사건은 해당 지역의 안보 상황에 대한 우려를 증폭시키고 있다.",
-      "fetched_at": "2026-03-02T05:46:18.972167+00:00"
-    },
-    {
-      "title": "Asian Markets Plummer: Investors Flee to Safe Havens as US-Iran Conflict Escalates",
-      "body_preview": "BitcoinWorld Asian Markets Plummer: Investors Flee to Safe Havens as US-Iran Conflict Escalates Major financial hubs across Asia witnessed a dramatic sell-off on Monday, March 10, 2025, as escalating military actions between the United States and Iran triggered a massive flight of capital toward tra",
-      "source_url": "https://bitcoinworld.co.in/asian-markets-plummet-safe-havens/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T04:00:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "ASIA"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "2025년 3월 10일, 미국-이란 갈등이 고조되면서 아시아 주요 금융 시장에서 대규모 매도세가 발생, 투자자들이 안전자산으로 몰리며 시장 전반에 불안감이 확산되었다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "Bitcoin’s $67K rebound defies war fears but signals deeper market risk",
-      "body_preview": "Bitcoin reclaims $67,000 amid geopolitical shock — Relief rally or looming bull trap?",
-      "source_url": "https://ambcrypto.com/bitcoins-67k-rebound-defies-war-fears-but-signals-deeper-market-risk/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T04:00:03+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "비트코인(Bitcoin)이 지정학적 충격 속에서 67,000달러를 회복했으나, 이는 일시적인 안도 랠리(relief rally)일지 아니면 잠재적인 불 트랩(bull trap)일지 시장의 깊은 위험을 시사한다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "Gold Price Retreats from $5,400 Peak Yet Holds Critical Gains Amid Soaring Middle East Tensions",
-      "body_preview": "BitcoinWorld Gold Price Retreats from $5,400 Peak Yet Holds Critical Gains Amid Soaring Middle East Tensions Global gold markets witnessed a significant pullback from the $5,400 per ounce threshold on Thursday, April 10, 2025, yet the precious metal maintains a formidable weekly gain exceeding 1%. T",
-      "source_url": "https://bitcoinworld.co.in/gold-price-retreat-middle-east-tensions/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T03:55:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "중동 긴장이 고조되는 가운데 국제 금 가격이 온스당 5,400달러 최고점에서 후퇴했으나, 여전히 상당한 상승분을 유지하며 시장의 불확실성을 반영하고 있다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "APEMARS Stage 10 Surges in Crypto Bull Runs as Best Crypto Presale 2026, While Stellar and Chainlink Sparks Frenzy",
-      "body_preview": "The market is waking up again. Are you ready for the next wave of crypto bull runs , or will you watch from the sidelines as prices explode? With renewed momentum building across the market, investors are closely tracking major names like Stellar and Chainlink. Both have recently made headlines, Ste",
-      "source_url": "https://timestabloid.com/apemars-stage-10-surges-in-crypto-bull-runs-as-best-crypto-presale/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T03:30:37+00:00",
-      "category": "crypto",
-      "currencies": [
-        "LINK"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "APEMARS가 2026년 최고의 암호화폐(cryptocurrency) 사전 판매(presale)로 부상하며 강세장(bull run)에서 급등했고, 스텔라(Stellar)와 체인링크(Chainlink)도 투자 열풍을 일으키고 있다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "Token Unlocks This Week: Critical $316M HYPE Release Tests Market Resilience",
-      "body_preview": "BitcoinWorld Token Unlocks This Week: Critical $316M HYPE Release Tests Market Resilience Global cryptocurrency markets face a pivotal liquidity test this first week of March 2025, as scheduled token unlocks from several major projects prepare to inject hundreds of millions in value into circulating",
-      "source_url": "https://bitcoinworld.co.in/major-token-unlocks-hype-march/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T03:30:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "OP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "2025년 3월 첫째 주, 3억 1,600만 달러 규모의 HYPE 토큰(token) 언락(unlock)이 예정되어 글로벌 암호화폐(cryptocurrency) 시장의 유동성(liquidity)과 회복력을 시험할 예정이다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "Strategist Sees Reversion Risk in Gold and Oil After Iran Strikes",
-      "body_preview": "U.S.-Israel strikes on Iran could spark reversals in gold and crude oil as war premium fades, signaling 2026 peaks and risk-asset relief, Bloomberg strategist Mike McGlone warns. Strategist Flags Commodity Reversal Scenario Bloomberg Intelligence strategist Mike McGlone shared on social media platfo",
-      "source_url": "https://news.bitcoin.com/strategist-sees-reversion-risk-in-gold-and-oil-after-iran-strikes/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T03:30:10+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/14/58697208.jpeg",
-      "korean_summary": "블룸버그(Bloomberg) 전략가는 미국-이스라엘의 이란 공습 이후 전쟁 프리미엄(war premium)이 사라지면서 금과 원유 가격이 반전될 위험이 있으며, 이는 2026년 정점과 위험자산(risk-asset) 완화를 시사한다고 경고했다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "Trump Media’s Strategic Masterstroke: Truth Social Spin-Off to Supercharge Cryptocurrency Business",
-      "body_preview": "BitcoinWorld Trump Media’s Strategic Masterstroke: Truth Social Spin-Off to Supercharge Cryptocurrency Business In a bold strategic move that could reshape digital media and cryptocurrency landscapes, Trump Media Group is actively considering spinning off its flagship platform Truth Social into a se",
-      "source_url": "https://bitcoinworld.co.in/truth-social-spin-off-cryptocurrency-business/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T03:25:11+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "트럼프 미디어(Trump Media)가 트루스 소셜(Truth Social)을 분사(spin-off)하여 암호화폐(cryptocurrency) 사업을 강화하는 전략적 움직임을 보였다. 이는 디지털 미디어 및 암호화폐 시장에 큰 변화를 가져올 수 있다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "Crypto Traders on Tenterhooks as Oil Prices Signal Risks",
-      "body_preview": "With 24/7 crypto markets having already digested US-Iran tensions over the weekend, digital-asset traders are on the defensive as they assess potential contagion risks from crude oil prices when US markets open on Monday.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-03-02/crypto-traders-on-tenterhooks-as-oil-prices-signal-risks",
-      "source_name": "Bloomberg (Crypto)",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T03:23:40+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/103/58697738.jpeg",
-      "korean_summary": "주말 동안 미국-이란 긴장을 소화한 암호화폐(cryptocurrency) 시장은 원유 가격에서 발생할 수 있는 잠재적 전염 위험(contagion risks)을 평가하며 디지털 자산(digital-asset) 트레이더들이 방어적인 태세를 취하고 있다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "Ethereum Price Support Intact, but Market Signals Waning Bullish Momentum",
-      "body_preview": "Ethereum price started a fresh increase from $1,840. ETH is now consolidating gains and might aim for another increase above $2,000. Ethereum started a fresh upward move above the $1,900 zone. The price is trading below $2,000 and the 100-hourly Simple Moving Average. There is a new bearish trend li",
-      "source_url": "https://www.newsbtc.com/analysis/eth/ethereum-price-support-intact-1880/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T03:18:55+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/58696828.jpeg",
-      "korean_summary": "이더리움(Ethereum) 가격이 1,840달러에서 상승을 시작하며 지지선(support)을 유지하고 있으나, 시장은 강세 모멘텀(bullish momentum)이 약화되고 있음을 시사하며 2,000달러 돌파 여부에 관심이 쏠린다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "Trump Media is Launching Truth Social's Crypto IPO",
-      "body_preview": "Trump Media is merging with TAE Technologies for a crypto-focused IPO of Truth Social. The 11.500 BTC treasury, ETF applications, and fusion investment stand out. BTC in downtrend at $66K, jumped 0...",
-      "source_url": "https://en.coinotag.com/trump-media-is-launching-truth-socials-crypto-ipo",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T03:08:14+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/58696629.jpeg",
-      "korean_summary": "트럼프 미디어(Trump Media)가 TAE 테크놀로지스와 합병하여 트루스 소셜(Truth Social)의 암호화폐(crypto) 중심 기업공개(IPO)를 추진한다. 11,500 BTC 보유, ETF 신청 등 주목할 만한 요소들이 있다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "Israel Beirut Strike: Critical Escalation Follows Hezbollah Rocket Barrage",
-      "body_preview": "BitcoinWorld Israel Beirut Strike: Critical Escalation Follows Hezbollah Rocket Barrage BEIRUT, LEBANON – A significant military escalation unfolded on January 15, 2025, as Israeli forces conducted a targeted strike on the southern suburbs of Beirut. This decisive action came in direct response to a",
-      "source_url": "https://bitcoinworld.co.in/israel-beirut-strike-hezbollah-escalation/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T03:05:11+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "2025년 1월 15일, 헤즈볼라(Hezbollah)의 로켓 공격에 이어 이스라엘군이 베이루트(Beirut)를 공습하며 중대한 군사적 긴장 고조가 발생했다. 이는 역내 안보 상황에 심각한 영향을 미칠 것으로 보인다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "Jupiter surges 17% after rebound – Traders still bet on JUP’s dip",
-      "body_preview": "Jupiter rebounded from $0.14, surging 17% to $0.17 as demand recovered.",
-      "source_url": "https://ambcrypto.com/jupiter-surges-17-after-rebound-traders-still-bet-on-jups-dip/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T03:00:20+00:00",
-      "category": "crypto",
-      "currencies": [
-        "JUP"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "주피터(Jupiter)가 0.14달러에서 반등하여 17% 급등한 0.17달러를 기록하며 수요 회복을 보였다. 하지만 일부 트레이더들은 여전히 JUP 가격 하락에 베팅하고 있다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "US Dollar Index Soars: Defiant Rally to 98.00 as Middle East Crisis Intensifies",
-      "body_preview": "BitcoinWorld US Dollar Index Soars: Defiant Rally to 98.00 as Middle East Crisis Intensifies NEW YORK, April 2025 – The US Dollar Index (DXY), a critical benchmark measuring the greenback’s strength against a basket of major currencies, is currently hovering firmly around the 98.00 mark. This level ",
-      "source_url": "https://bitcoinworld.co.in/us-dollar-index-middle-east-tensions/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T03:00:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "2025년 4월, 중동 위기가 심화되면서 미국 달러 지수(US Dollar Index, DXY)가 98.00까지 급등하며 강세를 보였다. 이는 안전자산(safe haven) 선호 심리 강화에 따른 것으로 분석된다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "GBP/USD Forecast: Crucial 1.3500 Barrier Looms Near Moving Averages as Bulls Gain Momentum",
-      "body_preview": "BitcoinWorld GBP/USD Forecast: Crucial 1.3500 Barrier Looms Near Moving Averages as Bulls Gain Momentum LONDON, March 2025 – The GBP/USD currency pair approaches a critical technical juncture as price action consolidates near significant moving averages, with market participants closely monitoring t",
-      "source_url": "https://bitcoinworld.co.in/gbp-usd-forecast-1-3500-barrier-moving-averages/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T02:55:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "2025년 3월, 파운드-달러(GBP/USD) 환율이 이동평균선(moving averages) 근처의 1.3500이라는 중요한 저항선(barrier)에 접근하고 있으며, 강세론자(bulls)들이 모멘텀(momentum)을 얻고 있다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
-    },
-    {
-      "title": "Bitcoin Price Trapped Below $70K, Market Awaits Breakout Catalyst",
-      "body_preview": "Bitcoin price started a decent increase above $66,000. BTC is now consolidating above $66,000 and might aim for more gains above $67,200. Bitcoin started a fresh increase after it settled above the $65,500 support. The price is trading below $67,000 and the 100 hourly simple moving average. There is",
-      "source_url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-trapped-below-70k/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T02:53:03+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/58695945.jpeg",
-      "korean_summary": "비트코인(Bitcoin) 가격이 66,000달러 이상에서 상승세를 시작했으나 70,000달러 아래에 갇혀 횡보 중이다. 시장은 추가 상승을 위한 돌파 촉매제(breakout catalyst)를 기다리고 있다.",
-      "fetched_at": "2026-03-02T04:09:44.565510+00:00"
     }
   ]
 }
