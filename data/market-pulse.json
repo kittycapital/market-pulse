@@ -1,8 +1,458 @@
 {
-  "last_updated": "2026-03-02T20:30:10.096721+00:00",
-  "last_updated_kst": "2026-03-03 05:30 KST",
+  "last_updated": "2026-03-02T21:26:23.736058+00:00",
+  "last_updated_kst": "2026-03-03 06:26 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Bitfinex revives tokenized bonds targeting crypto-native yield seekers",
+      "body_preview": "Bitfinex Securities will restart USDt-denominated bond issuances on Bitcoin’s Liquid Network, following four previous tokenized offerings totaling $6.2 million since 2023.",
+      "source_url": "https://cointelegraph.com/news/bitfinex-relaunches-tokenized-bond-program-on-bitcoin-s-liquid-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:23:24+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "비트파이넥스 증권(Bitfinex Securities)이 비트코인 리퀴드 네트워크(Liquid Network)에서 USDt 표시 토큰화 채권 발행을 재개한다. 2023년 이후 총 620만 달러 규모의 4차례 발행에 이어, 암호화폐 기반 수익 추구 투자자들을 목표로 한다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Monad's cbBTC bridge may add $5B in Bitcoin-backed liquidity",
+      "body_preview": "Chainlink’s protocol enables Coinbase’s cbBTC to move from Base to Monad, boosting Bitcoin-backed liquidity into the layer-1’s DeFi ecosystem.",
+      "source_url": "https://cointelegraph.com/news/monad-gains-bitcoin-backed-liquidity-through-chainlink-powered-cbbtc-bridge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:21:31+00:00",
+      "category": "crypto",
+      "currencies": [
+        "LINK"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "체인링크(Chainlink) 프로토콜이 코인베이스(Coinbase)의 cbBTC를 베이스(Base)에서 모나드(Monad)로 이동 가능하게 하여, 모나드 레이어1(Layer-1) 디파이(DeFi) 생태계에 비트코인 담보 유동성을 최대 50억 달러 추가할 것으로 예상된다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "OpenAI Claims Safety 'Red Lines' in Pentagon Deal—But Users Aren't Buying It",
+      "body_preview": "The Pentagon deal sparked a mass exodus from ChatGPT—and pushed Anthropic's Claude to the top of the App Store. But the bigger story is in the contract language.",
+      "source_url": "https://decrypt.co/359649/openai-claims-safety-red-lines-pentagon-deal",
+      "source_name": "Decrypt",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:16:39+00:00",
+      "category": "stocks",
+      "currencies": [
+        "OTHER"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/44/58733607.jpeg",
+      "korean_summary": "오픈AI(OpenAI)의 미 국방부 계약 체결로 챗GPT(ChatGPT) 사용자 이탈이 발생하고 앤트로픽(Anthropic)의 클로드(Claude)가 앱스토어 상위권에 올랐다. 오픈AI는 안전 '레드라인'을 주장하나, 계약 내용에 대한 사용자들의 불신이 커지고 있다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Ripple Conducts Largest-Ever RLUSD Mint",
+      "body_preview": "Ripple reached a major liquidity milestone as its treasury executed a record-breaking 69 million RLUSD mint.",
+      "source_url": "https://u.today/ripple-conducts-largest-ever-rlusd-mint",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:10:23+00:00",
+      "category": "macro",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58733536.jpeg",
+      "korean_summary": "리플(Ripple) 재무부가 역대 최대 규모인 6,900만 RLUSD를 발행(mint)하며 주요 유동성 이정표를 달성했다. 이는 리플 생태계 내 유동성 공급을 크게 늘리는 조치로 평가된다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "US Dollar Surge: Stunning Rally Above 98.50 as US-Israel Strikes on Iran Ignite Geopolitical Firestorm",
+      "body_preview": "BitcoinWorld US Dollar Surge: Stunning Rally Above 98.50 as US-Israel Strikes on Iran Ignite Geopolitical Firestorm LONDON, April 14, 2025 – Global forex markets have entered a period of extreme volatility as the US Dollar (USD) staged a stunning rally, catapulting the DXY index decisively above the",
+      "source_url": "https://bitcoinworld.co.in/us-dollar-surge-geopolitical-crisis-forex/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:05:13+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "미국과 이스라엘의 이란 공격으로 지정학적 긴장이 고조되면서, 미국 달러(US Dollar)가 98.50 이상으로 급등하는 놀라운 랠리를 보였다. 이는 글로벌 외환 시장에 극심한 변동성을 야기하고 있다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Supreme Court Declines AI Copyright Case, Extending Legal Setback for AI-Generated Works",
+      "body_preview": "U.S. justices leave human authorship rule intact, reinforcing legal limits on AI intellectual property claims.",
+      "source_url": "https://decrypt.co/359661/supreme-court-declines-ai-copyright-case",
+      "source_name": "Decrypt",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:03:45+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/44/58733188.jpeg",
+      "korean_summary": "미국 대법원(Supreme Court)이 인공지능(AI) 저작권 사건 심리를 거부하며, AI 생성물에 대한 법적 제약을 강화했다. 이는 인간 저작권 원칙을 유지하여 AI 지적재산권 주장에 대한 법적 한계를 재확인했다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Geopolitical Tensions Drive Bitcoin and Altcoins Higher as Investors Weigh Risk",
+      "body_preview": "Geopolitical instability in the Gulf has driven up oil prices and rattled global markets. Cryptocurrencies saw gains as risk-averse investors reduced leverage and aggressive traders seized openings. Continue Reading: Geopolitical Tensions Drive Bitcoin and Altcoins Higher as Investors Weigh Risk The",
+      "source_url": "https://en.coin-turk.com/geopolitical-tensions-drive-bitcoin-and-altcoins-higher-as-investors-weigh-risk/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:02:35+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/79/58733181.jpeg",
+      "korean_summary": "걸프 지역의 지정학적 불안정으로 유가가 상승하고 글로벌 시장이 흔들리는 가운데, 비트코인(Bitcoin)과 알트코인(Altcoins)은 상승세를 보였다. 위험 회피 투자자들이 레버리지를 줄이고 공격적인 트레이더들이 기회를 포착한 결과이다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Solana Sees $53M Inflows as Crypto Funds Hit $1B",
+      "body_preview": "After five consecutive weeks of withdrawals, digital asset investment products roared back to life with a decisive $1 billion in fresh inflows. The sharp turnaround signals a shift in investor sentiment as buyers step in following recent market weakness. Bitcoin Drives the Recovery According to Coin",
+      "source_url": "https://coinpaper.com/15101/solana-sees-53-m-inflows-as-crypto-funds-hit-1-b",
+      "source_name": "Coinpaper",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:01:31+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/93/default.png",
+      "korean_summary": "5주 연속 유출을 겪었던 디지털 자산 투자 상품들이 10억 달러의 신규 유입을 기록하며 반등했다. 특히 솔라나(Solana)는 5,300만 달러의 유입을 보이며 투자 심리의 긍정적 전환을 시사했다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Wall Street Giant JPMorgan Sees Clarity Act Driving Second-Half Upside",
+      "body_preview": "The crypto industry has spent years asking Washington for clear rules. It may be getting closer to an answer. JPMorgan analysts are now predicting that the Clarity Act — a sweeping bill designed to set formal ground rules for how digital assets are regulated in the US — will be signed into law by th",
+      "source_url": "https://www.newsbtc.com/crypto/wall-street-giant-jpmorgan-sees-clarity-act-driving-second-half-upside/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:00:59+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/58733042.jpeg",
+      "korean_summary": "JP모건(JPMorgan) 애널리스트들은 암호화폐 산업의 명확한 규제를 위한 '클래러티 법안(Clarity Act)'이 하반기 시장 상승을 이끌 것으로 전망했다. 이는 워싱턴의 규제 명확화 노력에 대한 기대감을 반영한다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "No Rebound For Bitcoin Yet — Short-Term BTC Holders Continue Holding At A Loss",
+      "body_preview": "The ongoing volatility has capped Bitcoin ’s most recent upward attempts after retesting the $68,000 level, which has flipped into resistance once again. With the price of BTC still trading in a downward trajectory, many Bitcoin holders, especially those who recently bought the asset, are in the los",
+      "source_url": "https://bitcoinist.com/no-rebound-for-bitcoin-yet/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:00:54+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/58733046.jpeg",
+      "korean_summary": "비트코인(Bitcoin)은 68,000달러 저항선 재확인 후 상승 시도가 좌절되며 반등하지 못하고 있다. 지속적인 변동성 속에서 단기 BTC 보유자들은 여전히 손실을 감수하며 보유 중인 것으로 나타났다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Cardano retraces – Profit-taking threat looms once again",
+      "body_preview": "December saw a high quantity of ADA tokens moving on-chain, but it has been relatively silent since then.",
+      "source_url": "https://ambcrypto.com/cardano-retraces-profit-taking-threat-looms-once-again/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:00:14+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ADA"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "카르다노(Cardano)의 ADA 토큰은 12월 대규모 온체인(on-chain) 이동 후 잠잠해졌다. 현재 가격이 되돌림(retraces) 현상을 보이며, 이익 실현(profit-taking) 압박이 다시 커질 수 있다는 우려가 제기된다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "GBP/JPY Forecast: Bullish Engulfing Pattern Signals Potential Surge Toward 211.00",
+      "body_preview": "BitcoinWorld GBP/JPY Forecast: Bullish Engulfing Pattern Signals Potential Surge Toward 211.00 LONDON, April 2025 – The GBP/JPY currency pair has captured significant attention in global forex markets this week after forming a decisive bullish engulfing candlestick pattern on its daily chart. Conseq",
+      "source_url": "https://bitcoinworld.co.in/gbp-jpy-forecast-bullish-engulfing/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T21:00:12+00:00",
+      "category": "macro",
+      "currencies": [
+        "ASIA",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "GBP/JPY 통화 쌍이 강세 장악형 패턴(Bullish Engulfing Pattern)을 형성하며 글로벌 외환 시장의 주목을 받고 있다. 이는 211.00을 향한 잠재적 상승 가능성을 시사하며 투자자들의 관심이 집중되고 있다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Swiss Franc Surges: Dramatic Decade High Against Euro Before SNB Intervention Cools Markets",
+      "body_preview": "BitcoinWorld Swiss Franc Surges: Dramatic Decade High Against Euro Before SNB Intervention Cools Markets In a dramatic shift for European currency markets, the Swiss Franc surged to its strongest position against the Euro in over a decade this week, reaching exchange rates not witnessed since 2015, ",
+      "source_url": "https://bitcoinworld.co.in/swiss-franc-surges-euro-snb/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T20:55:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "스위스 프랑(Swiss Franc)이 유로(Euro) 대비 10년 만에 최고치로 급등하며 유럽 통화 시장에 큰 변화를 가져왔다. 이후 스위스 국립은행(SNB)의 개입으로 시장 과열이 진정되었다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Can US lawmakers pass crypto market structure before the midterms?",
+      "body_preview": "While the White House has hosted three meetings to discuss how to address stablecoin yield in the Senate's market structure bill, there are no signs of a solution.",
+      "source_url": "https://cointelegraph.com/news/united-states-crypto-market-structure-before-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T20:55:08+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "미국 백악관(White House)이 상원의 암호화폐 시장 구조 법안에서 스테이블코인(stablecoin) 수익률 문제를 논의했지만, 아직 해결책의 조짐은 없다. 중간선거 전 법안 통과 여부는 불투명하다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Buterin Says Ethereum Smart Accounts Could Launch in 2026 Hegota Upgrade",
+      "body_preview": "Ethereum is preparing to overhaul how wallets work, with co-founder Vitalik Buterin saying native “smart accounts” could arrive within a year through the network’s planned Hegota upgrade. Hegota Upgrade May Bring Account Abstraction In a Feb. 28 post on X, Ethereum co-founder Vitalik Buterin said th",
+      "source_url": "https://news.bitcoin.com/buterin-says-ethereum-smart-accounts-could-launch-in-2026-hegota-upgrade/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T20:53:52+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/14/58732786.jpeg",
+      "korean_summary": "이더리움(Ethereum) 공동 창립자 비탈릭 부테린(Vitalik Buterin)은 네트워크의 '헤고타(Hegota) 업그레이드'를 통해 2026년까지 네이티브 '스마트 계정(smart accounts)'이 출시될 수 있다고 밝혔다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Iran conflict hits a market that’s more overvalued than during the 1973 oil shock",
+      "body_preview": "Arab–Israeli war in 1973 and the oil embargo that followed shows that stocks don’t always rebound quickly.",
+      "source_url": "https://www.marketwatch.com/story/iran-conflict-hits-a-market-thats-more-overvalued-than-during-the-1973-oil-shock-f9035d9d",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T20:43:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "이란 분쟁으로 시장이 1973년 오일 쇼크 때보다 더 과대평가된 상황에 직면했다. 1973년 아랍-이스라엘 전쟁과 석유 금수 조치 사례는 주식 시장이 항상 빠르게 반등하지는 않음을 시사한다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Here is the ‘worst-case scenario’ for oil and the Strait of Hormuz",
+      "body_preview": "Oil climbed to its highest price since June on Monday, as conflict in the Middle East brings with it an inherent risk to the world’s available crude supplies.",
+      "source_url": "https://www.marketwatch.com/story/here-is-the-worst-case-scenario-for-oil-and-the-strait-of-hormuz-d1aada30",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T19:58:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "중동 분쟁이 세계 원유 공급에 내재된 위험을 초래하면서, 유가가 월요일 6월 이후 최고치를 기록했다. 호르무즈 해협(Strait of Hormuz) 관련 최악의 시나리오가 대두되고 있다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Why CrowdStrike’s stock just got an upgrade ahead of earnings",
+      "body_preview": "An analyst sees minimal risk to the company’s guidance and thinks shares have been overly punished by a broad selloff in the software sector.",
+      "source_url": "https://www.marketwatch.com/story/why-crowdstrikes-stock-just-got-an-upgrade-ahead-of-earnings-1a7450be",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T19:40:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "한 애널리스트가 크라우드스트라이크(CrowdStrike)의 실적 가이던스에 대한 위험이 적다고 평가하며, 소프트웨어(software) 부문 전반의 매도세로 주가가 과도하게 하락했다고 분석해 목표 주가를 상향 조정했다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "We're upgrading our rating on Nvidia shares. Here's why",
+      "body_preview": "The market punished the stock after a strong earnings report with an even strong guide.",
+      "source_url": "https://www.cnbc.com/2026/03/02/jim-cramers-investing-club-upgrades-nvidia-nvda-here-is-why.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T19:36:35+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108248994-1767729949197-gettyimages-2254367461-AFP_89UC72B.jpeg?v=1772476350&w=1920&h=1080",
+      "korean_summary": "엔비디아(Nvidia)가 강력한 실적 발표와 더불어 긍정적인 가이던스를 제시했음에도 불구하고 시장에서 주가가 하락했다. 하지만 분석가들은 이를 저평가 기회로 보고 투자의견을 상향 조정했다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Apple's new budget version of its iPhone 17 is a positive for investors",
+      "body_preview": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
+      "source_url": "https://www.cnbc.com/2026/03/02/apples-refreshed-low-cost-iphone-17-is-a-positive-for-investors.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T19:19:25+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108156700-1749492383905-gettyimages-2219347508-_75a6261_xqpv981e.jpeg?v=1756303854&w=1920&h=1080",
+      "korean_summary": "애플(Apple)이 아이폰 17(iPhone 17)의 보급형 버전을 출시할 예정이며, 이는 투자자들에게 긍정적인 요인으로 작용할 것으로 전망된다. 이는 시장 점유율 확대에 기여할 수 있다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "HBO Max and Paramount+ will become one streaming service. What does that mean for you?",
+      "body_preview": "HBO Max and Paramount+ collectively reach over 200 million subscribers worldwide, which is more than Disney+, nearly on par with Amazon’s Prime Video and just behind Netflix.",
+      "source_url": "https://www.marketwatch.com/story/hbo-max-and-paramount-will-become-one-streaming-service-what-does-that-mean-for-you-79f99ca9",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T19:04:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "HBO 맥스(HBO Max)와 파라마운트+(Paramount+)가 하나의 스트리밍(streaming) 서비스로 통합될 예정이다. 두 서비스는 전 세계 2억 명 이상의 구독자를 보유하며, 넷플릭스(Netflix)에 버금가는 시장 영향력을 갖게 된다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Bonds head for biggest selloff in nine months as Iran conflict sparks unusual Treasury moves",
+      "body_preview": "Mortgage rates and more will be vulnerable to the surge in the 10-year Treasury yield.",
+      "source_url": "https://www.marketwatch.com/story/bonds-head-for-biggest-selloff-in-nine-months-as-iran-conflict-sparks-unusual-treasury-moves-c40aed49",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T18:41:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "이란 분쟁으로 미국 국채(Treasury) 시장의 이례적인 움직임이 촉발되면서, 채권 시장은 9개월 만에 최대 매도세를 보였다. 10년물 국채 금리 급등으로 모기지 금리(mortgage rates) 등에도 취약성이 커질 전망이다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "How Applied Optoelectronics became the latest viral AI stock",
+      "body_preview": "Shares of the optical-networking provider have nearly tripled so far this year as AI players seek out high-bandwidth, low-latency connectivity products.",
+      "source_url": "https://www.marketwatch.com/story/how-applied-optoelectronics-became-the-latest-viral-ai-stock-f644d345",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T18:38:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "광통신 네트워크(optical-networking) 제공업체인 어플라이드 옵토일렉트로닉스(Applied Optoelectronics)의 주가가 올해 들어 거의 세 배 가까이 급등하며 최신 인공지능(AI) 관련 인기주로 부상했다. AI 기업들이 고대역폭, 저지연 연결 제품을 찾고 있기 때문이다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Prediction-market traders betting on Iran’s Khamenei got a messy reminder to always read the fine print",
+      "body_preview": "As tensions between the U.S. and Iran rose over the past few weeks, traders were using Kalshi and Polymarket to bet on whether Iran’s Supreme Leader Ali Khamenei would remain in power. But when news broke that Khamenei was killed in U.S.-Israel strikes, these traders were left with more questions th",
+      "source_url": "https://www.marketwatch.com/story/prediction-market-traders-betting-on-irans-khamenei-got-a-messy-reminder-to-always-read-the-fine-print-72a39382",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T18:24:00+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "미국과 이란 간 긴장이 고조되면서 예측 시장(prediction-market) 트레이더들은 이란 최고 지도자 알리 하메네이(Ali Khamenei)의 권력 유지 여부에 베팅했다. 하지만 관련 뉴스 보도 후 복잡한 상황이 발생하며 약관 확인의 중요성을 상기시켰다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Mortgage rates jump sharply higher after Iran strikes, reversing last week's decline",
+      "body_preview": "Mortgage rates moved decidedly higher Monday, as the U.S. war with Iran pushed oil prices up and treasury yields followed.",
+      "source_url": "https://www.cnbc.com/2026/03/02/mortgage-rates-jump-sharply-higher-after-iran-strikes-reversing-last-weeks-decline.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T18:21:22+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108191615-1756328988233-gettyimages-2232420756-dji_20250827113335_0375_d_ksayd8tl.jpeg?v=1772474721&w=1920&h=1080",
+      "korean_summary": "이란 공습 이후 미국과 이란의 갈등으로 유가가 상승하고 국채 금리(Treasury yields)가 동반 상승하면서, 모기지 금리(mortgage rates)가 지난주 하락세를 뒤집고 월요일 급격히 올랐다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "EchoStar’s business deemed ‘irrelevant’ as investors focus on future SpaceX stake",
+      "body_preview": "The satellite-communications company is essentially a hedge fund with a SpaceX stake, in the view of MoffettNathanson analysts.",
+      "source_url": "https://www.marketwatch.com/story/echostars-business-deemed-irrelevant-as-investors-focus-on-future-spacex-stake-5a89c0c7",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T18:12:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "모펫내탄슨(MoffettNathanson) 애널리스트들은 위성 통신(satellite-communications) 기업 에코스타(EchoStar)의 본업이 투자자들에게 '무의미'해졌으며, 사실상 스페이스X(SpaceX) 지분을 보유한 헤지 펀드(hedge fund)로 인식되고 있다고 분석했다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Most Americans are oblivious to the fact their Social Security checks could be slashed 20% in as soon as 6 years",
+      "body_preview": "Would an education campaign help workers or cause panic?",
+      "source_url": "https://www.marketwatch.com/story/most-americans-are-oblivious-to-the-fact-their-social-security-checks-could-be-slashed-20-in-as-soon-as-6-years-aded9dd0",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T18:06:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "대부분의 미국인들이 6년 이내에 사회보장 수표(Social Security checks)가 20% 삭감될 수 있다는 사실을 인지하지 못하고 있다. 이는 교육 캠페인이 필요할지, 아니면 대중의 공포를 유발할지에 대한 논의를 촉발하고 있다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Trump says the U.S. is 'richer and stronger than ever'—why some Americans don't feel it",
+      "body_preview": "President Donald Trump touted economic wins during his State of the Union address. But Americans and economists say affordability is still a major issue.",
+      "source_url": "https://www.cnbc.com/2026/03/02/trump-touts-affordability-some-americans-still-feel-crisis.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T17:55:31+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108269704-1771998597707-gettyimages-2262903854-AFP_98UU9KZ.jpeg?v=1771998620&w=1920&h=1080",
+      "korean_summary": "도널드 트럼프(Donald Trump) 전 대통령은 국정연설에서 미국이 '역대 가장 부유하고 강력하다'고 강조했지만, 많은 미국인과 경제학자들은 여전히 생활비 부담(affordability)이 심각한 문제라고 지적하며 체감 경제와의 괴리를 드러냈다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Apple launches new iPhone and iPad Air as it gears up for a major AI push",
+      "body_preview": "The company is boosting the storage capacity of its devices, a move thought to be a prelude to expected Siri enhancements later this year.",
+      "source_url": "https://www.marketwatch.com/story/apple-launches-new-iphone-and-ipad-air-as-it-gears-up-for-a-major-ai-push-570b24ae",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T17:42:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "애플(Apple)이 인공지능(AI) 역량 강화를 위해 새로운 아이폰(iPhone)과 아이패드 에어(iPad Air)를 출시하며, 기기 저장 용량을 늘렸다. 이는 올해 말 예상되는 시리(Siri) 기능 향상을 위한 사전 조치로 풀이된다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
+    {
+      "title": "Trump leaves door open for extended U.S. campaign against Iran",
+      "body_preview": "President Donald Trump said Monday the military operation against Iran could last four to five weeks, or longer.",
+      "source_url": "https://www.marketwatch.com/story/trump-leaves-door-open-for-extended-u-s-campaign-against-iran-e2d21f8f",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T17:31:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "도널드 트럼프(Donald Trump) 전 대통령은 이란에 대한 미국의 군사 작전이 4~5주 또는 그 이상 지속될 수 있다고 언급하며, 장기적인 대이란 군사 개입 가능성을 열어두었다.",
+      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
+    },
     {
       "title": "Stablecoin Issuer Tether Uses Deloitte for USAT Reserve Report",
       "body_preview": "After saying for years that major accounting firms were unwilling to provide auditing services, Tether Holdings SA received a sign-off from Deloitte on the first-ever reserve report for its USAT stablecoin that was launched to comply with new US regulations.",
@@ -237,188 +687,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/107/default.png",
       "korean_summary": "비트코인(Bitcoin)이 지정학적 충격에도 불구하고 중위권 가격대를 유지하며 기존 추세를 깨뜨리지 못했다. 이는 시장이 외부 요인에 대해 상대적으로 견고한 회복력(resilience)을 보이고 있음을 시사하며, 투자자들의 관심이 집중되고 있다.",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Here is the ‘worst-case scenario’ for oil and the Strait of Hormuz",
-      "body_preview": "Oil climbed to its highest price since June on Monday, as conflict in the Middle East brings with it an inherent risk to the world’s available crude supplies.",
-      "source_url": "https://www.marketwatch.com/story/here-is-the-worst-case-scenario-for-oil-and-the-strait-of-hormuz-d1aada30",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T19:58:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Why CrowdStrike’s stock just got an upgrade ahead of earnings",
-      "body_preview": "An analyst sees minimal risk to the company’s guidance and thinks shares have been overly punished by a broad selloff in the software sector.",
-      "source_url": "https://www.marketwatch.com/story/why-crowdstrikes-stock-just-got-an-upgrade-ahead-of-earnings-1a7450be",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T19:40:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Apple's new budget version of its iPhone 17 is a positive for investors",
-      "body_preview": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
-      "source_url": "https://www.cnbc.com/2026/03/02/apples-refreshed-low-cost-iphone-17-is-a-positive-for-investors.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T19:19:25+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108156700-1749492383905-gettyimages-2219347508-_75a6261_xqpv981e.jpeg?v=1756303854&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "HBO Max and Paramount+ will become one streaming service. What does that mean for you?",
-      "body_preview": "HBO Max and Paramount+ collectively reach over 200 million subscribers worldwide, which is more than Disney+, nearly on par with Amazon’s Prime Video and just behind Netflix.",
-      "source_url": "https://www.marketwatch.com/story/hbo-max-and-paramount-will-become-one-streaming-service-what-does-that-mean-for-you-79f99ca9",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T19:04:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Bonds head for biggest selloff in nine months as Iran conflict sparks unusual Treasury moves",
-      "body_preview": "Mortgage rates and more will be vulnerable to the surge in the 10-year Treasury yield.",
-      "source_url": "https://www.marketwatch.com/story/bonds-head-for-biggest-selloff-in-nine-months-as-iran-conflict-sparks-unusual-treasury-moves-c40aed49",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T18:41:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "How Applied Optoelectronics became the latest viral AI stock",
-      "body_preview": "Shares of the optical-networking provider have nearly tripled so far this year as AI players seek out high-bandwidth, low-latency connectivity products.",
-      "source_url": "https://www.marketwatch.com/story/how-applied-optoelectronics-became-the-latest-viral-ai-stock-f644d345",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T18:38:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Prediction-market traders betting on Iran’s Khamenei got a messy reminder to always read the fine print",
-      "body_preview": "As tensions between the U.S. and Iran rose over the past few weeks, traders were using Kalshi and Polymarket to bet on whether Iran’s Supreme Leader Ali Khamenei would remain in power. But when news broke that Khamenei was killed in U.S.-Israel strikes, these traders were left with more questions th",
-      "source_url": "https://www.marketwatch.com/story/prediction-market-traders-betting-on-irans-khamenei-got-a-messy-reminder-to-always-read-the-fine-print-72a39382",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T18:24:00+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Mortgage rates jump sharply higher after Iran strikes, reversing last week's decline",
-      "body_preview": "Mortgage rates moved decidedly higher Monday, as the U.S. war with Iran pushed oil prices up and treasury yields followed.",
-      "source_url": "https://www.cnbc.com/2026/03/02/mortgage-rates-jump-sharply-higher-after-iran-strikes-reversing-last-weeks-decline.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T18:21:22+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108191615-1756328988233-gettyimages-2232420756-dji_20250827113335_0375_d_ksayd8tl.jpeg?v=1772474721&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "EchoStar’s business deemed ‘irrelevant’ as investors focus on future SpaceX stake",
-      "body_preview": "The satellite-communications company is essentially a hedge fund with a SpaceX stake, in the view of MoffettNathanson analysts.",
-      "source_url": "https://www.marketwatch.com/story/echostars-business-deemed-irrelevant-as-investors-focus-on-future-spacex-stake-5a89c0c7",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T18:12:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Most Americans are oblivious to the fact their Social Security checks could be slashed 20% in as soon as 6 years",
-      "body_preview": "Would an education campaign help workers or cause panic?",
-      "source_url": "https://www.marketwatch.com/story/most-americans-are-oblivious-to-the-fact-their-social-security-checks-could-be-slashed-20-in-as-soon-as-6-years-aded9dd0",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T18:06:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Trump says the U.S. is 'richer and stronger than ever'—why some Americans don't feel it",
-      "body_preview": "President Donald Trump touted economic wins during his State of the Union address. But Americans and economists say affordability is still a major issue.",
-      "source_url": "https://www.cnbc.com/2026/03/02/trump-touts-affordability-some-americans-still-feel-crisis.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T17:55:31+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108269704-1771998597707-gettyimages-2262903854-AFP_98UU9KZ.jpeg?v=1771998620&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Apple launches new iPhone and iPad Air as it gears up for a major AI push",
-      "body_preview": "The company is boosting the storage capacity of its devices, a move thought to be a prelude to expected Siri enhancements later this year.",
-      "source_url": "https://www.marketwatch.com/story/apple-launches-new-iphone-and-ipad-air-as-it-gears-up-for-a-major-ai-push-570b24ae",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T17:42:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Trump leaves door open for extended U.S. campaign against Iran",
-      "body_preview": "President Donald Trump said Monday the military operation against Iran could last four to five weeks, or longer.",
-      "source_url": "https://www.marketwatch.com/story/trump-leaves-door-open-for-extended-u-s-campaign-against-iran-e2d21f8f",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T17:31:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "",
       "fetched_at": "2026-03-02T20:30:10.092995+00:00"
     },
     {
@@ -2800,278 +3068,6 @@
       "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
       "korean_summary": "이란 분쟁이 위험한 국면으로 접어들면서 전 세계가 핵심 에너지 통로인 호르무즈 해협(Strait of Hormuz)을 주시하고 있습니다. 이란 혁명수비대 경고로 해협 통행량이 감소하며 글로벌 경제에 중대한 영향을 미 미칠 수 있습니다.",
       "fetched_at": "2026-03-02T12:38:03.022952+00:00"
-    },
-    {
-      "title": "Stocks face Iran jitters and a crucial jobs report in the week ahead as AI layoffs loom large",
-      "body_preview": "“You’ve got this somewhat dystopian narrative permeating the psychology of the market” with respect to AI and jobs, asset-management firm’s CIO says.",
-      "source_url": "https://www.marketwatch.com/story/stocks-face-iran-jitters-and-a-crucial-jobs-report-in-the-week-ahead-as-ai-layoffs-loom-large-5da09c93",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T17:00:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "이번 주 증시는 이란발 불안감과 중요한 고용 보고서 발표를 앞두고 있습니다. 인공지능(AI) 관련 해고 우려가 커지면서 시장 심리에 다소 디스토피아적(dystopian) 서사가 스며들고 있다는 분석입니다.",
-      "fetched_at": "2026-03-02T12:38:03.022952+00:00"
-    },
-    {
-      "title": "Here are the 5 big things we're watching in the stock market this week",
-      "body_preview": "The week ahead promises to be jammed-packed with key jobs data and Club earnings reports.",
-      "source_url": "https://www.cnbc.com/2026/03/01/here-are-the-5-big-things-were-watching-in-the-stock-market-this-week.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-01T15:44:24+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108271053-17722088882026-02-27t161130z_2011811321_rc2dujagplv7_rtrmadp_0_usa-stocks.jpeg?v=1772209043&w=1920&h=1080",
-      "korean_summary": "이번 주 주식 시장에서 주목해야 할 5가지 주요 이슈가 공개되었습니다. 핵심 고용 지표 발표와 기업 실적 보고서가 집중될 예정입니다.",
-      "fetched_at": "2026-03-02T12:38:03.022952+00:00"
-    },
-    {
-      "title": "Bitcoin Holds Steady as Technical Indicators Signal Short-Term Rebound",
-      "body_preview": "Bitcoin stabilizes within the $60,000–$70,000 range despite recent sell-offs and macro risks. Technical indicators like the RSI suggest that a short-term price rally may be emerging. Continue Reading: Bitcoin Holds Steady as Technical Indicators Signal Short-Term Rebound The post Bitcoin Holds Stead",
-      "source_url": "https://en.coin-turk.com/bitcoin-holds-steady-as-technical-indicators-signal-short-term-rebound/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:22:08+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/79/58713864.jpeg",
-      "korean_summary": "비트코인(Bitcoin)이 최근 매도세와 거시경제(macro) 위험에도 불구하고 6만~7만 달러 범위에서 안정세를 유지하고 있습니다. 상대강도지수(RSI) 등 기술적 지표(technical indicators)는 단기적인 가격 상승 랠리가 나타날 수 있음을 시사합니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "USD/INR Exchange Rate Soars to Monthly Peak as US Dollar Stages Fierce Rally Amid US-Iran Conflict",
-      "body_preview": "BitcoinWorld USD/INR Exchange Rate Soars to Monthly Peak as US Dollar Stages Fierce Rally Amid US-Iran Conflict The USD/INR currency pair surged to a fresh monthly high on Thursday, March 13, 2025, as the US Dollar staged a powerful global rally fueled by escalating military tensions between the Uni",
-      "source_url": "https://bitcoinworld.co.in/usd-inr-monthly-high-dollar-rally/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:20:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "미국-이란 갈등(US-Iran Conflict) 속 미국 달러(US Dollar)가 강세를 보이면서, 2025년 3월 13일 USD/INR 환율(exchange rate)이 월간 최고치(monthly peak)를 기록했습니다. 이는 지정학적(geopolitical) 긴장이 외환 시장에 미치는 영향을 보여줍니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "High Risk Zone? Analysts Split as Bitcoin (BTC) Ignores Geopolitical Chaos",
-      "body_preview": "Bitcoin’s reaction to escalating geopolitical tensions over the weekend was limited, even as traditional markets reacted more sharply. BTC slipped to around $65,500 on Monday after trading in a volatile range between roughly $63,000 and $68,000, as markets responded to rising US-Iran tensions and re",
-      "source_url": "https://cryptopotato.com/high-risk-zone-analysts-split-as-bitcoin-btc-ignores-geopolitical-chaos/",
-      "source_name": "Crypto Potato",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:19:42+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/27/58713796.jpeg",
-      "korean_summary": "비트코인(Bitcoin, BTC)은 주말 동안 고조된 지정학적(geopolitical) 긴장에 제한적인 반응을 보였으며, 전통 시장(traditional markets)이 더 급격히 반응한 것과 대조적이었습니다. BTC는 월요일 약 65,500달러로 하락했습니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "Safe-Haven Flows Surge: Global Markets React to US-Israel Attack on Iran",
-      "body_preview": "BitcoinWorld Safe-Haven Flows Surge: Global Markets React to US-Israel Attack on Iran Global financial markets experienced dramatic safe-haven flows on April 14, 2025, following confirmed military strikes by US and Israeli forces against Iranian military infrastructure, triggering immediate capital ",
-      "source_url": "https://bitcoinworld.co.in/safe-haven-flows-global-markets-iran-attack/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:15:14+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "2025년 4월 14일, 미국-이스라엘의 이란 군사 공격이 확인된 후 글로벌 금융 시장(global financial markets)에서 극적인 안전자산 선호(safe-haven flows) 현상이 나타났습니다. 이는 지정학적(geopolitical) 불안정이 시장에 미치는 영향을 보여줍니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "Bitcoin Slides Further as Whales Dominate Markets and Capitulation Fears Mount",
-      "body_preview": "Bitcoin’s February drop continues to pressure the market, with whales increasing their dominance. Key indicators point to ongoing risk, and a major capitulation event may still lie ahead. Continue Reading: Bitcoin Slides Further as Whales Dominate Markets and Capitulation Fears Mount The post Bitcoi",
-      "source_url": "https://en.coin-turk.com/bitcoin-slides-further-as-whales-dominate-markets-and-capitulation-fears-mount/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:12:04+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/79/58713504.jpeg",
-      "korean_summary": "비트코인(Bitcoin)의 2월 하락세가 지속되며 시장에 압력을 가하고 있으며, 고래(whales)들의 지배력이 증가하고 있습니다. 주요 지표들은 지속적인 위험을 시사하며, 대규모 투매(capitulation) 이벤트가 발생할 수 있다는 우려가 커지고 있습니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "Toobit Celebrates 3rd Anniversary with $3.5 Million Prize Pool and Porsche Giveaway",
-      "body_preview": "Toobit, the award-winning global cryptocurrency exchange, today announces the launch of its third-anniversary celebration: the 3-riffic Birthday Showdown. Featuring a $3,500,000 prize pool, the campaign is one of the largest exchange-led celebrations of the year. The campaign runs from February 26 t",
-      "source_url": "https://cryptonews.com/news/toobit-celebrates-3rd-anniversary-with-3-5-million-prize-pool-and-porsche-giveaway/",
-      "source_name": "cryptonews",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:10:56+00:00",
-      "category": "macro",
-      "currencies": [
-        "USDT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/52/58713483.jpeg",
-      "korean_summary": "수상 경력에 빛나는 글로벌 암호화폐 거래소(cryptocurrency exchange) 투빗(Toobit)이 3주년 기념 행사를 발표했습니다. 이 행사에는 350만 달러의 상금 풀(prize pool)과 포르쉐(Porsche) 경품이 포함되어 있어 사용자들의 큰 관심을 모으고 있습니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "NZD/USD Defies Geopolitical Turmoil: Currency Holds Near 0.5950 as Critical US ISM PMI Data Looms",
-      "body_preview": "BitcoinWorld NZD/USD Defies Geopolitical Turmoil: Currency Holds Near 0.5950 as Critical US ISM PMI Data Looms WELLINGTON, New Zealand – January 15, 2025: The New Zealand dollar demonstrates remarkable resilience against the US dollar, holding steady near the 0.5950 level despite escalating geopolit",
-      "source_url": "https://bitcoinworld.co.in/nzd-usd-holds-ism-pmi-data/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:10:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "ASIA",
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "뉴질랜드 달러(NZD)는 지정학적(geopolitical) 혼란에도 불구하고 미국 공급관리협회(ISM) 구매관리자지수(PMI) 데이터 발표를 앞두고 0.5950 부근에서 강세를 유지하고 있습니다. 이는 시장의 복합적인 반응을 보여줍니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "XRP Yield Risks Explained by XRPL Contributor; Schiff Acknowledges Satoshi's Innovation with Bitcoin; 6 Macro Events to Define the Crypto Market This Week - Mor...",
-      "body_preview": "XRP yield risks, Peter Schiff's \"decentralized Ponzi\" comment and six key U.S. macro events defining crypto volatility this week. Plus, the latest BTC and XRP price targets.",
-      "source_url": "https://u.today/xrp-yield-risks-explained-by-xrpl-contributor-schiff-acknowledges-satoshis-innovation-with-bitcoin",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:10:00+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/58713479.jpeg",
-      "korean_summary": "이번 주 암호화폐 시장의 변동성을 결정할 6가지 주요 미국 거시경제(macro) 이벤트와 XRP 수익률(yield) 위험이 설명되었습니다. 피터 쉬프(Peter Schiff)는 비트코인(Bitcoin)의 혁신을 인정하면서도 '분산형 폰지'라고 언급했습니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "Bitcoin Market Analysis: 5 Critical Points to Watch This Week Amid Global Uncertainty",
-      "body_preview": "BitcoinWorld Bitcoin Market Analysis: 5 Critical Points to Watch This Week Amid Global Uncertainty As global markets navigate a complex web of geopolitical tension and economic indicators, the Bitcoin market presents five critical focal points for traders and analysts this week. The flagship cryptoc",
-      "source_url": "https://bitcoinworld.co.in/bitcoin-market-critical-points-week/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:05:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "글로벌 시장이 지정학적(geopolitical) 긴장과 경제 지표(economic indicators)의 복잡한 상황을 헤쳐나가는 가운데, 이번 주 비트코인(Bitcoin) 시장에서 주목해야 할 5가지 핵심 사항이 분석되었습니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "Time Traveler to XRP Holders: Here’s All You Have to Do to Survive",
-      "body_preview": "The cryptocurrency market rarely rewards impatience. It tests conviction, stretches timelines, and forces investors to confront their own emotions. In recent months, as XRP trades through consolidation phases and fluctuating momentum, many holders have begun asking the same question: what now? Amid ",
-      "source_url": "https://timestabloid.com/time-traveler-to-xrp-holders-heres-all-you-have-to-do-to-survive/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:05:08+00:00",
-      "category": "macro",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "암호화폐 시장(cryptocurrency market)은 투자자들의 확신을 시험하고 시간을 늘리며 감정을 직면하게 합니다. 최근 XRP는 통합(consolidation) 단계를 거치고 있으며, 인내심을 가지고 시장의 흐름을 지켜볼 필요가 있습니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "Blood Moon Affecting Bitcoin Price? Why A Surge Above $100,000 Could Be Coming",
-      "body_preview": "Crypto analyst Pure has indicated that the blood moon could be having an impact on the trajectory of the Bitcoin price. The analyst drew attention to historical trends, suggesting this might be the case and that a rally above $100,000 may be on the cards. A Bitcoin Price Rally Above $100,000 May Be ",
-      "source_url": "https://www.newsbtc.com/news/bitcoin/blood-moon-affecting-bitcoin/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:00:51+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/58713140.jpeg",
-      "korean_summary": "암호화폐 분석가(crypto analyst) 퓨어(Pure)는 '블러드 문(blood moon)'이 비트코인(Bitcoin) 가격 궤적에 영향을 미칠 수 있다고 언급했습니다. 그는 역사적 추세(historical trends)를 인용하며 10만 달러 이상으로 급등할 가능성을 시사했습니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "46% of Bitcoin’s supply is now underwater: Will BTC’s losses keep mounting?",
-      "body_preview": "Approximately 9.09 million BTC, or 46% of the Bitcoin supply, is currently sitting at a loss.",
-      "source_url": "https://ambcrypto.com/46-of-bitcoins-supply-is-now-underwater-will-btcs-losses-keep-mounting/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:00:47+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "현재 약 909만 BTC, 즉 비트코인(Bitcoin) 전체 공급량의 46%가 손실(loss) 상태에 있습니다. 이는 시장의 하방 압력을 보여주며, BTC의 손실이 계속 증가할지에 대한 우려가 제기되고 있습니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "Silver Price Forecast: XAG/USD Soars Past $95 as Middle East Conflict Sparks Fierce Safe-Haven Rush",
-      "body_preview": "BitcoinWorld Silver Price Forecast: XAG/USD Soars Past $95 as Middle East Conflict Sparks Fierce Safe-Haven Rush Global financial markets witnessed a significant surge on Thursday, October 26, 2025, as the spot price of silver (XAG/USD) decisively broke through the $95 per ounce barrier. This remark",
-      "source_url": "https://bitcoinworld.co.in/silver-price-forecast-xagusd-middle-east/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T11:00:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "2025년 10월 26일, 중동 분쟁(Middle East Conflict)이 격렬한 안전자산 선호(safe-haven rush)를 촉발하면서 은(Silver) 가격(XAG/USD)이 95달러를 넘어 급등했습니다. 이는 지정학적(geopolitical) 긴장이 원자재 시장에 미치는 영향을 보여줍니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "Safe Haven Currencies: Why the CHF and JPY Offer Unwavering Crisis Appeal – RaboResearch",
-      "body_preview": "BitcoinWorld Safe Haven Currencies: Why the CHF and JPY Offer Unwavering Crisis Appeal – RaboResearch In an era of persistent geopolitical tension and economic uncertainty, investors globally continue to seek financial shelters. According to a comprehensive analysis by RaboResearch, the Swiss Franc ",
-      "source_url": "https://bitcoinworld.co.in/chf-jpy-safe-haven-currencies-analysis/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T10:55:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "ASIA",
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "라보리서치(RaboResearch)는 지속적인 지정학적(geopolitical) 긴장과 경제 불확실성(economic uncertainty) 시대에 스위스 프랑(CHF)과 일본 엔(JPY)이 흔들림 없는 위기 매력을 제공한다고 분석했습니다. 이는 안전자산 통화(Safe Haven Currencies)의 중요성을 강조합니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
-    },
-    {
-      "title": "Bitcoin Posts Record Five-Month Losing Streak, Eyes on March for a Turnaround",
-      "body_preview": "Bitcoin has suffered five straight months of losses for the first time in its history. The downturn began after a record high in September 2025, signaling a correction phase. Continue Reading: Bitcoin Posts Record Five-Month Losing Streak, Eyes on March for a Turnaround The post Bitcoin Posts Record",
-      "source_url": "https://en.coin-turk.com/bitcoin-posts-record-five-month-losing-streak-eyes-on-march-for-a-turnaround/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T10:52:03+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/79/58712829.jpeg",
-      "korean_summary": "비트코인(Bitcoin)이 2025년 9월 사상 최고치(record high)를 기록한 후 처음으로 5개월 연속 하락세를 기록하며 조정(correction) 국면에 진입했습니다. 시장은 3월에 반전(turnaround)이 나타날지 주목하고 있습니다.",
-      "fetched_at": "2026-03-02T11:27:41.187016+00:00"
     }
   ]
 }
