@@ -1,8 +1,460 @@
 {
-  "last_updated": "2026-03-03T10:31:25.583708+00:00",
-  "last_updated_kst": "2026-03-03 19:31 KST",
+  "last_updated": "2026-03-03T11:26:26.440980+00:00",
+  "last_updated_kst": "2026-03-03 20:26 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Ripple’s February XRP Escrow Release Mapped in Detail",
+      "body_preview": "Analyst has shared details of where half of the billion XRP released by Ripple last month went.",
+      "source_url": "https://u.today/ripples-february-xrp-escrow-release-mapped-in-detail",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:22:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58762040.jpeg",
+      "korean_summary": "리플(Ripple)이 지난달 에스크로(escrow)에서 해제한 10억 XRP 중 절반의 행방이 분석가를 통해 상세히 공개되었다. 이는 시장에 유통된 XRP의 흐름을 파악하는 데 중요한 정보이다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "ECB Monetary Policy Faces Critical Test: Stournaras Demands Flexible Response to Iran Crisis",
+      "body_preview": "BitcoinWorld ECB Monetary Policy Faces Critical Test: Stournaras Demands Flexible Response to Iran Crisis FRANKFURT, Germany – March 2025: European Central Bank Governing Council member Yannis Stournaras has issued a significant call for monetary policy flexibility as escalating tensions with Iran c",
+      "source_url": "https://bitcoinworld.co.in/ecb-stournaras-flexibility-iran-crisis/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:20:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "유럽중앙은행(ECB) 정책위원 야니스 스투르나라스가 이란 위기에 대한 유연한 통화 정책 대응을 촉구하며, ECB의 통화 정책이 중대한 시험대에 올랐음을 시사했다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Bitcoin Rally Fails at $69K–$70K Resistance: What's Next After Rejection? – BTC TA March 3, 2026",
+      "body_preview": "The Bitcoin bulls took their opportunity on Monday with a strong rally to the upside. In the space of only 3 hours, the $BTC price climbed around 7.2%, equivalent to about $4,700. However, after hitting $70,000 the price fell back down and has also dropped beneath the critical $69,000 horizontal res",
+      "source_url": "https://cryptodaily.co.uk/2026/03/bitcoin-rally-fails-at-69k-70k-resistance-whats-next-after-rejection-btc-ta-march-3-2026",
+      "source_name": "Crypto Daily",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:17:30+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/75/58761959.jpeg",
+      "korean_summary": "비트코인(Bitcoin)이 월요일 3시간 만에 약 7.2% 급등하며 강한 랠리를 보였으나, 6만 9천 달러에서 7만 달러 저항선에서 돌파에 실패하며 하락 전환했다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "‘Scam token’ case against Uniswap dismissed by U.S. district judge in NYC",
+      "body_preview": "District Judge says that due to the protocol’s decentralized nature, the identities of the scam token issuers are basically unknown, leaving plaintiffs with no identifiable defendant.",
+      "source_url": "https://www.coindesk.com/policy/2026/03/03/scam-token-case-against-uniswap-dismissed-with-prejudice-by-u-s-district-judge-in-nyc",
+      "source_name": "CoinDesk",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:17:05+00:00",
+      "category": "crypto",
+      "currencies": [
+        "UNI"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/5/58761860.jpeg",
+      "korean_summary": "미국 뉴욕 지방법원 판사가 유니스왑(Uniswap)에 대한 '사기 토큰' 소송을 기각했다. 프로토콜의 탈중앙화(decentralized) 특성상 사기 토큰 발행자를 특정할 수 없다는 이유다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Tom Lee's Bitmine Buys Another $102 Million ETH Despite $7 Billion in Unrealized Losses",
+      "body_preview": "Bitmine led by Tom Lee continues to increase its Ethereum bet, now holding almost 4% of the entire ETH supply.",
+      "source_url": "https://u.today/tom-lees-bitmine-buys-another-102-million-eth-despite-7-billion-in-unrealized-losses",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:17:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58761864.jpeg",
+      "korean_summary": "톰 리가 이끄는 비트마인(Bitmine)이 70억 달러의 미실현 손실에도 불구하고 1억 2백만 달러 상당의 이더리움(ETH)을 추가 매수하며, 전체 ETH 공급량의 약 4%를 보유하게 되었다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Oil Supply Shock: Critical Warning as Hormuz Shutdown Threatens Global Energy Markets – Danske Bank Analysis",
+      "body_preview": "BitcoinWorld Oil Supply Shock: Critical Warning as Hormuz Shutdown Threatens Global Energy Markets – Danske Bank Analysis Global energy markets face escalating tension as analysts at Danske Bank issue a stark warning: the risk of a severe oil supply shock is growing substantially with the potential ",
+      "source_url": "https://bitcoinworld.co.in/oil-supply-shock-hormuz-shutdown-warning/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:15:12+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "덴스케 은행(Danske Bank) 분석가들은 호르무즈 해협(Hormuz Strait) 폐쇄 가능성으로 인한 유가 공급 충격이 전 세계 에너지 시장에 심각한 위협이 될 수 있다고 경고했다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Veteran Analyst Labels Bitcoin ‘Horrendous’ on Weekly Chart; Why He Sees $49K In The Cards",
+      "body_preview": "Unlike the wave of optimistic predictions that swept the crypto world over the weekend, Loukas’s analysis offered little reason for bullish sentiment.",
+      "source_url": "https://zycrypto.com/veteran-analyst-labels-bitcoin-horrendous-on-weekly-chart-why-he-sees-49k-in-the-cards/",
+      "source_name": "ZyCrypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:10:52+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
+      "korean_summary": "베테랑 분석가는 비트코인(Bitcoin)의 주간 차트를 '끔찍하다'고 평가하며, 최근 낙관적인 전망과 달리 비트코인이 4만 9천 달러까지 하락할 가능성이 있다고 분석했다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "European Gas Prices Surge: Qatar’s Supply Shock Lifts TTF Benchmark – Rabobank Warns of Market Turbulence",
+      "body_preview": "BitcoinWorld European Gas Prices Surge: Qatar’s Supply Shock Lifts TTF Benchmark – Rabobank Warns of Market Turbulence European natural gas markets face renewed volatility as a significant supply shock from Qatar lifts the benchmark TTF price, according to a recent analysis by Rabobank. This develop",
+      "source_url": "https://bitcoinworld.co.in/qatar-supply-shock-ttf-prices-rabobank/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:10:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "ASIA",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "카타르의 공급 충격으로 인해 유럽 천연가스 가격이 급등하며 TTF 벤치마크가 상승했다. 라보뱅크(Rabobank)는 이로 인한 시장 혼란을 경고하며 변동성 확대를 우려했다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "These Are ADA’s Most Important Support Levels as Cardano’s Price Drops 11% Monthly",
+      "body_preview": "Cardano’s native token was among the few larger-cap alts that failed to chart a new all-time high during the late 2024/2025 bull run. Its upward move was capped at around $1.30, and it couldn’t break through. However, its subsequent correction has been quite painful. ADA currently trades at around $",
+      "source_url": "https://cryptopotato.com/these-are-adas-most-important-support-levels-as-cardanos-price-drops-11-monthly/",
+      "source_name": "Crypto Potato",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:08:54+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ADA"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/27/58761610.jpeg",
+      "korean_summary": "카르다노(Cardano)의 기본 토큰 에이다(ADA) 가격이 월간 11% 하락했으며, 강세장에서도 사상 최고가(all-time high)를 경신하지 못해 주요 지지선에 대한 관심이 커지고 있다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Brazil sets zero import duty on high‑efficiency Bitcoin miners",
+      "body_preview": "Brazil’s foreign trade council has set import duty at 0% for a narrow class of high‑efficiency Bitcoin mining servers until January 2028. Other taxes on this hardware still apply.",
+      "source_url": "https://coinpaprika.com/news/brazil-zero-import-duty-high-efficiency-bitcoin-miners",
+      "source_name": "Coinpaprika",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:07:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/80/58761543.jpeg",
+      "korean_summary": "브라질 대외무역위원회는 2028년 1월까지 특정 고효율 비트코인(Bitcoin) 채굴 서버에 대해 수입 관세를 0%로 설정했다. 다른 세금은 여전히 적용된다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "From track to pitch: Zoomex teams up with TGR Haas F1 team and Emiliano Martínez to launch its 2026 road to the championship",
+      "body_preview": "As TGR Haas F1 Team unveils its new VF-26 challenger for the 2026 season, Zoomex",
+      "source_url": "https://ambcrypto.com/from-track-to-pitch-zoomex-teams-up-with-tgr-haas-f1-team-and-emiliano-martinez-to-launch-its-2026-road-to-the-championship/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:05:25+00:00",
+      "category": "stocks",
+      "currencies": [
+        "OTHER"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "줌엑스(Zoomex)가 TGR 하스 F1 팀(TGR Haas F1 team) 및 에밀리아노 마르티네스와 협력하여 2026년 챔피언십을 향한 로드맵을 발표하며 스포츠 마케팅을 강화한다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Cardano Creator Calls Out Ripple CEO for His “Bad Bill Better Than No Bill” Attitude",
+      "body_preview": "The fight for clear cryptocurrency regulation in the United States has taken a dramatic turn. As lawmakers push forward with digital asset legislation, prominent industry leaders have begun clashing publicly over the direction and consequences of these efforts. What once looked like a shared mission",
+      "source_url": "https://timestabloid.com/cardano-creator-calls-out-ripple-ceo-for-his-bad-bill-better-than-no-bill-attitude/",
+      "source_name": "TimesTabloid",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:05:01+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ADA"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
+      "korean_summary": "카르다노(Cardano) 창립자가 리플(Ripple) CEO의 \"나쁜 법안이라도 없는 것보다 낫다\"는 태도를 비판하며, 미국 암호화폐(cryptocurrency) 규제 법안을 둘러싼 업계 갈등이 심화되고 있다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Bitcoin price chart 'death cross' is back, reviving late-cycle fears",
+      "body_preview": "BTC price has slid about 35% on average over a month after similar trend line crossovers, keeping downside risk in focus for traders.",
+      "source_url": "https://cointelegraph.com/news/bitcoin-price-chart-death-cross-back-late-cycle-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:04:08+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "비트코인(Bitcoin) 가격 차트에서 '데스 크로스(death cross)'가 다시 나타나며 시장 후반부(late-cycle)에 대한 우려를 키우고 있다. 과거 유사 패턴 후 한 달간 평균 35% 하락했다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "CLARITY Act misses March 1 deadline: What’s causing the holdup?",
+      "body_preview": "Is the CLARITY Act closer than it looks, or quietly slipping into another year of gridlock?",
+      "source_url": "https://ambcrypto.com/clarity-act-misses-march-1-deadline-whats-causing-the-holdup/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:00:23+00:00",
+      "category": "macro",
+      "currencies": [
+        "OTHER"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "CLARITY 법안이 3월 1일 마감일을 넘기면서 법안 통과가 지연되는 원인에 대한 의문이 제기되고 있다. 법안의 진전 여부 또는 교착 상태에 대한 우려가 커지고 있다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Cardano Founder Sounds Alarm Over New US Crypto Bill",
+      "body_preview": "Cardano founder Charles Hoskinson is urging the crypto industry to take a harder look at H.R. 3633, arguing that the market structure bill could lock future US token projects into securities status rather than provide the regulatory clarity its backers promise. His criticism goes beyond process: Hos",
+      "source_url": "https://bitcoinist.com/cardano-founder-sounds-alarm-new-us-crypto-bill/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T11:00:19+00:00",
+      "category": "macro",
+      "currencies": [
+        "ADA",
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/58761294.jpeg",
+      "korean_summary": "카르다노(Cardano) 창립자 찰스 호스킨슨은 새로운 미국 암호화폐(crypto) 법안 H.R. 3633이 향후 미국 토큰 프로젝트를 증권(securities)으로 분류할 수 있다며 업계의 경각심을 촉구했다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Blackstone said its flagship private-credit fund saw heavy outflows",
+      "body_preview": "Blackstone said it redeemed more investments than usual in its flagship private-credit fund, in another sign of the stress the industry is facing.",
+      "source_url": "https://www.marketwatch.com/story/blackstone-said-its-flagship-private-credit-fund-saw-heavy-outflows-21e53730",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T10:48:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "블랙스톤(Blackstone)의 주력 사모 신용 펀드에서 평소보다 많은 투자금 인출이 발생하며 업계의 어려움을 시사했다. 이는 사모 신용 시장의 스트레스가 심화되고 있음을 보여주는 신호로 해석된다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Oil prices surge to highest in a year as fears of Middle East supply crunch grow",
+      "body_preview": "Oil prices rose to their highest in more than a year as traders continued to fret that supplies will be affected by conflict in the Middle East.",
+      "source_url": "https://www.marketwatch.com/story/oil-prices-surge-to-highest-in-a-year-as-fears-of-middle-east-supply-crunch-grow-0ac864f3",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T10:42:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "중동 분쟁으로 인한 공급 차질 우려가 커지면서 국제 유가가 1년여 만에 최고 수준으로 급등했다. 트레이더들은 중동 지역 갈등이 원유 공급에 영향을 미칠 것을 계속 우려하고 있다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "My rude, ungrateful relative gave her lawyer power of attorney —and has lived to regret it. Should I get involved?",
+      "body_preview": "“A person who is used to controlling others does not like being controlled.”",
+      "source_url": "https://www.marketwatch.com/story/my-rude-ungrateful-relative-gave-her-lawyer-power-of-attorney-and-has-lived-to-regret-it-should-i-get-involved-5db8088d",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T10:15:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "한 친척이 변호사에게 위임장(power of attorney)을 주었다가 후회하는 상황에 처했으며, 이는 타인을 통제하던 사람이 통제받는 것을 싫어한다는 점을 보여준다. 기사는 개인의 법률적 결정과 그 결과에 대한 조언을 다룬다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "JPMorgan’s Jamie Dimon warns there’s too much complacency in markets",
+      "body_preview": "JPMorgan Chase Chief Executive Jamie Dimon warns the tepid stock-market reaction on Monday to the U.S. and Israeli attack on Iran was just another example of the complacency in markets.",
+      "source_url": "https://www.marketwatch.com/story/jpmorgans-jamie-dimon-warns-theres-too-much-complacency-in-markets-98739bad",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T10:04:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "JP모건 체이스의 제이미 다이먼 최고경영자(CEO)는 미국과 이스라엘의 이란 공격에 대한 월요일 주식 시장의 미온적인 반응이 시장의 과도한 안일함(complacency)을 보여주는 또 다른 사례라고 경고했다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Former reality TV stars Heidi Montag and Spencer Pratt say they are still displaced by wildfires",
+      "body_preview": "Heidi Montag and Spencer Pratt have said that they still do not have a permanent place to live—more than a year after they lost their Pacific Palisades property in the California wildfires.",
+      "source_url": "https://www.marketwatch.com/story/former-reality-tv-stars-heidi-montag-and-spencer-pratt-say-they-are-still-displaced-by-wildfires-2a7a98fd",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T10:02:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "전 리얼리티 TV 스타 하이디 몬택과 스펜서 프랫 부부가 캘리포니아 산불로 퍼시픽 팰리세이즈 자택을 잃은 지 1년이 넘도록 여전히 거주지를 찾지 못하고 있다고 밝혔다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "‘No toilets’? Civil trial over renovation work plays out in L.A. over Kanye West’s stripped Malibu beach house",
+      "body_preview": "A worker is seeking more than $1 million in damages from Kanye West over the renovation work of a Malibu home and has made some bizarre allegations.",
+      "source_url": "https://www.marketwatch.com/story/no-toilets-civil-trial-over-renovation-work-plays-out-in-l-a-over-kanye-wests-stripped-malibu-beach-house-b7d885a6",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T10:01:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "카니예 웨스트의 말리부 해변 주택 리노베이션 작업과 관련하여 한 작업자가 100만 달러 이상의 손해배상을 청구하는 민사 소송이 로스앤젤레스에서 진행 중이다. 작업자는 기이한 주장들을 제기했다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Gold can be called many things — just don’t say it’s an inflation hedge",
+      "body_preview": "Gold’s been on a sensational run, but the one thing it can’t be described as is an inflation hedge.",
+      "source_url": "https://www.marketwatch.com/story/gold-can-be-called-many-things-just-dont-say-its-an-inflation-hedge-468ef2b2",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T09:22:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "금(Gold)이 최근 놀라운 상승세를 보였지만, 인플레이션 헤지(inflation hedge) 수단으로서는 적합하지 않다는 분석이 나왔다. 금의 가치 상승이 인플레이션 방어와는 다른 요인에 기인한다는 지적이다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "World’s hottest stock market suddenly blows cold with a 7% tumble",
+      "body_preview": "Korean equities suffered their worst losses since August 2024 with international investors leading the exodus after two days of net selling",
+      "source_url": "https://www.marketwatch.com/story/worlds-hottest-stock-market-suddenly-blows-cold-with-a-7-tumble-c1f15650",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T09:19:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "세계에서 가장 뜨거웠던 한국 주식 시장이 갑작스럽게 7% 급락하며 냉각되었다. 외국인 투자자들의 이틀 연속 순매도(net selling)가 이어지면서 한국 증시는 2024년 8월 이후 최악의 손실을 기록했다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Opendoor CEO says his firm is offering mortgages at 4.99%. Some are puzzled how.",
+      "body_preview": "The chief executive of Opendoor Technologies says his company is offering mortgages a full percentage point below the national average, a move that puzzles some observers wondering about its effect on the company’s business.",
+      "source_url": "https://www.marketwatch.com/story/opendoor-ceo-says-his-firm-is-offering-mortgages-at-4-99-some-are-puzzled-how-b5d75613",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T08:42:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "오픈도어 테크놀로지스 최고경영자(CEO)가 자사가 전국 평균보다 1%포인트 낮은 4.99%의 모기지(mortgage)를 제공하고 있다고 밝혔다. 일부 관측통들은 이러한 파격적인 금리 제공 방식과 그 영향에 대해 의문을 제기하고 있다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Facing backlash, OpenAI’s Sam Altman says he made a ‘sloppy’ mistake in Pentagon deal",
+      "body_preview": "The OpenAI CEO admits he came off as “opportunistic” in how he announced the company’s new government deal and says he will amend the language to emphasize restrictions",
+      "source_url": "https://www.marketwatch.com/story/facing-backlash-openais-sam-altman-says-he-made-a-sloppy-mistake-in-pentagon-deal-cf8f3ad9",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T04:08:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "오픈AI의 샘 알트만 최고경영자(CEO)가 국방부(Pentagon)와의 새로운 정부 계약 발표 방식에 대해 \"부주의한(sloppy) 실수\"를 인정하며 비판에 직면했다. 그는 회사가 \"기회주의적\"으로 비춰졌음을 시인하고 제한 사항을 강조하도록 문구를 수정하겠다고 밝혔다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "MongoDB’s stock sinks after earnings, signaling more tough times for the software sector",
+      "body_preview": "A “planned” transition involving the exits of two sales leaders is also rattling investors.",
+      "source_url": "https://www.marketwatch.com/story/mongodbs-stock-sinks-after-earnings-signaling-more-tough-times-for-the-software-sector-5dd37daa",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T02:23:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "몽고DB(MongoDB)의 주가가 실적 발표 후 하락하며 소프트웨어 부문의 어려움을 시사했다. 두 영업 리더의 \"계획된\" 퇴사 또한 투자자들을 불안하게 만들고 있으며, 이는 해당 부문의 불확실성을 가중시키고 있다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "SoFi’s stock rises as CEO Anthony Noto reacts to recent selloff with a $1 million purchase",
+      "body_preview": "Noto, who already owns a SoFi stake worth about $215 million on paper, has been known to buy the dip before.",
+      "source_url": "https://www.marketwatch.com/story/sofis-stock-rises-as-ceo-anthony-noto-reacts-to-recent-selloff-with-a-1-million-purchase-d03ba5b6",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T01:28:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "소파이(SoFi)의 주가가 최근 매도세(selloff)에 대응하여 앤서니 노토 최고경영자(CEO)가 100만 달러 상당의 자사주를 매입하면서 상승했다. 노토 CEO는 과거에도 주가 하락 시 매수(buy the dip)를 통해 신뢰를 보여준 바 있다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "Jim Cramer explains why the stock market shrugged off fears over the Iran war and bad headlines",
+      "body_preview": "The Middle East no longer carries the same economic weight it once did, CNBC Jim Cramer said on \"Mad Money\" on Monday.",
+      "source_url": "https://www.cnbc.com/2026/03/02/jim-cramer-why-stock-market-shrugged-off-iran-bad-headlines.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-03T00:00:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/107109967-1661524568032-NUP_198430_00186r.jpg?v=1690933351&w=1920&h=1080",
+      "korean_summary": "CNBC의 짐 크레이머는 주식 시장이 이란 전쟁 우려와 부정적인 헤드라인을 무시한 이유로 중동이 과거만큼의 경제적 중요성을 가지지 않게 되었기 때문이라고 설명했다. 이는 시장의 반응 변화를 시사한다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "How this under-the-radar U.S. natural-gas exporter could capitalize on a potential shortage in Europe",
+      "body_preview": "The U.S. is the world’s largest exporter of liquefied natural gas, and one relatively obscure U.S. company seems ready to reap the benefits of a surge in global natural-gas prices following the U.S. and Israel’s attacks on Iran and the widening conflict in the Middle East.",
+      "source_url": "https://www.marketwatch.com/story/how-this-under-the-radar-u-s-natural-gas-exporter-could-capitalize-on-a-potential-shortage-in-europe-c6938bab",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T23:01:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "미국은 세계 최대 액화천연가스(LNG) 수출국이며, 한 잘 알려지지 않은 미국 기업이 유럽의 잠재적 천연가스 부족 사태와 글로벌 가격 급등으로 이익을 얻을 준비가 되어 있다고 분석되었다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
+    {
+      "title": "The smartest money moves to make as the Iran conflict rattles markets",
+      "body_preview": "You may have opportunities to optimize for short-term volatility, financial planners told MarketWatch.",
+      "source_url": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-as-the-iran-conflict-rattles-markets-d8e57ef3",
+      "source_name": "MarketWatch",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-02T22:35:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
+      "korean_summary": "이란 분쟁이 시장을 흔드는 가운데, 금융 설계사들은 단기적인 변동성(volatility)을 활용하여 투자 기회를 최적화할 수 있다고 조언했다. 이는 시장 불안정 속에서 현명한 자금 운용 전략의 중요성을 강조한다.",
+      "fetched_at": "2026-03-03T11:26:26.437301+00:00"
+    },
     {
       "title": "EUR/CAD Plummets Toward 1.5900 as Critical Eurozone Inflation Data Looms",
       "body_preview": "BitcoinWorld EUR/CAD Plummets Toward 1.5900 as Critical Eurozone Inflation Data Looms FRANKFURT, Germany – The EUR/CAD currency pair experienced significant downward pressure in early Tuesday trading, sliding toward the pivotal 1.5900 support level. This movement precedes the highly anticipated rele",
@@ -245,160 +697,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58759251.jpeg",
       "korean_summary": "유명 트레이더이자 애널리스트(Analyst)인 Cred는 비트코인(Bitcoin)의 현재 기술적 설정에 대해 설명하며, 71,000달러가 현재 가장 중요한 저항선(Ceiling)이라고 강조했다.",
-      "fetched_at": "2026-03-03T10:31:25.580073+00:00"
-    },
-    {
-      "title": "JPMorgan’s Jamie Dimon warns there’s too much complacency in markets",
-      "body_preview": "JPMorgan Chase Chief Executive Jamie Dimon warns the tepid stock-market reaction on Monday to the U.S. and Israeli attack on Iran was just another example of the complacency in markets.",
-      "source_url": "https://www.marketwatch.com/story/jpmorgans-jamie-dimon-warns-theres-too-much-complacency-in-markets-98739bad",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-03T10:04:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "JP모건(JPMorgan) CEO 제이미 다이먼은 미국-이스라엘의 이란 공격에 대한 주식 시장의 미온적 반응이 시장의 지나친 자기만족(complacency)을 보여주는 사례라고 경고했다.",
-      "fetched_at": "2026-03-03T10:31:25.580073+00:00"
-    },
-    {
-      "title": "Former reality TV stars Heidi Montag and Spencer Pratt say they are still displaced by wildfires",
-      "body_preview": "Heidi Montag and Spencer Pratt have said that they still do not have a permanent place to live—more than a year after they lost their Pacific Palisades property in the California wildfires.",
-      "source_url": "https://www.marketwatch.com/story/former-reality-tv-stars-heidi-montag-and-spencer-pratt-say-they-are-still-displaced-by-wildfires-2a7a98fd",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-03T10:02:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "전 리얼리티 TV 스타 하이디 몬태그와 스펜서 프랫은 캘리포니아 산불로 퍼시픽 팰리세이즈 자택을 잃은 지 1년이 넘도록 여전히 거주지를 찾지 못했다고 밝혔다.",
-      "fetched_at": "2026-03-03T10:31:25.580073+00:00"
-    },
-    {
-      "title": "‘No toilets’? Civil trial over renovation work plays out in L.A. over Kanye West’s stripped Malibu beach house",
-      "body_preview": "A worker is seeking more than $1 million in damages from Kanye West over the renovation work of a Malibu home and has made some bizarre allegations.",
-      "source_url": "https://www.marketwatch.com/story/no-toilets-civil-trial-over-renovation-work-plays-out-in-l-a-over-kanye-wests-stripped-malibu-beach-house-b7d885a6",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-03T10:01:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "로스앤젤레스에서 카니예 웨스트의 말리부 해변 주택 리모델링 공사와 관련한 민사 소송이 진행 중이다. 한 작업자는 100만 달러 이상의 손해배상을 청구하며 기이한 주장을 제기했다.",
-      "fetched_at": "2026-03-03T10:31:25.580073+00:00"
-    },
-    {
-      "title": "Gold can be called many things — just don’t say it’s an inflation hedge",
-      "body_preview": "Gold’s been on a sensational run, but the one thing it can’t be described as is an inflation hedge.",
-      "source_url": "https://www.marketwatch.com/story/gold-can-be-called-many-things-just-dont-say-its-an-inflation-hedge-468ef2b2",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-03T09:22:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "금(Gold)이 최근 놀라운 상승세를 기록했으나, 전문가들은 금을 인플레이션 헤지(inflation hedge) 수단으로 보기는 어렵다고 지적했다.",
-      "fetched_at": "2026-03-03T10:31:25.580073+00:00"
-    },
-    {
-      "title": "World’s hottest stock market suddenly blows cold with a 7% tumble",
-      "body_preview": "Korean equities suffered their worst losses since August 2024 with international investors leading the exodus after two days of net selling",
-      "source_url": "https://www.marketwatch.com/story/worlds-hottest-stock-market-suddenly-blows-cold-with-a-7-tumble-c1f15650",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-03T09:19:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "한국 주식 시장이 최근 7% 급락하며 세계에서 가장 뜨거웠던 시장에서 갑자기 냉각되었다. 외국인 투자자들의 이틀 연속 순매도(net selling)로 인해 큰 손실을 겪었다.",
-      "fetched_at": "2026-03-03T10:31:25.580073+00:00"
-    },
-    {
-      "title": "Opendoor CEO says his firm is offering mortgages at 4.99%. Some are puzzled how.",
-      "body_preview": "The chief executive of Opendoor Technologies says his company is offering mortgages a full percentage point below the national average, a move that puzzles some observers wondering about its effect on the company’s business.",
-      "source_url": "https://www.marketwatch.com/story/opendoor-ceo-says-his-firm-is-offering-mortgages-at-4-99-some-are-puzzled-how-b5d75613",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-03T08:42:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "오픈도어 테크놀로지스(Opendoor Technologies) CEO는 자사가 전국 평균보다 1%포인트 낮은 4.99%의 모기지(mortgage)를 제공하고 있다고 밝혔다. 일부 관측통들은 그 영향에 대해 의문을 표하고 있다.",
-      "fetched_at": "2026-03-03T10:31:25.580073+00:00"
-    },
-    {
-      "title": "Facing backlash, OpenAI’s Sam Altman says he made a ‘sloppy’ mistake in Pentagon deal",
-      "body_preview": "The OpenAI CEO admits he came off as “opportunistic” in how he announced the company’s new government deal and says he will amend the language to emphasize restrictions",
-      "source_url": "https://www.marketwatch.com/story/facing-backlash-openais-sam-altman-says-he-made-a-sloppy-mistake-in-pentagon-deal-cf8f3ad9",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-03T04:08:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "오픈AI(OpenAI) CEO 샘 알트만은 미 국방부(Pentagon)와의 새로운 정부 계약 발표 방식이 \"기회주의적\"으로 비춰진 것에 대해 \"부주의한\" 실수를 인정했다. 그는 제한 사항을 강조하도록 문구를 수정할 것이라고 밝혔다.",
-      "fetched_at": "2026-03-03T10:31:25.580073+00:00"
-    },
-    {
-      "title": "MongoDB’s stock sinks after earnings, signaling more tough times for the software sector",
-      "body_preview": "A “planned” transition involving the exits of two sales leaders is also rattling investors.",
-      "source_url": "https://www.marketwatch.com/story/mongodbs-stock-sinks-after-earnings-signaling-more-tough-times-for-the-software-sector-5dd37daa",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-03T02:23:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "몽고DB(MongoDB) 주가가 실적 발표 후 하락하며 소프트웨어(software) 부문의 어려움을 시사했다. 두 영업 리더의 \"계획된\" 퇴사 또한 투자자들을 불안하게 만들고 있다.",
-      "fetched_at": "2026-03-03T10:31:25.580073+00:00"
-    },
-    {
-      "title": "SoFi’s stock rises as CEO Anthony Noto reacts to recent selloff with a $1 million purchase",
-      "body_preview": "Noto, who already owns a SoFi stake worth about $215 million on paper, has been known to buy the dip before.",
-      "source_url": "https://www.marketwatch.com/story/sofis-stock-rises-as-ceo-anthony-noto-reacts-to-recent-selloff-with-a-1-million-purchase-d03ba5b6",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-03T01:28:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "소파이(SoFi) 주가가 상승했다. 앤서니 노토(Anthony Noto) CEO가 최근의 매도세(selloff)에 대응하여 100만 달러 상당의 주식을 매입했기 때문이다. 그는 이전에 주가 하락 시 매수(buy the dip)한 전례가 있다.",
-      "fetched_at": "2026-03-03T10:31:25.580073+00:00"
-    },
-    {
-      "title": "How this under-the-radar U.S. natural-gas exporter could capitalize on a potential shortage in Europe",
-      "body_preview": "The U.S. is the world’s largest exporter of liquefied natural gas, and one relatively obscure U.S. company seems ready to reap the benefits of a surge in global natural-gas prices following the U.S. and Israel’s attacks on Iran and the widening conflict in the Middle East.",
-      "source_url": "https://www.marketwatch.com/story/how-this-under-the-radar-u-s-natural-gas-exporter-could-capitalize-on-a-potential-shortage-in-europe-c6938bab",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T23:01:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "미국은 세계 최대 액화천연가스(LNG) 수출국이며, 상대적으로 덜 알려진 한 미국 기업이 유럽의 잠재적 천연가스(natural gas) 부족 사태와 글로벌 가격 급등으로 이익을 얻을 수 있을 것으로 전망된다.",
-      "fetched_at": "2026-03-03T10:31:25.580073+00:00"
-    },
-    {
-      "title": "The smartest money moves to make as the Iran conflict rattles markets",
-      "body_preview": "You may have opportunities to optimize for short-term volatility, financial planners told MarketWatch.",
-      "source_url": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-as-the-iran-conflict-rattles-markets-d8e57ef3",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T22:35:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "이란 분쟁이 시장을 흔드는 가운데, 재정 설계사(financial planner)들은 단기 변동성(short-term volatility)을 활용할 기회가 있을 수 있다고 조언했다.",
       "fetched_at": "2026-03-03T10:31:25.580073+00:00"
     },
     {
@@ -2853,299 +3151,6 @@
       "media_url": "https://resources.cryptocompare.com/news/93/default.png",
       "korean_summary": "5주 연속 유출을 겪었던 디지털 자산 투자 상품들이 10억 달러의 신규 유입을 기록하며 반등했다. 특히 솔라나(Solana)는 5,300만 달러의 유입을 보이며 투자 심리의 긍정적 전환을 시사했다.",
       "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "Wall Street Giant JPMorgan Sees Clarity Act Driving Second-Half Upside",
-      "body_preview": "The crypto industry has spent years asking Washington for clear rules. It may be getting closer to an answer. JPMorgan analysts are now predicting that the Clarity Act — a sweeping bill designed to set formal ground rules for how digital assets are regulated in the US — will be signed into law by th",
-      "source_url": "https://www.newsbtc.com/crypto/wall-street-giant-jpmorgan-sees-clarity-act-driving-second-half-upside/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T21:00:59+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/58733042.jpeg",
-      "korean_summary": "JP모건(JPMorgan) 애널리스트들은 암호화폐 산업의 명확한 규제를 위한 '클래러티 법안(Clarity Act)'이 하반기 시장 상승을 이끌 것으로 전망했다. 이는 워싱턴의 규제 명확화 노력에 대한 기대감을 반영한다.",
-      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "No Rebound For Bitcoin Yet — Short-Term BTC Holders Continue Holding At A Loss",
-      "body_preview": "The ongoing volatility has capped Bitcoin ’s most recent upward attempts after retesting the $68,000 level, which has flipped into resistance once again. With the price of BTC still trading in a downward trajectory, many Bitcoin holders, especially those who recently bought the asset, are in the los",
-      "source_url": "https://bitcoinist.com/no-rebound-for-bitcoin-yet/",
-      "source_name": "Bitcoinist",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T21:00:54+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/13/58733046.jpeg",
-      "korean_summary": "비트코인(Bitcoin)은 68,000달러 저항선 재확인 후 상승 시도가 좌절되며 반등하지 못하고 있다. 지속적인 변동성 속에서 단기 BTC 보유자들은 여전히 손실을 감수하며 보유 중인 것으로 나타났다.",
-      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "Cardano retraces – Profit-taking threat looms once again",
-      "body_preview": "December saw a high quantity of ADA tokens moving on-chain, but it has been relatively silent since then.",
-      "source_url": "https://ambcrypto.com/cardano-retraces-profit-taking-threat-looms-once-again/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T21:00:14+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ADA"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "카르다노(Cardano)의 ADA 토큰은 12월 대규모 온체인(on-chain) 이동 후 잠잠해졌다. 현재 가격이 되돌림(retraces) 현상을 보이며, 이익 실현(profit-taking) 압박이 다시 커질 수 있다는 우려가 제기된다.",
-      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "GBP/JPY Forecast: Bullish Engulfing Pattern Signals Potential Surge Toward 211.00",
-      "body_preview": "BitcoinWorld GBP/JPY Forecast: Bullish Engulfing Pattern Signals Potential Surge Toward 211.00 LONDON, April 2025 – The GBP/JPY currency pair has captured significant attention in global forex markets this week after forming a decisive bullish engulfing candlestick pattern on its daily chart. Conseq",
-      "source_url": "https://bitcoinworld.co.in/gbp-jpy-forecast-bullish-engulfing/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T21:00:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "ASIA",
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "GBP/JPY 통화 쌍이 강세 장악형 패턴(Bullish Engulfing Pattern)을 형성하며 글로벌 외환 시장의 주목을 받고 있다. 이는 211.00을 향한 잠재적 상승 가능성을 시사하며 투자자들의 관심이 집중되고 있다.",
-      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "Swiss Franc Surges: Dramatic Decade High Against Euro Before SNB Intervention Cools Markets",
-      "body_preview": "BitcoinWorld Swiss Franc Surges: Dramatic Decade High Against Euro Before SNB Intervention Cools Markets In a dramatic shift for European currency markets, the Swiss Franc surged to its strongest position against the Euro in over a decade this week, reaching exchange rates not witnessed since 2015, ",
-      "source_url": "https://bitcoinworld.co.in/swiss-franc-surges-euro-snb/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T20:55:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "스위스 프랑(Swiss Franc)이 유로(Euro) 대비 10년 만에 최고치로 급등하며 유럽 통화 시장에 큰 변화를 가져왔다. 이후 스위스 국립은행(SNB)의 개입으로 시장 과열이 진정되었다.",
-      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "Can US lawmakers pass crypto market structure before the midterms?",
-      "body_preview": "While the White House has hosted three meetings to discuss how to address stablecoin yield in the Senate's market structure bill, there are no signs of a solution.",
-      "source_url": "https://cointelegraph.com/news/united-states-crypto-market-structure-before-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T20:55:08+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "미국 백악관(White House)이 상원의 암호화폐 시장 구조 법안에서 스테이블코인(stablecoin) 수익률 문제를 논의했지만, 아직 해결책의 조짐은 없다. 중간선거 전 법안 통과 여부는 불투명하다.",
-      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "Buterin Says Ethereum Smart Accounts Could Launch in 2026 Hegota Upgrade",
-      "body_preview": "Ethereum is preparing to overhaul how wallets work, with co-founder Vitalik Buterin saying native “smart accounts” could arrive within a year through the network’s planned Hegota upgrade. Hegota Upgrade May Bring Account Abstraction In a Feb. 28 post on X, Ethereum co-founder Vitalik Buterin said th",
-      "source_url": "https://news.bitcoin.com/buterin-says-ethereum-smart-accounts-could-launch-in-2026-hegota-upgrade/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T20:53:52+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/14/58732786.jpeg",
-      "korean_summary": "이더리움(Ethereum) 공동 창립자 비탈릭 부테린(Vitalik Buterin)은 네트워크의 '헤고타(Hegota) 업그레이드'를 통해 2026년까지 네이티브 '스마트 계정(smart accounts)'이 출시될 수 있다고 밝혔다.",
-      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "Most Americans are oblivious to the fact their Social Security checks could be slashed 20% in as soon as 6 years",
-      "body_preview": "Would an education campaign help workers or cause panic?",
-      "source_url": "https://www.marketwatch.com/story/most-americans-are-oblivious-to-the-fact-their-social-security-checks-could-be-slashed-20-in-as-soon-as-6-years-aded9dd0",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T18:06:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "대부분의 미국인들이 6년 이내에 사회보장 수표(Social Security checks)가 20% 삭감될 수 있다는 사실을 인지하지 못하고 있다. 이는 교육 캠페인이 필요할지, 아니면 대중의 공포를 유발할지에 대한 논의를 촉발하고 있다.",
-      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "Trump says the U.S. is 'richer and stronger than ever'—why some Americans don't feel it",
-      "body_preview": "President Donald Trump touted economic wins during his State of the Union address. But Americans and economists say affordability is still a major issue.",
-      "source_url": "https://www.cnbc.com/2026/03/02/trump-touts-affordability-some-americans-still-feel-crisis.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T17:55:31+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108269704-1771998597707-gettyimages-2262903854-AFP_98UU9KZ.jpeg?v=1771998620&w=1920&h=1080",
-      "korean_summary": "도널드 트럼프(Donald Trump) 전 대통령은 국정연설에서 미국이 '역대 가장 부유하고 강력하다'고 강조했지만, 많은 미국인과 경제학자들은 여전히 생활비 부담(affordability)이 심각한 문제라고 지적하며 체감 경제와의 괴리를 드러냈다.",
-      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "Apple launches new iPhone and iPad Air as it gears up for a major AI push",
-      "body_preview": "The company is boosting the storage capacity of its devices, a move thought to be a prelude to expected Siri enhancements later this year.",
-      "source_url": "https://www.marketwatch.com/story/apple-launches-new-iphone-and-ipad-air-as-it-gears-up-for-a-major-ai-push-570b24ae",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T17:42:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "애플(Apple)이 인공지능(AI) 역량 강화를 위해 새로운 아이폰(iPhone)과 아이패드 에어(iPad Air)를 출시하며, 기기 저장 용량을 늘렸다. 이는 올해 말 예상되는 시리(Siri) 기능 향상을 위한 사전 조치로 풀이된다.",
-      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "Trump leaves door open for extended U.S. campaign against Iran",
-      "body_preview": "President Donald Trump said Monday the military operation against Iran could last four to five weeks, or longer.",
-      "source_url": "https://www.marketwatch.com/story/trump-leaves-door-open-for-extended-u-s-campaign-against-iran-e2d21f8f",
-      "source_name": "MarketWatch",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T17:31:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/publicdatany/finnhubimage/market_watch_logo.png",
-      "korean_summary": "도널드 트럼프(Donald Trump) 전 대통령은 이란에 대한 미국의 군사 작전이 4~5주 또는 그 이상 지속될 수 있다고 언급하며, 장기적인 대이란 군사 개입 가능성을 열어두었다.",
-      "fetched_at": "2026-03-02T21:26:23.732067+00:00"
-    },
-    {
-      "title": "Stablecoin Issuer Tether Uses Deloitte for USAT Reserve Report",
-      "body_preview": "After saying for years that major accounting firms were unwilling to provide auditing services, Tether Holdings SA received a sign-off from Deloitte on the first-ever reserve report for its USAT stablecoin that was launched to comply with new US regulations.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-03-02/stablecoin-issuer-tether-uses-deloitte-for-usat-reserve-report",
-      "source_name": "Bloomberg (Crypto)",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T20:14:57+00:00",
-      "category": "crypto",
-      "currencies": [
-        "FIAT",
-        "USDT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/103/58731778.jpeg",
-      "korean_summary": "스테이블코인 발행사 테더(Tether)가 USAT 준비금 보고서에 대해 딜로이트(Deloitte)로부터 첫 승인을 받았다. 이는 주요 회계법인들이 감사 서비스 제공에 소극적이었던 과거와 달리 중요한 변화로 평가된다.",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Bitcoin Keeps Bleeding, but Seller Exhaustion Starts Showing Up in the Data",
-      "body_preview": "",
-      "source_url": "https://www.investing.com/analysis/bitcoin-keeps-bleeding-but-seller-exhaustion-starts-showing-up-in-the-data-200675907",
-      "source_name": "Investing.Com Crypto Opinion and Analysis",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T20:13:01+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/107/default.png",
-      "korean_summary": "비트코인(Bitcoin) 가격이 지속적으로 하락하고 있으나, 데이터 분석 결과 매도자 소진(seller exhaustion) 조짐이 나타나고 있다. 이는 시장의 매도 압력이 점차 약화되고 있음을 시사하며, 향후 가격 흐름에 변화가 있을지 주목된다.",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "XRP Holds Strong Above Key Support Despite Geopolitical Tensions",
-      "body_preview": "XRP continues to hold above key support amid global geopolitical tensions. Technical indicators and whale accumulation suggest underlying buying interest at current levels. Continue Reading: XRP Holds Strong Above Key Support Despite Geopolitical Tensions The post XRP Holds Strong Above Key Support ",
-      "source_url": "https://en.coin-turk.com/xrp-holds-strong-above-key-support-despite-geopolitical-tensions/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T20:12:30+00:00",
-      "category": "macro",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/79/58731460.jpeg",
-      "korean_summary": "지정학적 긴장 속에서도 암호화폐 XRP는 주요 지지선(key support) 위에서 견고하게 유지되고 있다. 기술적 지표와 대규모 투자자(whale)들의 축적은 현재 가격 수준에서 탄탄한 매수세가 존재함을 나타내며, 시장의 안정성을 보여준다.",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Israeli Markets Hit All-Time Highs Amid Military Conflict With Iran",
-      "body_preview": "Israeli markets achieved record peaks on March 2, 2026, bucking a global downturn despite the onset of a joint U.S.-Israeli military campaign against Iran. Markets Reach New Peaks Israeli financial markets surged Monday, March 2, 2026, just two days after the launch of a joint military operation wit",
-      "source_url": "https://news.bitcoin.com/israeli-markets-hit-all-time-highs-amid-military-conflict-with-iran/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T20:12:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/14/58731391.jpeg",
-      "korean_summary": "이스라엘 증시가 이란과의 군사적 충돌 및 미국-이스라엘 연합 작전 개시에도 불구하고 2026년 3월 2일 사상 최고치(all-time highs)를 달성했다. 이는 전 세계적인 시장 하락세와는 대조적인 움직임으로, 이스라엘 시장의 독특한 강세를 보여준다.",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Bitcoin Rebounds to $68K as Bitcoin ETF Inflows Surge and IBIT ETF Drives the Bid",
-      "body_preview": "",
-      "source_url": "https://www.investing.com/analysis/bitcoin-rebounds-to-68k-as-bitcoin-etf-inflows-surge-and-ibit-etf-drives-the-bid-200675764",
-      "source_name": "Investing.Com Crypto Opinion and Analysis",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T20:10:50+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/107/default.png",
-      "korean_summary": "비트코인(Bitcoin)이 비트코인 현물 상장지수펀드(ETF)로의 자금 유입이 급증하고 아이셰어즈 비트코인 트러스트(IBIT ETF)가 매수세를 주도하면서 6만 8천 달러 선으로 반등했다. 이는 기관 투자자들의 관심이 지속되고 있음을 시사한다.",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Paxful AML indictment: US DOJ delivers crushing blow to crypto co-founder over compliance failures",
-      "body_preview": "BitcoinWorld Paxful AML indictment: US DOJ delivers crushing blow to crypto co-founder over compliance failures In a landmark enforcement action that signals a tougher regulatory stance, the United States Department of Justice has indicted Ray Youssef, co-founder of the peer-to-peer cryptocurrency e",
-      "source_url": "https://bitcoinworld.co.in/paxful-co-founder-doj-aml-indictment/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T20:10:11+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "미국 법무부(US DOJ)가 암호화폐 거래소 팍스풀(Paxful) 공동 설립자를 자금세탁방지(AML) 규정 준수 실패 혐의로 기소했다. 이는 암호화폐 산업에 대한 규제 당국의 강력한 단속 의지를 보여주는 중요한 조치로, 향후 규제 강화 가능성을 시사한다.",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Solana ETFs: Positioning For The Next Expansion",
-      "body_preview": "Summary The Bitwise Solana Staking ETF offers the most structurally attractive long-term Solana exposure due to its low staking fees, competitive expense ratio, and largest AUM. Despite Solana’s robust network fundamentals, a ~70% drawdown and risk-off macro conditions warrant a 'Hold' rating for bo",
-      "source_url": "https://seekingalpha.com/article/4877180-solana-etfs-positioning-for-the-next-expansion?utm_source=cryptocompare.com&utm_medium=referral&feed_item_type=article",
-      "source_name": "Seeking Alpha",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T20:09:54+00:00",
-      "category": "macro",
-      "currencies": [
-        "SOL"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/50/58731348.jpeg",
-      "korean_summary": "비트와이즈 솔라나 스테이킹 상장지수펀드(Bitwise Solana Staking ETF)는 낮은 스테이킹 수수료, 경쟁력 있는 운용보수, 최대 운용자산(AUM)을 바탕으로 장기 솔라나(Solana) 투자에 가장 매력적인 구조를 제공한다. 이는 솔라나의 다음 확장을 위한 포지셔닝으로 평가된다.",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
-    },
-    {
-      "title": "Cardano (ADA) on Thin Ice: Is a Trapdoor Drop Incoming?",
-      "body_preview": "Cardano is showing alarm signals following a key technical breakdown, with analyst GainMuse warning that ADA could be heading into a classic trapdoor setup.",
-      "source_url": "https://zycrypto.com/cardano-ada-on-thin-ice-is-a-trapdoor-drop-incoming/",
-      "source_name": "ZyCrypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-02T20:07:59+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ADA"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
-      "korean_summary": "카르다노(Cardano, ADA)가 주요 기술적 지지선(technical breakdown)을 이탈하며 위험 신호를 보이고 있다. 한 분석가는 ADA가 전형적인 트랩도어(trapdoor) 하락 패턴에 진입할 수 있다고 경고하며, 투자자들의 주의가 요구된다.",
-      "fetched_at": "2026-03-02T20:30:10.092995+00:00"
     }
   ]
 }
