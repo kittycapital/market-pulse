@@ -1,8 +1,455 @@
 {
-  "last_updated": "2026-03-05T13:57:05.693557+00:00",
-  "last_updated_kst": "2026-03-05 22:57 KST",
+  "last_updated": "2026-03-05T14:42:01.949623+00:00",
+  "last_updated_kst": "2026-03-05 23:42 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Japanese Yen Forecast: BoJ’s Decisive Policy Shift Signals Sustained Strength, MUFG Analysis Reveals",
+      "body_preview": "BitcoinWorld Japanese Yen Forecast: BoJ’s Decisive Policy Shift Signals Sustained Strength, MUFG Analysis Reveals TOKYO, March 2025 – The Japanese Yen (JPY) is poised for a period of sustained firmness, fundamentally supported by the evolving monetary policy trajectory of the Bank of Japan (BoJ), ac",
+      "source_url": "https://bitcoinworld.co.in/boj-policy-japanese-yen-strength-mufg/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:35:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "ASIA",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "MUFG 분석에 따르면 일본은행(BoJ)의 과감한 정책 전환으로 일본 엔화(JPY)가 지속적인 강세를 보일 것으로 전망됩니다. 이는 엔화 시장에 중요한 변화를 예고하며 투자자들의 주목을 받고 있습니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Are All Crypto Exchanges Equally Safe? Proof-of-Reservers Are Different",
+      "body_preview": "Proof-of-reservers is a great mechanism, but it is not as simple as it may seem at first.",
+      "source_url": "https://u.today/are-all-crypto-exchanges-equally-safe-proof-of-reservers-are-different",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:33:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BNB"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58871339.jpeg",
+      "korean_summary": "준비금 증명(Proof-of-Reserves)은 암호화폐 거래소의 안전성을 높이는 중요한 메커니즘이지만, 그 복잡성으로 인해 모든 거래소가 동일하게 안전하다고 볼 수는 없다는 분석이 나왔습니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Dark Defender Says “Give Us that Break, XRP” As Price Nears Key Breakout Zone",
+      "body_preview": "Crypto analyst Dark Defender (@DefendDark) recently shared a chart showing XRP at a critical point on the daily timeframe. The chart shows a potential breakout, suggesting the next price move could be decisive. The chart shows XRP trading at $1.408, sitting near a convergence of a downward trendline",
+      "source_url": "https://timestabloid.com/dark-defender-says-give-us-that-break-xrp-as-price-nears-key-breakout-zone/",
+      "source_name": "TimesTabloid",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:30:15+00:00",
+      "category": "crypto",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
+      "korean_summary": "암호화폐 분석가 Dark Defender는 XRP 가격이 일간 차트에서 중요한 돌파 구간(breakout zone)에 근접했다고 밝혔습니다. 이는 XRP가 곧 상당한 가격 변동을 보일 수 있음을 시사합니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Bitcoin’s Remarkable Stability: CoinShares Reveals No Institutional Panic Selling Amid Price Decline",
+      "body_preview": "BitcoinWorld Bitcoin’s Remarkable Stability: CoinShares Reveals No Institutional Panic Selling Amid Price Decline London, March 2025 – Despite recent Bitcoin price volatility that saw the cryptocurrency decline from recent highs, institutional investors have demonstrated remarkable composure, accord",
+      "source_url": "https://bitcoinworld.co.in/bitcoin-institutional-stability-coinshares-report/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:30:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "최근 비트코인(Bitcoin) 가격 하락에도 불구하고, CoinShares 분석에 따르면 기관 투자자들의 패닉 셀링(panic selling)은 발생하지 않은 것으로 나타났습니다. 이는 비트코인의 안정성에 대한 긍정적인 신호로 해석됩니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "CleanSpark produces 568 bitcoins in February",
+      "body_preview": "More on CleanSpark CleanSpark Gets Attention For The Wrong Reasons, It's The Transition That Matters Tradr ETFs to launch leveraged ETFs linked to CLSK, COHR, LEU CleanSpark tops crypto firms with $2B+ market cap in short interest as of mid-February",
+      "source_url": "https://seekingalpha.com/news/4561300-cleanspark-produces-568-bitcoins-in-february?utm_source=cryptocompare.com&utm_medium=referral&feed_item_type=news",
+      "source_name": "Seeking Alpha",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:28:42+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/50/58871177.jpeg",
+      "korean_summary": "암호화폐 채굴 기업 CleanSpark가 2월 한 달 동안 총 568개의 비트코인(Bitcoin)을 생산했다고 발표했습니다. 이는 해당 기업의 꾸준한 채굴 성과를 보여줍니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Morning Minute: Kraken Cracks the Fed",
+      "body_preview": "Kraken made crypto history yesterday, receiving federal banking access that's been sought after by the industry for years.",
+      "source_url": "https://decrypt.co/360098/morning-minute-kraken-cracks-the-fed",
+      "source_name": "Decrypt",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:28:38+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/44/58871192.jpeg",
+      "korean_summary": "암호화폐 거래소 Kraken이 연방 은행 접근권을 획득하며 암호화폐 산업의 오랜 숙원을 달성했습니다. 이는 암호화폐 기업의 제도권 금융 시스템 편입에 중요한 이정표가 될 것으로 보입니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "If you invested $1,000 in the top 10 cryptos when Trump took office – here’s what it’s worth today",
+      "body_preview": "Finbold has analyzed how a hypothetical $1,000 investment in the world’s largest cryptocurrencies would have performed since the inauguration of Donald Trump on January 20, 2025. In this experiment, an investor allocates $100 to each of the top 10 cryptocurrencies by market capitalization on Inaugur",
+      "source_url": "https://finbold.com/if-you-invested-1000-in-the-top-10-cryptos-when-trump-took-office-heres-what-its-worth-today/",
+      "source_name": "Finbold",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:26:29+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/finbold.png",
+      "korean_summary": "Finbold는 도널드 트럼프(Donald Trump) 전 대통령 취임 시점인 2025년 1월, 상위 10개 암호화폐에 1,000달러를 투자했을 경우 현재 가치를 분석했습니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Weekly Jobless Claims Defy Forecasts: Resilient 213,000 Figure Signals Strong Labor Market for Fed",
+      "body_preview": "BitcoinWorld Weekly Jobless Claims Defy Forecasts: Resilient 213,000 Figure Signals Strong Labor Market for Fed WASHINGTON, D.C. — February 28, 2025: The U.S. labor market demonstrated unexpected resilience this week as new filings for unemployment benefits came in below economist projections. The l",
+      "source_url": "https://bitcoinworld.co.in/us-weekly-jobless-claims-213000-february-2025/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:25:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "미국 주간 실업수당 청구 건수가 예상치를 뒤엎고 21만 3천 건을 기록하며 견조한 노동 시장을 시사했습니다. 이는 연방준비제도(Fed)의 통화 정책 결정에 영향을 미칠 수 있습니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Cardano can now be used to pay at 137 Spar stores across Switzerland",
+      "body_preview": "Supermarket giant Spar has enabled ADA payment rails for customers in 137 Swiss stores, as the country moves closer to its global crypto hub ambitions.",
+      "source_url": "https://cointelegraph.com/news/cardano-checkout-rails-137-swiss-spar-stores?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:22:07+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ADA"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "스위스 내 137개 Spar 슈퍼마켓에서 카르다노(Cardano)의 ADA를 결제 수단으로 사용할 수 있게 되었습니다. 이는 스위스가 글로벌 암호화폐 허브로 나아가는 중요한 단계로 평가됩니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Institutions Again Show Interest In Re-Accumulating Bitcoin As This Happens: Glassnode",
+      "body_preview": "Recent report published by Glassnode shows a reverse in whales' interest in Bitcoin.",
+      "source_url": "https://u.today/institutions-again-show-interest-in-reaccumulating-bitcoin-as-etf-inflows-surge-glassnode",
+      "source_name": "U.Today",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:22:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/64/58870886.jpeg",
+      "korean_summary": "Glassnode 보고서에 따르면, 비트코인(Bitcoin)에 대한 고래(whales)들의 관심이 다시 증가하며 기관 투자자들의 재축적(re-accumulation) 움직임이 포착되었습니다. 이는 시장에 긍정적인 신호로 해석됩니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Death Cross Appears on Bitcoin Charts as Historical Pattern Shows 50% Crash Risk",
+      "body_preview": "Bitcoin (BTC) showed limited price movement on Wednesday before slipping overnight into Friday amid a surge in selling pressure.",
+      "source_url": "https://zycrypto.com/death-cross-appears-on-bitcoin-charts-as-historical-pattern-shows-50-crash-risk/",
+      "source_name": "ZyCrypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:21:51+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
+      "korean_summary": "비트코인(Bitcoin) 차트에서 데스 크로스(Death Cross)가 나타나며 가격 하락 위험이 커졌습니다. 역사적으로 이 패턴은 50% 폭락 가능성을 시사하여 투자자들의 우려를 사고 있습니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Bitcoin Holds Steady Above $70,000 as Geopolitical Tensions Test Global Markets",
+      "body_preview": "Bitcoin remains resilient above $70,000, despite global market volatility and Middle East tensions. Major investment in crypto exchange OKX signals traditional finance's growing interest in digital assets. Continue Reading: Bitcoin Holds Steady Above $70,000 as Geopolitical Tensions Test Global Mark",
+      "source_url": "https://en.coin-turk.com/bitcoin-holds-steady-above-70000-as-geopolitical-tensions-test-global-markets/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:21:10+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/79/58870828.jpeg",
+      "korean_summary": "지정학적 긴장으로 글로벌 시장이 요동치는 가운데 비트코인(Bitcoin)은 7만 달러 이상을 유지하며 견고함을 보였습니다. OKX에 대한 대규모 투자는 전통 금융의 디지털 자산 관심을 시사합니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Bitcoin Rally Stalls Hard at $73K Ceiling as Traders Eye Fragile Support",
+      "body_preview": "Bitcoin traded at $72,648 on March 5, 2026, consolidating between $72,600 support and $73,100 resistance after an overnight push higher lost momentum. Technical indicators across the 1-hour, 4-hour, and daily charts show a market hovering in neutral territory as momentum indicators flatten and key m",
+      "source_url": "https://news.bitcoin.com/bitcoin-rally-stalls-hard-at-73k-ceiling-as-traders-eye-fragile-support/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:20:59+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/14/58870823.jpeg",
+      "korean_summary": "비트코인(Bitcoin) 가격 랠리가 7만 3천 달러 저항선에서 멈추며 7만 2천 6백 달러 지지선과 7만 3천 1백 달러 저항선 사이에서 횡보하고 있습니다. 기술적 지표는 취약한 지지세를 나타냅니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "OKB Token Surges 38% on NYSE’s OKX Investment at $25B Valuation",
+      "body_preview": "The New York Stock Exchange’s parent company has invested in crypto exchange OKX as part of a push into tokenized stocks.",
+      "source_url": "https://decrypt.co/360101/okb-token-surges-38-on-nyses-okx-investment-at-25b-valuation",
+      "source_name": "Decrypt",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:20:32+00:00",
+      "category": "crypto",
+      "currencies": [
+        "OKB"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/44/58870822.jpeg",
+      "korean_summary": "뉴욕증권거래소(NYSE)의 모회사가 암호화폐 거래소 OKX에 투자하며 250억 달러의 기업 가치를 인정했습니다. 이 소식에 OKX의 자체 토큰인 OKB는 38% 급등했습니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Core Scientific Secures Monumental $1B Morgan Stanley Loan for AI Infrastructure Pivot",
+      "body_preview": "BitcoinWorld Core Scientific Secures Monumental $1B Morgan Stanley Loan for AI Infrastructure Pivot AUSTIN, Texas – March 2025 – In a landmark deal reshaping the digital infrastructure landscape, Bitcoin mining firm Core Scientific has secured a strategic financing commitment of up to $1 billion fro",
+      "source_url": "https://bitcoinworld.co.in/core-scientific-billion-morgan-stanley-loan/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:20:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "비트코인 채굴 기업 Core Scientific이 모건 스탠리(Morgan Stanley)로부터 10억 달러 규모의 대출을 확보했습니다. 이는 인공지능(AI) 인프라 사업으로의 전환을 위한 중요한 발판이 될 것입니다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+      "body_preview": "Oil prices rise again, stocks are flat, and Broadcom delivers a fantastic quarter.",
+      "source_url": "https://www.cnbc.com/2026/03/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T14:14:40+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108272678-17725446672026-03-03t132955z_770278709_rc20xjaty94b_rtrmadp_0_iran-crisis-emirates.jpeg?v=1772544703&w=1920&h=1080",
+      "korean_summary": "유가 상승, 주식 시장 보합세, 브로드컴(Broadcom)의 실적 호조가 목요일 주식 시장의 주요 관전 포인트로 제시되었다. 짐 크레이머는 이 세 가지 요소를 투자자들이 주목해야 할 핵심 동향으로 꼽았다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
+      "body_preview": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects.",
+      "source_url": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T12:49:07+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108273790-1772653707753-gettyimages-2263967601-AFP_99P866E.jpeg?v=1772653797&w=1920&h=1080",
+      "korean_summary": "이란 전쟁이 11.7조 달러 규모의 세계 여행 산업을 위협하고 있다. 미사일 공격이나 지정학적(geopolitical) 긴장 지역에서 멀리 떨어진 여행객들도 간접적인 파급 효과(ripple effects)에 취약하며, 산업 전반에 걸쳐 불확실성이 증대되고 있다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Family offices double down on AI investments as startup fundraising breaks record in February",
+      "body_preview": "AI bubble fears haven't stopped investment firms of billionaires like Laurene Powell Jobs from betting on high-flying startups",
+      "source_url": "https://www.cnbc.com/2026/03/05/family-offices-ai-investments.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T12:30:01+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108273534-1772640178592-gettyimages-2174187682-clintonglobalinitiative2024annualmeeting_9_24_24-104509_mst4.jpeg?v=1772640206&w=1920&h=1080",
+      "korean_summary": "2월 스타트업(startup) 자금 조달이 기록을 경신하며, 패밀리 오피스(Family offices)들이 인공지능(AI) 투자에 박차를 가하고 있다. AI 거품 우려에도 불구하고, 로렌 파월 잡스 같은 억만장자들의 투자 회사들은 고성장 스타트업에 대한 투자를 멈추지 않고 있다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
+      "body_preview": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business.",
+      "source_url": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-05T01:54:14+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108075458-1734045036435-gettyimages-2189656752-075a6750_at9upmaj.jpeg?v=1772666785&w=1920&h=1080",
+      "korean_summary": "브로드컴(Broadcom)의 맞춤형 인공지능(AI) 칩 사업이 호조를 보이며 투자자들에게 긍정적인 신호를 주었다. 실적 발표 후 시간 외 거래(extended trading)에서 브로드컴 주가는 약 5% 상승하며, 맞춤형 칩 사업의 견고함을 입증했다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Cramer says the oil market is signaling the Iran war won't spiral — and that's bullish for stocks",
+      "body_preview": "\"The oil market always seems to know everything,\" CNBC's Jim Cramer said Wednesday.",
+      "source_url": "https://www.cnbc.com/2026/03/04/jim-cramer-oil-is-flashing-a-bullish-signal-for-stocks-amid-iran-war.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-04T23:47:01+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108271616-1772386431302-gettyimages-2262961669-AFP_98WG8TR.jpeg?v=1772666619&w=1920&h=1080",
+      "korean_summary": "짐 크레이머는 유가 시장이 이란 전쟁이 확전되지 않을 것이라는 신호를 보내고 있으며, 이는 주식 시장에 강세(bullish) 요인으로 작용한다고 분석했다. 그는 유가 시장이 항상 모든 것을 아는 것처럼 보인다고 언급하며 시장의 예측력을 강조했다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "2 reasons why the market is rallying Wednesday and defying Iran war fears",
+      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source_url": "https://www.cnbc.com/2026/03/04/these-are-2-reasons-why-stocks-are-rallying-wednesday-defying-iran-war-concerns.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-04T19:51:33+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108272677-1772544588828-gettyimages-2263770910-TEXAS_OIL.jpeg?v=1772544617&w=1920&h=1080",
+      "korean_summary": "수요일 주식 시장이 이란 전쟁 우려에도 불구하고 반등(rallying)하는 두 가지 이유가 제시되었다. 이는 투자 클럽(Investing Club)의 장 마감 직전 업데이트를 통해 공개되었으며, 시장의 회복력에 대한 분석을 제공했다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "How Anthropic AI ban from Trump administration can escalate to existential business risk for fast-growing company",
+      "body_preview": "Anthropic AI is growing rapidly in usage among companies, but with the Trump administration declaring economic war on the company, existential risk is real.",
+      "source_url": "https://www.cnbc.com/2026/03/04/anthropic-ai-pentagon-defense-business-risk.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-04T19:48:07+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108273713-1772649603695-gettyimages-1554653659-SENATE_AI.jpeg?v=1772649674&w=1920&h=1080",
+      "korean_summary": "급성장하는 앤트로픽 인공지능(Anthropic AI)이 트럼프 행정부의 금지 조치로 인해 사업적 존립 위협(existential business risk)에 직면할 수 있다는 분석이 나왔다. 기업들 사이에서 사용이 빠르게 증가하고 있음에도 불구하고, 경제 전쟁 선언은 심각한 위험을 초래한다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "The quietly winning stock Jim Cramer says is on the verge of a big upward move",
+      "body_preview": "Strong quarterly results from Ross Stores reinforce that off-price retail is on fire.",
+      "source_url": "https://www.cnbc.com/2026/03/04/the-quietly-winning-stock-cramer-says-is-on-verge-of-a-big-upward-move.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-04T19:06:56+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108223291-1762551058825-gettyimages-2245561123-anotherday142727561_kkp8tm4h.jpeg?v=1762551197&w=1920&h=1080",
+      "korean_summary": "짐 크레이머는 로스 스토어스(Ross Stores)가 큰 폭의 상승세를 앞두고 있는 조용한 승자 주식이라고 언급했다. 강력한 분기 실적은 오프프라이스 리테일(off-price retail) 부문이 여전히 강세를 보이고 있음을 재확인시켜 주었다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "A tech stock's long-awaited breakout — plus, our hopes for Broadcom's earnings",
+      "body_preview": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source_url": "https://www.cnbc.com/2026/03/04/a-tech-stocks-long-awaited-breakout-our-hopes-for-broadcoms-earnings.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-04T17:33:45+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108272478-1772503866786-gettyimages-2240913636-AFS_AmazonLogoPhotoIlustration_4.jpeg?v=1772503878&w=1920&h=1080",
+      "korean_summary": "한 기술주(tech stock)의 오랜 기다림 끝에 돌파(breakout)가 예상되며, 브로드컴(Broadcom)의 실적 발표에 대한 기대감이 커지고 있다. 투자 클럽(Investing Club)은 매일 아침 회의를 통해 이러한 시장 동향을 분석하고 있다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Trump has an AI data center problem ahead of the midterms — with no easy solutions",
+      "body_preview": "Grassroots opposition to data centers is growing in communities across the U.S. as people blame the facilities for high utility bills.",
+      "source_url": "https://www.cnbc.com/2026/03/04/trump-faces-an-ai-data-center-power-dilemma-ahead-of-midterms.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-04T15:55:11+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108271147-17722183942026-02-27t175202z_844950497_rc2cujawa4w5_rtrmadp_0_usa-trump.jpeg?v=1772218417&w=1920&h=1080",
+      "korean_summary": "트럼프 전 대통령은 중간선거를 앞두고 인공지능(AI) 데이터 센터(data center) 문제에 직면해 있으며, 쉬운 해결책이 없는 상황이다. 높은 공과금의 원인으로 지목되며 미국 전역에서 데이터 센터에 대한 풀뿌리 반대 운동이 확산되고 있다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "How do you know when to ring the register on a stock? The answer is more art than science",
+      "body_preview": "Whether a stock needs to stay or go requires holistic evaluation, not just short-term comparisons to the S&P 500.",
+      "source_url": "https://www.cnbc.com/2026/03/04/how-do-you-know-when-to-ring-the-register-on-a-stock-the-answer-is-more-art-than-science.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-04T15:51:34+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/106619535-1594915645457gettyimages-1255413415.jpeg?v=1771606647&w=1920&h=1080",
+      "korean_summary": "주식 매도 시점을 결정하는 것은 단기적인 S&P 500 지수(S&P 500) 비교를 넘어선 총체적인 평가가 필요하며, 이는 과학이라기보다는 예술에 가깝다는 분석이 나왔다. 주식 보유 또는 매도 결정은 복합적인 요소를 고려해야 한다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Trump sides with crypto firms in trillion-dollar battle with banks over stablecoin yield",
+      "body_preview": "The dispute centers on whether crypto firms like Coinbase can offer yields on stablecoins, which banks warn will siphon trillions of dollars from the industry.",
+      "source_url": "https://www.cnbc.com/2026/03/04/trump-crypto-banks-stablecoin-yield.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-04T14:26:48+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108271652-1772400260668-gettyimages-2263741006-AFP_99HA4C4.jpeg?v=1772400293&w=1920&h=1080",
+      "korean_summary": "트럼프 전 대통령이 스테이블코인(stablecoin) 수익(yield)을 둘러싼 은행들과 암호화폐 기업(crypto firms) 간의 조 달러 규모 분쟁에서 암호화폐 기업 편에 섰다. 은행들은 스테이블코인 수익 제공이 업계에서 막대한 자금을 유출시킬 것이라고 경고한다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "body_preview": "Wall Street is on track for a higher open as oil prices decline. And CrowdStrike makes a great case that AI will help, not hurt, its business.",
+      "source_url": "https://www.cnbc.com/2026/03/04/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-04T14:18:25+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108015662-1722610123589-gettyimages-2162426065-BIDEN_DROPS_OUT.jpeg?v=1772632633&w=1920&h=1080",
+      "korean_summary": "수요일 주식 시장의 주요 관전 포인트로 유가 하락에 따른 월스트리트(Wall Street)의 상승 출발과 크라우드스트라이크(CrowdStrike)의 인공지능(AI) 사업 긍정론이 제시되었다. AI가 사업에 도움이 될 것이라는 주장이 주목받고 있다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "U.S. crude oil retreats for the first session since Iran war began as Bessent pledges support",
+      "body_preview": "The oil market has calmed after President Donald Trump said the U.S. would insure tankers  and provide naval escorts if necessary.",
+      "source_url": "https://www.cnbc.com/2026/03/04/crude-oil-prices-today-iran-war.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-04T13:22:13+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108272985-17725650752026-03-03t183817z_2077216224_rc20xjath5u5_rtrmadp_0_iran-crisis-emirates.jpeg?v=1772565203&w=1920&h=1080",
+      "korean_summary": "이란 전쟁 발발 이후 처음으로 미국 원유(crude oil) 가격이 하락했다. 트럼프 전 대통령이 유조선 보험 및 필요시 해군 호위 제공을 약속하며 유가 시장이 진정되었고, 베센트 재무장관도 지지를 표명했다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
+    {
+      "title": "Treasury Secretary Bessent says U.S. will make 'series of announcements' to support oil trade in the Gulf",
+      "body_preview": "Bessent sought to calm concerns about a potential energy shock, arguing that oil markets are well supplied even as tensions escalate in the Middle East.",
+      "source_url": "https://www.cnbc.com/2026/03/04/treasury-secretary-bessent-says-us-will-make-series-of-announcements-to-support-oil-trade-in-the-gulf.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-04T12:44:17+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108258380-1769620938867-gettyimages-2258087731-TRUMP_ACCOUNTS.jpeg?v=1772627011&w=1920&h=1080",
+      "korean_summary": "베센트 재무장관(Treasury Secretary)은 걸프 지역의 원유 거래를 지원하기 위한 일련의 발표를 할 것이라고 밝혔다. 그는 중동 긴장 고조에도 불구하고 유가 시장 공급이 충분하다고 주장하며 잠재적 에너지 충격(energy shock)에 대한 우려를 진정시키려 했다.",
+      "fetched_at": "2026-03-05T14:42:01.945789+00:00"
+    },
     {
       "title": "YY Group Holdings adopts bitcoin as treasury reserve asset",
       "body_preview": "",
@@ -238,34 +685,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/21/58868869.jpeg",
       "korean_summary": "마이클 세일러(Michael Saylor)는 비트코인(Bitcoin) 가격이 그림자 금융(Shadow Banking)의 재담보화(rehypothecation)로 인해 억제되고 있다고 주장했다. 그는 비트코인의 상승 잠재력 저하가 신용 시장의 병목 현상 때문이라고 설명했다.",
-      "fetched_at": "2026-03-05T13:57:05.689939+00:00"
-    },
-    {
-      "title": "Iran war threatens $11.7 trillion global travel industry as passengers get caught in crossfire",
-      "body_preview": "Travelers who are far from falling missiles, drone attacks and other geopolitical flashpoints aren't immune to ripple effects.",
-      "source_url": "https://www.cnbc.com/2026/03/05/iran-war-travel-flights-cruise-hotels.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T12:49:07+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108273790-1772653707753-gettyimages-2263967601-AFP_99P866E.jpeg?v=1772653797&w=1920&h=1080",
-      "korean_summary": "이란 전쟁이 11.7조 달러 규모의 세계 여행 산업을 위협하며, 미사일 및 드론 공격과 같은 지정학적 불안정으로 인해 여행객들이 직접적인 피해를 입지 않더라도 간접적인 파급 효과에 노출될 수 있음을 경고했습니다.",
-      "fetched_at": "2026-03-05T13:57:05.689939+00:00"
-    },
-    {
-      "title": "Family offices double down on AI investments as startup fundraising breaks record in February",
-      "body_preview": "AI bubble fears haven't stopped investment firms of billionaires like Laurene Powell Jobs from betting on high-flying startups",
-      "source_url": "https://www.cnbc.com/2026/03/05/family-offices-ai-investments.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T12:30:01+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108273534-1772640178592-gettyimages-2174187682-clintonglobalinitiative2024annualmeeting_9_24_24-104509_mst4.jpeg?v=1772640206&w=1920&h=1080",
-      "korean_summary": "2월 스타트업 자금 조달이 사상 최고치를 기록한 가운데, 로렌 파월 잡스 등 억만장자들의 패밀리 오피스(Family Office)들이 인공지능(AI) 거품 우려에도 불구하고 AI 스타트업 투자에 박차를 가하고 있습니다.",
       "fetched_at": "2026-03-05T13:57:05.689939+00:00"
     },
     {
@@ -1291,20 +1710,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "코메르츠방크(Commerzbank) 분석에 따르면, 유가(oil-driven)에 의해 결정되는 교역 조건(terms of trade)이 미국 달러(US Dollar)를 강력하게 지지하며 유로/달러(EUR/USD) 환율에 큰 영향을 미치고 있다. 이는 에너지 가격이 통화 가치에 미치는 중요성을 강조한다.",
-      "fetched_at": "2026-03-05T10:31:37.121278+00:00"
-    },
-    {
-      "title": "Broadcom's custom AI chip business stays hot and gives the bulls a much-needed win",
-      "body_preview": "Shares of Broadcom rose about 5% in extended trading after its earnings report underscored the strength of its custom chip business.",
-      "source_url": "https://www.cnbc.com/2026/03/04/broadcoms-custom-ai-chip-business-stays-hot-and-gives-the-bulls-a-much-needed-win-.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T01:54:14+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108075458-1734045036435-gettyimages-2189656752-075a6750_at9upmaj.jpeg?v=1772666785&w=1920&h=1080",
-      "korean_summary": "브로드컴(Broadcom)의 맞춤형 인공지능(AI) 칩 사업 부문이 강력한 실적을 기록하며 주가 상승을 견인했다. 이는 기술 시장에서 AI 관련 수요가 지속적으로 높다는 점을 보여주며, 투자자들에게 긍정적인 신호를 보냈다.",
       "fetched_at": "2026-03-05T10:31:37.121278+00:00"
     },
     {
@@ -2667,34 +3072,6 @@
       "fetched_at": "2026-03-05T05:42:56.002716+00:00"
     },
     {
-      "title": "2 reasons why the market is rallying Wednesday and defying Iran war fears",
-      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source_url": "https://www.cnbc.com/2026/03/04/these-are-2-reasons-why-stocks-are-rallying-wednesday-defying-iran-war-concerns.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-04T19:51:33+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108272677-1772544588828-gettyimages-2263770910-TEXAS_OIL.jpeg?v=1772544617&w=1920&h=1080",
-      "korean_summary": "수요일 시장이 이란 전쟁 우려에도 불구하고 상승세를 보인 두 가지 이유가 제시되었다. 이는 투자자들이 지정학적 리스크를 상쇄할 만한 다른 긍정적 요인에 주목하고 있음을 시사하며, 시장의 회복 탄력성을 보여준다.",
-      "fetched_at": "2026-03-05T05:42:56.002716+00:00"
-    },
-    {
-      "title": "How Anthropic AI ban from Trump administration can escalate to existential business risk for fast-growing company",
-      "body_preview": "Anthropic AI is growing rapidly in usage among companies, but with the Trump administration declaring economic war on the company, existential risk is real.",
-      "source_url": "https://www.cnbc.com/2026/03/04/anthropic-ai-pentagon-defense-business-risk.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-04T19:48:07+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108273713-1772649603695-gettyimages-1554653659-SENATE_AI.jpeg?v=1772649674&w=1920&h=1080",
-      "korean_summary": "트럼프(Trump) 행정부의 앤트로픽 인공지능(Anthropic AI) 금지 조치가 빠르게 성장하는 이 회사에 실존적 사업 위험으로 확대될 수 있다는 분석이 나왔다. 이는 정치적 결정이 첨단 기술 기업의 미래에 미치는 중대한 영향을 보여준다.",
-      "fetched_at": "2026-03-05T05:42:56.002716+00:00"
-    },
-    {
       "title": "From Contraband to Cash Flow? Paraguay To Mine Bitcoin With 30,000 Seized Rigs",
       "body_preview": "Paraguay’s state‑owned electricity monopoly, Administración Nacional de Electricidad (ANDE), has signed a Memorandum of Understanding (MoU) with infrastructure firm Morphware to launch a government‑run Bitcoin mining program powered by thousands of confiscated mining machines and surplus hydroelectr",
       "source_url": "https://www.newsbtc.com/news/bitcoin/paraguay-to-mine-bitcoin-with-30000-seized-rigs/",
@@ -2710,396 +3087,6 @@
       "media_url": "https://resources.cryptocompare.com/news/21/58847274.jpeg",
       "korean_summary": "파라과이 국영 전력회사(ANDE)가 인프라 기업 Morphware와 양해각서(MoU)를 체결, 압수된 채굴 장비 3만 대를 활용해 비트코인(Bitcoin) 채굴 사업을 시작한다. 이는 정부 주도 암호화폐(cryptocurrency) 사업의 일환이다.",
       "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Korea Tones Down 20% Crypto Exchange Stake Ban as Regulators Seek Governance ‘Middle Ground’",
-      "body_preview": "South Korean authorities and the ruling party agree on a 20% ownership ceiling for “major shareholders” in crypto and virtual assets exchanges, with a three‑year implementation delay. From A Strict Proposal To Compromise After months of friction, the Financial Services Commission (FSC) and the Democ",
-      "source_url": "https://bitcoinist.com/korea-tones-down-crypto-ban-regulators-seek-middle/",
-      "source_name": "Bitcoinist",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T04:00:31+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ASIA"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/13/58847210.jpeg",
-      "korean_summary": "한국 당국과 여당은 암호화폐(cryptocurrency) 및 가상자산(virtual assets) 거래소의 '주요 주주' 지분 소유 한도를 20%로 합의했으며, 3년간의 유예 기간을 두기로 했다. 이는 규제 당국이 거버넌스(governance)의 중간 지점을 모색하는 움직임이다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Bitcoin: Shorts still dominate BTC – But buyers are fighting back",
-      "body_preview": "Bitcoin’s short-term structure stabilizes, but caution persists.",
-      "source_url": "https://ambcrypto.com/bitcoin-shorts-still-dominate-btc-but-buyers-are-fighting-back/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T04:00:18+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "비트코인(Bitcoin)의 단기 시장 구조가 안정화되는 조짐을 보이지만, 여전히 투자자들의 신중한 태도가 유지되고 있다. 매도 압력이 지배적이나 매수세도 반격하는 양상이다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "ADA Technical Analysis March 5, 2026: Market Structure",
-      "body_preview": "ADA's market structure is dominated by the LH/LL pattern in a downtrend, BOS above $0.2764 is a bullish reversal signal. A break of $0.2721 confirms bearish continuation, BTC correlation plays a cr...",
-      "source_url": "https://en.coinotag.com/analysis/ada-technical-analysis-march-5-2026-market-structure",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:58:39+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ADA",
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/58847208.jpeg",
-      "korean_summary": "에이다(ADA)는 하락 추세의 시장 구조를 보이며, $0.2764 이상 돌파 시 강세 전환 신호로 해석된다. $0.2721 아래로 하락하면 약세 지속이 확인되며, 비트코인(BTC)과의 상관관계가 중요한 역할을 한다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Ethereum Foundation’s Crucial Strategy to Prevent AI Power Centralization in the Coming Digital Era",
-      "body_preview": "BitcoinWorld Ethereum Foundation’s Crucial Strategy to Prevent AI Power Centralization in the Coming Digital Era Lisbon, Portugal – November 2026: The Ethereum Foundation has unveiled a comprehensive strategy to address one of the most pressing technological challenges of our time: preventing the ce",
-      "source_url": "https://bitcoinworld.co.in/ethereum-foundation-ai-centralization-prevention/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:55:11+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "이더리움 재단(Ethereum Foundation)은 다가오는 디지털 시대에 인공지능(AI) 권력의 중앙 집중화를 방지하기 위한 포괄적인 전략을 공개했다. 이는 분산화된 미래를 위한 중요한 움직임이다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Yuan Mid-Point Soars: PBOC Sets Strongest Fix in 34 Months, Signaling Strategic Shift",
-      "body_preview": "BitcoinWorld Yuan Mid-Point Soars: PBOC Sets Strongest Fix in 34 Months, Signaling Strategic Shift In a decisive move that reverberated through global financial markets, the People’s Bank of China (PBOC) set the Yuan’s daily mid-point reference rate at its strongest level in nearly three years on No",
-      "source_url": "https://bitcoinworld.co.in/pboc-yuan-midpoint-strongest-fix/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:40:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "ASIA",
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "중국 인민은행(PBOC)이 위안화(Yuan) 기준 환율을 34개월 만에 최고치로 고시하며, 전략적 통화 정책 변화를 시사했다. 이는 글로벌 금융 시장에 큰 영향을 미칠 것으로 예상된다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Coinbase, Microsoft and Europol take down phishing service ‘Tycoon 2FA’",
-      "body_preview": "Tycoon 2FA accounted for 62% of phishing attempts Microsoft blocked by mid last year, including over 30 million emails in a single month.",
-      "source_url": "https://cointelegraph.com/news/coinbase-microsoft-and-europol-take-down-phishing-service-tycoon-2fa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:40:03+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "코인베이스(Coinbase), 마이크로소프트(Microsoft), 유로폴(Europol)이 피싱 서비스 'Tycoon 2FA'를 성공적으로 폐쇄했다. 이 서비스는 작년 중반까지 마이크로소프트가 차단한 피싱 시도의 62%를 차지했다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Big Tech Joins White House Energy Pledge as Iran Tensions Threaten Higher Costs",
-      "body_preview": "Amazon, Google, Meta, Microsoft, OpenAI, Oracle, and xAI agreed to fund electricity supply and grid upgrades as AI energy demands spike.",
-      "source_url": "https://decrypt.co/360059/big-tech-white-house-energy-pledge-iran-higher-costs",
-      "source_name": "Decrypt",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:37:46+00:00",
-      "category": "stocks",
-      "currencies": [
-        "OTHER"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/44/58846453.jpeg",
-      "korean_summary": "아마존, 구글, 메타, 마이크로소프트 등 주요 빅테크(Big Tech) 기업들이 인공지능(AI) 에너지 수요 급증에 대응하여 전력 공급 및 전력망(grid) 개선 자금 지원에 동의했다. 이는 이란 긴장 고조로 인한 비용 상승 위협 속에서 이루어졌다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "DOGE Technical Analysis March 5, 2026: Will It Rise or Fall?",
-      "body_preview": "DOGE testing critical resistance at $0.10; even though MACD shows a bullish signal, the downtrend continues. Breakout above $0.1026 key for upside, loss below $0.0983 key for downside; BTC correlat...",
-      "source_url": "https://en.coinotag.com/analysis/doge-technical-analysis-march-5-2026-will-it-rise-or-fall",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:37:40+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "DOGE"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/58846572.jpeg",
-      "korean_summary": "도지코인(DOGE)이 $0.10의 주요 저항선을 테스트 중이며, MACD는 강세 신호를 보이나 하락 추세는 지속되고 있다. $0.1026 돌파 시 상승, $0.0983 하락 시 추가 하락이 예상되며, 비트코인(BTC) 상관관계가 중요하다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "China’s 2026 Growth Target: A Strategic 4.5%-5% Pivot Signals Cautious Optimism for Global Economy",
-      "body_preview": "BitcoinWorld China’s 2026 Growth Target: A Strategic 4.5%-5% Pivot Signals Cautious Optimism for Global Economy BEIJING, March 2025 – China has formally announced its economic growth target for 2026, setting a range of 4.5% to 5%. This pivotal decision follows the nation’s achievement of approximate",
-      "source_url": "https://bitcoinworld.co.in/china-2026-economic-growth-target/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:35:10+00:00",
-      "category": "macro",
-      "currencies": [
-        "ASIA",
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "중국이 2026년 경제 성장 목표를 4.5%~5%로 공식 발표하며, 전략적 전환을 통해 글로벌 경제에 대한 신중한 낙관론을 시사했다. 이는 안정적인 성장을 추구하는 중국 정부의 의지를 반영한다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Binance Debuts 7 AI Agent Skills to Turn Crypto Data Chaos Into Trade-Ready Intelligence",
-      "body_preview": "Binance has rolled out seven AI Agent Skills, arming automated trading agents with real-time market data, execution tools, and security analytics through a unified interface that could reshape how investors access and act on crypto intelligence. Binance Launches Seven AI Agent Skills With Unified Tr",
-      "source_url": "https://news.bitcoin.com/binance-debuts-7-ai-agent-skills-to-turn-crypto-data-chaos-into-trade-ready-intelligence/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:30:38+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BNB"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/14/58846134.jpeg",
-      "korean_summary": "바이낸스(Binance)가 7가지 인공지능(AI) 에이전트 스킬을 출시하여, 자동화된 트레이딩 에이전트에게 실시간 시장 데이터, 실행 도구, 보안 분석 기능을 통합 인터페이스로 제공한다. 이는 투자 방식에 변화를 가져올 수 있다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Crypto Futures Liquidations: A Staggering $497 Million in Forced Closures Rocks Digital Asset Markets",
-      "body_preview": "BitcoinWorld Crypto Futures Liquidations: A Staggering $497 Million in Forced Closures Rocks Digital Asset Markets Global cryptocurrency markets witnessed a significant deleveraging event on March 21, 2025, as over $497 million in futures positions faced forced liquidation within a 24-hour window. T",
-      "source_url": "https://bitcoinworld.co.in/crypto-futures-liquidations-analysis-19/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:30:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "글로벌 암호화폐(cryptocurrency) 시장에서 3월 21일, 4억 9,700만 달러에 달하는 암호화폐 선물(futures) 강제 청산이 발생하며 대규모 디레버리징(deleveraging) 사태를 겪었다. 이는 디지털 자산 시장에 큰 충격을 주었다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Bybit OPN Listing: Strategic Expansion Brings New Trading Opportunities to Global Crypto Markets",
-      "body_preview": "BitcoinWorld Bybit OPN Listing: Strategic Expansion Brings New Trading Opportunities to Global Crypto Markets Global cryptocurrency exchange Bybit has strategically announced its upcoming OPN listing for spot trading, scheduled to commence at precisely 1:00 p.m. UTC on March 5, 2025, marking another",
-      "source_url": "https://bitcoinworld.co.in/bybit-opn-listing-spot-trading/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:25:11+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "글로벌 암호화폐(cryptocurrency) 거래소 바이비트(Bybit)가 OPN 상장을 전략적으로 발표하며, 전 세계 암호화폐 시장에 새로운 거래 기회를 제공할 예정이다. 이는 바이비트의 시장 확장 노력의 일환이다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Big Tech signs Trump pledge to cover their own AI energy costs",
-      "body_preview": "US President Donald Trump says AI data centers “need some PR help,” promising that tech giants will pay for their own power to run the energy-intensive projects.",
-      "source_url": "https://cointelegraph.com/news/big-tech-signs-trump-pledge-to-cover-their-own-ai-energy-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:20:24+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "도널드 트럼프 미국 대통령은 인공지능(AI) 데이터 센터가 에너지 집약적 프로젝트 운영에 필요한 전력 비용을 빅테크(Big Tech) 기업들이 자체적으로 부담할 것이라고 밝혔다. 이는 AI 관련 에너지 문제에 대한 기업의 책임을 강조하는 발언이다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Bitcoin Rally Reveals Stunning Spot-Driven Strength Despite Mounting Short Pressure",
-      "body_preview": "BitcoinWorld Bitcoin Rally Reveals Stunning Spot-Driven Strength Despite Mounting Short Pressure In a surprising turn of market dynamics, Bitcoin is demonstrating remarkable resilience through what analysts identify as a fundamentally healthy spot-driven rally, even as aggressive short positions cre",
-      "source_url": "https://bitcoinworld.co.in/bitcoin-spot-rally-short-pressure/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T03:20:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "비트코인(Bitcoin)이 증가하는 매도 압력(short pressure)에도 불구하고, 현물(spot) 주도 강세로 분석되는 놀라운 회복력을 보이며 랠리를 이어가고 있다. 이는 시장의 견고함을 시사한다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Iran war: Answering readers’ questions - Reuters",
-      "body_preview": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNMW15UjBtTmY2ZGE3R2lLUzZFeXNjYlh4YUNobWc1S1hGY0VSbGFwRWtqUU9YTW1MelFIcV9Dbk1rYUgtT3JOb1E1YW1vRzBYQTNRd1YxZW5pSG9tT0RsT1hodld5eGNkcFZSQVFUb0QxM18tQUhScDdFTXNFUm9xdUlHcEdUcVE?oc=5\" target=\"_blank\">Iran war: Answering readers’ questions</a>&n",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMW15UjBtTmY2ZGE3R2lLUzZFeXNjYlh4YUNobWc1S1hGY0VSbGFwRWtqUU9YTW1MelFIcV9Dbk1rYUgtT3JOb1E1YW1vRzBYQTNRd1YxZW5pSG9tT0RsT1hodld5eGNkcFZSQVFUb0QxM18tQUhScDdFTXNFUm9xdUlHcEdUcVE?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-04T19:34:24+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": null,
-      "korean_summary": "이란 분쟁과 관련하여 독자들이 제기한 질문에 대한 답변이 보도되었다. 이는 중동 사태에 대한 대중의 궁금증과 주요 쟁점을 해소하려는 시도로 보인다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "Trump weighing US role in Iran after conflict, White House says - Reuters",
-      "body_preview": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVBUVVBSX1BaTTU4ajV4bFdtR2s2ZGlMYVJEbXFudjJ1bEdKbGhScjRGQVhTVmVNWnFRWTNNcFczSTBCcnJNSXlwTmJXak1JUFJDdTBlVDlVbUZmeDlaQVBHeXJsZlB6cktyNFJod1BYQjNSd2VyX25tWmdaSC1lM3FSZWk5WXBicWxHU1M0UHVJa1ZHMFhHVG1VaGE0aEdseTZaN01XWEFZRlhORE83SGNVQQ?oc=5\" t",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMVBUVVBSX1BaTTU4ajV4bFdtR2s2ZGlMYVJEbXFudjJ1bEdKbGhScjRGQVhTVmVNWnFRWTNNcFczSTBCcnJNSXlwTmJXak1JUFJDdTBlVDlVbUZmeDlaQVBHeXJsZlB6cktyNFJod1BYQjNSd2VyX25tWmdaSC1lM3FSZWk5WXBicWxHU1M0UHVJa1ZHMFhHVG1VaGE0aEdseTZaN01XWEFZRlhORE83SGNVQQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-04T19:25:47+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": null,
-      "korean_summary": "백악관(White House)에 따르면 트럼프 전 대통령이 이란 분쟁 이후 미국의 역할에 대해 고심하고 있다고 전해졌다. 이는 향후 중동 정책 방향에 대한 관심이 집중되고 있음을 시사한다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "The quietly winning stock Jim Cramer says is on the verge of a big upward move",
-      "body_preview": "Strong quarterly results from Ross Stores reinforce that off-price retail is on fire.",
-      "source_url": "https://www.cnbc.com/2026/03/04/the-quietly-winning-stock-cramer-says-is-on-verge-of-a-big-upward-move.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-04T19:06:56+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108223291-1762551058825-gettyimages-2245561123-anotherday142727561_kkp8tm4h.jpeg?v=1762551197&w=1920&h=1080",
-      "korean_summary": "짐 크레이머(Jim Cramer)가 언급한 조용히 상승세를 타는 주식으로, 로스 스토어스(Ross Stores)의 견조한 분기 실적이 오프프라이스(Off-price) 소매업의 강세를 뒷받침했다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "White House says Spain has agreed to cooperate but Madrid denies - Reuters",
-      "body_preview": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUNBblZ0Qk9GNXg2cTIzN3lBN2VwNFV3aDBNOGtzcjI2TWticzZoaEVRUGFTZ2tDUmRraWV2X3NDNldDSkNwMTd3X0Zwb0JIaVQxQ0xsSC1pN2dYSVZ1NTRiVWtJOE8zclBZZzhLMHFDbUY0MU1BOFB2T2JCakszRUtER0d3UDQxa2pvdzFObFFubDBWUHhkTlhXQnJiTTBfcUZJTHhtcw?oc=5\" target=\"_blank\">W",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUNBblZ0Qk9GNXg2cTIzN3lBN2VwNFV3aDBNOGtzcjI2TWticzZoaEVRUGFTZ2tDUmRraWV2X3NDNldDSkNwMTd3X0Zwb0JIaVQxQ0xsSC1pN2dYSVZ1NTRiVWtJOE8zclBZZzhLMHFDbUY0MU1BOFB2T2JCakszRUtER0d3UDQxa2pvdzFObFFubDBWUHhkTlhXQnJiTTBfcUZJTHhtcw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-04T18:48:02+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": null,
-      "korean_summary": "백악관(White House)은 스페인이 협력에 동의했다고 밝혔으나, 스페인 정부는 이를 부인했다. 이는 양국 간의 외교적 소통에 혼선이 있음을 보여주는 사례로 해석된다.",
-      "fetched_at": "2026-03-05T04:06:24.056809+00:00"
-    },
-    {
-      "title": "American Bitcoin Soars: Trump-Backed Miner Now Holds Over 6,500 BTC in Strategic Power Move",
-      "body_preview": "BitcoinWorld American Bitcoin Soars: Trump-Backed Miner Now Holds Over 6,500 BTC in Strategic Power Move In a significant development for the cryptocurrency sector, American Bitcoin (ABTC) has dramatically expanded its treasury, now holding over 6,500 Bitcoin (BTC). This strategic accumulation, anno",
-      "source_url": "https://bitcoinworld.co.in/american-bitcoin-trump-holdings-2025/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T01:15:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "트럼프가 지원하는 채굴 기업 아메리칸 비트코인(American Bitcoin, ABTC)이 6,500 BTC 이상을 보유하며 암호화폐(cryptocurrency) 부문에서 전략적 움직임을 보였다. 이는 시장에 중요한 영향을 미칠 것으로 예상된다.",
-      "fetched_at": "2026-03-05T01:21:17.973552+00:00"
-    },
-    {
-      "title": "EUR/USD Plummets Below 1.1650 as Middle East Tensions Fuel Alarming US Dollar Surge",
-      "body_preview": "BitcoinWorld EUR/USD Plummets Below 1.1650 as Middle East Tensions Fuel Alarming US Dollar Surge LONDON, October 2025 – The EUR/USD currency pair has edged lower below the critical 1.1650 level, marking a significant shift in forex market dynamics as escalating Middle East tensions fuel substantial ",
-      "source_url": "https://bitcoinworld.co.in/eur-usd-drops-middle-east-tensions/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T01:10:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "중동 지역의 지정학적 긴장이 고조되면서 안전자산 선호 심리가 강화되어 미국 달러(USD) 가치가 급등했다. 이에 따라 유로/달러(EUR/USD) 환율이 1.1650 아래로 급락하며 시장에 불안감을 더하고 있다.",
-      "fetched_at": "2026-03-05T01:21:17.973552+00:00"
-    },
-    {
-      "title": "Crypto Payments Revolution: Danal’s Strategic Partnership with Binance Pay and Circle Transforms South Korean Tourism Experience",
-      "body_preview": "BitcoinWorld Crypto Payments Revolution: Danal’s Strategic Partnership with Binance Pay and Circle Transforms South Korean Tourism Experience SEOUL, South Korea – March 2025 marks a pivotal moment in financial technology as Danal, the prominent operator behind Paycoin (PCI), announces a groundbreaki",
-      "source_url": "https://bitcoinworld.co.in/danal-binance-pay-circle-south-korea-crypto-payments/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T01:05:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "ASIA",
-        "BNB",
-        "USDC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "다날(Danal)이 바이낸스 페이(Binance Pay) 및 서클(Circle)과의 전략적 제휴를 통해 한국 관광 산업에 암호화폐(cryptocurrency) 결제 혁명을 가져왔다. 이는 관광객들의 결제 경험을 크게 변화시킬 것으로 기대된다.",
-      "fetched_at": "2026-03-05T01:21:17.973552+00:00"
-    },
-    {
-      "title": "How Policy Shifts, Geopolitical Tensions Are Reshaping the Bitcoin Trade",
-      "body_preview": "Fresh ETF inflows, policy momentum and a deeper integration with the financial system are beginning to shift sentiment, analysts say.",
-      "source_url": "https://decrypt.co/360056/policy-shifts-geopolitical-tensions-reshaping-bitcoin-trade",
-      "source_name": "Decrypt",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T01:02:06+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/44/58840592.jpeg",
-      "korean_summary": "최근 정책 변화와 지정학적 긴장이 비트코인(Bitcoin) 거래 양상을 재편하고 있다. 분석가들은 신규 상장지수펀드(ETF) 자금 유입과 금융 시스템 통합이 시장 심리를 변화시키고 있다고 평가했다.",
-      "fetched_at": "2026-03-05T01:21:17.973552+00:00"
-    },
-    {
-      "title": "Hana Card’s Strategic Leap: Pioneering Payment Marketing with Circle and Crypto.com to Revolutionize South Korea’s Digital Economy",
-      "body_preview": "BitcoinWorld Hana Card’s Strategic Leap: Pioneering Payment Marketing with Circle and Crypto.com to Revolutionize South Korea’s Digital Economy In a decisive move for South Korea’s financial technology sector, Hana Card has announced a comprehensive domestic payment marketing initiative with global ",
-      "source_url": "https://bitcoinworld.co.in/hana-card-payment-marketing-circle-crypto/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T01:00:12+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ASIA"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "하나카드(Hana Card)가 서클(Circle) 및 크립토닷컴(Crypto.com)과 협력하여 한국 디지털 경제 혁신을 위한 선구적인 결제 마케팅 전략을 발표했다. 이는 국내 핀테크(FinTech) 분야에 중요한 전환점이 될 전망이다.",
-      "fetched_at": "2026-03-05T01:21:17.973552+00:00"
-    },
-    {
-      "title": "AERO rallies 12% as capital inflows surge: Is $0.40 within reach?",
-      "body_preview": "AERO rallies 12% amid capital inflows from smart money, institutions and retail traders over the past month.",
-      "source_url": "https://ambcrypto.com/aero-rallies-12-as-capital-inflows-surge-is-0-40-within-reach/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T01:00:04+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "지난 한 달간 스마트 머니, 기관 및 개인 투자자들의 자본 유입이 급증하면서 AERO 코인 가격이 12% 상승했다. 이는 AERO가 0.40달러 목표에 도달할 수 있을지에 대한 기대를 높이고 있다.",
-      "fetched_at": "2026-03-05T01:21:17.973552+00:00"
-    },
-    {
-      "title": "Altcoin Season Index Plummets to 31: A Critical Shift in Crypto Market Sentiment",
-      "body_preview": "BitcoinWorld Altcoin Season Index Plummets to 31: A Critical Shift in Crypto Market Sentiment GLOBAL – The cryptocurrency market witnessed a notable shift on March 25, 2025, as the widely monitored Altcoin Season Index from CoinMarketCap fell five points to a reading of 31. This significant drop sig",
-      "source_url": "https://bitcoinworld.co.in/altcoin-season-index-drops-31/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-05T00:55:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "암호화폐(cryptocurrency) 시장에서 알트코인 시즌 지수(Altcoin Season Index)가 31로 급락하며 시장 심리에 중대한 변화가 감지되었다. 이는 비트코인(Bitcoin) 대비 알트코인의 상대적 약세를 시사한다.",
-      "fetched_at": "2026-03-05T01:21:17.973552+00:00"
     }
   ]
 }
