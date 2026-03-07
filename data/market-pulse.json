@@ -1,8 +1,224 @@
 {
-  "last_updated": "2026-03-07T17:15:03.314657+00:00",
-  "last_updated_kst": "2026-03-08 02:15 KST",
+  "last_updated": "2026-03-07T18:25:33.513150+00:00",
+  "last_updated_kst": "2026-03-08 03:25 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Bitcoin’s Market Cap Growth Falls Behind Realized Value, Signaling Rising Sell Pressure",
+      "body_preview": "Market cap growth now trails realized value, hinting at a phase of heightened selling activity. Charts using annual averages show sustained realized value growth, even as market momentum slows. Continue Reading: Bitcoin’s Market Cap Growth Falls Behind Realized Value, Signaling Rising Sell Pressure ",
+      "source_url": "https://en.coin-turk.com/bitcoins-market-cap-growth-falls-behind-realized-value-signaling-rising-sell-pressure/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T18:10:56+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/79/58970645.jpeg",
+      "korean_summary": "비트코인(Bitcoin)의 시가총액(market cap) 성장률이 실현 가치(realized value)를 밑돌며 매도 압력 증가를 시사합니다. 연간 평균 차트는 시장 모멘텀 둔화에도 불구하고 실현 가치 성장이 지속되고 있음을 보여줍니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "XRP Loses Aggregate Holder Cost Basis. Here’s Why This Is Risky",
+      "body_preview": "XRP holders are entering a tense phase in the market. On-chain metrics reveal that investors are now selling at a loss, a signal that could trigger panic and accelerate price declines. Behavioral data, rather than just charts, is highlighting a period of stress that traders cannot ignore. Cointelegr",
+      "source_url": "https://timestabloid.com/xrp-loses-aggregate-holder-cost-basis-heres-why-this-is-risky/",
+      "source_name": "TimesTabloid",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T18:05:34+00:00",
+      "category": "crypto",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
+      "korean_summary": "XRP 보유자들이 손실을 보고 매도하는 상황에 직면했습니다. 온체인(on-chain) 지표에 따르면 투자자들이 손실 매도를 시작했으며, 이는 시장에 공황을 유발하고 XRP 가격 하락을 가속화할 위험이 있습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Prediction market Kalshi sued over Khamenei trade carveout",
+      "body_preview": "The plaintiffs characterized the death carveout in a prediction market for the former Iranian Supreme Leader's ouster as \"deceptive.\"",
+      "source_url": "https://cointelegraph.com/news/kalshi-sued-khamenei-trade-carveout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T18:04:28+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "예측 시장(prediction market) 칼시(Kalshi)가 이란 전 최고지도자의 퇴출 관련 시장에서 '사망 시 예외 조항(death carveout)'을 설정한 것에 대해 기만적이라는 이유로 소송을 당했습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Inside the Quest at Colossus to Replace Visa and Mastercard With KYC-Less Crypto Cards",
+      "body_preview": "With a “box of goodies” and a team of four, the firm is trying to replace payment incumbents with an Ethereum layer-2",
+      "source_url": "https://decrypt.co/360147/inside-quest-colossus-replace-visa-mastercard-kyc-less-crypto-cards",
+      "source_name": "Decrypt",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T18:01:02+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/44/58970219.jpeg",
+      "korean_summary": "콜로서스(Colossus)는 이더리움 레이어-2(Ethereum layer-2) 기술을 활용하여 비자(Visa) 및 마스터카드(Mastercard)와 같은 기존 결제 시스템을 대체하고, KYC(고객 신원 확인) 없는 암호화폐(crypto) 카드를 제공하려 합니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Bitcoin Price Analysis: BTC Must Break This Key Level to Confirm a Real Rally",
+      "body_preview": "Bitcoin remains trapped in a broader corrective structure, but the price action is starting to stabilize after defending the $60,000 demand region. The daily chart still leans cautiously as BTC trades below the major moving averages and beneath the descending resistance trendline. That leaves the cr",
+      "source_url": "https://cryptopotato.com/bitcoin-price-analysis-btc-must-break-this-key-level-to-confirm-a-real-rally/",
+      "source_name": "Crypto Potato",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T18:00:58+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/27/58970199.jpeg",
+      "korean_summary": "비트코인(Bitcoin)은 여전히 조정 국면에 있지만, 6만 달러 지지선 방어 후 가격이 안정화되기 시작했습니다. 일일 차트는 BTC가 특정 핵심 저항선을 돌파해야만 진정한 랠리를 확인할 수 있다고 조심스럽게 분석합니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Should PEPE traders brace for volatility as short squeeze potential builds?",
+      "body_preview": "PEPE traders and investors should expect the volatility to continue.",
+      "source_url": "https://ambcrypto.com/should-pepe-traders-brace-for-volatility-as-short-squeeze-potential-builds/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T18:00:04+00:00",
+      "category": "crypto",
+      "currencies": [
+        "PEPE"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "PEPE 트레이더들은 숏 스퀴즈(short squeeze) 가능성이 커지면서 변동성이 지속될 것에 대비해야 합니다. 시장 분석가들은 PEPE 가격의 높은 변동성이 당분간 이어질 것으로 예상하고 있습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Latin America’s crypto user growth outpaced U.S. by 3x in 2025, report shows",
+      "body_preview": "Brazil and Argentina are leading the growth, with Brazil dominating by transaction size and Argentina seeing increasing adoption driven by cross-border payments and stablecoin use.",
+      "source_url": "https://www.coindesk.com/markets/2026/03/07/latin-america-s-crypto-user-growth-outpaced-u-s-by-3x-in-2025-report-shows",
+      "source_name": "CoinDesk",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T18:00:00+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/5/58970194.jpeg",
+      "korean_summary": "보고서에 따르면 2025년 라틴 아메리카의 암호화폐(crypto) 사용자 증가율이 미국을 3배 앞질렀습니다. 브라질과 아르헨티나가 성장을 주도하며, 브라질은 거래 규모, 아르헨티나는 국경 간 결제 및 스테이블코인(stablecoin) 사용으로 채택이 증가했습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "OpenAI’s Critical Delay: ChatGPT’s ‘Adult Mode’ Pushed Back Again as Company Focuses on Core AI",
+      "body_preview": "BitcoinWorld OpenAI’s Critical Delay: ChatGPT’s ‘Adult Mode’ Pushed Back Again as Company Focuses on Core AI In a significant strategic pivot, OpenAI has announced another delay for its controversial ‘adult mode’ feature for ChatGPT, marking the second postponement since CEO Sam Altman’s initial ann",
+      "source_url": "https://bitcoinworld.co.in/openai-chatgpt-adult-mode-delay/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T17:40:12+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "OpenAI가 논란이 많았던 챗GPT(ChatGPT)의 '성인 모드(Adult Mode)' 출시를 다시 연기했습니다. 회사는 핵심 인공지능(AI) 개발에 집중하기 위한 전략적 전환의 일환으로 이 같은 결정을 내렸습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "$100 XRP Price Dream? — Analysts Reveal Setup for ‘Face Melting’ Rally On The Horizon",
+      "body_preview": "Ripple's XRP has entered what analyst EGRAG Crypto calls its “face melting phase,” a period he argues will test conviction before any meaningful upside expansion.",
+      "source_url": "https://zycrypto.com/100-xrp-price-dream-analysts-reveal-setup-for-face-melting-rally-on-the-horizon/",
+      "source_name": "ZyCrypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T17:33:04+00:00",
+      "category": "crypto",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
+      "korean_summary": "애널리스트 EGRAG Crypto는 리플(Ripple)의 XRP가 '얼굴 녹는 단계(face melting phase)'에 진입했다고 분석했습니다. 이는 의미 있는 상승 확장에 앞서 투자자들의 확신을 시험하는 기간이 될 것이라고 전망했습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Trump Says ‘No Deal’ Without Iran Surrender as Oil Prices Jump and War Expands",
+      "body_preview": "President Donald Trump demanded Iran’s “unconditional surrender” as U.S. and Israeli forces intensified their military campaign, framing the escalating conflict as both a geopolitical turning point and a costly economic shock reverberating through global energy and financial markets. Iran War Enters",
+      "source_url": "https://news.bitcoin.com/trump-says-no-deal-without-iran-surrender-as-oil-prices-jump-and-war-expands/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T17:30:54+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/14/58969093.jpeg",
+      "korean_summary": "도널드 트럼프 전 대통령은 미국과 이스라엘 군사 작전이 강화되는 가운데 이란의 '무조건 항복(unconditional surrender)'을 요구하며, 유가 급등 및 전쟁 확산 속에서 이 갈등을 지정학적 전환점으로 규정했습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Bitcoin ETFs Bleed $349M In A Day As Whales Dump, Small Buyers Step In: Analysts",
+      "body_preview": "Spot Bitcoin ETFs listed in the US recorded their steepest single-day outflow in nearly three weeks on Friday, with $349 million pulled from all 11 products combined, according to data from Farside. Related Reading: Stablecoin Market Breaks Records — USDC Controls 70% Of $1.8 Trillion Volume The wit",
+      "source_url": "https://www.newsbtc.com/bitcoin-news/bitcoin-etfs-bleed-349m-in-a-day-as-whales-dump-small-buyers-step-in-analysts/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T17:30:49+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/58969096.jpeg",
+      "korean_summary": "미국 현물 비트코인 ETF(Bitcoin ETF)에서 하루 만에 3억 4,900만 달러가 유출되며 약 3주 만에 최대치를 기록했습니다. 고래(whales) 투자자들이 매도하는 동안 소액 투자자들이 매수에 나선 것으로 분석됩니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Bitcoin purist Jack Dorsey says that his firm is reluctantly giving in to stablecoin craze",
+      "body_preview": "The shift comes as stablecoins surge in popularity and competitors like Stripe and PayPal add stablecoin options, increasing market pressure.",
+      "source_url": "https://www.coindesk.com/business/2026/03/07/bitcoin-purist-jack-dorsey-s-firm-is-reluctantly-giving-in-to-stablecoin-craze",
+      "source_name": "CoinDesk",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T17:24:25+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/5/58968894.jpeg",
+      "korean_summary": "비트코인(Bitcoin) 순수주의자 잭 도시(Jack Dorsey)는 스테이블코인(stablecoin)의 인기가 급증하고 경쟁사들이 관련 옵션을 추가함에 따라, 자신의 회사가 마지못해 스테이블코인 열풍에 동참하고 있다고 밝혔습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Binance Wins Major Legal Victory as US Court Throws Out Anti-Terrorism Lawsuit",
+      "body_preview": "In a press release shared on March 7, Binance announced that a US Federal Court in the Southern District of New York had dismissed all claims brought against it under the Anti-Terrorism Act (ATA). Eleanor Hughes, the company’s General Counsel and spokesperson on the matter, indicated that this dismi",
+      "source_url": "https://cryptopotato.com/binance-wins-major-legal-victory-as-us-court-throws-out-anti-terrorism-lawsuit/",
+      "source_name": "Crypto Potato",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T17:17:58+00:00",
+      "category": "macro",
+      "currencies": [
+        "BNB"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/27/58968745.jpeg",
+      "korean_summary": "바이낸스(Binance)가 미국 뉴욕 남부 연방 법원에서 반테러법(Anti-Terrorism Act, ATA)에 의거한 모든 소송 청구를 기각하며 주요 법적 승리를 거두었습니다. 이는 바이낸스에 대한 법적 압박을 완화할 것으로 보입니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "ICP price prediction 2026-2032: Is ICP a good investment?",
+      "body_preview": "Key takeaways: ICP is expected to attain a maximum price of $5.89 in 2026. Internet Computer protocol price forecast for 2029 expects the token to reach a peak price of $12.20. By 2032, the price of Internet Computer might reach a maximum of $19.21. Internet Computer (ICP) is a groundbreaking blockc",
+      "source_url": "https://www.cryptopolitan.com/icp-price-prediction/",
+      "source_name": "Cryptopolitan",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T17:11:44+00:00",
+      "category": "macro",
+      "currencies": [
+        "ICP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/43/3110759.jpeg",
+      "korean_summary": "ICP 가격 예측에 따르면, 2026년 최대 5.89달러, 2029년 12.20달러, 그리고 2032년에는 더 높은 가격에 도달할 것으로 예상됩니다. 이는 장기적인 ICP 투자 가치에 대한 긍정적인 전망을 제시합니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
     {
       "title": "PEPE Price at $0.00000326: Will Bears Push It Below Key Support?",
       "body_preview": "PEPE price is showing strong bearish pressure as selling momentum continues to dominate the market. The token recently dropped from around $0.00000336 and moved lower after failing to maintain buying strength. The decline suggests weakening support and cautious sentiment among traders. PEPE is curre",
@@ -16,8 +232,218 @@
         "PEPE"
       ],
       "media_url": "https://resources.cryptocompare.com/news/93/default.png",
-      "korean_summary": "PEPE 가격이 강한 매도세에 직면하며 $0.00000336에서 하락, 매수세 유지에 실패했다. 시장은 하락 압력이 지배적이며, 주요 지지선 아래로 밀릴지 주목된다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
+      "korean_summary": "PEPE 가격이 강한 매도 압력에 직면하며 하락세를 보이고 있습니다. 최근 0.00000336달러에서 하락한 PEPE는 매수세를 유지하지 못해 추가 하락했으며, 핵심 지지선 아래로 밀릴지 주목됩니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Kuwait cuts oil production as Strait of Hormuz closure disrupts global energy market",
+      "body_preview": "Brent oil prices could spike above $100 per barrel if the Gulf Arab countries run out of storage  space and shut down production, according to JPMorgan.",
+      "source_url": "https://www.cnbc.com/2026/03/07/kuwait-oil-cut-iran-war-strait-hormuz.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T17:28:01+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108272681-17725447292026-03-02t161444z_845839422_rc2fwja1f1uu_rtrmadp_0_iran-crisis-usa-economy.jpeg?v=1772544747&w=1920&h=1080",
+      "korean_summary": "쿠웨이트의 원유 생산량 감축과 호르무즈 해협 봉쇄 우려 속, JP모건은 걸프 아랍 국가들이 저장 공간 부족으로 생산을 중단할 경우 브렌트유(Brent oil) 가격이 배럴당 100달러를 넘어설 수 있다고 전망했습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Here are 3 themes that drove another challenging week on Wall Street",
+      "body_preview": "Surprising economic data, another batch of earnings, and an intensifying conflict in the Middle East all combined to move the market, mostly downward.",
+      "source_url": "https://www.cnbc.com/2026/03/07/here-are-3-themes-that-drove-another-challenging-week-on-wall-street.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T15:29:52+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108274882-17728175032026-03-06t171619z_706146746_rc21zja0hmdp_rtrmadp_0_usa-stocks.jpeg?v=1772817626&w=1920&h=1080",
+      "korean_summary": "월스트리트(Wall Street)는 예상 밖의 경제 지표, 기업 실적 발표, 중동 분쟁 심화 등 세 가지 요인으로 인해 하락세를 보이며 어려운 한 주를 보냈습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "2 confidence-building tools for parents to set kids up for 'a lifetime of success,' from a mental performance coach",
+      "body_preview": "Parents who prioritize boosting their kids' confidence are \"setting them up for a lifetime of success,\" says mental performance coach Cindra Kamphoff.",
+      "source_url": "https://www.cnbc.com/2026/03/07/confidence-building-tools-parents-help-kids-succeed.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T14:15:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108275070-1772834938957-gettyimages-994522096-wpef00357.jpeg?v=1772835017&w=1920&h=1080",
+      "korean_summary": "정신력 코치(mental performance coach) 신드라 캄포프는 자녀의 자신감을 키워주는 것을 우선시하는 부모가 아이들을 '평생의 성공'으로 이끌 수 있다고 강조했습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Kuwait cuts oil production as precaution amid Iran tensions, KPC says - Reuters",
+      "body_preview": "Kuwait cuts oil production as precaution amid Iran tensions, KPC says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZURTLWd2YkJiSm9fb1BJODAzd2xDX0gwZEhpS05IZzFWckJfaGpwN0hqdnlyMzlaZW1sdUpiQjBpS0FlRHh1TF8zcllMN1M3VmZILXNnSEkxdl96ZkZWa2VnV3hMa3poa0NRaVhnNkVnZTZXcjY4NnFpOF9wTEtGd191U3dETEx3dXJPaXNpQ3BBZmhLN1hMeDVrdUNKdzhxTzRjWE1EakhDYk4yTG13Wk1Vajk2VVVQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T14:06:39+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "쿠웨이트 국영 석유회사(KPC)는 이란과의 긴장이 고조됨에 따라 예방적 차원에서 원유 생산량을 감축했다고 밝혔으며, 이는 중동 정세 불안에 대한 우려를 반영합니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "When to talk to AI chatbots about mental health—and when to stay far away, professionals say",
+      "body_preview": "Some Americans are using AI chatbots for therapy. Mental health experts share when it is, and isn't, safe to use those tools for emotional support.",
+      "source_url": "https://www.cnbc.com/2026/03/07/when-you-shouldand-shouldntuse-chatgpt-as-a-therapist-from-experts.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T14:05:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108272388-1772490885560-gettyimages-2161537480-dsc04397.jpeg?v=1772490941&w=1920&h=1080",
+      "korean_summary": "일부 미국인들이 정신 건강 상담에 인공지능(AI) 챗봇을 활용하는 가운데, 전문가들은 AI 챗봇을 통한 정서적 지원의 안전한 사용 시점과 피해야 할 상황을 제시했습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Lebanon's Hezbollah warns residents in Israel's north to evacuate - Reuters",
+      "body_preview": "Lebanon's Hezbollah warns residents in Israel's north to evacuate  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOTMwVjRha0E5OWFqa0hPdlZubFFiMVBrbU1DOEVKZzhKSGlLTW5YYlp3Nms2VkZvWlhaS0hTZUVSMzg5VTBNNGJHMWpPTXZ5MmluWGwxTTdyTXBNMjZzZDV3VWFsZHpjNV9OU3dMS0V3WlhhbktGZTMxdGwyLUdqb2pnMmtuRTNhUXpzM0lNdFgzOFdVeFhtampscWJRQlk4VHB0ZzQxRE5Xb29kbW1TVw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T12:10:07+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "레바논의 헤즈볼라(Hezbollah)는 이스라엘 북부 주민들에게 대피를 경고했다고 로이터 통신이 보도했습니다. 이는 중동 지역의 긴장 고조를 시사합니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Ukraine's interceptor drone makers look at exports to the Gulf as Iran war flares - Reuters",
+      "body_preview": "Ukraine's interceptor drone makers look at exports to the Gulf as Iran war flares  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGdqc2RCQncxZ0hQbmFFcTctS0h2eUgyY2RVZkkycUNpNmRMRzNNMG1XamZ5MFM1d1JpaDFMZ1FrcWtEWG1YbXNzay1GdlhVTkdxS1ZVMVRyd2NrT2thNndQdEtOWXFmdXhZOWt0OGpMRkVTQlJSOFFjU01qaHRDX19JbHBWTEJwUjZPLXJfQldIcjFyNUdNYnNHb1l6Q09IVzVjdFFJbWtmX2xZOXRpY05SenBtSXpUbmQtbGNkY0dMeGtUbnZURDVR?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T12:05:05+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 전쟁이 격화되는 가운데, 우크라이나의 요격 드론(interceptor drone) 제조업체들이 걸프 지역으로의 수출을 모색하고 있다고 로이터 통신이 전했습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Trump says Iran will be 'hit very hard' on Saturday - Reuters",
+      "body_preview": "Trump says Iran will be 'hit very hard' on Saturday  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSFRIOVNtTVkwOFFhdGFkWnR0M1d6aUIzdXNRT00zQW1Pa3pZcDM0WlpsRVdzWFlIbW5XZ3E4MUVlMUl6cDIzT0Juekd5azVwZS1ia3RkMExGOFRtblVsbEZUMnB3SXpvbldaRm9uc0d3WW1Vc2VPYWdwUk92QVFPOWpIeEU2Ylc3Ym1Wck5NZGVaQkpCcThXNDAyOEhWbmFzVlE?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T11:34:23+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "도널드 트럼프 전 미국 대통령은 이란이 토요일에 '매우 강력한 타격'을 받을 것이라고 발언했다고 로이터 통신이 보도했습니다. 이는 중동 정세에 대한 우려를 증폭시킵니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Iran war threatens a prolonged hit to global energy markets - Reuters",
+      "body_preview": "Iran war threatens a prolonged hit to global energy markets  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb05tQUczS3pRVDllRmdvTE9yZ0pmT2tFM1RYQTZyYm1DanAwVjJROWJ3UXV0NEhoZk5qeEN2b2lfOTIzZ1Q2M2szR2RVdl9RWVNhczlKT0RzNlVLWjlrdms3aDJWZk42cU5TNmRGUHQ0bUlHZFFabEU3ZFQyWTY0cU50alhrRUc0dzBOX20wYUpoN0xPMDVUVUhJcTNTNms5WGJZU2w2MGVSdw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T11:14:35+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 전쟁은 전 세계 에너지 시장에 장기적인 타격을 줄 수 있다고 로이터 통신이 보도했습니다. 이는 유가 상승 및 공급 불안정으로 이어질 수 있습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Days after Iran strikes, Trump hosts Latin American leaders to form anti-cartel coalition - Reuters",
+      "body_preview": "Days after Iran strikes, Trump hosts Latin American leaders to form anti-cartel coalition  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckNVRFRyY3NfV3FrSHJyZWc0WjhoWTAzYTdqZ0RldDU0YlVXLXV4QU9TamdKWTVtZ0dFcHdUQXNmMVZJZlpxVkNOd2NtTkJFejgwZTNlcDhTZmZwNkhHTHg4OUpfZ3FMUlN4ZThOM0RtRTVHbGtlUlE2RkxXUU5WYW0tOFN5cHIyaTVKUUFRcmh2VllieGRaMmJzSHVGeTdLSmZ0ck44SHljdFQxVWJKdFdXc3U4Zm44OFJYUA?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T11:09:46+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 공습 며칠 후, 도널드 트럼프 전 미국 대통령은 라틴 아메리카(Latin America) 지도자들을 초청하여 반카르텔 연합(anti-cartel coalition) 결성을 논의했다고 로이터 통신이 전했습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "SpongeBob, Iron Man and Call of Duty: Inside the US meme war against Iran - Reuters",
+      "body_preview": "SpongeBob, Iron Man and Call of Duty: Inside the US meme war against Iran  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3RPVmF2V0x4THg2T3QtRVIyaV9IZTQxX2YyVHlCLXJVT0xiUmpFb2pVQWNtNy1WVTJRZDJZN1cwbWpUUTc2N2hpTGtsdXlBeDhCTW0xcDU1a0FZdlJaSkZoV3Y1aUV5SF9UMWlUUVhNcE1ycVg3UUlsQTYzOTdyRVVVNjRfQm9WNVVQamdQc0U1RWhhNWpCbWFCZVl5YzJqUlV3RzN3aFhBSEItYm4tbXdvbEc0OElqVlR3?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T11:08:54+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "미국이 이란에 맞서 스폰지밥, 아이언맨, 콜 오브 듀티(Call of Duty) 등 대중문화 요소를 활용한 '밈 전쟁(meme war)'을 벌이고 있다고 로이터 통신이 보도했습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Iranian hardline clerics seek swift naming of new supreme leader - Reuters",
+      "body_preview": "Iranian hardline clerics seek swift naming of new supreme leader  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFJENUp5cEpfam9VUWUxcHZ2SnVvbXMyZF9wTHpReUl3UGJ5X3drNExqWms1SE9zcmQ0bWR2Wm5ldFlSd1Q5cHh2X0MxWUl3MWVXVHhoNDNrSU44emtub1piNUpGT0JqRnl3aE1KMTRmaVQ0ZkFjVUhzUkpaZEl1WWlJeks5NjR0bk54THZkdXE4UDhUaWhPRnZUM2w1bTY5enNMdlgteWhWQzRGZnJJdER6dnJZQQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T10:59:10+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란의 강경파 성직자들이 새로운 최고 지도자(supreme leader)의 신속한 지명을 추진하고 있다고 로이터 통신이 보도했습니다. 이는 이란 내부 권력 구도 변화를 시사합니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "Iran's future: Listen to our journalists in the Middle East - Reuters",
+      "body_preview": "Iran's future: Listen to our journalists in the Middle East  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXZkQ1NsYkhwVlZRc0NRZTBIRlVsVl94c1VQTHJndU1kY053bjVfaGdES0hRUnRDZjkwQ045WTR4andZeEdkM2VLY1RybVUxWFIzMUNpamMxV2dkQ0t0WDB6WG0zS0ZyV0JtOS1LaXRZNjlnaF9jU2lNU2VNcWotWlQxZWU1WEk1VXZobkJJZDFLMkpBdFFN?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T10:36:32+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "로이터 통신은 중동 주재 기자들의 보도를 통해 이란의 미래에 대한 심층적인 분석과 전망을 제공하며, 지역 정세의 복잡성을 조명했습니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "India raises cooking gas prices as Iran war hits supply - Reuters",
+      "body_preview": "India raises cooking gas prices as Iran war hits supply  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0w4LWhvTjRPUXBCOXU0dlNGbk1fRjlNQXZiX0FnSlUtWlZ6bWlxT1N5Wl9wT0RpclpCTWh5R0R3VFh4Um43ZFFuWEk1TDlUWkwzTDVrZzZqWlNaVnI2aUlfVmx0MVpzWEZJXzRYcjBUVzExaHN5cnhjWkNNbUdiLXN6a0hVYU9YVXhja2pGb0pfMkR4R0gzOFNVY2Vzd01XYmJHbG5lTQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T08:53:19+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 전쟁으로 인한 공급 차질의 여파로 인도가 취사용 가스(cooking gas) 가격을 인상했다고 로이터 통신이 보도했습니다. 이는 에너지 시장 불안정을 반영합니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
+    },
+    {
+      "title": "India let Iran warship dock the day US sank another off Sri Lanka, officials say - Reuters",
+      "body_preview": "India let Iran warship dock the day US sank another off Sri Lanka, officials say  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMGlhaktjWGpscTBDSHJnSkQ0cEc4VFViSWpTdmxYajFrVzlSWDY4cjVKMHJOMlpOWl9Ec3Z6Y093YnFCVWloNmZIamF5SmRwN1YyUF9YTElzbDJBckZPVGdhLUtZUC1RWGpFNnFVZTNueW8xWDVWdTBYWC04c0QwYUFLLXgyd240SGtJQV9vSGdkTHJYMEwzYnBXd1BfWnI3aUhhUjc3T19kMWpad0I2dllhakkyWExKZThiNXZjUncwYWNQY1Jzd2V3?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T08:44:19+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "미국이 스리랑카(Sri Lanka) 연안에서 다른 함선을 침몰시킨 날, 인도가 이란 군함의 입항을 허용했다고 관계자들이 로이터 통신에 밝혔습니다. 이는 복잡한 국제 관계를 보여줍니다.",
+      "fetched_at": "2026-03-07T18:25:33.509693+00:00"
     },
     {
       "title": "Cardano Creator Throws Another Jibe At Ripple and XRP",
@@ -242,202 +668,6 @@
       "currencies": [],
       "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
       "korean_summary": "플로리다(Florida) 주 의회가 주 최초의 스테이블코인(stablecoin) 규제 프레임워크(regulatory framework) 법안을 승인했다. 이 법안은 론 디샌티스(Ron DeSantis) 주지사의 서명을 앞두고 있으며, 암호화폐(cryptocurrency) 규제에 중요한 진전을 의미한다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "Here are 3 themes that drove another challenging week on Wall Street",
-      "body_preview": "Surprising economic data, another batch of earnings, and an intensifying conflict in the Middle East all combined to move the market, mostly downward.",
-      "source_url": "https://www.cnbc.com/2026/03/07/here-are-3-themes-that-drove-another-challenging-week-on-wall-street.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T15:29:52+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108274882-17728175032026-03-06t171619z_706146746_rc21zja0hmdp_rtrmadp_0_usa-stocks.jpeg?v=1772817626&w=1920&h=1080",
-      "korean_summary": "월스트리트(Wall Street) 시장은 예상치 못한 경제 지표, 기업 실적 발표, 중동 분쟁 심화 등의 요인으로 인해 전반적으로 하락세를 보이며 어려운 한 주를 보냈다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "2 confidence-building tools for parents to set kids up for 'a lifetime of success,' from a mental performance coach",
-      "body_preview": "Parents who prioritize boosting their kids' confidence are \"setting them up for a lifetime of success,\" says mental performance coach Cindra Kamphoff.",
-      "source_url": "https://www.cnbc.com/2026/03/07/confidence-building-tools-parents-help-kids-succeed.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T14:15:01+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108275070-1772834938957-gettyimages-994522096-wpef00357.jpeg?v=1772835017&w=1920&h=1080",
-      "korean_summary": "정신력 코치(mental performance coach) 신드라 캄포프는 부모가 자녀의 자신감을 키워주는 것을 우선시하면, 자녀가 '평생의 성공'을 위한 기반을 마련할 수 있다고 조언했다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "Kuwait cuts oil production as precaution amid Iran tensions, KPC says - Reuters",
-      "body_preview": "Kuwait cuts oil production as precaution amid Iran tensions, KPC says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZURTLWd2YkJiSm9fb1BJODAzd2xDX0gwZEhpS05IZzFWckJfaGpwN0hqdnlyMzlaZW1sdUpiQjBpS0FlRHh1TF8zcllMN1M3VmZILXNnSEkxdl96ZkZWa2VnV3hMa3poa0NRaVhnNkVnZTZXcjY4NnFpOF9wTEtGd191U3dETEx3dXJPaXNpQ3BBZmhLN1hMeDVrdUNKdzhxTzRjWE1EakhDYk4yTG13Wk1Vajk2VVVQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T14:06:39+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "쿠웨이트 국영 석유회사(KPC)는 이란과의 긴장이 고조되는 상황에서 예방적 차원으로 원유 생산량을 감축했다고 로이터 통신이 전했다. 이는 국제 유가에 영향을 미칠 수 있다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "When to talk to AI chatbots about mental health—and when to stay far away, professionals say",
-      "body_preview": "Some Americans are using AI chatbots for therapy. Mental health experts share when it is, and isn't, safe to use those tools for emotional support.",
-      "source_url": "https://www.cnbc.com/2026/03/07/when-you-shouldand-shouldntuse-chatgpt-as-a-therapist-from-experts.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T14:05:01+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108272388-1772490885560-gettyimages-2161537480-dsc04397.jpeg?v=1772490941&w=1920&h=1080",
-      "korean_summary": "일부 미국인들이 인공지능(AI) 챗봇을 정신 건강 상담에 활용하는 가운데, 전문가들은 AI 챗봇을 통한 정서적 지원의 안전한 사용 시점과 피해야 할 상황에 대해 조언했다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "Lebanon's Hezbollah warns residents in Israel's north to evacuate - Reuters",
-      "body_preview": "Lebanon's Hezbollah warns residents in Israel's north to evacuate  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOTMwVjRha0E5OWFqa0hPdlZubFFiMVBrbU1DOEVKZzhKSGlLTW5YYlp3Nms2VkZvWlhaS0hTZUVSMzg5VTBNNGJHMWpPTXZ5MmluWGwxTTdyTXBNMjZzZDV3VWFsZHpjNV9OU3dMS0V3WlhhbktGZTMxdGwyLUdqb2pnMmtuRTNhUXpzM0lNdFgzOFdVeFhtampscWJRQlk4VHB0ZzQxRE5Xb29kbW1TVw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T12:10:07+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "레바논의 헤즈볼라(Hezbollah)는 이스라엘 북부 지역 주민들에게 대피할 것을 경고했다고 로이터 통신이 보도했다. 이는 중동 지역의 긴장 고조를 반영한다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "Ukraine's interceptor drone makers look at exports to the Gulf as Iran war flares - Reuters",
-      "body_preview": "Ukraine's interceptor drone makers look at exports to the Gulf as Iran war flares  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGdqc2RCQncxZ0hQbmFFcTctS0h2eUgyY2RVZkkycUNpNmRMRzNNMG1XamZ5MFM1d1JpaDFMZ1FrcWtEWG1YbXNzay1GdlhVTkdxS1ZVMVRyd2NrT2thNndQdEtOWXFmdXhZOWt0OGpMRkVTQlJSOFFjU01qaHRDX19JbHBWTEJwUjZPLXJfQldIcjFyNUdNYnNHb1l6Q09IVzVjdFFJbWtmX2xZOXRpY05SenBtSXpUbmQtbGNkY0dMeGtUbnZURDVR?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T12:05:05+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "우크라이나의 요격 드론(interceptor drone) 제조업체들이 이란 전쟁이 격화되는 상황에서 걸프 지역으로의 수출을 모색하고 있다고 로이터 통신이 전했다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "Trump says Iran will be 'hit very hard' on Saturday - Reuters",
-      "body_preview": "Trump says Iran will be 'hit very hard' on Saturday  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSFRIOVNtTVkwOFFhdGFkWnR0M1d6aUIzdXNRT00zQW1Pa3pZcDM0WlpsRVdzWFlIbW5XZ3E4MUVlMUl6cDIzT0Juekd5azVwZS1ia3RkMExGOFRtblVsbEZUMnB3SXpvbldaRm9uc0d3WW1Vc2VPYWdwUk92QVFPOWpIeEU2Ylc3Ym1Wck5NZGVaQkpCcThXNDAyOEhWbmFzVlE?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:34:23+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "도널드 트럼프 전 미국 대통령은 이란이 토요일에 '매우 강력한 타격'을 받을 것이라고 언급했다고 로이터 통신이 보도했다. 이는 중동 정세에 대한 우려를 증폭시킨다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "Iran war threatens a prolonged hit to global energy markets - Reuters",
-      "body_preview": "Iran war threatens a prolonged hit to global energy markets  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb05tQUczS3pRVDllRmdvTE9yZ0pmT2tFM1RYQTZyYm1DanAwVjJROWJ3UXV0NEhoZk5qeEN2b2lfOTIzZ1Q2M2szR2RVdl9RWVNhczlKT0RzNlVLWjlrdms3aDJWZk42cU5TNmRGUHQ0bUlHZFFabEU3ZFQyWTY0cU50alhrRUc0dzBOX20wYUpoN0xPMDVUVUhJcTNTNms5WGJZU2w2MGVSdw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:14:35+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 전쟁이 장기화될 경우 전 세계 에너지 시장에 지속적인 타격을 줄 수 있다고 로이터 통신이 분석했다. 이는 유가 불안정으로 이어질 수 있다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "Days after Iran strikes, Trump hosts Latin American leaders with China in focus - Reuters",
-      "body_preview": "Days after Iran strikes, Trump hosts Latin American leaders with China in focus  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckNVRFRyY3NfV3FrSHJyZWc0WjhoWTAzYTdqZ0RldDU0YlVXLXV4QU9TamdKWTVtZ0dFcHdUQXNmMVZJZlpxVkNOd2NtTkJFejgwZTNlcDhTZmZwNkhHTHg4OUpfZ3FMUlN4ZThOM0RtRTVHbGtlUlE2RkxXUU5WYW0tOFN5cHIyaTVKUUFRcmh2VllieGRaMmJzSHVGeTdLSmZ0ck44SHljdFQxVWJKdFdXc3U4Zm44OFJYUA?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:09:46+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란의 공격 며칠 후, 도널드 트럼프 전 미국 대통령이 중남미 지도자들을 초청하여 중국 문제에 초점을 맞춰 회담을 가졌다고 로이터 통신이 보도했다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "SpongeBob, Iron Man and Call of Duty: Inside the US meme war against Iran - Reuters",
-      "body_preview": "SpongeBob, Iron Man and Call of Duty: Inside the US meme war against Iran  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3RPVmF2V0x4THg2T3QtRVIyaV9IZTQxX2YyVHlCLXJVT0xiUmpFb2pVQWNtNy1WVTJRZDJZN1cwbWpUUTc2N2hpTGtsdXlBeDhCTW0xcDU1a0FZdlJaSkZoV3Y1aUV5SF9UMWlUUVhNcE1ycVg3UUlsQTYzOTdyRVVVNjRfQm9WNVVQamdQc0U1RWhhNWpCbWFCZVl5YzJqUlV3RzN3aFhBSEItYm4tbXdvbEc0OElqVlR3?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:08:54+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "미국이 이란에 맞서 스폰지밥, 아이언맨, 콜 오브 듀티(Call of Duty) 등 대중문화 요소를 활용한 '밈 전쟁(meme war)'을 벌이고 있다고 로이터 통신이 전했다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "Iranian hardline clerics seek swift naming of new supreme leader - Reuters",
-      "body_preview": "Iranian hardline clerics seek swift naming of new supreme leader  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFJENUp5cEpfam9VUWUxcHZ2SnVvbXMyZF9wTHpReUl3UGJ5X3drNExqWms1SE9zcmQ0bWR2Wm5ldFlSd1Q5cHh2X0MxWUl3MWVXVHhoNDNrSU44emtub1piNUpGT0JqRnl3aE1KMTRmaVQ0ZkFjVUhzUkpaZEl1WWlJeks5NjR0bk54THZkdXE4UDhUaWhPRnZUM2w1bTY5enNMdlgteWhWQzRGZnJJdER6dnJZQQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T10:59:10+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란의 강경파 성직자들이 새로운 최고 지도자(supreme leader)를 신속하게 지명할 것을 요구하고 있다고 로이터 통신이 보도했다. 이는 이란 정국에 영향을 미칠 전망이다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "Iran's future: Listen to our journalists in the Middle East - Reuters",
-      "body_preview": "Iran's future: Listen to our journalists in the Middle East  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXZkQ1NsYkhwVlZRc0NRZTBIRlVsVl94c1VQTHJndU1kY053bjVfaGdES0hRUnRDZjkwQ045WTR4andZeEdkM2VLY1RybVUxWFIzMUNpamMxV2dkQ0t0WDB6WG0zS0ZyV0JtOS1LaXRZNjlnaF9jU2lNU2VNcWotWlQxZWU1WEk1VXZobkJJZDFLMkpBdFFN?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T10:36:32+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "로이터 통신은 중동 주재 기자들의 심층 보도를 통해 이란의 미래에 대한 분석을 제공했다. 이는 복잡한 지역 정세를 이해하는 데 도움을 준다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "India raises cooking gas prices as Iran war hits supply - Reuters",
-      "body_preview": "India raises cooking gas prices as Iran war hits supply  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0w4LWhvTjRPUXBCOXU0dlNGbk1fRjlNQXZiX0FnSlUtWlZ6bWlxT1N5Wl9wT0RpclpCTWh5R0R3VFh4Um43ZFFuWEk1TDlUWkwzTDVrZzZqWlNaVnI2aUlfVmx0MVpzWEZJXzRYcjBUVzExaHN5cnhjWkNNbUdiLXN6a0hVYU9YVXhja2pGb0pfMkR4R0gzOFNVY2Vzd01XYmJHbG5lTQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T08:53:19+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 전쟁으로 인한 공급 차질로 인해 인도가 취사용 가스 가격을 인상했다고 로이터 통신이 보도했다. 이는 국제 에너지 시장의 불안정성을 보여준다.",
-      "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "India let Iran warship dock the day US sank another off Sri Lanka, officials say - Reuters",
-      "body_preview": "India let Iran warship dock the day US sank another off Sri Lanka, officials say  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMGlhaktjWGpscTBDSHJnSkQ0cEc4VFViSWpTdmxYajFrVzlSWDY4cjVKMHJOMlpOWl9Ec3Z6Y093YnFCVWloNmZIamF5SmRwN1YyUF9YTElzbDJBckZPVGdhLUtZUC1RWGpFNnFVZTNueW8xWDVWdTBYWC04c0QwYUFLLXgyd240SGtJQV9vSGdkTHJYMEwzYnBXd1BfWnI3aUhhUjc3T19kMWpad0I2dllhakkyWExKZThiNXZjUncwYWNQY1Jzd2V3?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T08:44:19+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "미국이 스리랑카 해역에서 다른 함선을 침몰시킨 날, 인도가 이란 군함의 입항을 허용했다고 관계자들이 로이터 통신에 전했다. 이는 미-이란 갈등 속 인도의 외교적 행보를 보여준다.",
       "fetched_at": "2026-03-07T17:15:03.311201+00:00"
     },
     {
@@ -2888,243 +3118,6 @@
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "",
       "fetched_at": "2026-03-07T07:28:47.451411+00:00"
-    },
-    {
-      "title": "Bitcoin slips below $68,000 heading into the weekend as dollar posts steepest weekly gain in a year",
-      "body_preview": "Most majors gave back Friday's gains, with solana down 4%, ether falling 4.4%, and 43% of bitcoin's supply now sitting at a loss according to Glassnode data.",
-      "source_url": "https://www.coindesk.com/markets/2026/03/07/bitcoin-slips-below-usd68-000-heading-into-the-weekend-as-dollar-posts-steepest-weekly-gain-in-a-year",
-      "source_name": "CoinDesk",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T06:15:48+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "SOL"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/5/58945391.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
-    },
-    {
-      "title": "JasmyCoin Price Prediction 2026-2030: Unveiling the Critical Data for Long-Term Investors",
-      "body_preview": "BitcoinWorld JasmyCoin Price Prediction 2026-2030: Unveiling the Critical Data for Long-Term Investors As the cryptocurrency market evolves beyond speculative trading, investors are increasingly scrutinizing projects with tangible utility and long-term roadmaps. This analysis provides a comprehensiv",
-      "source_url": "https://bitcoinworld.co.in/jasmycoin-price-prediction-2030-investment-2/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T06:15:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "JASMY"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
-    },
-    {
-      "title": "Bitcoin Price Prediction: Alarming 30% Drop Looms in 2025 Bear Market, Warns Hedge Fund",
-      "body_preview": "BitcoinWorld Bitcoin Price Prediction: Alarming 30% Drop Looms in 2025 Bear Market, Warns Hedge Fund Singapore, April 2025 – Bitcoin faces a potential 30% price decline this year as it navigates a confirmed bear market phase, according to a stark analysis from crypto-focused hedge fund ZX Squared Ca",
-      "source_url": "https://bitcoinworld.co.in/bitcoin-price-prediction-2025-bear-market/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T06:10:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
-    },
-    {
-      "title": "XRP Currently Offers a Strong Risk:Reward Setup as Downside Fuel Nearly Gone",
-      "body_preview": "The current XRP position could offer one of the strongest risk:reward setups as downside fuel continues to deplete. XRP has witnessed one of its longest stretches of downward price action, having recorded five consecutive monthly red candlesticks, a bearish development that last played out in late 2",
-      "source_url": "https://thecryptobasic.com/2026/03/07/xrp-currently-offers-a-strong-riskreward-setup-as-downside-fuel-nearly-gone/",
-      "source_name": "The Crypto Basic",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T06:06:25+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/65/58945040.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
-    },
-    {
-      "title": "Kalshi sued over ouster of Iran leader prediction market - Reuters",
-      "body_preview": "Kalshi sued over ouster of Iran leader prediction market  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2tMMjA0dHhPSVIzSUVKSHRUUjNGU1lxUHpFeE9SS3RNSm1lUUFLVXJYcEFkbmRRSlJnWWpmSFJKZE9FRDhGQWZJUzduNlc1OGlDZDJiYUlmc2NiNkJXZzU2NGQwWEZyeTIxNEl2aUtmZHoyVEhpTGxCRW03bjJOS1FLVlI1c0hhZWE5Y3lGT29TdGtyaENDWEM5MlZvRElGUVJBRG5QeUNtTlk?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T18:13:49+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
-    },
-    {
-      "title": "Bitcoin Clings to $70,000: Can Crypto Shake Off the Employment Upset Before Monday?",
-      "body_preview": "Bitcoin battles to hold the $70,000 support level after a shock jobs report this Friday. However, with CPI and FOMC in the week ahead, the negative reaction may be a blessing in disguise for the price of the cryptocurrency.",
-      "source_url": "https://u.today/bitcoin-clings-to-70000-can-crypto-shake-off-employment-upset-before-monday",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T06:02:05+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/58944884.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Bitcoin dip may not be over as retail ramps up buying below $70K: Santiment",
-      "body_preview": "Bitcoin whales have sold about 66% of the Bitcoin they recently accumulated since Wednesday, according to crypto sentiment platform Santiment.",
-      "source_url": "https://cointelegraph.com/news/bitcoin-price-decline-downside-retail-whales-pattern-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T06:02:01+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Bitcoin Big-Money On The Move: Exchange Whale Ratio Spikes To 0.6",
-      "body_preview": "On-chain data shows the Bitcoin Exchange Whale Ratio has witnessed a sharp increase recently, indicating that large deposit transactions have gained dominance. Bitcoin Exchange Whale Ratio Has Seen Its 30-Day SMA Value Hit 0.6 In a new post on X, CryptoQuant community analyst Maartunn has talked abo",
-      "source_url": "https://www.newsbtc.com/bitcoin-news/bitcoin-big-money-exchange-whale-ratio-0-6/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T06:00:47+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/58944821.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "All about AVAX’s latest buyback and what that means for its rally odds",
-      "body_preview": "AVAX is in the spotlight once again, but can it stay there?",
-      "source_url": "https://ambcrypto.com/all-about-avaxs-latest-buyback-and-what-that-means-for-its-rally-odds/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T06:00:30+00:00",
-      "category": "crypto",
-      "currencies": [
-        "AVAX"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Sui Crypto (SUI) Price Prediction 2026-2030: Critical Analysis Reveals Market Trajectory",
-      "body_preview": "BitcoinWorld Sui Crypto (SUI) Price Prediction 2026-2030: Critical Analysis Reveals Market Trajectory As blockchain technology continues its rapid evolution in 2025, the Sui cryptocurrency (SUI) emerges as a significant Layer 1 protocol demanding analytical attention. This comprehensive examination ",
-      "source_url": "https://bitcoinworld.co.in/sui-crypto-price-prediction-2026-2030/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T06:00:27+00:00",
-      "category": "macro",
-      "currencies": [
-        "SUI"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Storj price prediction 2026-2032: Can STORJ retake previous highs?",
-      "body_preview": "Key takeaways Storj price prediction for 2026 suggests a maximum price of $0.14. STORJ could reach approximately $0.19 by the end of 2029. By 2032, STORJ may trade near $0.24 under steady growth conditions. Storj (STORJ) is an ERC-20 used for decentralized power storage for different developers, kno",
-      "source_url": "https://www.cryptopolitan.com/storj-price-prediction/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T05:55:41+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/43/6873790.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Spot ETH ETF Outflows Spark Concern as Investors Withdraw $82.9 Million for Second Straight Day",
-      "body_preview": "BitcoinWorld Spot ETH ETF Outflows Spark Concern as Investors Withdraw $82.9 Million for Second Straight Day U.S. financial markets witnessed significant movement in cryptocurrency investment vehicles on March 6, 2025, as spot Ethereum exchange-traded funds recorded substantial net outflows for the ",
-      "source_url": "https://bitcoinworld.co.in/spot-eth-etf-outflows-march/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T05:55:22+00:00",
-      "category": "macro",
-      "currencies": [
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Bitcoin could crash by another 30% as four-year cycle gains strength, investment firm says",
-      "body_preview": "Bitcoin is now firmly in a deep bear market and could fall another 30% in 2026, firm said.",
-      "source_url": "https://www.coindesk.com/markets/2026/03/07/bitcoin-could-crash-another-30-as-four-year-cycle-gains-strength-investment-firm-says",
-      "source_name": "CoinDesk",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T05:44:21+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/5/58944258.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Spot Bitcoin ETF Outflows Spark Concern: $348.9 Million Withdrawn in Major Shift",
-      "body_preview": "BitcoinWorld Spot Bitcoin ETF Outflows Spark Concern: $348.9 Million Withdrawn in Major Shift In a significant shift for the digital asset market, U.S. spot Bitcoin ETFs witnessed substantial net outflows totaling $348.9 million on March 6, 2025. This development, reported by London-based Farside In",
-      "source_url": "https://bitcoinworld.co.in/spot-bitcoin-etf-outflow-march-2025/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T05:40:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "CleanSpark and Bitcoin miners’ selling spree – Is the miner HODL era ending?",
-      "body_preview": "Bitcoin miners are finally changing their tune!",
-      "source_url": "https://ambcrypto.com/cleanspark-and-bitcoin-miners-selling-spree-is-the-miner-hodl-era-ending/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T05:30:21+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T05:40:40.419888+00:00"
     }
   ]
 }
