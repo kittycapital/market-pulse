@@ -1,8 +1,101 @@
 {
-  "last_updated": "2026-03-07T21:19:40.358047+00:00",
-  "last_updated_kst": "2026-03-08 06:19 KST",
+  "last_updated": "2026-03-07T22:20:31.659613+00:00",
+  "last_updated_kst": "2026-03-08 07:20 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Crypto Fear and Greed Index falls back down to 'extreme fear' levels",
+      "body_preview": "Crypto investor sentiment has been in freefall ever since the October 2025 market crash that kicked off a sustained downturn in digital assets.",
+      "source_url": "https://cointelegraph.com/news/crypto-fear-greed-index-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T22:05:54+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Analysts Predict Conservative XRP Price If It Follows 2017 Run",
+      "body_preview": "XRP is at the center of ultra-bullish calls after two crypto commentators pointed to a 2017-style fractal as the basis for a major breakout. The latest discussion started with analyst CryptoBull, who predicted that the XRP price is on track for $10 to $11 by the end of March if its price action cont",
+      "source_url": "https://www.newsbtc.com/altcoin/analysts-predict-conservative-xrp-price-if-it-follows-2017-run/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T22:00:17+00:00",
+      "category": "crypto",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/58978919.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "The World’s Largest Asset Managers Hold MSTR: Strategy Highlights Massive Institutional Bitcoin Exposure",
+      "body_preview": "Massive institutional exposure to Strategy stock underscores Wall Street’s deepening link to bitcoin as trillion-dollar asset managers quietly accumulate shares tied to the largest corporate bitcoin treasury. Vanguard, Blackrock, and Global Funds Accumulate Shares as World’s Largest Asset Managers H",
+      "source_url": "https://news.bitcoin.com/the-worlds-largest-asset-managers-hold-mstr-strategy-highlights-massive-institutional-bitcoin-exposure/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T21:30:29+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/14/58977865.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Crypto Gets A Boost In Trump’s New National Cyber Strategy",
+      "body_preview": "US President Donald Trump’s new national cyber strategy names cryptocurrency and blockchain once and frames them as technologies the government must “protect and secure,” while also directing agencies to disrupt criminal uses that ride on those systems. Mention Is Short And Specific The strategy doe",
+      "source_url": "https://bitcoinist.com/crypto-gets-a-boost-in-trumps-new-national-cyber-strategy/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T21:30:08+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/13/58977866.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Bitcoin ETFs saw $348M in outflows on March 6, the biggest since Feb 14",
+      "body_preview": "The fresh, sharp withdrawals from US crypto exchange-traded funds (ETFs) have revived concerns that Bitcoin’s rebound rally might just fade out now. However, some traders are signalling that the rally could prove to be a short-lived bull trap. BTC ETFs recorded a sell-off for the second consecutive ",
+      "source_url": "https://www.cryptopolitan.com/etfs-outflows-raise-bull-trap-fears-for-bitcoin/",
+      "source_name": "Cryptopolitan",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T21:20:15+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/43/58977840.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Crypto Investor Says Attackers Stole $24M in Violent Robbery",
+      "body_preview": "A crypto holder known online as Sillytuna said on March 5 that attackers stole about $24 million worth of tokens after threatening him with violence during a real-world robbery. The incident has renewed concern about so-called “wrench attacks,” a form of crime where perpetrators use physical threats",
+      "source_url": "https://cryptopotato.com/crypto-investor-says-attackers-stole-24m-in-violent-robbery/",
+      "source_name": "Crypto Potato",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T21:18:22+00:00",
+      "category": "macro",
+      "currencies": [
+        "ZRX",
+        "ARKM"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/27/58977465.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
     {
       "title": "Solana Trading Volume Tops $4 Trillion as Market Eyes Recovery Above $90",
       "body_preview": "Solana continues to draw attention despite recent price pressure, as analysts highlight strong network activity and resilient market structure. The blockchain’s trading activity remains significant, even as the token trades far below its previous highs. As of press time, Solana is priced near $82.52",
@@ -17,7 +110,7 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/93/default.png",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
     },
     {
       "title": "Assessing if Zcash’s $200 support is at risk after ZEC falls by 8%",
@@ -33,7 +126,7 @@
       ],
       "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
     },
     {
       "title": "Coinbase says new U.S. tax-reporting rules for crypto are cluttered, confusing",
@@ -47,7 +140,7 @@
       "currencies": [],
       "media_url": "https://resources.cryptocompare.com/news/5/58976706.jpeg",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
     },
     {
       "title": "XRP Derivatives Spike 1185% on CEX as Traders Eye Next Move",
@@ -63,7 +156,7 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58976712.jpeg",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
     },
     {
       "title": "OpenAI Pentagon Deal Sparks Principled Exit: Robotics Lead Resigns Over Governance Concerns",
@@ -77,7 +170,7 @@
       "currencies": [],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
     },
     {
       "title": "Vancouver City Staff Rejects Bitcoin Treasury Idea Ahead of March 10 Council Vote",
@@ -93,7 +186,7 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/14/58975649.jpeg",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
     },
     {
       "title": "XRP Whale Outflows Continue On Binance — What’s Happening?",
@@ -110,7 +203,7 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/21/58975652.jpeg",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
     },
     {
       "title": "Analyze Trends Like a Wall Street Pro with Advanced Charting Tools",
@@ -124,7 +217,7 @@
       "currencies": [],
       "media_url": "https://resources.cryptocompare.com/news/79/58975959.jpeg",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
     },
     {
       "title": "Cardano price prediction 2026-2032: Will ADA recover to $1 soon?",
@@ -143,7 +236,217 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/43/1665156.jpeg",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "As Iran's retaliation began, US officials scrambled to arrange evacuations - Reuters",
+      "body_preview": "As Iran's retaliation began, US officials scrambled to arrange evacuations  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVdrZWlSTmthOVFfUFlEN0gxbklBZlV2amJHVTB1MlJudjNqdzBCNkRVcUdKVUVxZ3A1a1VvOE9ROXM2UGZsYWJBdW9jbExmZloycE9rSFg1blQtS09ZVXoyVURlRTNHT0RSZlEweXNrQWowbGlzLXpTaDE3cnVkdEtxbjl2OEhMaGgwMWF0OE1aNl9WR0VwVFd6Rlh3SnVEN3QydHdIMUxYeFlRY19uNA?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T19:25:13+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Cracks emerge in Iran's leadership as it reels under bombardment - Reuters",
+      "body_preview": "Cracks emerge in Iran's leadership as it reels under bombardment  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUxFYXpxTC14dkFXc1Zqa3hmOXV4a1R5UWxvNGhDM2tVbWhtQmxfVnJrSi1WRTV0aXN3YzNQWElTV1NkQmVyQnpCYWluSU5hSnBwVG8zMXlYSFFvMF9kSVRuN3hPb0oyS3NkQW5UODBnUWNzeVVhWnNmeDVWLTM0MDYwMXJWUU93bEJweHNtSjNXMEFzNXJJMHhsQVFFbzI5ODJXUlVNYmhXZ2k3ZGNZZQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T19:20:56+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Kuwait cuts oil production as Strait of Hormuz closure disrupts global energy market",
+      "body_preview": "Brent oil prices could spike above $100 per barrel if the Gulf Arab countries run out of storage  space and shut down production, according to JPMorgan.",
+      "source_url": "https://www.cnbc.com/2026/03/07/kuwait-oil-cut-iran-war-strait-hormuz.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T17:28:01+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108272681-17725447292026-03-02t161444z_845839422_rc2fwja1f1uu_rtrmadp_0_iran-crisis-usa-economy.jpeg?v=1772544747&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "UAE president says country is well and is no easy prey in first public comments since Iran strikes - Reuters",
+      "body_preview": "UAE president says country is well and is no easy prey in first public comments since Iran strikes  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVC1RNVUyb3pHOE5yVnBYc05OeV93MUNDMUFsNFNKaDltVFAwUUpwM09oVC1Mek5nSHY5RFpOaEJ2YVhHbEVTR2t0bTRCTGV3OFVJMXhOd0R1NlFyMnhNSHRqb2hvT05MOE5RVFR3ZloxdkpBaDVvMGg1T0dDdGxKUXpOc2NHN24zQ3dOaXpDTXktdnVnY1RSUzdFZDVYUnpuX3BjMFA3N3ZIV3dQSXRUS1Q3OHdPM0xUbmg5N1RjV0kzN2YwUkF5WFQ0Zi0?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T16:15:39+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Here are 3 themes that drove another challenging week on Wall Street",
+      "body_preview": "Surprising economic data, another batch of earnings, and an intensifying conflict in the Middle East all combined to move the market, mostly downward.",
+      "source_url": "https://www.cnbc.com/2026/03/07/here-are-3-themes-that-drove-another-challenging-week-on-wall-street.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T15:29:52+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108274882-17728175032026-03-06t171619z_706146746_rc21zja0hmdp_rtrmadp_0_usa-stocks.jpeg?v=1772817626&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "2 confidence-building tools for parents to set kids up for 'a lifetime of success,' from a mental performance coach",
+      "body_preview": "Parents who prioritize boosting their kids' confidence are \"setting them up for a lifetime of success,\" says mental performance coach Cindra Kamphoff.",
+      "source_url": "https://www.cnbc.com/2026/03/07/confidence-building-tools-parents-help-kids-succeed.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T14:15:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108275070-1772834938957-gettyimages-994522096-wpef00357.jpeg?v=1772835017&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict - Reuters",
+      "body_preview": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZURTLWd2YkJiSm9fb1BJODAzd2xDX0gwZEhpS05IZzFWckJfaGpwN0hqdnlyMzlaZW1sdUpiQjBpS0FlRHh1TF8zcllMN1M3VmZILXNnSEkxdl96ZkZWa2VnV3hMa3poa0NRaVhnNkVnZTZXcjY4NnFpOF9wTEtGd191U3dETEx3dXJPaXNpQ3BBZmhLN1hMeDVrdUNKdzhxTzRjWE1EakhDYk4yTG13Wk1Vajk2VVVQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T14:06:39+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "When to talk to AI chatbots about mental health—and when to stay far away, professionals say",
+      "body_preview": "Some Americans are using AI chatbots for therapy. Mental health experts share when it is, and isn't, safe to use those tools for emotional support.",
+      "source_url": "https://www.cnbc.com/2026/03/07/when-you-shouldand-shouldntuse-chatgpt-as-a-therapist-from-experts.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T14:05:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108272388-1772490885560-gettyimages-2161537480-dsc04397.jpeg?v=1772490941&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Lebanon's Hezbollah warns residents in Israel's north to evacuate - Reuters",
+      "body_preview": "Lebanon's Hezbollah warns residents in Israel's north to evacuate  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOTMwVjRha0E5OWFqa0hPdlZubFFiMVBrbU1DOEVKZzhKSGlLTW5YYlp3Nms2VkZvWlhaS0hTZUVSMzg5VTBNNGJHMWpPTXZ5MmluWGwxTTdyTXBNMjZzZDV3VWFsZHpjNV9OU3dMS0V3WlhhbktGZTMxdGwyLUdqb2pnMmtuRTNhUXpzM0lNdFgzOFdVeFhtampscWJRQlk4VHB0ZzQxRE5Xb29kbW1TVw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T12:10:07+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Ukraine's interceptor drone makers look at exports to the Gulf as Iran war flares - Reuters",
+      "body_preview": "Ukraine's interceptor drone makers look at exports to the Gulf as Iran war flares  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGdqc2RCQncxZ0hQbmFFcTctS0h2eUgyY2RVZkkycUNpNmRMRzNNMG1XamZ5MFM1d1JpaDFMZ1FrcWtEWG1YbXNzay1GdlhVTkdxS1ZVMVRyd2NrT2thNndQdEtOWXFmdXhZOWt0OGpMRkVTQlJSOFFjU01qaHRDX19JbHBWTEJwUjZPLXJfQldIcjFyNUdNYnNHb1l6Q09IVzVjdFFJbWtmX2xZOXRpY05SenBtSXpUbmQtbGNkY0dMeGtUbnZURDVR?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T12:05:05+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Trump says Iran will be 'hit very hard' on Saturday - Reuters",
+      "body_preview": "Trump says Iran will be 'hit very hard' on Saturday  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSFRIOVNtTVkwOFFhdGFkWnR0M1d6aUIzdXNRT00zQW1Pa3pZcDM0WlpsRVdzWFlIbW5XZ3E4MUVlMUl6cDIzT0Juekd5azVwZS1ia3RkMExGOFRtblVsbEZUMnB3SXpvbldaRm9uc0d3WW1Vc2VPYWdwUk92QVFPOWpIeEU2Ylc3Ym1Wck5NZGVaQkpCcThXNDAyOEhWbmFzVlE?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T11:34:23+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Iran war threatens prolonged hit to global energy markets - Reuters",
+      "body_preview": "Iran war threatens prolonged hit to global energy markets  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb05tQUczS3pRVDllRmdvTE9yZ0pmT2tFM1RYQTZyYm1DanAwVjJROWJ3UXV0NEhoZk5qeEN2b2lfOTIzZ1Q2M2szR2RVdl9RWVNhczlKT0RzNlVLWjlrdms3aDJWZk42cU5TNmRGUHQ0bUlHZFFabEU3ZFQyWTY0cU50alhrRUc0dzBOX20wYUpoN0xPMDVUVUhJcTNTNms5WGJZU2w2MGVSdw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T11:14:35+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Aggressive Trump launches Latin America cartel coalition - Reuters",
+      "body_preview": "Aggressive Trump launches Latin America cartel coalition  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckNVRFRyY3NfV3FrSHJyZWc0WjhoWTAzYTdqZ0RldDU0YlVXLXV4QU9TamdKWTVtZ0dFcHdUQXNmMVZJZlpxVkNOd2NtTkJFejgwZTNlcDhTZmZwNkhHTHg4OUpfZ3FMUlN4ZThOM0RtRTVHbGtlUlE2RkxXUU5WYW0tOFN5cHIyaTVKUUFRcmh2VllieGRaMmJzSHVGeTdLSmZ0ck44SHljdFQxVWJKdFdXc3U4Zm44OFJYUA?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T11:09:46+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "SpongeBob, Iron Man and Call of Duty: Inside the US meme war against Iran - Reuters",
+      "body_preview": "SpongeBob, Iron Man and Call of Duty: Inside the US meme war against Iran  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3RPVmF2V0x4THg2T3QtRVIyaV9IZTQxX2YyVHlCLXJVT0xiUmpFb2pVQWNtNy1WVTJRZDJZN1cwbWpUUTc2N2hpTGtsdXlBeDhCTW0xcDU1a0FZdlJaSkZoV3Y1aUV5SF9UMWlUUVhNcE1ycVg3UUlsQTYzOTdyRVVVNjRfQm9WNVVQamdQc0U1RWhhNWpCbWFCZVl5YzJqUlV3RzN3aFhBSEItYm4tbXdvbEc0OElqVlR3?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T11:08:54+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
+    },
+    {
+      "title": "Iranian hardline clerics seek swift naming of new supreme leader - Reuters",
+      "body_preview": "Iranian hardline clerics seek swift naming of new supreme leader  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFJENUp5cEpfam9VUWUxcHZ2SnVvbXMyZF9wTHpReUl3UGJ5X3drNExqWms1SE9zcmQ0bWR2Wm5ldFlSd1Q5cHh2X0MxWUl3MWVXVHhoNDNrSU44emtub1piNUpGT0JqRnl3aE1KMTRmaVQ0ZkFjVUhzUkpaZEl1WWlJeks5NjR0bk54THZkdXE4UDhUaWhPRnZUM2w1bTY5enNMdlgteWhWQzRGZnJJdER6dnJZQQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T10:59:10+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T22:20:31.656110+00:00"
     },
     {
       "title": "Iran has been under a near-total internet blackout for more than seven days",
@@ -237,202 +540,6 @@
         "ETH"
       ],
       "media_url": "https://resources.cryptocompare.com/news/13/58974509.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "Cracks emerge in Iran's leadership as it reels under bombardment - Reuters",
-      "body_preview": "Cracks emerge in Iran's leadership as it reels under bombardment  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUxFYXpxTC14dkFXc1Zqa3hmOXV4a1R5UWxvNGhDM2tVbWhtQmxfVnJrSi1WRTV0aXN3YzNQWElTV1NkQmVyQnpCYWluSU5hSnBwVG8zMXlYSFFvMF9kSVRuN3hPb0oyS3NkQW5UODBnUWNzeVVhWnNmeDVWLTM0MDYwMXJWUU93bEJweHNtSjNXMEFzNXJJMHhsQVFFbzI5ODJXUlVNYmhXZ2k3ZGNZZQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T19:20:56+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "Kuwait cuts oil production as Strait of Hormuz closure disrupts global energy market",
-      "body_preview": "Brent oil prices could spike above $100 per barrel if the Gulf Arab countries run out of storage  space and shut down production, according to JPMorgan.",
-      "source_url": "https://www.cnbc.com/2026/03/07/kuwait-oil-cut-iran-war-strait-hormuz.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T17:28:01+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108272681-17725447292026-03-02t161444z_845839422_rc2fwja1f1uu_rtrmadp_0_iran-crisis-usa-economy.jpeg?v=1772544747&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "UAE president says country is well and is no easy prey in first public comments since Iran strikes - Reuters",
-      "body_preview": "UAE president says country is well and is no easy prey in first public comments since Iran strikes  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVC1RNVUyb3pHOE5yVnBYc05OeV93MUNDMUFsNFNKaDltVFAwUUpwM09oVC1Mek5nSHY5RFpOaEJ2YVhHbEVTR2t0bTRCTGV3OFVJMXhOd0R1NlFyMnhNSHRqb2hvT05MOE5RVFR3ZloxdkpBaDVvMGg1T0dDdGxKUXpOc2NHN24zQ3dOaXpDTXktdnVnY1RSUzdFZDVYUnpuX3BjMFA3N3ZIV3dQSXRUS1Q3OHdPM0xUbmg5N1RjV0kzN2YwUkF5WFQ0Zi0?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T16:15:39+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "Here are 3 themes that drove another challenging week on Wall Street",
-      "body_preview": "Surprising economic data, another batch of earnings, and an intensifying conflict in the Middle East all combined to move the market, mostly downward.",
-      "source_url": "https://www.cnbc.com/2026/03/07/here-are-3-themes-that-drove-another-challenging-week-on-wall-street.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T15:29:52+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108274882-17728175032026-03-06t171619z_706146746_rc21zja0hmdp_rtrmadp_0_usa-stocks.jpeg?v=1772817626&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "2 confidence-building tools for parents to set kids up for 'a lifetime of success,' from a mental performance coach",
-      "body_preview": "Parents who prioritize boosting their kids' confidence are \"setting them up for a lifetime of success,\" says mental performance coach Cindra Kamphoff.",
-      "source_url": "https://www.cnbc.com/2026/03/07/confidence-building-tools-parents-help-kids-succeed.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T14:15:01+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108275070-1772834938957-gettyimages-994522096-wpef00357.jpeg?v=1772835017&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict - Reuters",
-      "body_preview": "Kuwait declares force majeure, cuts crude oil output due to Middle East conflict  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZURTLWd2YkJiSm9fb1BJODAzd2xDX0gwZEhpS05IZzFWckJfaGpwN0hqdnlyMzlaZW1sdUpiQjBpS0FlRHh1TF8zcllMN1M3VmZILXNnSEkxdl96ZkZWa2VnV3hMa3poa0NRaVhnNkVnZTZXcjY4NnFpOF9wTEtGd191U3dETEx3dXJPaXNpQ3BBZmhLN1hMeDVrdUNKdzhxTzRjWE1EakhDYk4yTG13Wk1Vajk2VVVQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T14:06:39+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "When to talk to AI chatbots about mental health—and when to stay far away, professionals say",
-      "body_preview": "Some Americans are using AI chatbots for therapy. Mental health experts share when it is, and isn't, safe to use those tools for emotional support.",
-      "source_url": "https://www.cnbc.com/2026/03/07/when-you-shouldand-shouldntuse-chatgpt-as-a-therapist-from-experts.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T14:05:01+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108272388-1772490885560-gettyimages-2161537480-dsc04397.jpeg?v=1772490941&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "Lebanon's Hezbollah warns residents in Israel's north to evacuate - Reuters",
-      "body_preview": "Lebanon's Hezbollah warns residents in Israel's north to evacuate  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOTMwVjRha0E5OWFqa0hPdlZubFFiMVBrbU1DOEVKZzhKSGlLTW5YYlp3Nms2VkZvWlhaS0hTZUVSMzg5VTBNNGJHMWpPTXZ5MmluWGwxTTdyTXBNMjZzZDV3VWFsZHpjNV9OU3dMS0V3WlhhbktGZTMxdGwyLUdqb2pnMmtuRTNhUXpzM0lNdFgzOFdVeFhtampscWJRQlk4VHB0ZzQxRE5Xb29kbW1TVw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T12:10:07+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "Ukraine's interceptor drone makers look at exports to the Gulf as Iran war flares - Reuters",
-      "body_preview": "Ukraine's interceptor drone makers look at exports to the Gulf as Iran war flares  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGdqc2RCQncxZ0hQbmFFcTctS0h2eUgyY2RVZkkycUNpNmRMRzNNMG1XamZ5MFM1d1JpaDFMZ1FrcWtEWG1YbXNzay1GdlhVTkdxS1ZVMVRyd2NrT2thNndQdEtOWXFmdXhZOWt0OGpMRkVTQlJSOFFjU01qaHRDX19JbHBWTEJwUjZPLXJfQldIcjFyNUdNYnNHb1l6Q09IVzVjdFFJbWtmX2xZOXRpY05SenBtSXpUbmQtbGNkY0dMeGtUbnZURDVR?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T12:05:05+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "Trump says Iran will be 'hit very hard' on Saturday - Reuters",
-      "body_preview": "Trump says Iran will be 'hit very hard' on Saturday  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSFRIOVNtTVkwOFFhdGFkWnR0M1d6aUIzdXNRT00zQW1Pa3pZcDM0WlpsRVdzWFlIbW5XZ3E4MUVlMUl6cDIzT0Juekd5azVwZS1ia3RkMExGOFRtblVsbEZUMnB3SXpvbldaRm9uc0d3WW1Vc2VPYWdwUk92QVFPOWpIeEU2Ylc3Ym1Wck5NZGVaQkpCcThXNDAyOEhWbmFzVlE?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:34:23+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "Iran war threatens prolonged hit to global energy markets - Reuters",
-      "body_preview": "Iran war threatens prolonged hit to global energy markets  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb05tQUczS3pRVDllRmdvTE9yZ0pmT2tFM1RYQTZyYm1DanAwVjJROWJ3UXV0NEhoZk5qeEN2b2lfOTIzZ1Q2M2szR2RVdl9RWVNhczlKT0RzNlVLWjlrdms3aDJWZk42cU5TNmRGUHQ0bUlHZFFabEU3ZFQyWTY0cU50alhrRUc0dzBOX20wYUpoN0xPMDVUVUhJcTNTNms5WGJZU2w2MGVSdw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:14:35+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "Aggressive Trump launches Latin America cartel coalition - Reuters",
-      "body_preview": "Aggressive Trump launches Latin America cartel coalition  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckNVRFRyY3NfV3FrSHJyZWc0WjhoWTAzYTdqZ0RldDU0YlVXLXV4QU9TamdKWTVtZ0dFcHdUQXNmMVZJZlpxVkNOd2NtTkJFejgwZTNlcDhTZmZwNkhHTHg4OUpfZ3FMUlN4ZThOM0RtRTVHbGtlUlE2RkxXUU5WYW0tOFN5cHIyaTVKUUFRcmh2VllieGRaMmJzSHVGeTdLSmZ0ck44SHljdFQxVWJKdFdXc3U4Zm44OFJYUA?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:09:46+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "SpongeBob, Iron Man and Call of Duty: Inside the US meme war against Iran - Reuters",
-      "body_preview": "SpongeBob, Iron Man and Call of Duty: Inside the US meme war against Iran  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3RPVmF2V0x4THg2T3QtRVIyaV9IZTQxX2YyVHlCLXJVT0xiUmpFb2pVQWNtNy1WVTJRZDJZN1cwbWpUUTc2N2hpTGtsdXlBeDhCTW0xcDU1a0FZdlJaSkZoV3Y1aUV5SF9UMWlUUVhNcE1ycVg3UUlsQTYzOTdyRVVVNjRfQm9WNVVQamdQc0U1RWhhNWpCbWFCZVl5YzJqUlV3RzN3aFhBSEItYm4tbXdvbEc0OElqVlR3?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:08:54+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T21:19:40.354549+00:00"
-    },
-    {
-      "title": "Iranian hardline clerics seek swift naming of new supreme leader - Reuters",
-      "body_preview": "Iranian hardline clerics seek swift naming of new supreme leader  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFJENUp5cEpfam9VUWUxcHZ2SnVvbXMyZF9wTHpReUl3UGJ5X3drNExqWms1SE9zcmQ0bWR2Wm5ldFlSd1Q5cHh2X0MxWUl3MWVXVHhoNDNrSU44emtub1piNUpGT0JqRnl3aE1KMTRmaVQ0ZkFjVUhzUkpaZEl1WWlJeks5NjR0bk54THZkdXE4UDhUaWhPRnZUM2w1bTY5enNMdlgteWhWQzRGZnJJdER6dnJZQQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T10:59:10+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "korean_summary": "",
       "fetched_at": "2026-03-07T21:19:40.354549+00:00"
     },
@@ -2996,119 +3103,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/65/58951113.jpeg",
       "korean_summary": "한 저명한 암호화폐(Crypto) 창업자는 비트코인(Bitcoin), 이더리움(Ethereum), XRP 모두 양자 위협(Quantum Threat) 위험에 직면해 있지만, XRP가 다른 자산보다 우위를 가질 수 있다고 주장했다.",
-      "fetched_at": "2026-03-07T09:21:38.861713+00:00"
-    },
-    {
-      "title": "Florida stablecoin plans clash with Washington crypto controversy",
-      "body_preview": "Florida is moving closer to establishing its own state-level stablecoin regulatory framework after the State Senate approved Senate Bill 314 on Friday, March 6. Reacting to the development, Samuel Armes, founder and president of the Florida Blockchain Business Association, described the vote as a hi",
-      "source_url": "https://www.cryptopolitan.com/florida-advances-stablecoin-regulation/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T08:52:06+00:00",
-      "category": "macro",
-      "currencies": [
-        "TRX"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/43/58951322.jpeg",
-      "korean_summary": "플로리다주가 자체적인 주 차원의 스테이블코인(Stablecoin) 규제 프레임워크를 수립하는 데 근접하면서, 워싱턴의 암호화폐(Crypto) 논란과 충돌할 가능성이 제기되었다. 주 상원은 관련 법안(Senate Bill 314)을 승인했다.",
-      "fetched_at": "2026-03-07T09:21:38.861713+00:00"
-    },
-    {
-      "title": "XRPL Dev Explains Why $100 XRP Price Isn’t “Insane”",
-      "body_preview": "Bird, an XRP Ledger developer, has explained why he believes a $100 price for XRP may not be as unrealistic as some critics believe. He argued that many market participants underestimate the long-term potential of the network, particularly as tokenization expands across global financial markets. Vis",
-      "source_url": "https://thecryptobasic.com/2026/03/07/xrpl-dev-explains-why-100-xrp-price-isnt-insane/",
-      "source_name": "The Crypto Basic",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T08:48:19+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/65/58950977.jpeg",
-      "korean_summary": "XRP 렛저(XRP Ledger, XRPL) 개발자 버드는 XRP 가격 100달러가 비현실적이지 않다고 설명하며, 많은 시장 참여자들이 XRP의 장기적인 잠재력을 과소평가하고 있다고 주장했다.",
-      "fetched_at": "2026-03-07T09:21:38.861713+00:00"
-    },
-    {
-      "title": "Florida Stablecoin Law and BTC Drop",
-      "body_preview": "Florida approved the stablecoin regulation SB 314, and with HB 183, it can invest 10% of state funds in BTC. Due to the Trump effect, BTC fell to 67,925$ (-4.25%), strong support at 64,313$. Techni...",
-      "source_url": "https://en.coinotag.com/florida-stablecoin-law-and-btc-drop",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T08:31:16+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/58950499.jpeg",
-      "korean_summary": "플로리다주가 스테이블코인(Stablecoin) 규제 법안(SB 314)을 승인하고, 주 자금의 10%를 비트코인(BTC)에 투자할 수 있게 되었다. 트럼프 효과로 BTC는 67,925달러로 하락했으며, 64,313달러에 강력한 지지선이 형성되었다.",
-      "fetched_at": "2026-03-07T09:21:38.861713+00:00"
-    },
-    {
-      "title": "Argentine Neobank Uala Raises $195 Million to Bankroll Latin American Expansion",
-      "body_preview": "The round, led by Allianz X, Allianz’s Group strategic investment arm, seeks to help Uala expand its operations across Latin America. The company reached a $3.2 billion valuation, becoming one of the largest digital conglomerates in the region. Uala Reaches $3.2 Billion Valuation In Latest Funding R",
-      "source_url": "https://news.bitcoin.com/argentine-neobank-uala-raises-195-million-to-bankroll-latin-american-expansion/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T08:30:41+00:00",
-      "category": "stocks",
-      "currencies": [
-        "OTHER"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/14/58950320.jpeg",
-      "korean_summary": "아르헨티나의 네오뱅크(Neobank) Uala가 라틴 아메리카 확장을 위해 1억 9,500만 달러를 유치했다. 알리안츠 X(Allianz X)가 주도한 이번 투자 유치로 Uala는 32억 달러의 기업 가치를 달성했다.",
-      "fetched_at": "2026-03-07T09:21:38.861713+00:00"
-    },
-    {
-      "title": "Ripple (XRP) records new ETF inflows while Mutuum Finance (MUTM) protocol development advances",
-      "body_preview": "Institutional interest in XRP is picking up as ETFs tied to the asset attract fresh",
-      "source_url": "https://ambcrypto.com/ripple-xrp-records-new-etf-inflows-while-mutuum-finance-mutm-protocol-development-advances/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T08:30:39+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "리플(Ripple, XRP) 관련 상장지수펀드(ETF)에 새로운 자금 유입이 기록되며 기관 투자자들의 관심이 증가하고 있다. 한편, 뮤툼 파이낸스(Mutuum Finance, MUTM) 프로토콜 개발도 진전되고 있다.",
-      "fetched_at": "2026-03-07T09:21:38.861713+00:00"
-    },
-    {
-      "title": "Why BlackRock Hasn’t Launched an XRP ETF? Expert Explains",
-      "body_preview": "Abs Nassif, host of the Good Evening Crypto podcast, recently shared insights on a potential connection between BlackRock and the XRP Ledger. In The XRP Podcast with Paul Barron, Nassif explored why a BlackRock XRP spot ETF has not yet appeared and what this could mean for the market. Nassif noted t",
-      "source_url": "https://timestabloid.com/why-blackrock-hasnt-launched-an-xrp-etf-expert-explains/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T08:30:26+00:00",
-      "category": "macro",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "굿 이브닝 크립토(Good Evening Crypto) 팟캐스트 진행자 압스 나시프(Abs Nassif)가 블랙록(BlackRock)이 XRP 상장지수펀드(ETF)를 출시하지 않은 이유에 대한 통찰을 공유했다. 그는 블랙록과 XRP 렛저(XRP Ledger) 간의 잠재적 연관성을 탐구했다.",
-      "fetched_at": "2026-03-07T09:21:38.861713+00:00"
-    },
-    {
-      "title": "Analyst Says Bitcoin $200,000 Target Remains Open, But There’s A More Realistic Target",
-      "body_preview": "Bitcoin’s initial break above the 6-figure price point back in 2024, and then the eventual move to an all-time high of $126,000, has fueled the expectations of higher price points. Even now, as the price continues to trend below $100,000, it has done little to erase the bullish momentum surrounding ",
-      "source_url": "https://www.newsbtc.com/news/bitcoin/bitcoin-200000-target-open/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T08:30:00+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "DOGE"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/58950259.jpeg",
-      "korean_summary": "한 분석가는 비트코인(Bitcoin)의 20만 달러 목표가 여전히 유효하지만, 더 현실적인 목표가 있다고 밝혔다. 비트코인은 2024년 6자리 가격을 돌파하고 최고 12만 6천 달러를 기록하며 기대를 높였다.",
       "fetched_at": "2026-03-07T09:21:38.861713+00:00"
     }
   ]
