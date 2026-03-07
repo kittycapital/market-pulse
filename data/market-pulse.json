@@ -1,8 +1,152 @@
 {
-  "last_updated": "2026-03-07T06:34:48.983645+00:00",
-  "last_updated_kst": "2026-03-07 15:34 KST",
+  "last_updated": "2026-03-07T07:28:47.454654+00:00",
+  "last_updated_kst": "2026-03-07 16:28 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Liquidity shock? LIT drops 16% after Justin Sun pulls funds from Lighter",
+      "body_preview": "Whales didn't trim exposure to LIT despite Thursday's sell-offs.",
+      "source_url": "https://ambcrypto.com/liquidity-shock-lit-drops-16-after-justin-sun-pulls-funds-from-lighter/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T07:00:49+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "The 24/7 Takeover: How Crypto’s $130B TradFi Surge Is Absorbing The Global Commodities Trade",
+      "body_preview": "Cryptocurrency exchanges are increasingly evolving beyond digital asset trading platforms, gradually becoming global venues for traditional financial derivatives. A recent CryptoQuant report highlights how this shift is accelerating as market participants from traditional finance begin to utilize cr",
+      "source_url": "https://bitcoinist.com/the-24-7-takeover-how-cryptos-130b-tradfi-surge/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T07:00:48+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT",
+        "BNB"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/58947017.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Bitcoin May Hit $180,000 This Year, But Only If This Scenario Plays Out: Amber Data",
+      "body_preview": "Bitcoin (BTC) began the week with a sharp rebound that briefly lifted the world’s largest cryptocurrency back toward the $74,000 mark on Wednesday for the first time in more than a month. However, as the week comes to a close, that momentum has faded, with BTC sliding back to roughly $68,260. Even w",
+      "source_url": "https://www.newsbtc.com/bitcoin-news/bitcoin-may-hit-180000-this-year-but-only-if-this-scenario-plays-out-amber-data/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T07:00:45+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/58947011.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "SushiSwap (SUSHI) Price Prediction 2026-2030: Unveiling the Critical Long-Term Outlook for the DeFi Pioneer",
+      "body_preview": "BitcoinWorld SushiSwap (SUSHI) Price Prediction 2026-2030: Unveiling the Critical Long-Term Outlook for the DeFi Pioneer As the decentralized finance (DeFi) landscape continues its rapid evolution, market participants globally are scrutinizing the long-term trajectory of foundational protocols like ",
+      "source_url": "https://bitcoinworld.co.in/sushiswap-sushi-price-prediction-2030/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T06:55:10+00:00",
+      "category": "macro",
+      "currencies": [
+        "SUSHI"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "BTC Perpetual Futures Reveal Critical Market Sentiment: Long/Short Ratios Show Bearish Lean Across Major Exchanges",
+      "body_preview": "BitcoinWorld BTC Perpetual Futures Reveal Critical Market Sentiment: Long/Short Ratios Show Bearish Lean Across Major Exchanges Global cryptocurrency markets continue to demonstrate sophisticated trading patterns in 2025, with Bitcoin perpetual futures contracts providing crucial sentiment indicator",
+      "source_url": "https://bitcoinworld.co.in/btc-perpetual-futures-long-short-ratios-25/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T06:50:11+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "XRP’s Critical Juncture: Analyst Reveals Exhausted Downward Momentum After 52% Plunge",
+      "body_preview": "BitcoinWorld XRP’s Critical Juncture: Analyst Reveals Exhausted Downward Momentum After 52% Plunge Market analysts are closely monitoring XRP as technical indicators suggest the cryptocurrency’s prolonged decline may be reaching a critical inflection point following a substantial 52% price correctio",
+      "source_url": "https://bitcoinworld.co.in/xrp-downward-momentum-exhausted-analysis/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T06:45:11+00:00",
+      "category": "crypto",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Massive 390 Million USDT Whale Transfer from HTX to Aave Sparks DeFi Liquidity Surge",
+      "body_preview": "BitcoinWorld Massive 390 Million USDT Whale Transfer from HTX to Aave Sparks DeFi Liquidity Surge A seismic shift in decentralized finance liquidity occurred today as blockchain tracking service Whale Alert reported a staggering 390 million USDT transfer from the HTX exchange to the Aave lending pro",
+      "source_url": "https://bitcoinworld.co.in/usdt-whale-transfer-htx-aave-14/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T06:40:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "USDT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "JasmyCoin Price Prediction 2026-2030: Unveiling the Critical Factors for IoT Crypto Investment",
+      "body_preview": "BitcoinWorld JasmyCoin Price Prediction 2026-2030: Unveiling the Critical Factors for IoT Crypto Investment Tokyo, Japan – March 2025: JasmyCoin (JASMY) continues generating significant attention as investors evaluate its long-term potential within the rapidly expanding Internet of Things (IoT) sect",
+      "source_url": "https://bitcoinworld.co.in/jasmycoin-price-prediction-2030-investment-3/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T06:30:17+00:00",
+      "category": "macro",
+      "currencies": [
+        "JASMY"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Kazakhstan Announces Investment of up to $350 Million in Crypto Reserve",
+      "body_preview": "The Central Bank of Kazakhstan recently announced that it would set up an investment portfolio of up to $350 million to invest in cryptocurrency companies and other instruments providing exposure to digital assets, using gold, and part of its foreign reserves to this end. Kazakhstan To Invest Up to ",
+      "source_url": "https://news.bitcoin.com/kazakhstan-announces-investment-of-up-to-350-million-in-crypto-reserve/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T06:30:12+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/14/58945930.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
     {
       "title": "SHIB Burn Rate Jumps 53,000% But Price Drops Over 2% — Here's Why It Doesn't Matter",
       "body_preview": "Shiba Inu's burn rate recorded a dramatic spike in the last 24 hours, with over 172 million SHIB tokens permanently removed from circulation, a 53,000% increase over the prior period. Despite the headline-grabbing figure, the token's price has not responded in kind. SHIB is trading around $0.0000054",
@@ -17,7 +161,7 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/93/default.png",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
     },
     {
       "title": "Spot Gold in Dubai Plummets: $30 Discount Reveals Critical Logistics Crisis",
@@ -34,7 +178,7 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
     },
     {
       "title": "Bitcoin slips below $68,000 heading into the weekend as dollar posts steepest weekly gain in a year",
@@ -51,7 +195,7 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/5/58945391.jpeg",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
     },
     {
       "title": "JasmyCoin Price Prediction 2026-2030: Unveiling the Critical Data for Long-Term Investors",
@@ -67,7 +211,7 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
     },
     {
       "title": "Bitcoin Price Prediction: Alarming 30% Drop Looms in 2025 Bear Market, Warns Hedge Fund",
@@ -83,7 +227,7 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
     },
     {
       "title": "XRP Currently Offers a Strong Risk:Reward Setup as Downside Fuel Nearly Gone",
@@ -99,7 +243,217 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/65/58945040.jpeg",
       "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Trump demands 'unconditional surrender' as Iran war enters second week - Reuters",
+      "body_preview": "Trump demands 'unconditional surrender' as Iran war enters second week  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVcyeGpqZVhLT2NDXy0zRUtFZV9IQnFhdEJtN2ZQVDVvRTZheUhuaHJ0X0dHeUdsN2N3cFFTS0JiZEREaEV5OEFLOWZyZEhmUXJWVXY4WHdHeC1rS1VtQUxDbEpESjNsUWVzM3BVVHBNelltQ3ljYmpMWm9zTEZzZ1Jzb0JxeEZMWXBSeFJMYXFDUXNuV1JDZ0dOYW0tMVdxbVRkeHkwOHNvajRJemIyQU80MXozTGx2bExR?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T02:55:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Pakistani convicted of plotting to kill Trump over death of Iran commander - Reuters",
+      "body_preview": "Pakistani convicted of plotting to kill Trump over death of Iran commander  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDV1aTFlVnRSUVpiNGVyeE94UTd1cFd2SmdBZGhDYzA1U0hITnVjRFhDOHBFa2hneFduWkFlVmltX0oyX3NEdmRJNmJQRmR3VVlRVE9ZMXZMbWVXYXY0ZU12bS1uTEI4RWlCbXNLdGJZZHZOMThzazFXUm1BaEZYQ3JKejR6bWF4SUY5VnFGTFllRE1FM2dzYktZd1Zwd2Rfai1ieU5vV2tXbVFpWGZIcWdDd01CQlVXT29CSw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T02:52:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "US pump prices surge as Iran war upends global energy supply - Reuters",
+      "body_preview": "US pump prices surge as Iran war upends global energy supply  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0VyT1UzRU1KWjhDbTY4RXotMjVGb3N0VG03NEViR0htMGktb0FaZ0dWSGEycTVhQnpkeEo2MDd6OHNFYlRCb3l3S2ZjaUY2QXRFQ01weWJ5TmVpSU54Y0VvRjRzSEk2N2dnaDN0eUR0aUtxTndpc04wd29NUG9RQndCWklHY2U5YnBDOEw1VjhsSDdnTFliN3ZkaUVSUmNINmEwam1XVFRNUXROQ3c?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T00:59:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Iran conflict boosts U.S. Gulf oil prices to highest since 2020 - Reuters",
+      "body_preview": "Iran conflict boosts U.S. Gulf oil prices to highest since 2020  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnFBTklGeTRWVVVyVlJrZUw0VmQxMmQ0Y3lXa3V4S3dCd0YzQjdPU2dzUU4ycnFjeWRKWWxOLVB3NURPeWY2UjNNMVZVRG0xMnNOcDdVMjU4aEVwWDNOTFVhYjF2Sl9na3VENm96UDdpWlQ3Y25qdHNROUNJMWVPM0Y4RGhlcTRKLVY4ZDd2R296NWpfUEVzRmZmclN3TmdyazU4Nm02ZGlrbi1jMFRJ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T23:21:27+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz - Reuters",
+      "body_preview": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeGV6MEZnWnpYSUdnUWZrN2Q3R1NBaGxLYmY3M1JxYm1kQURyeDQwRldraTZFSzh0VU13QXRMdHN3VTFHU3AyNlJlYndjMGtGeHlVNXVZb0N4VkJQMnZVYWZHMml3TFp2QzhEbGtkdkdiQVgzc0hpcXRHRm44TFRnYUJhRHpXUGVqbUxIajBvejRRUm9JYVBkMHRJWm5yS2hOTVNHZVNIOExJRTFRdHhCRThvOF9ZMF95VVJNR2JtRUp5MlctczhUTw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T23:05:45+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
+      "body_preview": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
+      "source_url": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T22:26:20+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108254383-1770070558669-108254383-17689273942026-01-20t140915z_1241214190_rc225ja1zdei_rtrmadp_0_davos-meeting.jpeg?v=1770070580&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Iran's UN envoy says 1,332 Iranian civilians killed in war - Reuters",
+      "body_preview": "Iran's UN envoy says 1,332 Iranian civilians killed in war  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGE4TU5iT0V4TlBwY3NIU0pCYzhLa2w0NnFIT0lUNnJBVDl6cE5rbDQ1a3EtX3RaOUVrZUZ6TWpzSWI0bTFKdjYyYWpGTHVkaXZNdzcyS25Rb09aaU5MWFJqYkFoeHAyV2ZXc1Vib01mbm5KYWZiWldfeFFQNHpwY1JPSEpTcUpndGxMUXhGWkppRWYzbmdfQ3h5RkZ5RDV6OWtESG9IVmxaeHM?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T21:18:21+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Trump says defense CEOs agree to quadruple production of `Exquisite Class' weaponry",
+      "body_preview": "President Trump said he met with CEOs of BAE Systems, Lockheed Martin, Northrop Grumman, RTX Corp., Boeing, Honeywell Aerospace and L3Harris Missile Solutions.",
+      "source_url": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T21:11:11+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108235310-17646945232025-12-02t165348z_956658416_rc2g8iadh0x7_rtrmadp_0_usa-trump.jpeg?v=1764694583&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Scenes from a week of war - Reuters",
+      "body_preview": "Scenes from a week of war  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4NUdna1hwMk9lb0V2SU1rd1BVNVFZU1U1WGR6X25XbTBwTGJCQktuUnRoeHo4MEZiY0l3Y1V4WTBrZEJ5RUY1dzc2YXd1QV85S3hUWjJtdEZvZXZNUmRHT3F6N0diX3dJdlp2Qg?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T21:06:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "EU countries joining US, Israel attacks would become Iran's \"legitimate target\", Deputy Minister says - Reuters",
+      "body_preview": "EU countries joining US, Israel attacks would become Iran's \"legitimate target\", Deputy Minister says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnlkWHk5QnRwcVJvWDFVVVNraVNQUGVCb053WHkyTV80T2FXX0c3WTg5UUtZQ0JkNWdFOEFrYnRmaWVZbWJ1LUtJS01MYnZkWnNkTlA5V2E0eGVsT1ZuQ3VPczhfVDVHQnBtUWxlcUplTTVQa3BNTG9Pa0xpQnB5T0h5aFVWWV9jcW9ucF9nTHJaMlNjMUZSQ3pPeFE2NnEwQl9FcVZ6N2hHVk96c1pER2ZldHhZOWZqVXdVV2FmSVJqQQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T21:05:16+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Boeing moves closer to a huge deal — plus, positive signs for one of our AI plays",
+      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source_url": "https://www.cnbc.com/2026/03/06/boeings-potential-big-deal-plus-positive-signs-for-one-an-ai-play.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T19:27:39+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108267031-17714493362026-02-18t211437z_1428980417_rc2fojafg4cb_rtrmadp_0_usa-trump-air-force-one.jpeg?v=1771449408&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say - Reuters",
+      "body_preview": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVdXNHVZNkdaU3Jzem13WmdhM2NkZW1iVFV6SEJoaUlKVlJkdUt0SU1jNHdYbzVCbDkyUWxnR3lDZnhuSlFpRk45RlZSR09BZExGU0ZIMlhBSGdNV2t5LXJ4ZWxiZGRKX0pueHFHankwc0k2RG5kV3NXaGZNTGVZbG9pbk5GSDBkVWtzOTdGSFBFNkVFUkRQeUQ0MjFOd3M0TE4yVVFBcUVodXctR3o1N0hOWUNRRjhCOUFEb1E4bG5SU0U?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T19:02:50+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "White House says US well on way toward controlling Iran airspace - Reuters",
+      "body_preview": "White House says US well on way toward controlling Iran airspace  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajd0XzB0MllMYVB5UmhLSG1FNmx5TERHWWxRZG5rT2RIb2pjc292d3BGb1JIRkpuR0hNS3Z1d0NTQTk3bnBZSWstcGZEeXVrTG5DYkFIbTZXVXJ2YWE2WlhGalVMLXRBUU9FSjZZd1BPODZyUTBWazNuYUppZDlaX1BwdGUtUTc4bjk5Ry1hTVRkUUtiOUs3SzVWZFFaS2Jvc1RNUEF5V3d3c1ptamVwTmV3VjdiZw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T18:43:08+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
+      "body_preview": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
+      "source_url": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T18:25:50+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108175923-1753295096870-gettyimages-2217999388-BLOOMBERG_TECH.jpeg?v=1772818953&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
+    },
+    {
+      "title": "Kalshi sued over ouster of Iran leader prediction market - Reuters",
+      "body_preview": "Kalshi sued over ouster of Iran leader prediction market  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2tMMjA0dHhPSVIzSUVKSHRUUjNGU1lxUHpFeE9SS3RNSm1lUUFLVXJYcEFkbmRRSlJnWWpmSFJKZE9FRDhGQWZJUzduNlc1OGlDZDJiYUlmc2NiNkJXZzU2NGQwWEZyeTIxNEl2aUtmZHoyVEhpTGxCRW03bjJOS1FLVlI1c0hhZWE5Y3lGT29TdGtyaENDWEM5MlZvRElGUVJBRG5QeUNtTlk?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T18:13:49+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T07:28:47.451411+00:00"
     },
     {
       "title": "Bitcoin Clings to $70,000: Can Crypto Shake Off the Employment Upset Before Monday?",
@@ -240,216 +594,6 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Iran war enters second week as Trump demands 'unconditional surrender' - Reuters",
-      "body_preview": "Iran war enters second week as Trump demands 'unconditional surrender'  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVcyeGpqZVhLT2NDXy0zRUtFZV9IQnFhdEJtN2ZQVDVvRTZheUhuaHJ0X0dHeUdsN2N3cFFTS0JiZEREaEV5OEFLOWZyZEhmUXJWVXY4WHdHeC1rS1VtQUxDbEpESjNsUWVzM3BVVHBNelltQ3ljYmpMWm9zTEZzZ1Jzb0JxeEZMWXBSeFJMYXFDUXNuV1JDZ0dOYW0tMVdxbVRkeHkwOHNvajRJemIyQU80MXozTGx2bExR?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T02:55:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Pakistani convicted of plotting to kill Trump over death of Iran commander - Reuters",
-      "body_preview": "Pakistani convicted of plotting to kill Trump over death of Iran commander  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDV1aTFlVnRSUVpiNGVyeE94UTd1cFd2SmdBZGhDYzA1U0hITnVjRFhDOHBFa2hneFduWkFlVmltX0oyX3NEdmRJNmJQRmR3VVlRVE9ZMXZMbWVXYXY0ZU12bS1uTEI4RWlCbXNLdGJZZHZOMThzazFXUm1BaEZYQ3JKejR6bWF4SUY5VnFGTFllRE1FM2dzYktZd1Zwd2Rfai1ieU5vV2tXbVFpWGZIcWdDd01CQlVXT29CSw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T02:52:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "US pump prices surge as Iran war upends global energy supply - Reuters",
-      "body_preview": "US pump prices surge as Iran war upends global energy supply  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0VyT1UzRU1KWjhDbTY4RXotMjVGb3N0VG03NEViR0htMGktb0FaZ0dWSGEycTVhQnpkeEo2MDd6OHNFYlRCb3l3S2ZjaUY2QXRFQ01weWJ5TmVpSU54Y0VvRjRzSEk2N2dnaDN0eUR0aUtxTndpc04wd29NUG9RQndCWklHY2U5YnBDOEw1VjhsSDdnTFliN3ZkaUVSUmNINmEwam1XVFRNUXROQ3c?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T00:59:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Iran conflict boosts U.S. Gulf oil prices to highest since 2020 - Reuters",
-      "body_preview": "Iran conflict boosts U.S. Gulf oil prices to highest since 2020  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnFBTklGeTRWVVVyVlJrZUw0VmQxMmQ0Y3lXa3V4S3dCd0YzQjdPU2dzUU4ycnFjeWRKWWxOLVB3NURPeWY2UjNNMVZVRG0xMnNOcDdVMjU4aEVwWDNOTFVhYjF2Sl9na3VENm96UDdpWlQ3Y25qdHNROUNJMWVPM0Y4RGhlcTRKLVY4ZDd2R296NWpfUEVzRmZmclN3TmdyazU4Nm02ZGlrbi1jMFRJ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T23:21:27+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz - Reuters",
-      "body_preview": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeGV6MEZnWnpYSUdnUWZrN2Q3R1NBaGxLYmY3M1JxYm1kQURyeDQwRldraTZFSzh0VU13QXRMdHN3VTFHU3AyNlJlYndjMGtGeHlVNXVZb0N4VkJQMnZVYWZHMml3TFp2QzhEbGtkdkdiQVgzc0hpcXRHRm44TFRnYUJhRHpXUGVqbUxIajBvejRRUm9JYVBkMHRJWm5yS2hOTVNHZVNIOExJRTFRdHhCRThvOF9ZMF95VVJNR2JtRUp5MlctczhUTw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T23:05:45+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
-      "body_preview": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
-      "source_url": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T22:26:20+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108254383-1770070558669-108254383-17689273942026-01-20t140915z_1241214190_rc225ja1zdei_rtrmadp_0_davos-meeting.jpeg?v=1770070580&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Iran's UN envoy says 1,332 Iranian civilians killed in war - Reuters",
-      "body_preview": "Iran's UN envoy says 1,332 Iranian civilians killed in war  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGE4TU5iT0V4TlBwY3NIU0pCYzhLa2w0NnFIT0lUNnJBVDl6cE5rbDQ1a3EtX3RaOUVrZUZ6TWpzSWI0bTFKdjYyYWpGTHVkaXZNdzcyS25Rb09aaU5MWFJqYkFoeHAyV2ZXc1Vib01mbm5KYWZiWldfeFFQNHpwY1JPSEpTcUpndGxMUXhGWkppRWYzbmdfQ3h5RkZ5RDV6OWtESG9IVmxaeHM?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T21:18:21+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Trump says defense CEOs agree to quadruple production of `Exquisite Class' weaponry",
-      "body_preview": "President Trump said he met with CEOs of BAE Systems, Lockheed Martin, Northrop Grumman, RTX Corp., Boeing, Honeywell Aerospace and L3Harris Missile Solutions.",
-      "source_url": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T21:11:11+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108235310-17646945232025-12-02t165348z_956658416_rc2g8iadh0x7_rtrmadp_0_usa-trump.jpeg?v=1764694583&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Scenes from a week of war - Reuters",
-      "body_preview": "Scenes from a week of war  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4NUdna1hwMk9lb0V2SU1rd1BVNVFZU1U1WGR6X25XbTBwTGJCQktuUnRoeHo4MEZiY0l3Y1V4WTBrZEJ5RUY1dzc2YXd1QV85S3hUWjJtdEZvZXZNUmRHT3F6N0diX3dJdlp2Qg?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T21:06:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "EU countries joining US, Israel attacks would become Iran's \"legitimate target\", Deputy Minister says - Reuters",
-      "body_preview": "EU countries joining US, Israel attacks would become Iran's \"legitimate target\", Deputy Minister says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnlkWHk5QnRwcVJvWDFVVVNraVNQUGVCb053WHkyTV80T2FXX0c3WTg5UUtZQ0JkNWdFOEFrYnRmaWVZbWJ1LUtJS01MYnZkWnNkTlA5V2E0eGVsT1ZuQ3VPczhfVDVHQnBtUWxlcUplTTVQa3BNTG9Pa0xpQnB5T0h5aFVWWV9jcW9ucF9nTHJaMlNjMUZSQ3pPeFE2NnEwQl9FcVZ6N2hHVk96c1pER2ZldHhZOWZqVXdVV2FmSVJqQQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T21:05:16+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Boeing moves closer to a huge deal — plus, positive signs for one of our AI plays",
-      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source_url": "https://www.cnbc.com/2026/03/06/boeings-potential-big-deal-plus-positive-signs-for-one-an-ai-play.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T19:27:39+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108267031-17714493362026-02-18t211437z_1428980417_rc2fojafg4cb_rtrmadp_0_usa-trump-air-force-one.jpeg?v=1771449408&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say - Reuters",
-      "body_preview": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVdXNHVZNkdaU3Jzem13WmdhM2NkZW1iVFV6SEJoaUlKVlJkdUt0SU1jNHdYbzVCbDkyUWxnR3lDZnhuSlFpRk45RlZSR09BZExGU0ZIMlhBSGdNV2t5LXJ4ZWxiZGRKX0pueHFHankwc0k2RG5kV3NXaGZNTGVZbG9pbk5GSDBkVWtzOTdGSFBFNkVFUkRQeUQ0MjFOd3M0TE4yVVFBcUVodXctR3o1N0hOWUNRRjhCOUFEb1E4bG5SU0U?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T19:02:50+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "White House says US well on way toward controlling Iran airspace - Reuters",
-      "body_preview": "White House says US well on way toward controlling Iran airspace  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajd0XzB0MllMYVB5UmhLSG1FNmx5TERHWWxRZG5rT2RIb2pjc292d3BGb1JIRkpuR0hNS3Z1d0NTQTk3bnBZSWstcGZEeXVrTG5DYkFIbTZXVXJ2YWE2WlhGalVMLXRBUU9FSjZZd1BPODZyUTBWazNuYUppZDlaX1BwdGUtUTc4bjk5Ry1hTVRkUUtiOUs3SzVWZFFaS2Jvc1RNUEF5V3d3c1ptamVwTmV3VjdiZw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T18:43:08+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
-      "body_preview": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
-      "source_url": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T18:25:50+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108175923-1753295096870-gettyimages-2217999388-BLOOMBERG_TECH.jpeg?v=1772818953&w=1920&h=1080",
-      "korean_summary": "",
-      "fetched_at": "2026-03-07T06:34:48.980242+00:00"
-    },
-    {
-      "title": "Kalshi sued over ouster of Iran leader prediction market - Reuters",
-      "body_preview": "Kalshi sued over ouster of Iran leader prediction market  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2tMMjA0dHhPSVIzSUVKSHRUUjNGU1lxUHpFeE9SS3RNSm1lUUFLVXJYcEFkbmRRSlJnWWpmSFJKZE9FRDhGQWZJUzduNlc1OGlDZDJiYUlmc2NiNkJXZzU2NGQwWEZyeTIxNEl2aUtmZHoyVEhpTGxCRW03bjJOS1FLVlI1c0hhZWE5Y3lGT29TdGtyaENDWEM5MlZvRElGUVJBRG5QeUNtTlk?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T18:13:49+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "korean_summary": "",
       "fetched_at": "2026-03-07T06:34:48.980242+00:00"
     },
@@ -2934,150 +3078,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "코메르츠방크(Commerzbank) 분석에 따르면, 연방준비제도(Fed)는 최근 발표된 부진한 고용 지표 이후 신중한 관망세를 유지하고 있다. 이는 향후 통화 정책 결정에 중요한 영향을 미칠 것으로 예상된다.",
-      "fetched_at": "2026-03-06T16:30:39.504057+00:00"
-    },
-    {
-      "title": "Crypto market holds $2T after U.S. jobs unexpectedly fall by 92K",
-      "body_preview": "Latest U.S. jobs report showed loss of over 92,000 jobs, as crypto markets held near $2 trillion.",
-      "source_url": "https://ambcrypto.com/crypto-market-holds-2t-after-u-s-jobs-unexpectedly-fall-by-92k/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T16:23:18+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "미국 고용 보고서에 따르면 예상치 못하게 9만 2천 개 이상의 일자리가 감소했음에도 불구하고, 암호화폐 시장은 약 2조 달러 규모를 유지했다. 이는 시장의 회복력을 보여주는 지표로 해석된다.",
-      "fetched_at": "2026-03-06T16:30:39.504057+00:00"
-    },
-    {
-      "title": "Critical Warning: Fed’s Daly Signals Dual Mandate Risks in Latest Economic Assessment",
-      "body_preview": "BitcoinWorld Critical Warning: Fed’s Daly Signals Dual Mandate Risks in Latest Economic Assessment Federal Reserve Bank of San Francisco President Mary Daly delivered a significant warning this week, indicating that both components of the central bank’s dual mandate now face substantial risks. This ",
-      "source_url": "https://bitcoinworld.co.in/fed-daly-dual-mandate-risks/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T16:22:40+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "샌프란시스코 연방준비은행(Federal Reserve Bank) 총재 메리 데일리(Mary Daly)는 최근 경제 평가에서 연준의 이중 책무(dual mandate)에 대한 위험을 경고했다. 이는 인플레이션과 고용 목표 달성 간의 균형 유지에 대한 우려를 시사한다.",
-      "fetched_at": "2026-03-06T16:30:39.504057+00:00"
-    },
-    {
-      "title": "XRP Lending Protocol Nears Milestone, 62.86% Potential Remains",
-      "body_preview": "XRP Ledger lending protocol adds the ability to create loans on the XRPL.",
-      "source_url": "https://u.today/xrp-lending-protocol-nears-milestone-6286-potential-remains",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T16:22:00+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/58918987.jpeg",
-      "korean_summary": "XRP 렛저(XRP Ledger) 기반 대출 프로토콜이 XRPL에서 대출을 생성하는 기능을 추가하며 중요한 이정표에 근접했다. 이는 XRP 생태계 내 금융 서비스 확장에 기여할 것으로 기대된다.",
-      "fetched_at": "2026-03-06T16:30:39.504057+00:00"
-    },
-    {
-      "title": "Gold Price Defies Logic: Struggles Despite Weak NFP and Soaring Middle East Tensions",
-      "body_preview": "BitcoinWorld Gold Price Defies Logic: Struggles Despite Weak NFP and Soaring Middle East Tensions In a surprising market development, the gold price is demonstrating unexpected resilience in the face of contradictory signals, struggling to gain momentum despite a notably weak US Non-Farm Payrolls (N",
-      "source_url": "https://bitcoinworld.co.in/gold-price-struggles-nfp-tensions/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T16:21:16+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "금 가격이 예상과 달리 부진한 비농업 고용 지표(NFP)와 중동 지역의 긴장 고조에도 불구하고 약세를 보이고 있다. 이는 전통적인 안전 자산의 움직임과 상반되는 현상으로 분석된다.",
-      "fetched_at": "2026-03-06T16:30:39.504057+00:00"
-    },
-    {
-      "title": "Polkadot ETF Launch: 21Shares Pioneers First US Spot DOT Fund with $11M Backing",
-      "body_preview": "BitcoinWorld Polkadot ETF Launch: 21Shares Pioneers First US Spot DOT Fund with $11M Backing In a landmark move for cryptocurrency accessibility, 21Shares launched the first U.S. spot Polkadot exchange-traded fund (ETF) today, March 6, 2025. Consequently, this pioneering fund begins trading with an ",
-      "source_url": "https://bitcoinworld.co.in/21shares-polkadot-etf-launch/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T16:19:39+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "DOT",
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "21셰어스(21Shares)가 1,100만 달러의 자금 지원을 받아 미국 최초의 폴카닷(Polkadot) 현물 상장지수펀드(ETF)를 출시했다. 이는 암호화폐 접근성을 높이는 중요한 진전으로 평가된다.",
-      "fetched_at": "2026-03-06T16:30:39.504057+00:00"
-    },
-    {
-      "title": "MRVL Stock Forecast as Marvell Jumps 18% on AI Data Center Boom",
-      "body_preview": "Before retracing lower, Marvell Technology shares climbed about 18% to roughly $89 during Friday trading. This was after the semiconductor company released strong quarterly results and raised its long-term growth outlook. The stock opened sharply higher following the earnings report, jumping from a ",
-      "source_url": "https://coinpaper.com/15226/mrvl-stock-forecast-as-marvell-jumps-18-on-ai-data-center-boom",
-      "source_name": "Coinpaper",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T16:19:23+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/93/default.png",
-      "korean_summary": "마벨 테크놀로지(Marvell Technology) 주가가 강력한 분기 실적 발표와 인공지능(AI) 데이터 센터 호황에 힘입어 약 18% 급등했다. 이는 장기 성장 전망 상향 조정에 따른 것으로 분석된다.",
-      "fetched_at": "2026-03-06T16:30:39.504057+00:00"
-    },
-    {
-      "title": "Cryptocurrency Futures Liquidated: $108 Million Wiped Out in One Hour as Market Panic Intensifies",
-      "body_preview": "BitcoinWorld Cryptocurrency Futures Liquidated: $108 Million Wiped Out in One Hour as Market Panic Intensifies Global cryptocurrency markets experienced a dramatic liquidation event today, with exchanges reporting $108 million worth of futures contracts forcibly closed within a single hour. This sub",
-      "source_url": "https://bitcoinworld.co.in/cryptocurrency-futures-liquidated-108-million/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T16:19:05+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "ZRX"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "글로벌 암호화폐 시장에서 시장 공포가 심화되면서 한 시간 만에 1억 8백만 달러 규모의 암호화폐 선물 포지션이 청산되었다. 이는 급격한 시장 변동성을 반영하는 사건으로 분석된다.",
-      "fetched_at": "2026-03-06T16:30:39.504057+00:00"
-    },
-    {
-      "title": "Bitcoin Price Plummets: BTC Falls Below $69,000 Amid Market Volatility",
-      "body_preview": "BitcoinWorld Bitcoin Price Plummets: BTC Falls Below $69,000 Amid Market Volatility Global cryptocurrency markets witnessed a significant shift on April 10, 2025, as the Bitcoin price fell below the critical $69,000 threshold. According to real-time data from Bitcoin World market monitoring, BTC tra",
-      "source_url": "https://bitcoinworld.co.in/bitcoin-price-falls-below-69000-8/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T16:15:14+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "글로벌 암호화폐 시장의 변동성이 커지면서 비트코인(Bitcoin) 가격이 6만 9천 달러 아래로 하락했다. 이는 투자자들의 우려를 증폭시키며 시장의 불안정성을 보여주는 지표로 해석된다.",
-      "fetched_at": "2026-03-06T16:30:39.504057+00:00"
-    },
-    {
-      "title": "733 Billion SHIB Outflow: Binance's Shiba Inu Stockpile Dips 1.38% While Holding a Massive 52.5T in Total Reserves",
-      "body_preview": "Is the SHIB supply on exchanges shrinking? Binance records a 733 billion Shiba Inu outflow as total reserves hit 52.5 trillion. See what this means for the SHIB ecosystem.",
-      "source_url": "https://u.today/733-billion-shib-outflow-binances-shiba-inu-stockpile-dips-138-while-holding-massive-525-trillion",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T16:14:00+00:00",
-      "category": "crypto",
-      "currencies": [
-        "SHIB",
-        "BNB"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/58918666.jpeg",
-      "korean_summary": "바이낸스(Binance)에서 7,330억 개의 시바이누(Shiba Inu, SHIB)가 유출되었으나, 총 보유량은 여전히 52.5조 개에 달한다. 이는 거래소 내 SHIB 공급량 변화에 대한 관심을 불러일으키고 있다.",
       "fetched_at": "2026-03-06T16:30:39.504057+00:00"
     }
   ]
