@@ -1,8 +1,88 @@
 {
-  "last_updated": "2026-03-07T03:54:02.950047+00:00",
-  "last_updated_kst": "2026-03-07 12:54 KST",
+  "last_updated": "2026-03-07T04:59:23.567264+00:00",
+  "last_updated_kst": "2026-03-07 13:59 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Crypto Crime Hits $154B in 2025 but It’s Below 1% of Onchain Activity",
+      "body_preview": "Illicit crypto transactions surged to record levels in 2025, yet the digital asset economy continues expanding as legitimate adoption accelerates worldwide, highlighting a rapidly growing blockchain ecosystem that still overwhelmingly operates within legal activity. Illicit Crypto Flows Surge While ",
+      "source_url": "https://news.bitcoin.com/crypto-crime-hits-154b-in-2025-but-its-below-1-of-onchain-activity/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T04:30:24+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/14/58941568.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Top Bullish Predictions for XRP, BNB, Solana, Cardano, Tron Align with Fresh Chart Data",
+      "body_preview": "Analysts have begun to share constructive opinions on altcoins as March begins, pointing to improving technical structure.",
+      "source_url": "https://zycrypto.com/top-bullish-predictions-for-xrp-bnb-solana-cardano-tron-align-with-fresh-chart-data/",
+      "source_name": "ZyCrypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T04:13:05+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ADA",
+        "SOL",
+        "BNB"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "From Ban Threats To Bank Licenses: Russia’s New Crypto Play",
+      "body_preview": "The Bank of Russia has proposed letting banks and brokerage firms obtain licenses to operate crypto exchanges. A New Crypto Play A report published by Interfax on March 5 states that The Central Bank of Russia (CBR) Governor Elvira Nabiullina has proposed to allow banks and brokers to obtain crypto ",
+      "source_url": "https://bitcoinist.com/ban-threats-to-bank-licenses-russias-crypto-play/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T04:00:41+00:00",
+      "category": "crypto",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/58940454.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Bitcoin Bounce Fails As Short-Term Holders Rush To Take Profit",
+      "body_preview": "Bitcoin’s latest rebound to $74,050 on Thursday is running into immediate selling pressure as short-term holders move coins to exchanges in large volumes, suggesting the market’s most reactive cohort remains unconvinced by the recovery. On-chain data shared by CryptoQuant contributors indicates that",
+      "source_url": "https://www.newsbtc.com/bitcoin-news/bitcoin-bounce-fails-short-term-holders-take-profit/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T04:00:41+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/58940452.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Kazakhstan Central Bank Targets Massive $350M Investment In Crypto Assets This Spring",
+      "body_preview": "Kazakhstan’s central bank has set aside $350 million to invest in the crypto sector, with plans to begin deploying the funds as early as next month.",
+      "source_url": "https://zycrypto.com/kazakhstan-central-bank-targets-massive-350m-investment-in-crypto-assets-this-spring/",
+      "source_name": "ZyCrypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T04:00:28+00:00",
+      "category": "crypto",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
     {
       "title": "Bitcoin Mining Giants Ramp Up Sales as Prices Drop Sharply",
       "body_preview": "Five major mining companies sold more than 15,000 BTC in five months. February saw record sales as Bitcoin’s price dropped to $70,000. Continue Reading: Bitcoin Mining Giants Ramp Up Sales as Prices Drop Sharply The post Bitcoin Mining Giants Ramp Up Sales as Prices Drop Sharply appeared first on CO",
@@ -16,8 +96,8 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/79/58939734.jpeg",
-      "korean_summary": "주요 비트코인(Bitcoin) 채굴 기업 5곳이 5개월간 15,000 BTC 이상을 매도했다. 2월에는 비트코인 가격이 7만 달러로 하락하자 사상 최고 판매량을 기록하며, 채굴 기업들이 가격 변동에 대응해 매도 압력을 높이고 있음을 보여준다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
     },
     {
       "title": "Kucoin Faces Cease-and-Desist Order From Dubai Crypto Regulator",
@@ -30,8 +110,8 @@
       "category": "crypto",
       "currencies": [],
       "media_url": "https://resources.cryptocompare.com/news/14/58939416.jpeg",
-      "korean_summary": "두바이 규제 당국이 암호화폐(crypto) 거래소 쿠코인(Kucoin)에 대해 중단 명령을 내리고 투자자들에게 주의를 당부했다. 이는 아랍에미리트(UAE)가 미규제 디지털 자산 플랫폼에 대한 감시를 강화하고 있음을 보여주며, 규제 당국의 감독 강화 추세를 반영한다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
     },
     {
       "title": "The 31,900 Bitcoin Purge: Why March 4 Marked An Institutional Bitcoin Floor",
@@ -46,8 +126,8 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/21/58938347.jpeg",
-      "korean_summary": "비트코인(Bitcoin)이 7만 4천 달러까지 급등한 후 현재 7만 달러 수준을 시험하고 있다. 지정학적 불확실성과 급격한 가격 변동으로 불안정했던 시장이 안정화를 시도하는 가운데, 기관 투자자들의 움직임이 주목받고 있다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
     },
     {
       "title": "Pump.fun team moves 1.75B PUMP: Can bulls offset selling pressure?",
@@ -60,8 +140,8 @@
       "category": "crypto",
       "currencies": [],
       "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "펌프(PUMP) 팀이 최근 17.5억 개의 PUMP 토큰을 이동시키면서 시장에 새로운 매도 압력을 가할 수 있다는 우려가 제기되었다. 이는 토큰 가격에 부정적인 영향을 미칠 가능성이 있으며, 강세론자들이 이 압력을 상쇄할 수 있을지 주목된다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
     },
     {
       "title": "+157 Billion Shiba Inu (SHIB) in 24 Hours: Market Turns to Selling Once Again",
@@ -76,8 +156,24 @@
         "SHIB"
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58938268.jpeg",
-      "korean_summary": "시바이누(Shiba Inu, SHIB)가 24시간 동안 1,570억 개 이상이 거래소로 유입되며 매도 압력이 증가, 다시 약세장으로 전환되었다. 이는 투자자들이 SHIB를 매도하려는 움직임을 보이며 가격 하락 가능성을 높이고 있음을 시사한다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Bitcoin Rally Likely A Relief Bounce, Not New Bull Phase: CryptoQuant",
+      "body_preview": "On-chain analytics firm CryptoQuant has highlighted how its Bull Score Index is deep inside the bearish territory despite the latest Bitcoin price rally. Bitcoin Bull Score Index Has A Value Of Just 10 Right Now In a new post on X, on-chain analytics firm CryptoQuant has discussed the latest trend i",
+      "source_url": "https://bitcoinist.com/bitcoin-rally-relief-bounce-bull-phase-cryptoquant/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T03:00:00+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/58940453.jpeg",
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
     },
     {
       "title": "Community banks and crypto industry ‘are allies’ in CLARITY Act debate: Exec",
@@ -90,8 +186,8 @@
       "category": "crypto",
       "currencies": [],
       "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "암호화폐(crypto) 업계와 지역 은행들이 CLARITY 법안에 대해 공통된 입장을 찾지 못하면, 결국 대형 은행들만 이득을 볼 것이라고 암호화폐 임원 오스틴 캠벨이 밝혔다. 이는 양측의 협력이 중요함을 강조한다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
     },
     {
       "title": "Ripple Says Crypto Has Entered Institutional-Grade Era as TradFi–DeFi Bridge ‘Officially’ Opens",
@@ -104,8 +200,8 @@
       "category": "crypto",
       "currencies": [],
       "media_url": "https://resources.cryptocompare.com/news/14/58937289.jpeg",
-      "korean_summary": "리플(Ripple)은 라이선스 기반 금융 인프라 확장과 글로벌 규제 준수를 통해 암호화폐(crypto)가 규제된 기관 투자 시대에 진입했다고 밝혔다. 이는 전통 금융(TradFi)과 탈중앙화 금융(DeFi) 간의 연결이 공식화되었음을 의미한다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
     },
     {
       "title": "Binance Lawsuit Dismissed: Landmark Court Ruling Rejects Terrorism Financing Claims",
@@ -120,8 +216,8 @@
         "BNB"
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "뉴욕 연방 법원이 바이낸스(Binance)에 대한 민사 테러 자금 조달 혐의 소송을 기각하는 중요한 판결을 내렸다. 이는 암호화폐(crypto) 거래소에 대한 법적 불확실성을 일부 해소하며, 업계에 긍정적인 영향을 미칠 것으로 예상된다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
     },
     {
       "title": "Akash Network’s Crucial Vote: Revolutionary Burn-Mint Equilibrium Model to Transform AKT Tokenomics",
@@ -136,8 +232,218 @@
         "AKT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "아카시 네트워크(Akash Network)가 AKT 토큰 경제를 혁신할 '소각-발행 균형(Burn-Mint Equilibrium)' 모델 도입을 위한 중요한 투표를 진행한다. 이는 탈중앙화 클라우드 컴퓨팅 분야의 핵심 전환점이 될 것으로 예상된다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "US pump prices surge as Iran war upends global energy supply - Reuters",
+      "body_preview": "US pump prices surge as Iran war upends global energy supply  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0VyT1UzRU1KWjhDbTY4RXotMjVGb3N0VG03NEViR0htMGktb0FaZ0dWSGEycTVhQnpkeEo2MDd6OHNFYlRCb3l3S2ZjaUY2QXRFQ01weWJ5TmVpSU54Y0VvRjRzSEk2N2dnaDN0eUR0aUtxTndpc04wd29NUG9RQndCWklHY2U5YnBDOEw1VjhsSDdnTFliN3ZkaUVSUmNINmEwam1XVFRNUXROQ3c?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T00:59:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 전쟁으로 글로벌 에너지 공급망이 불안정해지면서 미국 내 주유소 휘발유 가격이 급등했다. 이는 국제 유가 상승 압력으로 작용하며 소비자 물가에 영향을 미칠 것으로 예상된다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Iran conflict boosts U.S. Gulf oil prices to highest since 2020 - Reuters",
+      "body_preview": "Iran conflict boosts U.S. Gulf oil prices to highest since 2020  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnFBTklGeTRWVVVyVlJrZUw0VmQxMmQ0Y3lXa3V4S3dCd0YzQjdPU2dzUU4ycnFjeWRKWWxOLVB3NURPeWY2UjNNMVZVRG0xMnNOcDdVMjU4aEVwWDNOTFVhYjF2Sl9na3VENm96UDdpWlQ3Y25qdHNROUNJMWVPM0Y4RGhlcTRKLVY4ZDd2R296NWpfUEVzRmZmclN3TmdyazU4Nm02ZGlrbi1jMFRJ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T23:21:27+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 분쟁이 심화되면서 미국 걸프만(U.S. Gulf) 지역의 원유 가격이 2020년 이후 최고 수준으로 치솟았다. 이는 글로벌 에너지 시장의 불안정성을 반영하며, 유가 상승 압력을 가중시키고 있다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz - Reuters",
+      "body_preview": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeGV6MEZnWnpYSUdnUWZrN2Q3R1NBaGxLYmY3M1JxYm1kQURyeDQwRldraTZFSzh0VU13QXRMdHN3VTFHU3AyNlJlYndjMGtGeHlVNXVZb0N4VkJQMnZVYWZHMml3TFp2QzhEbGtkdkdiQVgzc0hpcXRHRm44TFRnYUJhRHpXUGVqbUxIajBvejRRUm9JYVBkMHRJWm5yS2hOTVNHZVNIOExJRTFRdHhCRThvOF9ZMF95VVJNR2JtRUp5MlctczhUTw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T23:05:45+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 혁명수비대(Iran's Guards)가 도널드 트럼프 전 대통령에게 호르무즈 해협(Strait of Hormuz)에서 미국 해군(US Navy)이 유조선을 호위하라고 도전했다. 이는 이란과 미국 간의 긴장 고조를 시사한다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
+      "body_preview": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
+      "source_url": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T22:26:20+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108254383-1770070558669-108254383-17689273942026-01-20t140915z_1241214190_rc225ja1zdei_rtrmadp_0_davos-meeting.jpeg?v=1770070580&w=1920&h=1080",
+      "korean_summary": "이란 전쟁 발발 후 팔란티어(Palantir) 주가가 주간 15% 급등하며 8월 이후 최고 실적을 기록했다. 이는 전쟁 관련 사업 전망 개선과 앤트로픽(Anthropic) 관련 우려 상쇄에 기인한다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Iran's UN envoy says 1,332 Iranian civilians killed in war - Reuters",
+      "body_preview": "Iran's UN envoy says 1,332 Iranian civilians killed in war  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGE4TU5iT0V4TlBwY3NIU0pCYzhLa2w0NnFIT0lUNnJBVDl6cE5rbDQ1a3EtX3RaOUVrZUZ6TWpzSWI0bTFKdjYyYWpGTHVkaXZNdzcyS25Rb09aaU5MWFJqYkFoeHAyV2ZXc1Vib01mbm5KYWZiWldfeFFQNHpwY1JPSEpTcUpndGxMUXhGWkppRWYzbmdfQ3h5RkZ5RDV6OWtESG9IVmxaeHM?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T21:18:21+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 유엔 대사(UN envoy)는 전쟁으로 인해 1,332명의 이란 민간인이 사망했다고 밝혔다. 이는 이란-미국 간의 군사적 충돌로 인한 인명 피해 규모를 공식적으로 언급한 것이다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Trump says defense CEOs agree to quadruple production of `Exquisite Class' weaponry",
+      "body_preview": "President Trump said he met with CEOs of BAE Systems, Lockheed Martin, Northrop Grumman, RTX Corp., Boeing, Honeywell Aerospace and L3Harris Missile Solutions.",
+      "source_url": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T21:11:11+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108235310-17646945232025-12-02t165348z_956658416_rc2g8iadh0x7_rtrmadp_0_usa-trump.jpeg?v=1764694583&w=1920&h=1080",
+      "korean_summary": "트럼프 전 대통령은 방위산업체 최고경영자(CEO)들과 만나 '정교한(Exquisite Class)' 무기 생산량을 4배 늘리기로 합의했다고 밝혔다. 이는 군비 증강 및 방위 산업 활성화 기대를 높인다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "EU countries joining US, Israel attacks would become Iran's \"legitimate target\", Deputy Minister says - Reuters",
+      "body_preview": "EU countries joining US, Israel attacks would become Iran's \"legitimate target\", Deputy Minister says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnlkWHk5QnRwcVJvWDFVVVNraVNQUGVCb053WHkyTV80T2FXX0c3WTg5UUtZQ0JkNWdFOEFrYnRmaWVZbWJ1LUtJS01MYnZkWnNkTlA5V2E0eGVsT1ZuQ3VPczhfVDVHQnBtUWxlcUplTTVQa3BNTG9Pa0xpQnB5T0h5aFVWWV9jcW9ucF9nTHJaMlNjMUZSQ3pPeFE2NnEwQl9FcVZ6N2hHVk96c1pER2ZldHhZOWZqVXdVV2FmSVJqQQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T21:05:16+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 차관은 미국과 이스라엘의 공격에 동참하는 유럽연합(EU) 국가들이 이란의 \"합법적인 표적(legitimate target)\"이 될 것이라고 경고했다. 이는 중동 긴장 고조와 국제적 확전 우려를 키운다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Boeing moves closer to a huge deal — plus, positive signs for one of our AI plays",
+      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source_url": "https://www.cnbc.com/2026/03/06/boeings-potential-big-deal-plus-positive-signs-for-one-an-ai-play.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T19:27:39+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108267031-17714493362026-02-18t211437z_1428980417_rc2fojafg4cb_rtrmadp_0_usa-trump-air-force-one.jpeg?v=1771449408&w=1920&h=1080",
+      "korean_summary": "보잉(Boeing)이 대규모 계약에 근접하고 있으며, 인공지능(AI) 관련 투자 종목 중 하나에서 긍정적인 신호가 포착되었다. 이는 항공 및 기술 산업에 대한 투자자들의 관심을 높이고 있다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say - Reuters",
+      "body_preview": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVdXNHVZNkdaU3Jzem13WmdhM2NkZW1iVFV6SEJoaUlKVlJkdUt0SU1jNHdYbzVCbDkyUWxnR3lDZnhuSlFpRk45RlZSR09BZExGU0ZIMlhBSGdNV2t5LXJ4ZWxiZGRKX0pueHFHankwc0k2RG5kV3NXaGZNTGVZbG9pbk5GSDBkVWtzOTdGSFBFNkVFUkRQeUQ0MjFOd3M0TE4yVVFBcUVodXctR3o1N0hOWUNRRjhCOUFEb1E4bG5SU0U?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T19:02:50+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "소식통에 따르면 헤즈볼라(Hezbollah)는 이스라엘과의 새로운 전쟁이 불가피하다고 판단하고 수개월간 재무장해왔다. 이는 중동 지역의 군사적 긴장과 충돌 가능성을 시사한다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "White House says US well on way toward controlling Iran airspace - Reuters",
+      "body_preview": "White House says US well on way toward controlling Iran airspace  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajd0XzB0MllMYVB5UmhLSG1FNmx5TERHWWxRZG5rT2RIb2pjc292d3BGb1JIRkpuR0hNS3Z1d0NTQTk3bnBZSWstcGZEeXVrTG5DYkFIbTZXVXJ2YWE2WlhGalVMLXRBUU9FSjZZd1BPODZyUTBWazNuYUppZDlaX1BwdGUtUTc4bjk5Ry1hTVRkUUtiOUs3SzVWZFFaS2Jvc1RNUEF5V3d3c1ptamVwTmV3VjdiZw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T18:43:08+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "백악관(White House)은 미국이 이란 영공(Iran airspace)을 통제하는 데 상당한 진전을 이루고 있다고 밝혔다. 이는 이란과의 군사적 대치 상황에서 미국의 전략적 우위를 강조하는 발언이다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
+      "body_preview": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
+      "source_url": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T18:25:50+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108175923-1753295096870-gettyimages-2217999388-BLOOMBERG_TECH.jpeg?v=1772818953&w=1920&h=1080",
+      "korean_summary": "구글(Google)이 마이크로소프트(Microsoft)에 이어 국방부(Department of Defense) 블랙리스트 등재에도 불구하고 앤트로픽(Anthropic)의 AI 도구가 국방 프로젝트 외에서는 여전히 사용 가능하다고 사용자들에게 알렸다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Kalshi sued over ouster of Iran leader prediction market - Reuters",
+      "body_preview": "Kalshi sued over ouster of Iran leader prediction market  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2tMMjA0dHhPSVIzSUVKSHRUUjNGU1lxUHpFeE9SS3RNSm1lUUFLVXJYcEFkbmRRSlJnWWpmSFJKZE9FRDhGQWZJUzduNlc1OGlDZDJiYUlmc2NiNkJXZzU2NGQwWEZyeTIxNEl2aUtmZHoyVEhpTGxCRW03bjJOS1FLVlI1c0hhZWE5Y3lGT29TdGtyaENDWEM5MlZvRElGUVJBRG5QeUNtTlk?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T18:13:49+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "예측 시장 플랫폼 칼시(Kalshi)가 이란 지도자 축출 예측 시장과 관련하여 소송을 당했다. 이는 정치적 사건을 예측하는 시장의 합법성과 윤리적 논란을 부각시킨다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "Exclusive: US pressing Sri Lanka not to repatriate Iranian crew and survivors from sunken ship, memo says - Reuters",
+      "body_preview": "Exclusive: US pressing Sri Lanka not to repatriate Iranian crew and survivors from sunken ship, memo says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUlN5UzdoYnNDQzkyVmpqcXpwaWVHUzUyWm1FVVJqdm1LUzJ4SXF4WTd5SFBVZVJ1VEhseFFBNXMtT0k1QnRzUVJXVTc0YjRWU0htWFJ6TTEwMUdtbmZ1Y0RGaGRwWnRKMGtNanBuZXFWN09RNHRYckQ1U0pBZTJsZEQyYUhOUE9Ibnd4OGs0YmVvNWRsXzh1MFZmekZPQTBDVHpXR2VoRlA4cGt0NU5UWi0taFpNejQ4NG9mS2hNcG9sMnhTZmVGQkpnOA?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T18:11:10+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "미국이 스리랑카에 침몰한 선박의 이란인 승무원 및 생존자들을 본국으로 송환하지 말 것을 압박하고 있다는 메모가 공개되었다. 이는 이란과의 외교적 긴장을 반영한다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "US-Israel war with Iran sends shockwaves through global business - Reuters",
+      "body_preview": "US-Israel war with Iran sends shockwaves through global business  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXlvQ0xaNDZkMWNpUG1pTDFabHJqYUFUYllPSWhqNFNGZ2FUdTBOY0Rxc0dSS2U1ZVo5UWN5X01pVEluN0dacEV5Z1J0VnRlSV9XRUpyNnBXWV9CYXhDd2RROXJvMV9yVnd5cDZsN0Zkcnc4X21Sd3lkZ191aF9kdTJpX1BTR0Z2ZGVrdWd1ZWJBRkVpZ2d4al9mU2xURmxnUEF0dkhVNWVQTk4zWS1GVkdudw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T18:09:08+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "미국-이스라엘과 이란 간의 전쟁이 글로벌 비즈니스(global business) 전반에 큰 충격을 주고 있다. 이는 국제 유가, 공급망, 투자 심리 등 여러 경제 부문에 광범위한 영향을 미치고 있다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
+    },
+    {
+      "title": "'E-shaped' economy is replacing a K-shaped one in 2026, economist says: The middle class is 'spending in a nervous way' now",
+      "body_preview": "Economist Heather Long says the U.S. economy is diverging into three tiers of consumer behavior instead of two, amid an ongoing affordability crisis.",
+      "source_url": "https://www.cnbc.com/2026/03/06/e-shaped-economy-replacing-k-shape-2026.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-06T18:02:43+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108273875-1772660224477-gettyimages-2255506671-002a2194.jpeg?v=1772660240&w=1920&h=1080",
+      "korean_summary": "한 경제학자는 2026년에는 K자형 경제(K-shaped economy)가 E자형 경제(E-shaped economy)로 대체될 것이며, 중산층이 불안하게 소비하고 있다고 분석했다. 이는 소비 양극화 심화를 시사한다.",
+      "fetched_at": "2026-03-07T04:59:23.563679+00:00"
     },
     {
       "title": "Altcoin interest falls: Could an Ethereum breakout spark altseason?",
@@ -235,216 +541,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "익명의 이더리움(Ethereum) 고래 투자자가 1년간의 휴면을 깨고 1,680만 달러 상당의 킬른(Kiln) 스테이킹에 참여했다. 블록체인(blockchain) 분석가들이 주목하는 이 움직임은 시장에 중요한 영향을 미칠 수 있다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "US pump prices surge as Iran war upends global energy supply - Reuters",
-      "body_preview": "US pump prices surge as Iran war upends global energy supply  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0VyT1UzRU1KWjhDbTY4RXotMjVGb3N0VG03NEViR0htMGktb0FaZ0dWSGEycTVhQnpkeEo2MDd6OHNFYlRCb3l3S2ZjaUY2QXRFQ01weWJ5TmVpSU54Y0VvRjRzSEk2N2dnaDN0eUR0aUtxTndpc04wd29NUG9RQndCWklHY2U5YnBDOEw1VjhsSDdnTFliN3ZkaUVSUmNINmEwam1XVFRNUXROQ3c?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T00:59:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 전쟁으로 글로벌 에너지 공급망이 불안정해지면서 미국 내 휘발유(pump prices) 가격이 급등했다. 이는 국제 유가 상승 압력으로 작용하며 전 세계 에너지 시장에 상당한 영향을 미치고 있다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "Iran conflict boosts U.S. Gulf oil prices to highest since 2020 - Reuters",
-      "body_preview": "Iran conflict boosts U.S. Gulf oil prices to highest since 2020  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnFBTklGeTRWVVVyVlJrZUw0VmQxMmQ0Y3lXa3V4S3dCd0YzQjdPU2dzUU4ycnFjeWRKWWxOLVB3NURPeWY2UjNNMVZVRG0xMnNOcDdVMjU4aEVwWDNOTFVhYjF2Sl9na3VENm96UDdpWlQ3Y25qdHNROUNJMWVPM0Y4RGhlcTRKLVY4ZDd2R296NWpfUEVzRmZmclN3TmdyazU4Nm02ZGlrbi1jMFRJ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T23:21:27+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 분쟁으로 인해 미국 걸프만(U.S. Gulf) 지역의 원유 가격이 2020년 이후 최고 수준으로 치솟았다. 이는 중동 정세 불안이 국제 유가에 미치는 영향을 보여준다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz - Reuters",
-      "body_preview": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeGV6MEZnWnpYSUdnUWZrN2Q3R1NBaGxLYmY3M1JxYm1kQURyeDQwRldraTZFSzh0VU13QXRMdHN3VTFHU3AyNlJlYndjMGtGeHlVNXVZb0N4VkJQMnZVYWZHMml3TFp2QzhEbGtkdkdiQVgzc0hpcXRHRm44TFRnYUJhRHpXUGVqbUxIajBvejRRUm9JYVBkMHRJWm5yS2hOTVNHZVNIOExJRTFRdHhCRThvOF9ZMF95VVJNR2JtRUp5MlctczhUTw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T23:05:45+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 혁명수비대(Iran's Guards)가 도널드 트럼프 전 대통령에게 호르무즈 해협(Strait of Hormuz)에서 미국 해군이 유조선을 호위하도록 도전했다. 이는 중동 지역의 군사적 긴장을 고조시키는 발언이다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
-      "body_preview": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
-      "source_url": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T22:26:20+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108254383-1770070558669-108254383-17689273942026-01-20t140915z_1241214190_rc225ja1zdei_rtrmadp_0_davos-meeting.jpeg?v=1770070580&w=1920&h=1080",
-      "korean_summary": "이란 전쟁 발발 후 팔란티어(Palantir) 주가가 주간 15% 급등하며 8월 이후 최고 실적을 기록했다. 이는 전쟁 관련 사업 전망 개선이 인공지능(AI) 기업 앤트로픽(Anthropic) 관련 우려를 상쇄했기 때문이다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "Iran's UN envoy says 1,332 Iranian civilians killed in war - Reuters",
-      "body_preview": "Iran's UN envoy says 1,332 Iranian civilians killed in war  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGE4TU5iT0V4TlBwY3NIU0pCYzhLa2w0NnFIT0lUNnJBVDl6cE5rbDQ1a3EtX3RaOUVrZUZ6TWpzSWI0bTFKdjYyYWpGTHVkaXZNdzcyS25Rb09aaU5MWFJqYkFoeHAyV2ZXc1Vib01mbm5KYWZiWldfeFFQNHpwY1JPSEpTcUpndGxMUXhGWkppRWYzbmdfQ3h5RkZ5RDV6OWtESG9IVmxaeHM?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T21:18:21+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 유엔 대사(UN envoy)는 전쟁으로 인해 1,332명의 이란 민간인이 사망했다고 밝혔다. 이는 전쟁의 인명 피해 규모를 공식적으로 언급하며 국제 사회의 우려를 증폭시키고 있다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "Trump says defense CEOs agree to quadruple production of `Exquisite Class' weaponry",
-      "body_preview": "President Trump said he met with CEOs of BAE Systems, Lockheed Martin, Northrop Grumman, RTX Corp., Boeing, Honeywell Aerospace and L3Harris Missile Solutions.",
-      "source_url": "https://www.cnbc.com/2026/03/06/iran-war-trump-defense-companies-pete-hegseth.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T21:11:11+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108235310-17646945232025-12-02t165348z_956658416_rc2g8iadh0x7_rtrmadp_0_usa-trump.jpeg?v=1764694583&w=1920&h=1080",
-      "korean_summary": "트럼프 전 대통령은 주요 방산업체 최고경영자(CEO)들과 만나 '정교한 등급(Exquisite Class)' 무기 생산량을 4배 늘리기로 합의했다고 밝혔다. 이는 군비 증강 및 방위 산업 활성화에 대한 의지를 보여준다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "EU countries joining US, Israel attacks would become Iran's \"legitimate target\", Deputy Minister says - Reuters",
-      "body_preview": "EU countries joining US, Israel attacks would become Iran's \"legitimate target\", Deputy Minister says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnlkWHk5QnRwcVJvWDFVVVNraVNQUGVCb053WHkyTV80T2FXX0c3WTg5UUtZQ0JkNWdFOEFrYnRmaWVZbWJ1LUtJS01MYnZkWnNkTlA5V2E0eGVsT1ZuQ3VPczhfVDVHQnBtUWxlcUplTTVQa3BNTG9Pa0xpQnB5T0h5aFVWWV9jcW9ucF9nTHJaMlNjMUZSQ3pPeFE2NnEwQl9FcVZ6N2hHVk96c1pER2ZldHhZOWZqVXdVV2FmSVJqQQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T21:05:16+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 외교부 차관은 유럽연합(EU) 국가들이 미국과 이스라엘의 공격에 동참할 경우 이란의 \"합법적인 표적(legitimate target)\"이 될 것이라고 경고했다. 이는 중동 분쟁의 확전 가능성을 시사한다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "Boeing moves closer to a huge deal — plus, positive signs for one of our AI plays",
-      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source_url": "https://www.cnbc.com/2026/03/06/boeings-potential-big-deal-plus-positive-signs-for-one-an-ai-play.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T19:27:39+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108267031-17714493362026-02-18t211437z_1428980417_rc2fojafg4cb_rtrmadp_0_usa-trump-air-force-one.jpeg?v=1771449408&w=1920&h=1080",
-      "korean_summary": "보잉(Boeing)이 대규모 계약에 근접하고 있으며, 인공지능(AI) 관련 투자 종목 중 하나에서도 긍정적인 신호가 포착되었다. 이는 항공 및 기술 산업에 대한 투자자들의 관심을 높이고 있다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say - Reuters",
-      "body_preview": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVdXNHVZNkdaU3Jzem13WmdhM2NkZW1iVFV6SEJoaUlKVlJkdUt0SU1jNHdYbzVCbDkyUWxnR3lDZnhuSlFpRk45RlZSR09BZExGU0ZIMlhBSGdNV2t5LXJ4ZWxiZGRKX0pueHFHankwc0k2RG5kV3NXaGZNTGVZbG9pbk5GSDBkVWtzOTdGSFBFNkVFUkRQeUQ0MjFOd3M0TE4yVVFBcUVodXctR3o1N0hOWUNRRjhCOUFEb1E4bG5SU0U?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T19:02:50+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "소식통에 따르면 헤즈볼라(Hezbollah)는 이스라엘과의 새로운 전쟁을 피할 수 없는 것으로 보고 수개월간 재무장해왔다. 이는 레바논-이스라엘 국경 지역의 긴장 고조를 반영한다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "White House says US well on way toward controlling Iran airspace - Reuters",
-      "body_preview": "White House says US well on way toward controlling Iran airspace  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajd0XzB0MllMYVB5UmhLSG1FNmx5TERHWWxRZG5rT2RIb2pjc292d3BGb1JIRkpuR0hNS3Z1d0NTQTk3bnBZSWstcGZEeXVrTG5DYkFIbTZXVXJ2YWE2WlhGalVMLXRBUU9FSjZZd1BPODZyUTBWazNuYUppZDlaX1BwdGUtUTc4bjk5Ry1hTVRkUUtiOUs3SzVWZFFaS2Jvc1RNUEF5V3d3c1ptamVwTmV3VjdiZw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T18:43:08+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "백악관(White House)은 미국이 이란 영공(Iran airspace)을 통제하는 데 상당한 진전을 이루고 있다고 밝혔다. 이는 중동 지역에서의 미국의 군사적 영향력 확대 가능성을 시사한다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
-      "body_preview": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
-      "source_url": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T18:25:50+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108175923-1753295096870-gettyimages-2217999388-BLOOMBERG_TECH.jpeg?v=1772818953&w=1920&h=1080",
-      "korean_summary": "구글(Google)이 마이크로소프트(Microsoft)에 이어 국방부(Department of Defense) 블랙리스트 등재에도 불구하고 앤트로픽(Anthropic)의 인공지능(AI) 도구가 국방 프로젝트 외에서는 여전히 사용 가능하다고 사용자들에게 알렸다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "Kalshi sued over ouster of Iran leader prediction market - Reuters",
-      "body_preview": "Kalshi sued over ouster of Iran leader prediction market  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2tMMjA0dHhPSVIzSUVKSHRUUjNGU1lxUHpFeE9SS3RNSm1lUUFLVXJYcEFkbmRRSlJnWWpmSFJKZE9FRDhGQWZJUzduNlc1OGlDZDJiYUlmc2NiNkJXZzU2NGQwWEZyeTIxNEl2aUtmZHoyVEhpTGxCRW03bjJOS1FLVlI1c0hhZWE5Y3lGT29TdGtyaENDWEM5MlZvRElGUVJBRG5QeUNtTlk?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T18:13:49+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "예측 시장 플랫폼 칼시(Kalshi)가 이란 지도자 축출 관련 예측 시장 개설로 피소되었다. 이는 정치적 예측 시장의 합법성과 윤리적 문제에 대한 논란을 불러일으키고 있다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "Exclusive: US pressing Sri Lanka not to repatriate Iranian crew and survivors from sunken ship, memo says - Reuters",
-      "body_preview": "Exclusive: US pressing Sri Lanka not to repatriate Iranian crew and survivors from sunken ship, memo says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUlN5UzdoYnNDQzkyVmpqcXpwaWVHUzUyWm1FVVJqdm1LUzJ4SXF4WTd5SFBVZVJ1VEhseFFBNXMtT0k1QnRzUVJXVTc0YjRWU0htWFJ6TTEwMUdtbmZ1Y0RGaGRwWnRKMGtNanBuZXFWN09RNHRYckQ1U0pBZTJsZEQyYUhOUE9Ibnd4OGs0YmVvNWRsXzh1MFZmekZPQTBDVHpXR2VoRlA4cGt0NU5UWi0taFpNejQ4NG9mS2hNcG9sMnhTZmVGQkpnOA?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T18:11:10+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "미국이 스리랑카에 침몰한 선박의 이란인 승무원 및 생존자들을 본국으로 송환하지 말 것을 압박하고 있다는 메모가 공개되었다. 이는 양국 간의 외교적 긴장을 시사한다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "US-Israel war with Iran sends shockwaves through global business - Reuters",
-      "body_preview": "US-Israel war with Iran sends shockwaves through global business  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXlvQ0xaNDZkMWNpUG1pTDFabHJqYUFUYllPSWhqNFNGZ2FUdTBOY0Rxc0dSS2U1ZVo5UWN5X01pVEluN0dacEV5Z1J0VnRlSV9XRUpyNnBXWV9CYXhDd2RROXJvMV9yVnd5cDZsN0Zkcnc4X21Sd3lkZ191aF9kdTJpX1BTR0Z2ZGVrdWd1ZWJBRkVpZ2d4al9mU2xURmxnUEF0dkhVNWVQTk4zWS1GVkdudw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T18:09:08+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "미국-이스라엘과 이란 간의 전쟁이 전 세계 비즈니스에 큰 충격을 주고 있다. 이는 국제 유가, 공급망, 투자 심리 등 글로벌 경제 전반에 광범위한 영향을 미치고 있다.",
-      "fetched_at": "2026-03-07T03:54:02.946372+00:00"
-    },
-    {
-      "title": "'E-shaped' economy is replacing a K-shaped one in 2026, economist says: The middle class is 'spending in a nervous way' now",
-      "body_preview": "Economist Heather Long says the U.S. economy is diverging into three tiers of consumer behavior instead of two, amid an ongoing affordability crisis.",
-      "source_url": "https://www.cnbc.com/2026/03/06/e-shaped-economy-replacing-k-shape-2026.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T18:02:43+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108273875-1772660224477-gettyimages-2255506671-002a2194.jpeg?v=1772660240&w=1920&h=1080",
-      "korean_summary": "한 경제학자는 2026년에는 'K자형(K-shaped)' 경제가 'E자형(E-shaped)' 경제로 대체될 것이며, 중산층이 \"불안하게 소비\"하고 있다고 분석했다. 이는 미국 경제의 소비 행태 변화를 나타낸다.",
       "fetched_at": "2026-03-07T03:54:02.946372+00:00"
     },
     {
@@ -2973,102 +3069,6 @@
         "ADA"
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/58914924.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-06T14:31:50.669130+00:00"
-    },
-    {
-      "title": "CEE FX Stability: How Central European Currencies Defy High Rate Pressures – ING Analysis",
-      "body_preview": "BitcoinWorld CEE FX Stability: How Central European Currencies Defy High Rate Pressures – ING Analysis Central and Eastern European currencies demonstrate remarkable stability despite persistent high interest rate environments, according to recent analysis from ING’s global financial markets team. T",
-      "source_url": "https://bitcoinworld.co.in/cee-fx-stability-high-rates-ing/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T14:22:02+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-06T14:31:50.669130+00:00"
-    },
-    {
-      "title": "CoinDesk 20 performance update: Aave drops 4.3% as all index constituents trade lower",
-      "body_preview": "Solana (SOL), down 3.1% since Thursday, joined Aave (AAVE) as an underperformer.",
-      "source_url": "https://www.coindesk.com/coindesk-indices/2026/03/06/coindesk-20-performance-update-aave-drops-4-3-as-all-index-constituents-trade-lower",
-      "source_name": "CoinDesk",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T14:18:17+00:00",
-      "category": "crypto",
-      "currencies": [
-        "AAVE",
-        "SOL"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/5/58914591.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-06T14:31:50.669130+00:00"
-    },
-    {
-      "title": "Crypto turnaround at Fed as Kraken scores account and Trump nominee goes to Senate",
-      "body_preview": "The US Federal Reserve has issued a limited-use master account to Kraken, marking a major pro-crypto shift in policy.",
-      "source_url": "https://cointelegraph.com/news/crypto-fed-kraken-account-trump-nominee-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T14:18:06+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-06T14:31:50.669130+00:00"
-    },
-    {
-      "title": "ETH Price Analysis: Ethereum Risks Dumping Below $2K Again as Momentum Fades",
-      "body_preview": "Ethereum is attempting to extend its rebound from the February lows, but the broader structure still reflects a market in recovery mode rather than a confirmed trend reversal. The next sessions should clarify whether this bounce can turn into a sustained move, or if it remains a corrective rally ins",
-      "source_url": "https://cryptopotato.com/eth-price-analysis-ethereum-risks-dumping-below-2k-again-as-momentum-fades/",
-      "source_name": "Crypto Potato",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T14:13:02+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/27/58914413.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-06T14:31:50.669130+00:00"
-    },
-    {
-      "title": "Vancouver Council Blocks Bitcoin Reserve Plans Over Strict Legal Barriers",
-      "body_preview": "Vancouver’s plan to add Bitcoin to city reserves was withdrawn due to explicit legal restrictions. Current laws only allow public funds to be invested in traditional, low-risk assets. Continue Reading: Vancouver Council Blocks Bitcoin Reserve Plans Over Strict Legal Barriers The post Vancouver Counc",
-      "source_url": "https://en.coin-turk.com/vancouver-council-blocks-bitcoin-reserve-plans-over-strict-legal-barriers/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T14:11:14+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/79/58914336.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-06T14:31:50.669130+00:00"
-    },
-    {
-      "title": "Crypto exchanges gain as tokenized commodity market climbs to $7.7B",
-      "body_preview": "Demand is surging for tokenized precious metals that offer more accessibility than their traditional counterparts, with investors seeking 24/7 safe-haven asset availability.",
-      "source_url": "https://cointelegraph.com/news/crypto-exchanges-global-tradfi-venues-tokenized-commodities-boom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T14:11:04+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
       "korean_summary": "",
       "fetched_at": "2026-03-06T14:31:50.669130+00:00"
     }
