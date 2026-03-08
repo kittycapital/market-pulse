@@ -1,8 +1,22 @@
 {
-  "last_updated": "2026-03-08T13:34:47.636487+00:00",
-  "last_updated_kst": "2026-03-08 22:34 KST",
+  "last_updated": "2026-03-08T14:18:07.807848+00:00",
+  "last_updated_kst": "2026-03-08 23:18 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "I've studied over 200 kids—parents who raise emotionally intelligent kids regularly ask their children 9 questions",
+      "body_preview": "Raising emotionally intelligent kids starts with everyday conversations at home, says child psychologist Reem Raouda, who has studied over 200 kids. Here are some questions parents can use to get started.",
+      "source_url": "https://www.cnbc.com/2026/03/08/psychologist-parents-who-ask-these-9-questions-raise-emotionally-intelligent-kids.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T13:43:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108275115-1772896057767-Happy_little_Asian_girl_holding_toy_magnifying_gla-2263163926-Getty.jpg?v=1772896128&w=1920&h=1080",
+      "korean_summary": "아동 심리학자 림 라우다는 200명 이상의 아이들을 연구하며, 감성 지능(emotionally intelligent)이 높은 자녀를 양육하는 것은 가정 내 일상 대화에서 시작된다고 강조했다. 부모가 자녀와 소통하며 감성 지능을 키울 수 있는 구체적인 질문들을 제시했다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
+    },
     {
       "title": "Pope Leo urges end to bombing, calls for dialogue amid Iran, Middle East violence - Reuters",
       "body_preview": "Pope Leo urges end to bombing, calls for dialogue amid Iran, Middle East violence  Reuters",
@@ -14,8 +28,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "교황 레오(Pope Leo)는 이란 및 중동 지역의 폭력 사태 종식을 촉구하며 대화를 통한 해결을 강조했다. 이는 역내 긴장 완화와 평화 정착을 위한 국제사회의 노력을 촉구하는 메시지로 해석된다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "교황 레오는 이란과 중동 지역의 폭력 사태가 심화되는 가운데, 폭격 중단을 촉구하고 대화를 통한 해결을 강조했다. 이는 지역 긴장 완화를 위한 국제사회의 노력을 반영한다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "Iran attacks breach international law, Swiss Defence Minister says - Reuters",
@@ -28,8 +42,22 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "스위스 국방부 장관은 이란의 공격이 국제법을 위반하는 행위라고 비판했다. 이는 이란의 군사적 행동에 대한 국제사회의 우려를 반영하며, 역내 안정을 해치는 행위로 간주될 수 있음을 시사한다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "스위스 국방장관은 이란의 공격이 국제법(international law)을 위반하는 행위라고 밝혔다. 이는 중동 지역의 긴장 고조와 관련하여 국제사회의 우려를 표명하는 발언으로 해석된다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
+    },
+    {
+      "title": "Tokyo told national oil reserve site to prepare for release amid Iran crisis, Japan lawmaker says - Reuters",
+      "body_preview": "Tokyo told national oil reserve site to prepare for release amid Iran crisis, Japan lawmaker says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmVZSXZsZlZuTDBfTklSQzZ5QWhrOTVYXy1laDdQWnJNY1ZFRmF3VFZUVmJkbXZtNjZrYTEtNHJsX0RibU1hM3hWNHNlRFB6ell2blIxVWd3cEMyd2I4a0ZIZy05UHh0VUQzcEQ2RThlZk95aEpjaXBRbllRMnAxZmdKMWpLa3BfcVdNQ09JUWFieXdZVWlqVHdBN0U0eFh6eVJLbHFmTVNpSmFZbWRHZ3owejJFb2pGVV9DSEQxaVIwUTZjeXc?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T10:16:15+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "일본의 한 의원은 도쿄가 이란 위기(Iran crisis) 상황에 대비하여 국가 비축유(national oil reserve) 시설에 방출 준비를 지시했다고 밝혔다. 이는 에너지 안보 확보를 위한 일본 정부의 선제적 조치로 풀이된다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "Israeli military says it will pursue every successor of Iran's Khamenei - Reuters",
@@ -42,12 +70,12 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이스라엘 군은 이란 최고지도자 하메네이(Khamenei)의 모든 후계자를 추적할 것이라고 밝혔다. 이는 이란의 지도부 교체와 관계없이 이란에 대한 강경한 입장을 유지하겠다는 이스라엘의 의지를 보여준다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "이스라엘 군은 이란의 최고 지도자(Supreme Leader) 하메네이(Khamenei)의 모든 후계자를 추적할 것이라고 밝혔다. 이는 이스라엘이 이란 지도부에 대한 강경한 입장을 유지하고 있음을 시사한다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
-      "title": "Saudi index extends gains as Iran approves pause on Gulf attacks - Reuters",
-      "body_preview": "Saudi index extends gains as Iran approves pause on Gulf attacks  Reuters",
+      "title": "Saudi extends rally on energy-led gains; Qatar slips - Reuters",
+      "body_preview": "Saudi extends rally on energy-led gains; Qatar slips  Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVFaSHNlMjR4U3AxQmwxT0E3QnNmRmx1V3M4U2gwaFZ3ZUQwWTFJN1NoMEhhOVcyeW9McmdUV2dDOFFNUWV5enhnanhTa3RrSVNOTE9PUl9yOUtjNVVlUVdSN3YzUHoxUkIwS2RQcGxGRHZJTW9Nb3JiNm5YdFRCT3JDVHZLMEhmUzdrbFNNZ2VKanYycEE1cnd1VFVfNTFJeU1BT05sdkRMd3p4UVJTWTBR?oc=5",
       "source_name": "Reuters",
       "twitter_url": null,
@@ -56,8 +84,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란이 걸프 지역 공격 중단을 승인함에 따라 사우디아라비아 증시 지수가 상승세를 이어갔다. 이는 역내 긴장 완화 기대감이 투자 심리에 긍정적으로 작용하여 시장에 활력을 불어넣은 것으로 분석된다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "사우디아라비아 증시가 에너지 부문 주도의 상승세로 랠리를 이어간 반면, 카타르 증시는 하락세를 보였다. 이는 중동 지역 증시가 에너지 가격 변동에 민감하게 반응하고 있음을 나타낸다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "Panel picking Iran's supreme leader has reached consensus, member says - Reuters",
@@ -70,8 +98,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 최고지도자 선출 위원회(Assembly of Experts)의 한 위원은 후계자 선정에 대한 합의에 도달했다고 밝혔다. 이는 이란의 정치적 불확실성을 해소하고 안정적인 권력 이양을 위한 중요한 진전으로 평가된다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "이란의 최고 지도자(Supreme Leader)를 선출하는 위원회가 합의에 도달했다고 한 위원이 밝혔다. 이는 이란의 권력 승계 과정이 진전되고 있음을 시사하며, 향후 이란 정세에 영향을 미칠 수 있다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "Israel presses Iran assault as Tehran nears succession decision - Reuters",
@@ -84,8 +112,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란이 최고지도자 후계자 결정을 앞둔 가운데 이스라엘은 이란에 대한 공세를 강화하고 있다. 이는 이란의 내부 정치 상황과 관계없이 이스라엘이 대이란 압박을 지속하려는 의도를 보여준다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "이란 테헤란이 최고 지도자 승계 결정에 임박한 가운데, 이스라엘은 이란에 대한 공세를 강화하고 있다. 이는 중동 지역의 지정학적 긴장이 고조되고 있음을 보여주는 상황이다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "Australia weighing requests for assistance from countries attacked by Iran - Reuters",
@@ -98,8 +126,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "호주 정부는 이란의 공격을 받은 국가들로부터 지원 요청을 검토하고 있다. 이는 중동 지역의 안보 위협에 대한 국제사회의 공동 대응 필요성을 시사하며, 호주의 역할에 관심이 모아진다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "호주 정부는 이란의 공격을 받은 국가들로부터의 지원 요청을 검토 중이라고 밝혔다. 이는 중동 지역 분쟁이 국제사회에 미치는 영향이 확대되고 있음을 시사한다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "Explosion at US embassy in Oslo may have been deliberate attack, police say - Reuters",
@@ -112,8 +140,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "노르웨이 오슬로 주재 미국 대사관에서 발생한 폭발 사건에 대해 경찰은 고의적인 공격일 가능성을 제기했다. 이는 외교 시설에 대한 잠재적 위협을 시사하며, 추가적인 조사가 진행될 예정이다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "노르웨이 경찰은 오슬로 주재 미국 대사관(US embassy)에서 발생한 폭발이 고의적인 공격일 가능성이 있다고 밝혔다. 이는 국제 안보에 대한 우려를 높이는 사건으로 주목된다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "Israel says it targeted Iranian commanders in Beirut as death toll nears 400 - Reuters",
@@ -126,8 +154,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이스라엘은 베이루트에서 이란 지휘관들을 표적으로 삼았다고 밝혔으며, 사망자 수가 400명에 육박하고 있다. 이는 중동 지역의 긴장이 고조되고 있음을 보여주며, 인명 피해에 대한 우려가 커지고 있다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "이스라엘은 베이루트에서 이란 지휘관들을 표적으로 삼았다고 밝혔으며, 사망자 수가 400명에 육박하고 있다. 이는 중동 지역의 군사적 충돌이 격화되고 있음을 보여준다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "White House halts security bulletin warning of Iran-related threats - Reuters",
@@ -140,8 +168,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "백악관(White House)이 이란 관련 위협 경고 보안 공지 발송을 중단했다. 이는 이란과의 긴장 완화를 위한 제스처로 해석되거나, 위협 수준에 대한 재평가가 이루어졌음을 시사할 수 있다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "백악관(White House)이 이란 관련 위협에 대한 보안 경보(security bulletin) 발령을 중단했다. 이는 이란과의 긴장 완화를 위한 조치이거나, 상황 평가에 변화가 있었음을 시사한다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "Trump tells Britain he does not need its help to win Iran war - Reuters",
@@ -154,8 +182,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "트럼프 전 대통령은 영국에 이란과의 전쟁에서 승리하기 위해 영국의 도움이 필요 없다고 말했다. 이는 미국의 대이란 정책에 대한 독자적인 접근 방식을 강조하며, 동맹국과의 관계에 영향을 미칠 수 있다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "트럼프 전 대통령은 영국에 이란과의 전쟁에서 영국의 도움이 필요 없다고 말했다. 이는 미국이 이란 문제에 있어 독자적인 접근 방식을 선호함을 시사하는 발언이다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "Exclusive: Saudi has told Iran not to attack it, warns of possible retaliation, sources say - Reuters",
@@ -168,8 +196,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "소식통에 따르면 사우디아라비아는 이란에 자국을 공격하지 말 것을 경고하며, 보복 가능성을 언급했다. 이는 중동 지역의 긴장이 고조되는 가운데 사우디의 안보 우려와 단호한 입장을 보여준다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "소식통에 따르면 사우디아라비아가 이란에 자국을 공격하지 말 것을 경고하며, 보복 가능성을 언급했다고 전해졌다. 이는 중동 지역의 긴장이 고조되고 있음을 보여준다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz - Reuters",
@@ -182,8 +210,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 혁명수비대(Iran's Guards)는 트럼프 전 대통령에게 호르무즈 해협(Strait of Hormuz)에서 미국 해군이 유조선을 호위할 것을 요구하며 도발했다. 이는 해상 안보를 둘러싼 양국 간의 긴장을 더욱 고조시킬 수 있다.",
-      "fetched_at": "2026-03-08T13:34:47.632561+00:00"
+      "korean_summary": "이란 혁명수비대(Iran's Guards)는 트럼프 전 대통령에게 미 해군(US Navy)이 호르무즈 해협(Strait of Hormuz)에서 유조선들을 호위하도록 도전했다. 이는 해상 운송의 안보와 관련된 긴장을 고조시키는 발언이다.",
+      "fetched_at": "2026-03-08T14:18:07.804187+00:00"
     },
     {
       "title": "As Iran's retaliation began, US officials scrambled to arrange evacuations - Reuters",
@@ -3057,38 +3085,6 @@
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "korean_summary": "이란은 이웃 국가들로부터 공격이 발생하지 않는 한, 이웃 국가들에 대한 공격을 중단할 것이라고 로이터 통신이 보도했다. 이는 지역 긴장 완화 가능성을 시사한다.",
       "fetched_at": "2026-03-07T17:15:03.311201+00:00"
-    },
-    {
-      "title": "U.S. court dismisses terrorism financing claims against Binance",
-      "body_preview": "",
-      "source_url": "https://www.investing.com/news/cryptocurrency-news/us-court-dismisses-terrorism-financing-claims-against-binance-4548519",
-      "source_name": "Investing.com Crypto News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T16:14:40+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BNB"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/106/default.png",
-      "korean_summary": "미국 법원이 암호화폐 거래소 바이낸스(Binance)에 제기된 테러 자금 조달 혐의 소송을 기각했다. 이는 바이낸스의 법적 리스크 완화에 긍정적인 영향을 미칠 수 있다.",
-      "fetched_at": "2026-03-07T16:18:23.850356+00:00"
-    },
-    {
-      "title": "Circle CEO Shares New Development Involving USDC and Circle Mints",
-      "body_preview": "Circle has begun to independently handle internal treasury settlements as the CEO reveals a new development to boost digital asset adoption.",
-      "source_url": "https://u.today/circle-ceo-shares-new-development-involving-usdc-and-circle-mints",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T16:11:00+00:00",
-      "category": "macro",
-      "currencies": [
-        "USDC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/58966373.jpeg",
-      "korean_summary": "스테이블코인 USDC 발행사 서클(Circle)이 디지털 자산 채택 증진을 위해 내부 재무 결제를 독립적으로 처리하기 시작했다고 CEO가 밝혔다. 이는 운영 효율성 향상 및 시장 확대를 목표로 한다.",
-      "fetched_at": "2026-03-07T16:18:23.850356+00:00"
     }
   ]
 }
