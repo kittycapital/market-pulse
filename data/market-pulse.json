@@ -1,8 +1,167 @@
 {
-  "last_updated": "2026-03-08T04:04:11.339206+00:00",
-  "last_updated_kst": "2026-03-08 13:04 KST",
+  "last_updated": "2026-03-08T05:41:01.462738+00:00",
+  "last_updated_kst": "2026-03-08 14:41 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "South African Economist Flags Authoritarian Risks in CBDCs",
+      "body_preview": "Economist Dawie Roodt has issued a warning that central bank digital currencies could become tools for authoritarian control due to their “programmable” nature. The Authoritarian Risk South African economist Dawie Roodt warned that central bank digital currencies, or CBDCs, could become instruments ",
+      "source_url": "https://news.bitcoin.com/south-african-economist-flags-authoritarian-risks-in-cbdcs/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T05:30:18+00:00",
+      "category": "stocks",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/14/58995492.jpeg",
+      "korean_summary": "남아프리카 경제학자 다위 루드(Dawie Roodt)는 중앙은행 디지털 화폐(CBDC)의 '프로그래밍 가능'한 특성 때문에 권위주의적 통제 수단이 될 수 있다고 경고했다. 이는 CBDC 도입 시 발생할 수 있는 잠재적 위험에 대한 우려를 제기한다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "The rise of yield infrastructure for long-term crypto holders",
+      "body_preview": "The cryptocurrency market has historically rewarded long-term investors. Many of the most successful strategies in",
+      "source_url": "https://ambcrypto.com/the-rise-of-yield-infrastructure-for-long-term-crypto-holders/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T05:30:13+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "암호화폐 시장은 장기 투자자에게 보상을 제공해왔으며, 최근 장기 암호화폐 보유자를 위한 수익률 인프라(yield infrastructure)가 부상하고 있다. 이는 장기 보유 전략의 효율성을 높이는 데 기여할 수 있다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Bitcoin dip may not be over as whales sell into retail buying — a bearish signal",
+      "body_preview": "The divergence between large and small holders has historically preceded further downside, with the Crypto Fear and Greed Index dropping to 12",
+      "source_url": "https://www.coindesk.com/markets/2026/03/08/bitcoin-dip-may-not-be-over-as-whales-sell-into-retail-buying-a-bearish-signal",
+      "source_name": "CoinDesk",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T05:16:45+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/5/58994939.jpeg",
+      "korean_summary": "비트코인(Bitcoin) 하락세가 끝나지 않을 수 있다는 분석이 나왔다. 대규모 투자자(whales)가 소액 투자자(retail)의 매수세에 맞춰 매도하는 현상이 나타나며, 이는 약세 신호로 해석된다. 공포 및 탐욕 지수(Crypto Fear and Greed Index)도 12로 하락했다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Top crypto to watch: Pi Network, Polkadot, Sei, Pump, Starknet",
+      "body_preview": "The crypto market was highly volatile last week as the war in Iran continued and the US published weak jobs numbers. Bitcoin price soared to $74,000 and then pulled back to $66,000 as inflation concerns remained. This article explores some of the top crypto to watch this week, including Polkadot (DO",
+      "source_url": "https://invezz.com/news/2026/03/08/top-crypto-to-watch-pi-network-polkadot-sei-pump-starknet/",
+      "source_name": "Invezz",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T05:14:27+00:00",
+      "category": "macro",
+      "currencies": [
+        "DOT",
+        "FORKS"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/69/58995291.jpeg",
+      "korean_summary": "지난주 암호화폐 시장은 이란 전쟁과 미국 고용 지표 약화로 높은 변동성을 보였다. 비트코인(Bitcoin) 가격은 7만 4천 달러까지 급등 후 6만 6천 달러로 하락했으며, 인플레이션(inflation) 우려가 지속되고 있다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Top crypto to watch this week: Pi Network, Polkadot, Sei, Pump, and Starknet",
+      "body_preview": "The crypto market was highly volatile last week as the war in Iran continued and the US published weak jobs numbers. Bitcoin price soared to $74,000 and then pulled back to $66,000 as inflation concerns remained. This article explores some of the top crypto to watch this week, including Polkadot (DO",
+      "source_url": "https://invezz.com/news/2026/03/08/top-crypto-to-watch-this-week-pi-network-polkadot-sei-pump-and-starknet/",
+      "source_name": "Invezz",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T05:14:27+00:00",
+      "category": "macro",
+      "currencies": [
+        "DOT",
+        "FORKS"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/69/58994885.jpeg",
+      "korean_summary": "지난주 암호화폐 시장은 이란 전쟁과 미국 고용 지표 약화로 높은 변동성을 경험했다. 비트코인(Bitcoin) 가격은 7만 4천 달러까지 상승했다가 6만 6천 달러로 조정받았으며, 인플레이션(inflation) 우려가 시장에 영향을 미쳤다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "XRP slips as traders watch $1.35 support",
+      "body_preview": "Traders are watching whether the $1.35 support zone holds after high-volume selling earlier in the session.",
+      "source_url": "https://www.coindesk.com/markets/2026/03/08/xrp-slips-as-traders-watch-usd1-35-support",
+      "source_name": "CoinDesk",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T05:06:07+00:00",
+      "category": "crypto",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/5/58994560.jpeg",
+      "korean_summary": "XRP 가격이 하락세를 보이며, 트레이더들은 1.35달러 지지선 유지를 주시하고 있다. 대량 매도세가 나타난 후 해당 지지선이 무너질 경우 추가 하락 가능성이 제기된다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Satoshi Nakamoto’s Bitcoin Could Get Stolen, But A BTC Dev Has Proprosed A Solution",
+      "body_preview": "Satoshi Nakamoto’s Bitcoin holdings risk getting stolen as the quantum threat becomes more of a possibility. BTC developer Hunter Beast has notably proposed the Hourglass V2 proposal amid debates on the best way to handle Satoshi’s supply, to mitigate the impact of sell pressure that Bitcoin could f",
+      "source_url": "https://bitcoinist.com/satoshi-bitcoin-risk-stolen/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T05:00:06+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/58994371.jpeg",
+      "korean_summary": "사토시 나카모토(Satoshi Nakamoto)의 비트코인(Bitcoin) 보유량이 양자 위협(quantum threat)으로 인해 도난당할 위험에 처할 수 있다는 우려가 제기되었다. 이에 BTC 개발자 헌터 비스트(Hunter Beast)는 '아워글래스 V2(Hourglass V2)' 제안을 통해 해결책을 제시했다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Seattle Court Sentences Former CFO for Unauthorized $35M Cryptocurrency Gamble",
+      "body_preview": "Nevin Shetty, the former senior executive of startup Fabric, has been sentenced to two years in prison for a $35 million wire fraud scheme involving a high-risk cryptocurrency gamble. A Secret Side-Business A former chief financial officer’s (CFO) attempt to turn his employer’s treasury into a perso",
+      "source_url": "https://news.bitcoin.com/seattle-court-sentences-former-cfo-for-unauthorized-35m-cryptocurrency-gamble/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T04:30:56+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/14/58993214.jpeg",
+      "korean_summary": "시애틀 법원은 스타트업 패브릭(Fabric)의 전 최고재무책임자(CFO) 네빈 셰티(Nevin Shetty)에게 3,500만 달러 규모의 고위험 암호화폐 도박 관련 전신 사기(wire fraud) 혐의로 2년 징역형을 선고했다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Bitcoin Holds Steady as Geopolitical Tensions Rattle Crypto Markets",
+      "body_preview": "Bitcoin’s volatility persisted as tensions between Iran and Israel influenced market sentiment. OKB Coin led weekly gains, while several altcoins posted sharp losses. Continue Reading: Bitcoin Holds Steady as Geopolitical Tensions Rattle Crypto Markets The post Bitcoin Holds Steady as Geopolitical T",
+      "source_url": "https://en.coin-turk.com/bitcoin-holds-steady-as-geopolitical-tensions-rattle-crypto-markets/",
+      "source_name": "CoinTurk News",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T04:21:07+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "OKB"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/79/58992818.jpeg",
+      "korean_summary": "이란과 이스라엘 간의 지정학적 긴장이 시장 심리에 영향을 미치며 비트코인(Bitcoin)의 변동성이 지속되었다. OKB 코인(OKB Coin)이 주간 상승을 주도한 반면, 여러 알트코인(altcoins)은 급격한 손실을 기록했다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Solana – What to expect when bullish fundamentals meet bearish market reality",
+      "body_preview": "While multi-year conviction remains strong, it doesn't mean everything for Solana.",
+      "source_url": "https://ambcrypto.com/solana-what-to-expect-when-bullish-fundamentals-meet-bearish-market-reality/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T04:00:08+00:00",
+      "category": "crypto",
+      "currencies": [
+        "SOL"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "솔라나(Solana)는 장기적인 강세 전망에도 불구하고, 약세 시장 현실에 직면해 있다. 이는 강력한 펀더멘털(fundamentals)이 항상 시장 가격에 즉각적으로 반영되지 않을 수 있음을 시사한다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
     {
       "title": "Grok, Claude, Qwen, ChatGPT, and More: 9 AI Models Predict Bitcoin’s Next Price Path",
       "body_preview": "While bitcoin has drifted sideways this week, we turned to some of today’s leading artificial intelligence (AI) models to weigh in on where the asset may head next. Will the crypto asset fall below its 2026 low? Or will it reclaim the $100,000 mark in the near term? Nine AI models lay out their expe",
@@ -16,8 +175,8 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/14/58991031.jpeg",
-      "korean_summary": "비트코인(Bitcoin)이 횡보세를 보이는 가운데, 주요 인공지능(AI) 모델들이 비트코인의 향후 가격 경로를 예측했다. 여러 AI 모델들은 비트코인이 특정 지지선 아래로 하락할 가능성과 상승할 가능성을 동시에 제시하며 시장의 불확실성을 반영했다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
+      "korean_summary": "이번 주 비트코인(Bitcoin)이 횡보세를 보이는 가운데, 주요 인공지능(AI) 모델 9개가 비트코인의 향후 가격 경로를 예측했다. 이는 시장의 불확실성 속에서 AI 분석에 대한 관심이 높아지고 있음을 보여준다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
     },
     {
       "title": "Florida Passes First State-Level Stablecoin Bill — Crypto CLARITY Act Next?",
@@ -32,8 +191,8 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/13/58991039.jpeg",
-      "korean_summary": "플로리다 주 상원이 주(州) 차원의 스테이블코인(stablecoin) 규제 프레임워크를 구축하는 법안을 통과시켰다. 이는 암호화폐(crypto) 산업에 긍정적인 발전으로 평가되며, 연방 차원의 명확한 규제 법안인 CLARITY Act에 대한 기대를 높이고 있다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
+      "korean_summary": "플로리다주 상원이 주 차원의 스테이블코인(stablecoin) 규제 프레임워크(regulatory framework)를 마련하는 법안을 통과시켰다. 이는 암호화폐 산업에 긍정적인 발전으로 평가되며, 연방 차원의 '암호화폐 명확성 법안(Crypto CLARITY Act)' 논의에도 영향을 줄 수 있다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
     },
     {
       "title": "US Judge Throws out Lawsuit Against Binance and CZ Over Claims of Funding Linked to Violent Attacks",
@@ -48,8 +207,8 @@
         "BNB"
       ],
       "media_url": "https://resources.cryptocompare.com/news/14/58991029.jpeg",
-      "korean_summary": "미국 연방 판사가 암호화폐(crypto) 거래소 바이낸스(Binance)와 창펑 자오(Changpeng Zhao, CZ)가 테러 공격 자금 조달에 연루되었다는 주장을 기각했다. 이는 바이낸스에 중요한 법적 승리를 안겨주었으며, 향후 다른 소송 가능성은 열어두었다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
+      "korean_summary": "미국 연방 판사가 바이낸스(Binance)와 창펑 자오(Changpeng Zhao, CZ) 설립자가 테러 공격 자금 조달에 연루되었다는 주장을 기각했다. 이는 암호화폐 거래소에 중요한 법적 승리를 안겨주었으나, 다른 소송 가능성은 열려 있다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
     },
     {
       "title": "Aave’s revenue surges despite DAO turmoil – Is lending DeFi’s backbone now?",
@@ -62,8 +221,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "탈중앙화 금융(DeFi) 프로토콜 아베(Aave)가 DAO(탈중앙화 자율 조직)의 혼란에도 불구하고 수익이 급증했다. 이는 디파이(DeFi) 생태계에서 대출 서비스가 핵심적인 역할을 하고 있음을 시사하며, 아베의 견고한 비즈니스 모델을 보여준다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
+      "korean_summary": "탈중앙화 자율 조직(DAO)의 혼란에도 불구하고 디파이(DeFi) 대출 프로토콜 아베(Aave)의 수익이 급증했다. 이는 대출이 디파이 생태계의 핵심 기반 역할을 하고 있음을 시사한다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
     },
     {
       "title": "CBDC: Senator Pushes For Permanent Ban In Housing Act Amendment",
@@ -78,8 +237,218 @@
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/13/58991037.jpeg",
-      "korean_summary": "미국 테드 크루즈(Ted Cruz) 상원의원이 주택법(Housing Act) 개정안을 통해 미국 중앙은행 디지털 화폐(CBDC)의 영구적인 금지를 추진하고 있다. 이는 CBDC 도입에 대한 지속적인 반대 캠페인의 일환으로, 개인의 금융 프라이버시 보호를 강조한다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
+      "korean_summary": "미국 상원의원 테드 크루즈(Ted Cruz)가 주택법 개정안을 통해 미국 중앙은행 디지털 화폐(CBDC)의 영구적인 금지를 추진하고 있다. 이는 CBDC 도입에 대한 강력한 반대 입장을 재확인하는 움직임이다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Trump rejects settling Iran war, raises prospect of killing all its potential leaders - Reuters",
+      "body_preview": "Trump rejects settling Iran war, raises prospect of killing all its potential leaders  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFh3VW9kcGVhakNiREpuNVJiM1hCRFdkQ3dmQU43QWtMM3dDdmJEWW8zcTdrRDc5MDZDbkwzUDJQVU41N1N5OTNXWjFMaTlzdFpfakZhSTgxbFc2UFZjNXZBTm1uUjh4aF9oRS02c0o3TDBHY1JaVXZ6Nno4ZmtOZGU1Rm1uUF9QRFl6TjNXR0Z2cUx0YVJrVlBOeDJ5Sm1RLXJNWDRFQlAzR1FvQjRaV2RIdjUzQi1fbXpib0xObw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T02:39:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "트럼프 대통령은 이란과의 전쟁을 타협으로 해결하는 것을 거부하며, 이란의 잠재적 지도자들을 모두 제거할 가능성을 언급했습니다. 이는 중동 지역의 긴장을 고조시킬 수 있는 발언으로 해석됩니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Australia weighing requests for assistance from countries attacked by Iran - Reuters",
+      "body_preview": "Australia weighing requests for assistance from countries attacked by Iran  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDBRTU8zcDRyMC1ZTHc4WEVGS3EwR2JKbGU3czA2dlhaZ3ZwZEY3Z1dTcVVsWk11RkJKTUhFNkp6X205ejRRWnkxMFduNHBkOU9VYWR6aTdwU3U3S3cwaUU2YzFJeWc2NGFITm10TUdvZ1dYR19HenJ1T3c4T0UtQThueDU2UEt6dDRQd05aLVZoS09ZUUZoUmlta2h6aE1tcEp5aEljWHBoNkExdDJoYnYyMVV0YmhpSDFSMg?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T02:23:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "호주는 이란의 공격을 받은 국가들로부터 지원 요청을 검토 중이라고 로이터 통신이 보도했습니다. 이는 중동 분쟁이 확산됨에 따라 국제사회의 개입 가능성을 시사하며, 역내 안보 상황에 대한 우려를 높이고 있습니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Explosion hits US embassy in Oslo, causing minor damage, police say - Reuters",
+      "body_preview": "Explosion hits US embassy in Oslo, causing minor damage, police say  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGFYT0NPSDM0RUZsdTRTOUtzM3FMUnczbnBqcFhHQzMwNHlDNHB5UXN4SmJwUjBlUXg4WVhZNm1ScURsanZVWTBCOS1seldOd3Atc2NzM2JicS1NcDNub2dVSDNmNlRzeWJ4Q0pheDdUMlRTbGRzMWxmVGlzWkpJaVl3SWJqRzBJZ1l4QzJjNEx5Qkp3U29PVGRLX1BGWGVsYmJMRG9BSQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T00:50:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "노르웨이 오슬로 주재 미국 대사관에서 폭발이 발생하여 경미한 피해가 발생했다고 현지 경찰이 밝혔습니다. 이번 사건은 중동 긴장이 고조되는 가운데 발생해 국제적인 우려를 낳고 있습니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Four killed in Beirut hotel strike, Israel says it targeted Iranian commanders - Reuters",
+      "body_preview": "Four killed in Beirut hotel strike, Israel says it targeted Iranian commanders  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0JEcnVjaUtIcHJrai12NnZVV0VVLWpqeWZGZGFEZ1dpeVJnazBuXzNtdHJQRzlRZEhyV2V5NWFkZHpsdmpUU0dBODdkNE1OeXdKU2p0b3ZwZ0ppeXFwMTgyLXgxMGZSQkFVazVCZUNaN2R4U3FzR0VmU0ZOekNUc1IxczU2Rkszemp2NmpvSkpZZHpNc1dMYl84c2o5ZlFTUU40NHdIVExwUDZEWmNNNHZsR1dXaXBEbEM2eHl1a0JmcTdqWlZR?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T00:25:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "레바논 베이루트의 한 호텔에서 발생한 공격으로 4명이 사망했으며, 이스라엘은 이란 지휘관들을 표적으로 삼았다고 밝혔습니다. 이는 중동 지역 내 이스라엘과 이란 간의 긴장이 심화되고 있음을 보여줍니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "White House halts security bulletin warning of Iran-related threats - Reuters",
+      "body_preview": "White House halts security bulletin warning of Iran-related threats  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQel9XZnJPRHgxSzJ3TWpNYVc3b095dHdrV2ZQVVZsdGFnTFFiVURVelIyWktreUpEMnY0UHlLVmsxMV94ejd2TnBnQWUxMGkzRzF0YXI5WHR5bWpnSG95MWJod0hVek8wNUN5a1M4YjdPX2diaDY5Nl9OYS00b1hTa3ZqTUlwdXdCbTZEN1NkQWVTOG9OYmIwcThfRTlsazZ3c2ZuOVBnYWd6Tms2ZXc?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T23:31:25+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "백악관이 이란 관련 위협을 경고하는 안보 속보 발송을 중단했다고 로이터 통신이 보도했습니다. 이는 중동 긴장 상황에 대한 미국 정부의 메시지 전달 방식에 변화가 있음을 시사합니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Trump tells Britain he does not need its help to win Iran war - Reuters",
+      "body_preview": "Trump tells Britain he does not need its help to win Iran war  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3Z1TGNwellYQ0FsdDBlZVh0UlpzMERhOGdqLWJpY3h1bXNJTFI3UElCLUhKeGhNMU15SjJJS1NnRlFmQnZXR29QX09rZUlWX3EtTFNCUlRrSWhxV1I5YmlvdGoxVUxteG9uY3NRVDF3dGpwcGduNUNZbW9SM1JmSGVfamY5cVdHb1pObEQycGZuR3NzS0VRdTU2N3BNX1BxSVV0RHRZbVZGY28?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T22:55:14+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "트럼프 대통령은 영국에 이란과의 전쟁에서 승리하기 위해 영국의 도움이 필요 없다고 밝혔습니다. 이는 이란과의 갈등에 대한 미국의 독자적인 접근 방식을 강조하며, 동맹국과의 관계에 영향을 미칠 수 있습니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Exclusive: Saudi has told Iran not to attack it, warns of possible retaliation, sources say - Reuters",
+      "body_preview": "Exclusive: Saudi has told Iran not to attack it, warns of possible retaliation, sources say  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWk9fSDVIblVPWTNRa1NIbWtjLTYwOTBqSWJqY3BYRHExY3hTV2M4NnIxdnpONGFoVTYwSTBfTUZLUEtMLWNxVm9sdVNYQnAtSmNlbFJMMkU2WVFHVjRGREVSdDR1ZXdWbUdpQmljdHFVMG5YLUxCcDNnWWtwNmtPRzhZLTgzN0pvYlltYVFTNmpCanZPVjZZZ04tN1BmWnVrSmlOb01UWkhVdGtiWjVlMWZXSG9zNWtmcjF2MjY2cF9LR1JN?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T20:56:16+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "사우디아라비아가 이란에 자국을 공격하지 말 것을 경고하며, 보복 가능성을 언급했다고 로이터 통신이 단독 보도했습니다. 이는 중동 지역 내 긴장이 고조되는 가운데 사우디의 입장을 보여줍니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "As war spreads, airline pilots contend with drones, missiles - and stress - Reuters",
+      "body_preview": "As war spreads, airline pilots contend with drones, missiles - and stress  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUG1JZ2p5Vzk0S2FtQzZNMjNQTkM3a2xyTmRjaHo3YXp4U0lXbFpfYkZmekNSQUMzczY0ZlpaSmJxeDFweGFHcmZPc0tQOWg4SmpPcXRNZE1zbTNiY1ZrdTdKZWkxV3Zadl9COEVXVWd0TXpsbFg1NTdtSFlCanNjU2pSVXBYbFBUMWI1SDlfbWdQSmo0Z3I5OUU3SEU3aDRXd0ZPNTAwYWQxRlBvWFI5bmFfVHpCQVEzT0YzUkdsamg5alE?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T20:37:28+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "중동 전쟁이 확산되면서 항공기 조종사들이 드론, 미사일 위협 및 심리적 스트레스에 직면하고 있다고 로이터 통신이 전했습니다. 이는 항공 안전에 대한 우려를 높이며, 항공 산업 전반에 영향을 미칠 수 있습니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "As Iran's retaliation began, US officials scrambled to arrange evacuations - Reuters",
+      "body_preview": "As Iran's retaliation began, US officials scrambled to arrange evacuations  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVdrZWlSTmthOVFfUFlEN0gxbklBZlV2amJHVTB1MlJudjNqdzBCNkRVcUdKVUVxZ3A1a1VvOE9ROXM2UGZsYWJBdW9jbExmZloycE9rSFg1blQtS09ZVXoyVURlRTNHT0RSZlEweXNrQWowbGlzLXpTaDE3cnVkdEtxbjl2OEhMaGgwMWF0OE1aNl9WR0VwVFd6Rlh3SnVEN3QydHdIMUxYeFlRY19uNA?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T19:25:13+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란의 보복 공격이 시작되자 미국 관리들은 자국민 대피를 서둘러 준비했다고 로이터 통신이 보도했습니다. 이는 중동 지역의 긴박한 상황과 미국 정부의 신속한 대응 노력을 보여줍니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Cracks emerge in Iran's leadership as it reels under bombardment - Reuters",
+      "body_preview": "Cracks emerge in Iran's leadership as it reels under bombardment  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUxFYXpxTC14dkFXc1Zqa3hmOXV4a1R5UWxvNGhDM2tVbWhtQmxfVnJrSi1WRTV0aXN3YzNQWElTV1NkQmVyQnpCYWluSU5hSnBwVG8zMXlYSFFvMF9kSVRuN3hPb0oyS3NkQW5UODBnUWNzeVVhWnNmeDVWLTM0MDYwMXJWUU93bEJweHNtSjNXMEFzNXJJMHhsQVFFbzI5ODJXUlVNYmhXZ2k3ZGNZZQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T19:20:56+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란이 폭격으로 어려움을 겪으면서 이란 지도부 내부에 균열이 나타나고 있다고 로이터 통신이 전했습니다. 이는 이란 내부의 정치적 불안정 가능성을 시사하며, 향후 정세 변화에 영향을 줄 수 있습니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Iranian diplomats leave Lebanon after Israeli strikes near embassy - Reuters",
+      "body_preview": "Iranian diplomats leave Lebanon after Israeli strikes near embassy  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWkdheEp2SnVZSU5icEF2Z2VkMUZZTURZM3dWdjZxVTRQc3MtQlBwR3Nleks4ZnlBXzZVUFhuN2Z1a3d5azBRMEZhOERVeXg0U3UwSkJUM2RjOXJZY0swM0ZVMmlWb2NLNFpFQ05KU0JuZlhPdF9xNXM0QUZVNFFaZFh0aHJqaHdwT1RaNXNxY3B3TUNUZWZXckNXSU9SYkl3WDFEQ3QzNVpBdTFRVzlSQktpbXMzdDBHZlN3aUEzTW5tMTgyVmxHRzlTMDk?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T18:19:47+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이스라엘의 대사관 인근 공습 이후 이란 외교관들이 레바논을 떠났다고 로이터 통신이 보도했습니다. 이는 중동 지역 내 긴장이 고조되고 있음을 보여주며, 외교적 관계에도 영향을 미치고 있습니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Kuwait cuts oil production as Strait of Hormuz closure disrupts global energy market",
+      "body_preview": "Brent oil prices could spike above $100 per barrel if the Gulf Arab countries run out of storage  space and shut down production, according to JPMorgan.",
+      "source_url": "https://www.cnbc.com/2026/03/07/kuwait-oil-cut-iran-war-strait-hormuz.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T17:28:01+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108272681-17725447292026-03-02t161444z_845839422_rc2fwja1f1uu_rtrmadp_0_iran-crisis-usa-economy.jpeg?v=1772544747&w=1920&h=1080",
+      "korean_summary": "쿠웨이트가 호르무즈 해협(Strait of Hormuz) 폐쇄로 글로벌 에너지 시장이 교란되자 원유 생산을 감축했습니다. JP모건은 걸프 아랍 국가들이 저장 공간 부족으로 생산을 중단하면 브렌트유(Brent oil) 가격이 배럴당 100달러를 넘어설 수 있다고 전망했습니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Trump vows to hit harder as Tehran says sorry to neighbors - Reuters",
+      "body_preview": "Trump vows to hit harder as Tehran says sorry to neighbors  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2VYblhhMG54X3ZPa3phU2htcV9sM1l5MEJCd0tWc1BWTGNjbDFoWUVVQUZtUmtJa1gzUEJ2Wi14LVdpRGg4WUN6ckZUV0ljUENjSEl4cWxDOXVFM0dJTnYya2xuZ2J0SDlKYWwtcTU2ZHpqWFRSMHB3ck93NHNLV0Y5aXhlUUxpTlNBaTFLTVVjN2N4TzdyZ1lR?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T16:58:53+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "트럼프 대통령은 이란이 주변국에 사과했음에도 불구하고 더 강력하게 공격할 것을 다짐했다고 로이터 통신이 보도했습니다. 이는 중동 긴장 완화 노력에도 불구하고 미국의 강경한 입장을 보여줍니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "UAE president says country is well and is no easy prey in first public comments since Iran strikes - Reuters",
+      "body_preview": "UAE president says country is well and is no easy prey in first public comments since Iran strikes  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVC1RNVUyb3pHOE5yVnBYc05OeV93MUNDMUFsNFNKaDltVFAwUUpwM09oVC1Mek5nSHY5RFpOaEJ2YVhHbEVTR2t0bTRCTGV3OFVJMXhOd0R1NlFyMnhNSHRqb2hvT05MOE5RVFR3ZloxdkpBaDVvMGg1T0dDdGxKUXpOc2NHN24zQ3dOaXpDTXktdnVnY1RSUzdFZDVYUnpuX3BjMFA3N3ZIV3dQSXRUS1Q3OHdPM0xUbmg5N1RjV0kzN2YwUkF5WFQ0Zi0?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T16:15:39+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "아랍에미리트(UAE) 대통령은 이란의 공격 이후 첫 공개 발언에서 자국이 건재하며 쉽게 당하지 않을 것이라고 밝혔습니다. 이는 중동 지역의 긴장 속에서 UAE의 강력한 의지를 표명한 것으로 해석됩니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
+    },
+    {
+      "title": "Here are 3 themes that drove another challenging week on Wall Street",
+      "body_preview": "Surprising economic data, another batch of earnings, and an intensifying conflict in the Middle East all combined to move the market, mostly downward.",
+      "source_url": "https://www.cnbc.com/2026/03/07/here-are-3-themes-that-drove-another-challenging-week-on-wall-street.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T15:29:52+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108274882-17728175032026-03-06t171619z_706146746_rc21zja0hmdp_rtrmadp_0_usa-stocks.jpeg?v=1772817626&w=1920&h=1080",
+      "korean_summary": "월스트리트(Wall Street)는 예상치 못한 경제 지표, 기업 실적 발표, 그리고 중동 분쟁 심화라는 세 가지 요인으로 인해 또 한 번 어려운 한 주를 보냈으며, 시장은 주로 하락세를 나타냈습니다.",
+      "fetched_at": "2026-03-08T05:41:01.459231+00:00"
     },
     {
       "title": "Coinbase Opens 84 Countries to ‘Everything Exchange’ Ecosystem Through Integrated Decentralized Trading",
@@ -231,174 +600,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/93/default.png",
       "korean_summary": "이더리움(Ethereum, ETH)이 비트코인(Bitcoin, BTC) 대비 주요 저항선 아래에서 정체되고 있으며, 미국 달러 대비로는 2,340달러 지지선 테스트를 앞두고 있다. 이는 이더리움이 중요한 변곡점에 도달했음을 시사하며, 향후 가격 방향에 대한 관심이 집중된다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "Four killed in Beirut hotel strike, Israel says it targeted Iranian commanders - Reuters",
-      "body_preview": "Four killed in Beirut hotel strike, Israel says it targeted Iranian commanders  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0JEcnVjaUtIcHJrai12NnZVV0VVLWpqeWZGZGFEZ1dpeVJnazBuXzNtdHJQRzlRZEhyV2V5NWFkZHpsdmpUU0dBODdkNE1OeXdKU2p0b3ZwZ0ppeXFwMTgyLXgxMGZSQkFVazVCZUNaN2R4U3FzR0VmU0ZOekNUc1IxczU2Rkszemp2NmpvSkpZZHpNc1dMYl84c2o5ZlFTUU40NHdIVExwUDZEWmNNNHZsR1dXaXBEbEM2eHl1a0JmcTdqWlZR?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T00:25:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이스라엘이 베이루트 호텔 공습으로 이란 지휘관들을 표적으로 삼았다고 밝히며 4명이 사망했습니다. 이는 중동 지역의 군사적 긴장 고조를 반영하며, 지정학적 위험이 증대되고 있음을 시사합니다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "White House halts security bulletin warning of Iran-related threats - Reuters",
-      "body_preview": "White House halts security bulletin warning of Iran-related threats  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQel9XZnJPRHgxSzJ3TWpNYVc3b095dHdrV2ZQVVZsdGFnTFFiVURVelIyWktreUpEMnY0UHlLVmsxMV94ejd2TnBnQWUxMGkzRzF0YXI5WHR5bWpnSG95MWJod0hVek8wNUN5a1M4YjdPX2diaDY5Nl9OYS00b1hTa3ZqTUlwdXdCbTZEN1NkQWVTOG9OYmIwcThfRTlsazZ3c2ZuOVBnYWd6Tms2ZXc?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T23:31:25+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "백악관이 이란 관련 위협을 경고하는 보안 게시판 발행을 중단했습니다. 이는 중동 지역의 긴장 완화를 위한 외교적 움직임으로 해석될 수 있으며, 시장의 불확실성에 영향을 미칠 수 있습니다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "Trump tells Britain he does not need its help to win Iran war - Reuters",
-      "body_preview": "Trump tells Britain he does not need its help to win Iran war  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3Z1TGNwellYQ0FsdDBlZVh0UlpzMERhOGdqLWJpY3h1bXNJTFI3UElCLUhKeGhNMU15SjJJS1NnRlFmQnZXR29QX09rZUlWX3EtTFNCUlRrSWhxV1I5YmlvdGoxVUxteG9uY3NRVDF3dGpwcGduNUNZbW9SM1JmSGVfamY5cVdHb1pObEQycGZuR3NzS0VRdTU2N3BNX1BxSVV0RHRZbVZGY28?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T22:55:14+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "트럼프 전 대통령이 이란과의 전쟁에서 영국의 도움이 필요 없다고 밝혔습니다. 이는 미국의 단독 행동 가능성을 시사하며, 중동 분쟁에 대한 국제 공조의 불확실성을 증대시킬 수 있습니다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "As war spreads, airline pilots contend with drones, missiles - and stress - Reuters",
-      "body_preview": "As war spreads, airline pilots contend with drones, missiles - and stress  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUG1JZ2p5Vzk0S2FtQzZNMjNQTkM3a2xyTmRjaHo3YXp4U0lXbFpfYkZmekNSQUMzczY0ZlpaSmJxeDFweGFHcmZPc0tQOWg4SmpPcXRNZE1zbTNiY1ZrdTdKZWkxV3Zadl9COEVXVWd0TXpsbFg1NTdtSFlCanNjU2pSVXBYbFBUMWI1SDlfbWdQSmo0Z3I5OUU3SEU3aDRXd0ZPNTAwYWQxRlBvWFI5bmFfVHpCQVEzT0YzUkdsamg5alE?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T22:42:24+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "중동 분쟁이 확산되면서 항공기 조종사들이 드론과 미사일 위협 및 심리적 스트레스에 직면하고 있습니다. 이는 항공 산업의 안전과 운영에 심각한 영향을 미치며, 글로벌 항공 운항에 차질을 줄 수 있습니다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "Exclusive: Saudi has told Iran not to attack it, warns of possible retaliation, sources say - Reuters",
-      "body_preview": "Exclusive: Saudi has told Iran not to attack it, warns of possible retaliation, sources say  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWk9fSDVIblVPWTNRa1NIbWtjLTYwOTBqSWJqY3BYRHExY3hTV2M4NnIxdnpONGFoVTYwSTBfTUZLUEtMLWNxVm9sdVNYQnAtSmNlbFJMMkU2WVFHVjRGREVSdDR1ZXdWbUdpQmljdHFVMG5YLUxCcDNnWWtwNmtPRzhZLTgzN0pvYlltYVFTNmpCanZPVjZZZ04tN1BmWnVrSmlOb01UWkhVdGtiWjVlMWZXSG9zNWtmcjF2MjY2cF9LR1JN?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T20:56:16+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "소식통에 따르면 사우디아라비아가 이란에 자국을 공격하지 말 것을 경고하며, 보복 가능성을 언급했습니다. 이는 중동 지역의 긴장 고조와 확전 우려를 심화시키며, 국제 유가 등 시장에 영향을 미칠 수 있습니다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "As Iran's retaliation began, US officials scrambled to arrange evacuations - Reuters",
-      "body_preview": "As Iran's retaliation began, US officials scrambled to arrange evacuations  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVdrZWlSTmthOVFfUFlEN0gxbklBZlV2amJHVTB1MlJudjNqdzBCNkRVcUdKVUVxZ3A1a1VvOE9ROXM2UGZsYWJBdW9jbExmZloycE9rSFg1blQtS09ZVXoyVURlRTNHT0RSZlEweXNrQWowbGlzLXpTaDE3cnVkdEtxbjl2OEhMaGgwMWF0OE1aNl9WR0VwVFd6Rlh3SnVEN3QydHdIMUxYeFlRY19uNA?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T19:25:13+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란의 보복 공격이 시작되자 미국 관리들이 자국민 대피를 서둘러 준비했습니다. 이는 중동 지역의 안보 상황이 급박하게 악화되었음을 보여주며, 외교적 긴장이 최고조에 달했음을 시사합니다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "Cracks emerge in Iran's leadership as it reels under bombardment - Reuters",
-      "body_preview": "Cracks emerge in Iran's leadership as it reels under bombardment  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUxFYXpxTC14dkFXc1Zqa3hmOXV4a1R5UWxvNGhDM2tVbWhtQmxfVnJrSi1WRTV0aXN3YzNQWElTV1NkQmVyQnpCYWluSU5hSnBwVG8zMXlYSFFvMF9kSVRuN3hPb0oyS3NkQW5UODBnUWNzeVVhWnNmeDVWLTM0MDYwMXJWUU93bEJweHNtSjNXMEFzNXJJMHhsQVFFbzI5ODJXUlVNYmhXZ2k3ZGNZZQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T19:20:56+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란이 지속적인 폭격으로 어려움을 겪는 가운데, 이란 지도부 내부에 균열이 나타나고 있습니다. 이는 이란의 내부 정치적 불안정성이 증대될 수 있음을 시사하며, 중동 정세에 영향을 줄 수 있습니다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "Iranian diplomats leave Lebanon after Israeli strikes near embassy - Reuters",
-      "body_preview": "Iranian diplomats leave Lebanon after Israeli strikes near embassy  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWkdheEp2SnVZSU5icEF2Z2VkMUZZTURZM3dWdjZxVTRQc3MtQlBwR3Nleks4ZnlBXzZVUFhuN2Z1a3d5azBRMEZhOERVeXg0U3UwSkJUM2RjOXJZY0swM0ZVMmlWb2NLNFpFQ05KU0JuZlhPdF9xNXM0QUZVNFFaZFh0aHJqaHdwT1RaNXNxY3B3TUNUZWZXckNXSU9SYkl3WDFEQ3QzNVpBdTFRVzlSQktpbXMzdDBHZlN3aUEzTW5tMTgyVmxHRzlTMDk?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T18:19:47+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이스라엘의 대사관 인근 공습 이후 이란 외교관들이 레바논을 떠났습니다. 이는 중동 지역의 외교적 긴장이 고조되고 있음을 보여주는 징후로, 역내 불안정성 심화 우려를 낳고 있습니다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "Kuwait cuts oil production as Strait of Hormuz closure disrupts global energy market",
-      "body_preview": "Brent oil prices could spike above $100 per barrel if the Gulf Arab countries run out of storage  space and shut down production, according to JPMorgan.",
-      "source_url": "https://www.cnbc.com/2026/03/07/kuwait-oil-cut-iran-war-strait-hormuz.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T17:28:01+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108272681-17725447292026-03-02t161444z_845839422_rc2fwja1f1uu_rtrmadp_0_iran-crisis-usa-economy.jpeg?v=1772544747&w=1920&h=1080",
-      "korean_summary": "쿠웨이트가 호르무즈 해협(Strait of Hormuz) 폐쇄로 인한 글로벌 에너지 시장 혼란에 대응하여 원유 생산량을 감축했습니다. JP모건(JPMorgan)은 브렌트유(Brent oil) 가격이 배럴당 100달러를 넘어설 수 있다고 전망하며, 유가 상승 압력을 시사했습니다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "Trump vows to hit harder as Tehran says sorry to neighbors - Reuters",
-      "body_preview": "Trump vows to hit harder as Tehran says sorry to neighbors  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2VYblhhMG54X3ZPa3phU2htcV9sM1l5MEJCd0tWc1BWTGNjbDFoWUVVQUZtUmtJa1gzUEJ2Wi14LVdpRGg4WUN6ckZUV0ljUENjSEl4cWxDOXVFM0dJTnYya2xuZ2J0SDlKYWwtcTU2ZHpqWFRSMHB3ck93NHNLV0Y5aXhlUUxpTlNBaTFLTVVjN2N4TzdyZ1lR?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T16:58:53+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란(Tehran)이 주변국에 사과를 표명했음에도 불구하고, 트럼프 전 대통령은 더 강력한 공격을 다짐했습니다. 이는 중동 긴장 완화 노력과 상반되는 발언으로, 역내 불확실성을 증폭시키며 시장에 부정적 영향을 줄 수 있습니다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "UAE president says country is well and is no easy prey in first public comments since Iran strikes - Reuters",
-      "body_preview": "UAE president says country is well and is no easy prey in first public comments since Iran strikes  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVC1RNVUyb3pHOE5yVnBYc05OeV93MUNDMUFsNFNKaDltVFAwUUpwM09oVC1Mek5nSHY5RFpOaEJ2YVhHbEVTR2t0bTRCTGV3OFVJMXhOd0R1NlFyMnhNSHRqb2hvT05MOE5RVFR3ZloxdkpBaDVvMGg1T0dDdGxKUXpOc2NHN24zQ3dOaXpDTXktdnVnY1RSUzdFZDVYUnpuX3BjMFA3N3ZIV3dQSXRUS1Q3OHdPM0xUbmg5N1RjV0kzN2YwUkF5WFQ0Zi0?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T16:15:39+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "아랍에미리트(UAE) 대통령이 이란 공습 이후 첫 공개 발언에서 자국은 건재하며 만만한 상대가 아니라고 밝혔습니다. 이는 중동 지역의 안보 의지를 표명하며, 역내 긴장 상황 속에서 국가적 결속을 강조하는 메시지로 해석됩니다.",
-      "fetched_at": "2026-03-08T04:04:11.335662+00:00"
-    },
-    {
-      "title": "Here are 3 themes that drove another challenging week on Wall Street",
-      "body_preview": "Surprising economic data, another batch of earnings, and an intensifying conflict in the Middle East all combined to move the market, mostly downward.",
-      "source_url": "https://www.cnbc.com/2026/03/07/here-are-3-themes-that-drove-another-challenging-week-on-wall-street.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T15:29:52+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108274882-17728175032026-03-06t171619z_706146746_rc21zja0hmdp_rtrmadp_0_usa-stocks.jpeg?v=1772817626&w=1920&h=1080",
-      "korean_summary": "월스트리트(Wall Street)의 어려운 한 주를 이끈 주요 요인은 예상 밖의 경제 지표, 기업 실적 발표, 그리고 중동 지역의 분쟁 심화였습니다. 이 복합적인 요인들이 시장 전반의 하락세를 주도했습니다.",
       "fetched_at": "2026-03-08T04:04:11.335662+00:00"
     },
     {
@@ -2896,203 +3097,6 @@
       "media_url": "https://resources.cryptocompare.com/news/13/58957370.jpeg",
       "korean_summary": "세이셸 기반 암호화폐 거래소 쿠코인(KuCoin)이 아랍에미리트(UAE) 당국으로부터 두바이 내 서비스 즉시 중단 명령을 받았다. 규제 당국은 쿠코인이 필요한 인가 없이 운영되고 있다고 판단하여 이 같은 조치를 내렸다.",
       "fetched_at": "2026-03-07T12:29:29.853408+00:00"
-    },
-    {
-      "title": "Bitcoin trades 20% below miner costs as fear builds, but is a bullish rotation starting?",
-      "body_preview": "Bitcoin looks stressed, but quiet accumulation may already be underway.",
-      "source_url": "https://ambcrypto.com/bitcoin-trades-20-below-miner-costs-as-fear-builds-but-is-a-bullish-rotation-starting/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T12:00:12+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "비트코인(Bitcoin) 가격이 채굴자(Miner) 비용보다 20% 낮은 수준에서 거래되며 시장에 공포감이 조성되고 있다. 하지만 이러한 스트레스 속에서도 조용한 축적(Accumulation)이 이미 진행 중일 수 있으며, 강세 전환(Bullish Rotation)의 시작 여부에 관심이 쏠린다.",
-      "fetched_at": "2026-03-07T12:29:29.853408+00:00"
-    },
-    {
-      "title": "Solana Keeps Its Recovery Structure Intact — Is SOL Ready to Push Back Toward $90?",
-      "body_preview": "Solana's price structure shows signs of a solid comeback. This resurgence has sparked curiosity among crypto enthusiasts. Can SOL surge once again and target the $90 mark? Insights into the current market trends and potential growth of select cryptocurrencies are unveiled in this latest analysis. Pr",
-      "source_url": "https://bitzo.com/2026/03/solana-keeps-its-recovery-structure-intact-is-sol-ready-to-push-back-toward-90",
-      "source_name": "Bitzo",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T12:00:02+00:00",
-      "category": "crypto",
-      "currencies": [
-        "SOL"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/104/58957347.jpeg",
-      "korean_summary": "솔라나(Solana)의 가격 구조가 견고한 회복세를 유지하고 있으며, 이는 암호화폐 투자자들 사이에서 큰 관심을 불러일으키고 있다. SOL이 다시 상승하여 90달러 선을 목표로 할 수 있을지 현재 시장 상황에 대한 심층 분석이 주목된다.",
-      "fetched_at": "2026-03-07T12:29:29.853408+00:00"
-    },
-    {
-      "title": "Trump Claims Iran Apologized to Middle East: A Stunning Shift in Regional Dynamics",
-      "body_preview": "BitcoinWorld Trump Claims Iran Apologized to Middle East: A Stunning Shift in Regional Dynamics WASHINGTON, D.C., January 15, 2025 – Former President Donald Trump made a significant claim on his Truth Social platform, asserting that Iran has formally apologized to its Middle Eastern neighbors and pr",
-      "source_url": "https://bitcoinworld.co.in/trump-iran-apology-middle-east/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:40:12+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "도널드 트럼프 전 미국 대통령이 이란이 중동 국가들에게 사과했다고 주장하며, 이는 역내 역학 관계에 놀라운 변화를 시사한다고 밝혔다. 트럼프 전 대통령은 자신의 소셜 미디어(Social Media)를 통해 이 같은 주장을 제기했다.",
-      "fetched_at": "2026-03-07T12:29:29.853408+00:00"
-    },
-    {
-      "title": "Shiba Inu Community Update: New ShibClaw Skill Launches With Warning Issued",
-      "body_preview": "The ShibClaw skills mark a move toward AI agents that could perform tasks.",
-      "source_url": "https://u.today/shiba-inu-community-update-new-shibclaw-skill-launches-with-warning-issued",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:31:00+00:00",
-      "category": "crypto",
-      "currencies": [
-        "SHIB"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/58956436.jpeg",
-      "korean_summary": "시바 이누(Shiba Inu) 커뮤니티가 새로운 '시브클로(ShibClaw)' 스킬을 출시하며, 이는 작업을 수행할 수 있는 인공지능(AI) 에이전트를 향한 움직임을 나타낸다. 이번 업데이트와 함께 관련 경고도 함께 발표되었다.",
-      "fetched_at": "2026-03-07T12:29:29.853408+00:00"
-    },
-    {
-      "title": "Lots of RLUSD Issued on the XRP Ledger for Gemini. What’s Happening?",
-      "body_preview": "A recent post by XRPL validator Vet has highlighted a notable increase in RLUSD’s issuance on the XRP Ledger and its connection to the cryptocurrency exchange Gemini. In the message shared on social media, Vet wrote, “Lots of RLUSD issued on the XRP Ledger for Gemini. What are ya all cooking or is t",
-      "source_url": "https://timestabloid.com/lots-of-rlusd-issued-on-the-xrp-ledger-for-gemini-whats-happening/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:30:29+00:00",
-      "category": "macro",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "XRP 렛저(XRP Ledger) 검증인(Validator) 벳(Vet)의 최근 게시물에 따르면, XRP 렛저에서 RLUSD 발행량이 크게 증가했으며 이는 암호화폐 거래소 제미니(Gemini)와 연관되어 있다. 이 같은 움직임의 배경에 대한 관심이 증폭되고 있다.",
-      "fetched_at": "2026-03-07T12:29:29.853408+00:00"
-    },
-    {
-      "title": "Solana price registers 14% rally, how SOL and utility protocols are shaping crypto in Q1 2026",
-      "body_preview": "The cryptocurrency industry entered a dynamic phase in the first quarter of 2026, characterized by",
-      "source_url": "https://ambcrypto.com/solana-price-registers-14-rally-how-sol-and-utility-protocols-are-shaping-crypto-in-q1-2026/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:30:00+00:00",
-      "category": "crypto",
-      "currencies": [
-        "SOL"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "2026년 1분기 암호화폐 산업이 역동적인 국면에 진입한 가운데, 솔라나(Solana) 가격이 14% 급등하는 강세를 보였다. SOL과 유틸리티 프로토콜(Utility Protocol)들이 암호화폐 시장의 흐름을 어떻게 형성하고 있는지 주목된다.",
-      "fetched_at": "2026-03-07T12:29:29.853408+00:00"
-    },
-    {
-      "title": "Market Outlook Reveals XRP Has Begun Its “Melting Phase” — A Shed Before The Pump?",
-      "body_preview": "XRP has entered what analyst EGRAG Crypto calls its “face melting phase,” a period he argues will test conviction before any meaningful upside expansion.",
-      "source_url": "https://zycrypto.com/market-outlook-reveals-xrp-has-begun-its-melting-phase-a-shed-before-the-pump/",
-      "source_name": "ZyCrypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:26:48+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
-      "korean_summary": "분석가 EGRAG 크립토(Crypto)에 따르면, XRP가 \"페이스 멜팅 단계(Face Melting Phase)\"에 진입했으며, 이는 의미 있는 상승 확장(Upside Expansion)에 앞서 투자자들의 확신을 시험하는 기간이 될 것이라고 분석했다.",
-      "fetched_at": "2026-03-07T12:29:29.853408+00:00"
-    },
-    {
-      "title": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz - Reuters",
-      "body_preview": "Iran's Guards challenges Trump to have US Navy escort oil tankers in Strait of Hormuz  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeGV6MEZnWnpYSUdnUWZrN2Q3R1NBaGxLYmY3M1JxYm1kQURyeDQwRldraTZFSzh0VU13QXRMdHN3VTFHU3AyNlJlYndjMGtGeHlVNXVZb0N4VkJQMnZVYWZHMml3TFp2QzhEbGtkdkdiQVgzc0hpcXRHRm44TFRnYUJhRHpXUGVqbUxIajBvejRRUm9JYVBkMHRJWm5yS2hOTVNHZVNIOExJRTFRdHhCRThvOF9ZMF95VVJNR2JtRUp5MlctczhUTw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T23:05:45+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 혁명수비대(Iran's Guards)는 트럼프 전 대통령에게 호르무즈 해협(Strait of Hormuz)에서 미국 해군이 유조선을 호위할 것을 요구하며 도전했다. 이는 중동 해상 운송의 긴장감을 고조시키는 발언이다.",
-      "fetched_at": "2026-03-07T12:29:29.853408+00:00"
-    },
-    {
-      "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
-      "body_preview": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
-      "source_url": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T22:26:20+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108254383-1770070558669-108254383-17689273942026-01-20t140915z_1241214190_rc225ja1zdei_rtrmadp_0_davos-meeting.jpeg?v=1770070580&w=1920&h=1080",
-      "korean_summary": "이란 전쟁이 팔란티어(Palantir)의 전망을 밝게 하면서 주가가 주간 15% 급등했다. 이는 지정학적 갈등이 특정 기술 기업의 국방 및 정보 관련 서비스 수요를 증가시킬 수 있음을 보여준다.",
-      "fetched_at": "2026-03-07T12:29:29.853408+00:00"
-    },
-    {
-      "title": "Iran's UN envoy says 1,332 Iranian civilians killed in war - Reuters",
-      "body_preview": "Iran's UN envoy says 1,332 Iranian civilians killed in war  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGE4TU5iT0V4TlBwY3NIU0pCYzhLa2w0NnFIT0lUNnJBVDl6cE5rbDQ1a3EtX3RaOUVrZUZ6TWpzSWI0bTFKdjYyYWpGTHVkaXZNdzcyS25Rb09aaU5MWFJqYkFoeHAyV2ZXc1Vib01mbm5KYWZiWldfeFFQNHpwY1JPSEpTcUpndGxMUXhGWkppRWYzbmdfQ3h5RkZ5RDV6OWtESG9IVmxaeHM?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-06T21:18:21+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 유엔 대사는 전쟁으로 인해 1,332명의 이란 민간인이 사망했다고 밝혔다. 이는 중동 분쟁의 인명 피해 규모를 강조하며 국제사회의 우려를 증폭시키고 있다.",
-      "fetched_at": "2026-03-07T12:29:29.853408+00:00"
-    },
-    {
-      "title": "Jake Claver: Good Time for BlackRock to Enter the Picture With an XRP ETF",
-      "body_preview": "The cryptocurrency market continues to evolve as institutional investors deepen their involvement in digital assets . Over the past few years, exchange-traded funds (ETFs) have emerged as one of the most powerful bridges between traditional finance and the crypto ecosystem. After the success of spot",
-      "source_url": "https://timestabloid.com/jake-claver-good-time-for-blackrock-to-enter-the-picture-with-an-xrp-etf/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:05:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "기관 투자자들의 디지털 자산 시장 참여가 심화되면서, 블랙록(BlackRock)이 XRP 상장지수펀드(ETF)를 출시하기에 좋은 시기라는 분석이 나왔다. 암호화폐 시장의 진화와 함께 ETF가 주요 투자 수단으로 부상하고 있다.",
-      "fetched_at": "2026-03-07T11:13:35.450452+00:00"
-    },
-    {
-      "title": "Kalshi dragged to court as Polymarket draws scrutiny over Iran conflict contracts",
-      "body_preview": "Traders have filed a class action lawsuit against Kalshi after the prediction market failed to disburse $54 million in one of its contracts targeting the Iranian regime change. The prediction market argues that traders cannot directly benefit from death. Kalshi, a US-regulated prediction market plat",
-      "source_url": "https://www.cryptopolitan.com/kalshi-sued-over-54m-iran-leader-bets/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:02:44+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/43/58955852.jpeg",
-      "korean_summary": "예측 시장 플랫폼 칼시(Kalshi)가 이란 정권 교체 관련 계약에서 5,400만 달러를 지급하지 못해 집단 소송에 휘말렸다. 폴리마켓(Polymarket) 또한 이란 분쟁 계약으로 조사를 받고 있다.",
-      "fetched_at": "2026-03-07T11:13:35.450452+00:00"
-    },
-    {
-      "title": "Former CFO Sentenced to Prison for Diverting $35 Million into Cryptocurrency Schemes",
-      "body_preview": "A former CFO was jailed for misappropriating $35 million for personal crypto investments. The failed investment forced the company to lay off dozens of workers to survive. Continue Reading: Former CFO Sentenced to Prison for Diverting $35 Million into Cryptocurrency Schemes The post Former CFO Sente",
-      "source_url": "https://en.coin-turk.com/former-cfo-sentenced-to-prison-for-diverting-35-million-into-cryptocurrency-schemes/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T11:00:53+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/79/58955672.jpeg",
-      "korean_summary": "전 최고재무책임자(CFO)가 개인 암호화폐 투자에 3,500만 달러를 유용하여 징역형을 선고받았다. 이 실패한 투자로 인해 회사는 수십 명의 직원을 해고해야 했다.",
-      "fetched_at": "2026-03-07T11:13:35.450452+00:00"
     }
   ]
 }
