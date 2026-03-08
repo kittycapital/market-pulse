@@ -1,8 +1,110 @@
 {
-  "last_updated": "2026-03-08T17:17:21.341168+00:00",
-  "last_updated_kst": "2026-03-09 02:17 KST",
+  "last_updated": "2026-03-08T18:22:43.266984+00:00",
+  "last_updated_kst": "2026-03-09 03:22 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Analyst to XRP Investors: This is the End. Here’s why",
+      "body_preview": "Global financial markets often react sharply when geopolitical tensions disrupt key commodities like oil. Because energy prices influence transportation, manufacturing, and global trade, sudden spikes can quickly ripple across the broader economy. Cryptocurrencies, which many investors treat as high",
+      "source_url": "https://timestabloid.com/analyst-to-xrp-investors-this-is-the-end-heres-why/",
+      "source_name": "TimesTabloid",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T18:05:06+00:00",
+      "category": "macro",
+      "currencies": [
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
+      "korean_summary": "지정학적 긴장이 유가 등 주요 원자재 시장을 교란할 때 글로벌 금융시장은 급격히 반응합니다. 에너지 가격은 운송, 제조 및 글로벌 무역에 영향을 미치므로, 유가 급등은 시장에 큰 파장을 일으킬 수 있습니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "What happened to Bitcoin, Ethereum, Solana, and XRP ETFs this week?",
+      "body_preview": "The sudden shift from inflows to outflows signals growing uncertainty among large investors.",
+      "source_url": "https://ambcrypto.com/what-happened-to-bitcoin-ethereum-solana-and-xrp-etfs-this-week/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T18:00:56+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "ETH",
+        "SOL",
+        "XRP"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "비트코인(Bitcoin), 이더리움(Ethereum) 등 주요 암호화폐 상장지수펀드(ETF)에서 순유입이 순유출로 전환되며 대규모 투자자들 사이에서 불확실성이 커지고 있음을 시사합니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Bitcoin And The Race To Build Money For AI Agents",
+      "body_preview": "As AI agents take their place in the economy, the question of which money they use is a choice that will echo for decades.",
+      "source_url": "https://www.forbes.com/sites/davidbirnbaum/2026/03/08/bitcoin-and-the-race-to-build-money-for-ai-agents/",
+      "source_name": "Forbes Digital Assets",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T18:00:22+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/94/59018627.jpeg",
+      "korean_summary": "인공지능(AI) 에이전트가 경제에서 중요한 역할을 하게 되면서, 이들이 어떤 종류의 화폐를 사용할 것인지에 대한 선택은 향후 수십 년간 큰 영향을 미칠 중요한 질문으로 부상하고 있습니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "The Graph price prediction 2026-2032: Will GRT recapture its ATH?",
+      "body_preview": "Key takeaways: The Graph price prediction anticipates a high of $0.045863 by the end of 2026. In 2028, it will range between $0.081535 and $0.096822, with an average price of $0.089179. In 2032, it will range between $0.183453 and $0.198741, with an average price of $0.191097. The Graph offers acces",
+      "source_url": "https://www.cryptopolitan.com/the-graph-price-prediction/",
+      "source_name": "Cryptopolitan",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T17:40:21+00:00",
+      "category": "macro",
+      "currencies": [
+        "SOL",
+        "BNB",
+        "GRT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/43/27747.jpeg",
+      "korean_summary": "더 그래프(The Graph, GRT) 가격 예측에 따르면, 2026년 말까지 최고 $0.045863에 도달할 것으로 보입니다. 2028년에는 $0.081535에서 $0.096822 사이, 그리고 2032년에는 더 높은 가격대를 형성할 것으로 전망됩니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Capital Rotates? Largest Gold ETF Suffers Huge Outflow as BTC Funds Recover",
+      "body_preview": "Although it remains the preferred safe-haven asset in times of exponentially increasing uncertainty, gold has seen a fair share of investor exodus, which was solidified by the largest US ETF tracking its performance last week. At the same time, BTC-related funds ended the same week in the green, alb",
+      "source_url": "https://cryptopotato.com/capital-rotates-largest-gold-etf-suffers-huge-outflow-as-btc-funds-recover/",
+      "source_name": "Crypto Potato",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T17:15:39+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/27/59016993.jpeg",
+      "korean_summary": "불확실성이 증대되는 시기에 선호되는 안전자산인 금(Gold)이 투자자 이탈을 겪고 있으며, 미국 최대 금 상장지수펀드(ETF)에서 대규모 자금 유출이 발생했습니다. 반면 비트코인(BTC) 펀드는 회복세를 보입니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Michael B. Jordan takes the lead on Polymarket for Oscars Best Actor",
+      "body_preview": "\"Sinners\" star Jordan's odds of winning the Best Actor honors at next week's Academy Awards were only 10% on March 1, hours before he won SAG's top male actor award.",
+      "source_url": "https://cointelegraph.com/news/michael-jordan-oscars-best-actor-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T17:14:53+00:00",
+      "category": "stocks",
+      "currencies": [
+        "OTHER"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "영화 \"Sinners\"의 주연 배우 마이클 B. 조던(Michael B. Jordan)이 다음 주 아카데미 시상식 남우주연상 수상 확률에서 폴리마켓(Polymarket) 선두를 차지했습니다. SAG 남우주연상 수상 후 그의 배당률이 급등했습니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
     {
       "title": "Billionaire investor warns Bitcoin ‘will be lucky to survive’ quantum computing after this period",
       "body_preview": "Canadian billionaire Frank Giustra has warned that Bitcoin ( BTC ) faces existential risks from quantum computing and artificial intelligence (AI). In an X post on March 8, the analyst said the cryptocurrency would be fortunate to survive the next five years. Giustra made the remark in response to a",
@@ -17,8 +119,8 @@
         "ETH"
       ],
       "media_url": "https://images.cryptocompare.com/news/default/finbold.png",
-      "korean_summary": "캐나다 억만장자 Frank Giustra는 비트코인(BTC)이 양자 컴퓨팅(quantum computing)과 인공지능(AI)으로 인해 실존적 위협에 직면할 수 있다고 경고했다. 그는 이 기술들이 비트코인의 생존에 심각한 도전을 제기할 것이라고 언급하며, 미래 보안에 대한 우려를 표명했다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
+      "korean_summary": "캐나다 억만장자 투자자 프랭크 지우스트라(Frank Giustra)는 비트코인(Bitcoin, BTC)이 양자 컴퓨팅(quantum computing)과 인공지능(AI)으로 인해 실존적 위협에 직면할 수 있다고 경고했습니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
     },
     {
       "title": "Bitcoin Could Average $500,000 This Cycle, According to Updated S2F Model by PlanB",
@@ -33,8 +135,8 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/64/59016482.jpeg",
-      "korean_summary": "양적 분석가 PlanB가 비트코인(BTC) S2F 모델(S2F model)을 업데이트하여, 2028년까지 비트코인 평균 가격이 50만 달러에 이를 수 있다고 예측했다. 이는 비트코인의 공급 희소성을 기반으로 한 장기적인 가격 전망을 제시한다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
+      "korean_summary": "정량 분석가 플랜비(PlanB)는 비트코인(Bitcoin) S2F 모델을 업데이트하여, 이번 주기 동안 비트코인 평균 가격이 2028년까지 $500,000에 도달할 가능성이 있다고 예측했습니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
     },
     {
       "title": "Ripple’s Team of Experts Includes DTCC and BlackRock Members. Here’s the Latest",
@@ -49,8 +151,8 @@
         "XRP"
       ],
       "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "블록체인 기술(blockchain technology)이 전통 금융(traditional finance)의 핵심 인프라로 통합되면서 글로벌 금융 시스템이 변화하고 있다. 리플(Ripple)은 이러한 변화 속에서 DTCC 및 블랙록(BlackRock) 출신 전문가들을 팀에 포함시키며, 블록체인 기반 금융 솔루션 개발에 박차를 가하고 있다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
+      "korean_summary": "블록체인(blockchain) 기술이 전통 금융의 핵심 인프라에 통합되면서 글로벌 금융 시스템이 조용히 변화하고 있습니다. 리플(Ripple)의 전문가 팀에는 DTCC와 블랙록(BlackRock) 관계자가 포함되어 있습니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
     },
     {
       "title": "Coinbase Flags Confusion Over New U.S. Crypto Tax Reporting Rules",
@@ -63,8 +165,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://resources.cryptocompare.com/news/93/default.png",
-      "korean_summary": "미국 암호화폐 거래소 코인베이스(Coinbase)는 디지털 자산 브로커에 대한 새로운 연방 세금 보고 규정(crypto tax reporting rules)이 여전히 복잡하고 해석하기 어렵다고 밝혔다. 업계가 광범위한 규정 준수를 준비하는 가운데, 명확성 부족으로 인한 혼란이 가중되고 있다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
+      "korean_summary": "미국 암호화폐 거래소 코인베이스(Coinbase)는 디지털 자산 브로커에 대한 새로운 연방 세금 보고 요건이 여전히 복잡하고 해석하기 어렵다고 밝혔습니다. 업계는 광범위한 규제 준수를 준비 중입니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
     },
     {
       "title": "Bitcoin approaches 20mln mined – Does it make BTC scarcity undeniable?",
@@ -79,8 +181,8 @@
         "BTC"
       ],
       "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "비트코인(BTC) 채굴량이 2천만 개에 근접하며, 발행량 감소와 기관 투자자들의 축적 가속화로 인해 글로벌 시장에서 비트코인의 유동성 공급이 더욱 줄어들고 있다. 이는 비트코인의 공급 희소성(scarcity)을 더욱 명확하게 부각시키고 있다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
+      "korean_summary": "비트코인(Bitcoin, BTC) 채굴량이 2천만 개에 근접하면서, 발행량 감소와 기관 투자자의 축적 가속화로 전 세계 시장에서 유동 비트코인 공급이 더욱 줄어들고 있어 희소성이 부각됩니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
     },
     {
       "title": "Bitcoin’s Civil War: Nervous Sellers Exit As Long-Term Holders Refuse To Budge",
@@ -95,8 +197,8 @@
         "BTC"
       ],
       "media_url": "https://resources.cryptocompare.com/news/13/59016291.jpeg",
-      "korean_summary": "비트코인(BTC) 보유 지표는 현재 상반된 두 가지 상황을 보여준다. 일부 투자자들이 불안감에 매도하는 반면, 장기 보유자(long-term holders)들은 비트코인을 팔지 않고 굳건히 유지하고 있다. 이는 비트코인 가격 전망에 대한 다양한 해석을 낳고 있다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
+      "korean_summary": "비트코인(Bitcoin) 보유자 지표는 현재 두 가지 상반된 이야기를 보여줍니다. 단기 투자자들은 매도하며 이탈하는 반면, 장기 보유자들은 움직이지 않아 선두 암호화폐의 가격 전망에 대한 해석이 엇갈립니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
     },
     {
       "title": "Bitcoin ETFs Break 5-Month Streak With 2nd Consecutive Week Of Inflows",
@@ -112,8 +214,8 @@
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/21/59016287.jpeg",
-      "korean_summary": "미국 현물 비트코인 ETF(Bitcoin ETF)가 5개월간의 흐름을 깨고 2주 연속 순유입(inflows)을 기록했다. 이는 기관 투자자들의 비트코인 시장에 대한 관심이 다시 살아나고 있음을 나타내며, 이전의 유출세가 꺾이고 긍정적인 전환점을 맞이했음을 시사한다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
+      "korean_summary": "미국 현물 비트코인(Bitcoin) 상장지수펀드(ETF)가 5개월 연속 순유출을 마감하고 2주 연속 순유입을 기록했습니다. 이는 금(Gold) ETF와 유사한 누적 투자 자금을 유치하며 시장의 주목을 받았습니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
     },
     {
       "title": "Bitcoin ETFs Extend Inflow Streak As Institutional Demand Resurges, With $570mn of Capital",
@@ -129,8 +231,8 @@
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/95/default.png",
-      "korean_summary": "미국 현물 비트코인 ETF(Bitcoin ETF)가 2주 연속 순유입(net inflows)을 기록하며, 기관 투자자들의 수요가 다시 증가하고 있음을 나타냈다. 총 5억 7천만 달러의 자본이 유입되었으며, 이는 장기간의 유출 및 신중한 분위기 이후 시장 회복의 신호로 해석된다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
+      "korean_summary": "미국 현물 비트코인(Bitcoin) 상장지수펀드(ETF)가 5억 7천만 달러의 자금 유입과 함께 2주 연속 순유입을 기록했습니다. 이는 오랜 기간의 유출과 신중한 태도 이후 기관 투자자 수요가 다시 살아나고 있음을 시사합니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
     },
     {
       "title": "Bitcoin Fails at $74K and Analysts See a Risk of a Deeper Fall Toward $61K",
@@ -146,8 +248,218 @@
         "FIAT"
       ],
       "media_url": "https://resources.cryptocompare.com/news/93/default.png",
-      "korean_summary": "비트코인(BTC)이 7만 4천 달러를 잠시 돌파했으나, 상승 모멘텀을 빠르게 잃고 3일 만에 7.6% 하락했다. 이에 분석가들은 비트코인이 6만 1천 달러 수준까지 더 깊은 하락세를 보일 위험이 있다고 경고하며, 시장의 불안감이 커지고 있다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
+      "korean_summary": "비트코인(Bitcoin)이 74,000달러를 잠시 돌파했으나 상승세가 빠르게 꺾였습니다. 이후 3일간 7.6% 하락하여, 분석가들 사이에서는 61,000달러까지 추가 하락할 수 있다는 우려가 제기되고 있습니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Here are the 4 big things we're watching in the stock market in the week ahead",
+      "body_preview": "Another volatile week on Wall Street appears likely as the war in Iran continues.",
+      "source_url": "https://www.cnbc.com/2026/03/08/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T16:11:11+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108272159-1772473432677-gettyimages-2263890116-GAS_PRICES.jpeg?v=1772834290&w=1920&h=1080",
+      "korean_summary": "이란 전쟁 지속으로 이번 주 월스트리트(Wall Street) 증시의 변동성이 커질 것으로 예상됩니다. 투자자들은 지정학적 긴장과 시장의 주요 동향을 주시할 것입니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "I've studied over 200 kids—parents who raise emotionally intelligent kids regularly ask their children 9 questions",
+      "body_preview": "Raising emotionally intelligent kids starts with everyday conversations at home, says child psychologist Reem Raouda, who has studied over 200 kids. Here are some questions parents can use to get started.",
+      "source_url": "https://www.cnbc.com/2026/03/08/psychologist-parents-who-ask-these-9-questions-raise-emotionally-intelligent-kids.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T13:43:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108275115-1772896057767-Happy_little_Asian_girl_holding_toy_magnifying_gla-2263163926-Getty.jpg?v=1772896128&w=1920&h=1080",
+      "korean_summary": "아동 심리학자 림 라우다(Reem Raouda)는 200명 이상의 아이들을 연구한 결과, 정서적으로 똑똑한 아이를 키우는 것은 가정에서의 일상 대화에서 시작된다고 밝혔습니다. 부모가 활용할 수 있는 질문들을 제시했습니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Pope Leo urges end to bombing, calls for dialogue amid Iran, Middle East violence - Reuters",
+      "body_preview": "Pope Leo urges end to bombing, calls for dialogue amid Iran, Middle East violence  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVlM3eWVRZS1iT3NGWlhyLV9qZE1aRk1PSzEwU2VtRnFGN2EwdlAySUVxN0Z6dnF6dlk5OE5PZHBOb1hQR1NqYWU3MTdGV3lKekhFS2VUbTE5YmtoVS0xX3RHZWNoUlZ6dHVJLUVLTmlTYjl4NGd6YTZGQmk0ZFVqWGtHSlhsOGZnbHM4amhlXzBQdTZEekNiSDNTZTM4UE5qY0tubWoyQnNwVW5jV2h0UkRaYWxaYjliT1FBQUNn?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T11:33:46+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "교황 레오(Pope Leo)는 이란과 중동 지역의 폭력 사태가 지속되는 가운데, 폭격 중단과 대화를 촉구했습니다. 이는 역내 긴장 완화를 위한 국제사회의 노력을 반영합니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Airstrikes, not occupation: Where Trump voters draw red lines on Iran - Reuters",
+      "body_preview": "Airstrikes, not occupation: Where Trump voters draw red lines on Iran  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb3R1YmhSS0NPZlhHQUJRWklVTTVNRnVyYzNEVmFlSEtvSUppdmNDR1YzbjRFWWdtNjl6NWpRWGZOSTJMWWVVcURucExzQWdUcVJYZkhWTGRqemc3SmpmZU9lZTlJVS1HdDVzazdvQS1XOEtTeDBDbmUyUHZjbDZQaHA1RHVRa1RjNERDRTZmNUZwYlBHSTRpM1BXU1YyMUY0ekhycElxamVUd3FJd2dESVRQd045enNRQ3c?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T11:04:54+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "로이터(Reuters) 보도에 따르면, 트럼프(Trump) 지지자들은 이란에 대한 군사적 대응에서 공습은 지지하지만, 지상군 투입과 같은 점령은 반대하는 '레드 라인'을 설정하고 있습니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Iran attacks breach international law, Swiss Defence Minister says - Reuters",
+      "body_preview": "Iran attacks breach international law, Swiss Defence Minister says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR05zSnZhbXcybjN3NHpiNzc4dGhGd1lOX2VWMFYybG01NFZDTm5DTVRWU3FnXy1JQ29NVTlrTGlmUVJYWVh5S29GSmNWcnZJa0VDQmg0NUptQ1dqOHlqZHUxUXN4X2d6RFEtYVpqcmJ4N0VYZmV1djdHMTJvWC1NLVlYb2pHZXg1eWk5OE9maWlFQUlJbWo5WlNQQmZybUNoSDJKN1drVWpxbEZ5VmI0dy16U0I?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T10:31:56+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "스위스 국방부 장관은 이란의 공격이 국제법을 위반하는 행위라고 밝혔습니다. 이는 이란의 군사 행동에 대한 국제사회의 비판적 시각을 보여줍니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Tokyo told national oil reserve site to prepare for release amid Iran crisis, Japan lawmaker says - Reuters",
+      "body_preview": "Tokyo told national oil reserve site to prepare for release amid Iran crisis, Japan lawmaker says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmVZSXZsZlZuTDBfTklSQzZ5QWhrOTVYXy1laDdQWnJNY1ZFRmF3VFZUVmJkbXZtNjZrYTEtNHJsX0RibU1hM3hWNHNlRFB6ell2blIxVWd3cEMyd2I4a0ZIZy05UHh0VUQzcEQ2RThlZk95aEpjaXBRbllRMnAxZmdKMWpLa3BfcVdNQ09JUWFieXdZVWlqVHdBN0U0eFh6eVJLbHFmTVNpSmFZbWRHZ3owejJFb2pGVV9DSEQxaVIwUTZjeXc?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T10:16:15+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "일본 국회의원에 따르면, 도쿄는 이란 위기 상황에 대비하여 국가 비축유 방출을 준비하도록 지시했습니다. 이는 에너지 시장 안정화를 위한 일본 정부의 선제적 조치로 풀이됩니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Israeli military says it will pursue every successor of Iran's Khamenei - Reuters",
+      "body_preview": "Israeli military says it will pursue every successor of Iran's Khamenei  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTFiNXNVUGsxSnFpb0tuVzd5UDVsdW9HNWxFSUtpQmRxSjVmRHlmSzNwaXY1YTdfc09KTzFkQ3VxVE5felJCQ05uak5kOE5WXzlMRl9rbk50Rk9uVVhUdzV5Q3U3Y1FXcWxRaWswcjdiSU5JTWtzLUgzVHVWaHZVd1J1Smw3NFE0SXVnbUl5ekFHNmZEY0RYODROTTlLRkdwc2hSVGZIellMUW02VVBEZ0ptdVpPYkVRbC0wVlRn?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T07:47:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이스라엘 군은 이란 최고 지도자 하메네이(Khamenei)의 모든 후계자들을 추적할 것이라고 밝혔습니다. 이는 이스라엘이 이란의 지도부 교체에도 불구하고 강경한 입장을 유지할 것임을 시사합니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Saudi extends rally on energy-led gains; Qatar slips - Reuters",
+      "body_preview": "Saudi extends rally on energy-led gains; Qatar slips  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVFaSHNlMjR4U3AxQmwxT0E3QnNmRmx1V3M4U2gwaFZ3ZUQwWTFJN1NoMEhhOVcyeW9McmdUV2dDOFFNUWV5enhnanhTa3RrSVNOTE9PUl9yOUtjNVVlUVdSN3YzUHoxUkIwS2RQcGxGRHZJTW9Nb3JiNm5YdFRCT3JDVHZLMEhmUzdrbFNNZ2VKanYycEE1cnd1VFVfNTFJeU1BT05sdkRMd3p4UVJTWTBR?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T07:40:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "사우디아라비아 증시는 에너지 부문 주도의 상승세에 힘입어 랠리를 이어갔으나, 카타르 증시는 하락세를 보였습니다. 이는 중동 지역 증시의 차별화된 움직임을 나타냅니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran - Reuters",
+      "body_preview": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVZVeTRRNjNRSDZUQjFIV2FIbEJYMXE5dVJkV1RRQ1V1WWU5NzF2VXM0MHE1TkptYnZaMy1PQW9fa0xmbnB1NWVyMDEySWFXdkh4RWdITEhoVWJRTFhLVWs0WDB5TGJ6Q0JHeWFUUXI1dWNWMkJxWGNNRTE4NFdzNzVhSG9wQTRNZ3JFaWZ6dEVXWFpYaUpxZm1iZmw0WnJ4eU56cDFyc3hRT1BzbG5jMVZOcw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T07:17:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "트럼프(Trump) 전 미국 대통령은 이란과의 분쟁에서 미국과 이스라엘을 돕겠다는 이탈리아 멜로니(Meloni) 총리의 의지를 칭찬했습니다. 이는 국제 동맹국의 역할에 대한 논의를 부각합니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Panel picking Iran's supreme leader has reached consensus, member says - Reuters",
+      "body_preview": "Panel picking Iran's supreme leader has reached consensus, member says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejM4c0YyQ1lielEzSExDaG10R3pVN2sxWU5WdmVQZWhUWk9fUjQ2b3hHVEZuV0U2X2UyZjkyNzB2c3JpX2JUOWhrcU5iM0tQOGVDdkZCbktxTGNlVlJySlZ4OHdCV2tQTFdQbzhhMExCQVF2TDRsQXhjM0QtTE0wblk1UzdOSmE3TUZ5aGlYY0VmdXh1U0RaYVM0WE5UMnpibk51UHNiTDFJYU1aQWZWRlZLX1RXWXBiRDNjbURwR2Nfdw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T06:37:02+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 최고 지도자를 선출하는 위원회 구성원에 따르면, 후계자 선정에 대한 합의가 이루어졌습니다. 이는 이란의 정치적 불확실성이 해소될 가능성을 시사합니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Israel expands Iran strikes as Tehran moves to name new supreme leader - Reuters",
+      "body_preview": "Israel expands Iran strikes as Tehran moves to name new supreme leader  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFh3VW9kcGVhakNiREpuNVJiM1hCRFdkQ3dmQU43QWtMM3dDdmJEWW8zcTdrRDc5MDZDbkwzUDJQVU41N1N5OTNXWjFMaTlzdFpfakZhSTgxbFc2UFZjNXZBTm1uUjh4aF9oRS02c0o3TDBHY1JaVXZ6Nno4ZmtOZGU1Rm1uUF9QRFl6TjNXR0Z2cUx0YVJrVlBOeDJ5Sm1RLXJNWDRFQlAzR1FvQjRaV2RIdjUzQi1fbXpib0xObw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T02:39:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란이 새로운 최고 지도자를 지명하려는 움직임을 보이는 가운데, 이스라엘은 이란에 대한 공습을 확대했습니다. 이는 중동 지역의 긴장이 고조되고 있음을 나타냅니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Australia weighing requests for assistance from countries attacked by Iran - Reuters",
+      "body_preview": "Australia weighing requests for assistance from countries attacked by Iran  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDBRTU8zcDRyMC1ZTHc4WEVGS3EwR2JKbGU3czA2dlhaZ3ZwZEY3Z1dTcVVsWk11RkJKTUhFNkp6X205ejRRWnkxMFduNHBkOU9VYWR6aTdwU3U3S3cwaUU2YzFJeWc2NGFITm10TUdvZ1dYR19HenJ1T3c4T0UtQThueDU2UEt6dDRQd05aLVZoS09ZUUZoUmlta2h6aE1tcEp5aEljWHBoNkExdDJoYnYyMVV0YmhpSDFSMg?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T02:23:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "호주 정부는 이란의 공격을 받은 국가들로부터의 지원 요청을 검토하고 있습니다. 이는 국제사회 내에서 이란 관련 분쟁에 대한 연대와 지원 논의가 활발함을 보여줍니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Explosion at US embassy in Oslo may have been deliberate attack, police say - Reuters",
+      "body_preview": "Explosion at US embassy in Oslo may have been deliberate attack, police say  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGFYT0NPSDM0RUZsdTRTOUtzM3FMUnczbnBqcFhHQzMwNHlDNHB5UXN4SmJwUjBlUXg4WVhZNm1ScURsanZVWTBCOS1seldOd3Atc2NzM2JicS1NcDNub2dVSDNmNlRzeWJ4Q0pheDdUMlRTbGRzMWxmVGlzWkpJaVl3SWJqRzBJZ1l4QzJjNEx5Qkp3U29PVGRLX1BGWGVsYmJMRG9BSQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T00:50:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "노르웨이 오슬로(Oslo) 주재 미국 대사관에서 발생한 폭발 사건에 대해 경찰은 고의적인 공격일 가능성을 제기했습니다. 이는 국제 외교 시설의 보안 문제에 대한 우려를 증폭시킵니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "Israel says it targeted Iranian commanders in Beirut as death toll nears 400 - Reuters",
+      "body_preview": "Israel says it targeted Iranian commanders in Beirut as death toll nears 400  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0JEcnVjaUtIcHJrai12NnZVV0VVLWpqeWZGZGFEZ1dpeVJnazBuXzNtdHJQRzlRZEhyV2V5NWFkZHpsdmpUU0dBODdkNE1OeXdKU2p0b3ZwZ0ppeXFwMTgyLXgxMGZSQkFVazVCZUNaN2R4U3FzR0VmU0ZOekNUc1IxczU2Rkszemp2NmpvSkpZZHpNc1dMYl84c2o5ZlFTUU40NHdIVExwUDZEWmNNNHZsR1dXaXBEbEM2eHl1a0JmcTdqWlZR?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-08T00:25:50+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이스라엘은 사망자 수가 400명에 육박하는 가운데, 레바논 베이루트(Beirut)에서 이란 사령관들을 표적으로 삼았다고 밝혔습니다. 이는 중동 지역의 군사적 긴장과 인명 피해가 심화되고 있음을 나타냅니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
+    },
+    {
+      "title": "White House halts security bulletin warning of Iran-related threats - Reuters",
+      "body_preview": "White House halts security bulletin warning of Iran-related threats  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQel9XZnJPRHgxSzJ3TWpNYVc3b095dHdrV2ZQVVZsdGFnTFFiVURVelIyWktreUpEMnY0UHlLVmsxMV94ejd2TnBnQWUxMGkzRzF0YXI5WHR5bWpnSG95MWJod0hVek8wNUN5a1M4YjdPX2diaDY5Nl9OYS00b1hTa3ZqTUlwdXdCbTZEN1NkQWVTOG9OYmIwcThfRTlsazZ3c2ZuOVBnYWd6Tms2ZXc?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-07T23:31:25+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "백악관(White House)은 이란 관련 위협에 대한 보안 경보 발령을 중단했습니다. 이는 미국 정부가 이란과의 긴장 상황에 대한 평가를 조정하고 있음을 시사합니다.",
+      "fetched_at": "2026-03-08T18:22:43.263327+00:00"
     },
     {
       "title": "AI Man Camps: Controversial ICE Facility Owner Targets Lucrative Data Center Boom",
@@ -243,202 +555,6 @@
       ],
       "media_url": "https://resources.cryptocompare.com/news/93/default.png",
       "korean_summary": "시바이누(Shiba Inu, SHIB)는 시장의 약세 가격 추세에도 불구하고, 1,310억 개 이상의 SHIB가 거래소에서 유출되며 재축적(accumulation) 조짐을 보이고 있다. 이는 대규모 투자자들이 SHIB를 거래 플랫폼 밖으로 옮겨 장기 보유하려는 움직임으로 해석된다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Here are the 4 big things we're watching in the stock market in the week ahead",
-      "body_preview": "Another volatile week on Wall Street appears likely as the war in Iran continues.",
-      "source_url": "https://www.cnbc.com/2026/03/08/here-are-the-4-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T16:11:11+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108272159-1772473432677-gettyimages-2263890116-GAS_PRICES.jpeg?v=1772834290&w=1920&h=1080",
-      "korean_summary": "이란 전쟁이 지속되면서 이번 주 월스트리트(Wall Street) 증시의 변동성이 커질 것으로 예상됩니다. 투자자들은 지정학적 긴장 고조가 시장에 미칠 영향과 주요 경제 지표 발표에 주목할 것입니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "I've studied over 200 kids—parents who raise emotionally intelligent kids regularly ask their children 9 questions",
-      "body_preview": "Raising emotionally intelligent kids starts with everyday conversations at home, says child psychologist Reem Raouda, who has studied over 200 kids. Here are some questions parents can use to get started.",
-      "source_url": "https://www.cnbc.com/2026/03/08/psychologist-parents-who-ask-these-9-questions-raise-emotionally-intelligent-kids.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T13:43:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108275115-1772896057767-Happy_little_Asian_girl_holding_toy_magnifying_gla-2263163926-Getty.jpg?v=1772896128&w=1920&h=1080",
-      "korean_summary": "아동 심리학자 림 라우다는 200명 이상의 아동 연구를 통해 정서적으로 지능 높은 아이를 키우는 것이 가정 내 일상 대화에서 시작된다고 밝혔습니다. 부모가 자녀에게 물어볼 수 있는 9가지 질문을 제시했습니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Pope Leo urges end to bombing, calls for dialogue amid Iran, Middle East violence - Reuters",
-      "body_preview": "Pope Leo urges end to bombing, calls for dialogue amid Iran, Middle East violence  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVlM3eWVRZS1iT3NGWlhyLV9qZE1aRk1PSzEwU2VtRnFGN2EwdlAySUVxN0Z6dnF6dlk5OE5PZHBOb1hQR1NqYWU3MTdGV3lKekhFS2VUbTE5YmtoVS0xX3RHZWNoUlZ6dHVJLUVLTmlTYjl4NGd6YTZGQmk0ZFVqWGtHSlhsOGZnbHM4amhlXzBQdTZEekNiSDNTZTM4UE5qY0tubWoyQnNwVW5jV2h0UkRaYWxaYjliT1FBQUNn?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T11:33:46+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "교황 레오는 이란과 중동 지역의 폭력 사태가 심화되는 가운데, 폭격 중단을 촉구하고 대화를 통한 해결을 강조했습니다. 이는 지역 안정과 평화를 위한 국제사회의 노력을 반영합니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Iran attacks breach international law, Swiss Defence Minister says - Reuters",
-      "body_preview": "Iran attacks breach international law, Swiss Defence Minister says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR05zSnZhbXcybjN3NHpiNzc4dGhGd1lOX2VWMFYybG01NFZDTm5DTVRWU3FnXy1JQ29NVTlrTGlmUVJYWVh5S29GSmNWcnZJa0VDQmg0NUptQ1dqOHlqZHUxUXN4X2d6RFEtYVpqcmJ4N0VYZmV1djdHMTJvWC1NLVlYb2pHZXg1eWk5OE9maWlFQUlJbWo5WlNQQmZybUNoSDJKN1drVWpxbEZ5VmI0dy16U0I?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T10:31:56+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "스위스 국방장관은 이란의 공격이 국제법을 위반하는 행위라고 비판했습니다. 이는 이란의 군사적 행동에 대한 국제사회의 우려와 비난 여론을 증폭시킬 것으로 보입니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Tokyo told national oil reserve site to prepare for release amid Iran crisis, Japan lawmaker says - Reuters",
-      "body_preview": "Tokyo told national oil reserve site to prepare for release amid Iran crisis, Japan lawmaker says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmVZSXZsZlZuTDBfTklSQzZ5QWhrOTVYXy1laDdQWnJNY1ZFRmF3VFZUVmJkbXZtNjZrYTEtNHJsX0RibU1hM3hWNHNlRFB6ell2blIxVWd3cEMyd2I4a0ZIZy05UHh0VUQzcEQ2RThlZk95aEpjaXBRbllRMnAxZmdKMWpLa3BfcVdNQ09JUWFieXdZVWlqVHdBN0U0eFh6eVJLbHFmTVNpSmFZbWRHZ3owejJFb2pGVV9DSEQxaVIwUTZjeXc?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T10:16:15+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "일본 의원에 따르면, 도쿄는 이란 위기 상황에 대비하여 국가 비축유 방출을 준비하도록 지시했습니다. 이는 중동 정세 불안이 에너지 시장에 미칠 잠재적 영향에 대한 일본 정부의 선제적 대응으로 해석됩니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Israeli military says it will pursue every successor of Iran's Khamenei - Reuters",
-      "body_preview": "Israeli military says it will pursue every successor of Iran's Khamenei  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObTFiNXNVUGsxSnFpb0tuVzd5UDVsdW9HNWxFSUtpQmRxSjVmRHlmSzNwaXY1YTdfc09KTzFkQ3VxVE5felJCQ05uak5kOE5WXzlMRl9rbk50Rk9uVVhUdzV5Q3U3Y1FXcWxRaWswcjdiSU5JTWtzLUgzVHVWaHZVd1J1Smw3NFE0SXVnbUl5ekFHNmZEY0RYODROTTlLRkdwc2hSVGZIellMUW02VVBEZ0ptdVpPYkVRbC0wVlRn?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T07:47:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이스라엘 군은 이란 최고 지도자 하메네이(Khamenei)의 모든 후계자를 추적할 것이라고 밝혔습니다. 이는 이란의 지도부 교체 과정에 대한 이스라엘의 강경한 입장을 보여주며, 양국 간 긴장을 더욱 고조시킬 수 있습니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Saudi extends rally on energy-led gains; Qatar slips - Reuters",
-      "body_preview": "Saudi extends rally on energy-led gains; Qatar slips  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVFaSHNlMjR4U3AxQmwxT0E3QnNmRmx1V3M4U2gwaFZ3ZUQwWTFJN1NoMEhhOVcyeW9McmdUV2dDOFFNUWV5enhnanhTa3RrSVNOTE9PUl9yOUtjNVVlUVdSN3YzUHoxUkIwS2RQcGxGRHZJTW9Nb3JiNm5YdFRCT3JDVHZLMEhmUzdrbFNNZ2VKanYycEE1cnd1VFVfNTFJeU1BT05sdkRMd3p4UVJTWTBR?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T07:40:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "사우디아라비아 증시는 에너지 부문 주도의 강세로 랠리를 이어갔으나, 카타르 증시는 하락세를 보였습니다. 이는 중동 지역 내 국가별 경제 상황과 에너지 시장 동향에 따른 차별적인 증시 흐름을 반영합니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran - Reuters",
-      "body_preview": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVZVeTRRNjNRSDZUQjFIV2FIbEJYMXE5dVJkV1RRQ1V1WWU5NzF2VXM0MHE1TkptYnZaMy1PQW9fa0xmbnB1NWVyMDEySWFXdkh4RWdITEhoVWJRTFhLVWs0WDB5TGJ6Q0JHeWFUUXI1dWNWMkJxWGNNRTE4NFdzNzVhSG9wQTRNZ3JFaWZ6dEVXWFpYaUpxZm1iZmw0WnJ4eU56cDFyc3hRT1BzbG5jMVZOcw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T07:17:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "트럼프 전 대통령은 이란과의 전쟁에서 미국-이스라엘을 돕겠다는 이탈리아 멜로니(Meloni) 총리의 의지에 찬사를 보냈습니다. 이는 이란 사태에 대한 국제적 연대 가능성과 각국 정상의 입장을 시사합니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Panel picking Iran's supreme leader has reached consensus, member says - Reuters",
-      "body_preview": "Panel picking Iran's supreme leader has reached consensus, member says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejM4c0YyQ1lielEzSExDaG10R3pVN2sxWU5WdmVQZWhUWk9fUjQ2b3hHVEZuV0U2X2UyZjkyNzB2c3JpX2JUOWhrcU5iM0tQOGVDdkZCbktxTGNlVlJySlZ4OHdCV2tQTFdQbzhhMExCQVF2TDRsQXhjM0QtTE0wblk1UzdOSmE3TUZ5aGlYY0VmdXh1U0RaYVM0WE5UMnpibk51UHNiTDFJYU1aQWZWRlZLX1RXWXBiRDNjbURwR2Nfdw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T06:37:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 최고 지도자 선출 위원회 구성원이 후계자 선정에 대한 합의에 도달했다고 밝혔습니다. 이는 이란의 정치적 불확실성을 해소하고, 차기 지도부의 정책 방향에 대한 관심이 집중될 것임을 의미합니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Israel expands Iran strikes as Tehran moves to name new supreme leader - Reuters",
-      "body_preview": "Israel expands Iran strikes as Tehran moves to name new supreme leader  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFh3VW9kcGVhakNiREpuNVJiM1hCRFdkQ3dmQU43QWtMM3dDdmJEWW8zcTdrRDc5MDZDbkwzUDJQVU41N1N5OTNXWjFMaTlzdFpfakZhSTgxbFc2UFZjNXZBTm1uUjh4aF9oRS02c0o3TDBHY1JaVXZ6Nno4ZmtOZGU1Rm1uUF9QRFl6TjNXR0Z2cUx0YVJrVlBOeDJ5Sm1RLXJNWDRFQlAzR1FvQjRaV2RIdjUzQi1fbXpib0xObw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T02:39:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란이 새로운 최고 지도자를 지명하려는 움직임을 보이는 가운데, 이스라엘은 이란에 대한 공습을 확대했습니다. 이는 중동 지역의 긴장을 고조시키고, 이란의 정치적 전환기에 대한 이스라엘의 강경한 대응을 보여줍니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Australia weighing requests for assistance from countries attacked by Iran - Reuters",
-      "body_preview": "Australia weighing requests for assistance from countries attacked by Iran  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDBRTU8zcDRyMC1ZTHc4WEVGS3EwR2JKbGU3czA2dlhaZ3ZwZEY3Z1dTcVVsWk11RkJKTUhFNkp6X205ejRRWnkxMFduNHBkOU9VYWR6aTdwU3U3S3cwaUU2YzFJeWc2NGFITm10TUdvZ1dYR19HenJ1T3c4T0UtQThueDU2UEt6dDRQd05aLVZoS09ZUUZoUmlta2h6aE1tcEp5aEljWHBoNkExdDJoYnYyMVV0YmhpSDFSMg?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T02:23:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "호주는 이란의 공격을 받은 국가들로부터 지원 요청을 검토 중입니다. 이는 이란 사태의 국제적 파급력과 함께, 호주가 중동 지역 안정에 기여할 가능성을 시사하며 외교적 행보에 관심이 모입니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Explosion at US embassy in Oslo may have been deliberate attack, police say - Reuters",
-      "body_preview": "Explosion at US embassy in Oslo may have been deliberate attack, police say  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGFYT0NPSDM0RUZsdTRTOUtzM3FMUnczbnBqcFhHQzMwNHlDNHB5UXN4SmJwUjBlUXg4WVhZNm1ScURsanZVWTBCOS1seldOd3Atc2NzM2JicS1NcDNub2dVSDNmNlRzeWJ4Q0pheDdUMlRTbGRzMWxmVGlzWkpJaVl3SWJqRzBJZ1l4QzJjNEx5Qkp3U29PVGRLX1BGWGVsYmJMRG9BSQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T00:50:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "노르웨이 경찰은 오슬로(Oslo) 주재 미국 대사관에서 발생한 폭발이 고의적인 공격일 가능성이 있다고 밝혔습니다. 이는 국제 외교 시설의 보안 문제와 함께, 잠재적인 테러 위협에 대한 우려를 증폭시킵니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "Israel says it targeted Iranian commanders in Beirut as death toll nears 400 - Reuters",
-      "body_preview": "Israel says it targeted Iranian commanders in Beirut as death toll nears 400  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0JEcnVjaUtIcHJrai12NnZVV0VVLWpqeWZGZGFEZ1dpeVJnazBuXzNtdHJQRzlRZEhyV2V5NWFkZHpsdmpUU0dBODdkNE1OeXdKU2p0b3ZwZ0ppeXFwMTgyLXgxMGZSQkFVazVCZUNaN2R4U3FzR0VmU0ZOekNUc1IxczU2Rkszemp2NmpvSkpZZHpNc1dMYl84c2o5ZlFTUU40NHdIVExwUDZEWmNNNHZsR1dXaXBEbEM2eHl1a0JmcTdqWlZR?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T00:25:50+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이스라엘은 베이루트(Beirut)에서 이란 사령관들을 표적으로 삼았다고 밝혔으며, 사망자 수가 400명에 육박하고 있습니다. 이는 중동 지역의 군사적 긴장과 인명 피해가 심각한 수준임을 보여줍니다.",
-      "fetched_at": "2026-03-08T17:17:21.337239+00:00"
-    },
-    {
-      "title": "White House halts security bulletin warning of Iran-related threats - Reuters",
-      "body_preview": "White House halts security bulletin warning of Iran-related threats  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQel9XZnJPRHgxSzJ3TWpNYVc3b095dHdrV2ZQVVZsdGFnTFFiVURVelIyWktreUpEMnY0UHlLVmsxMV94ejd2TnBnQWUxMGkzRzF0YXI5WHR5bWpnSG95MWJod0hVek8wNUN5a1M4YjdPX2diaDY5Nl9OYS00b1hTa3ZqTUlwdXdCbTZEN1NkQWVTOG9OYmIwcThfRTlsazZ3c2ZuOVBnYWd6Tms2ZXc?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T23:31:25+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "백악관(White House)이 이란 관련 위협을 경고하는 보안 공지 발송을 중단했습니다. 이는 이란과의 긴장 완화 시도 또는 상황 판단의 변화를 시사하며, 향후 미국의 대이란 정책에 관심이 집중됩니다.",
       "fetched_at": "2026-03-08T17:17:21.337239+00:00"
     },
     {
@@ -2985,117 +3101,6 @@
       "media_url": "https://resources.cryptocompare.com/news/93/default.png",
       "korean_summary": "백악관(White House) 디지털 자산(digital asset) 고문 패트릭 위트(Patrick Witt)가 CLARITY 법안에 대한 지지를 표명하며 법안 통과 가능성이 70%에 달했습니다. 그는 최근 스테이블코인(stablecoin)에 대한 제한에 반대하는 입장을 밝히며 논의에 새로운 동력을 불어넣었습니다.",
       "fetched_at": "2026-03-07T20:16:31.889369+00:00"
-    },
-    {
-      "title": "We Asked Google Gemini Where XRP Will Trade On March 31, 2026, Here’s What It Said",
-      "body_preview": "XRP has regained attention across the cryptocurrency market as investors evaluate its short-term outlook following a turbulent start to 2026. After experiencing notable volatility earlier in the year, the digital asset has begun stabilizing. As of report time, XRP trades at roughly $1.36, signaling ",
-      "source_url": "https://timestabloid.com/we-asked-google-gemini-where-xrp-will-trade-on-march-31-2026-heres-what-it-said/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T19:05:47+00:00",
-      "category": "macro",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "구글 제미니(Google Gemini)에 2026년 3월 31일 XRP 가격을 문의한 결과, 2026년 초 격동적인 시작 이후 투자자들이 단기 전망을 평가하면서 XRP가 암호화폐(cryptocurrency) 시장에서 다시 주목받고 있다고 답했습니다.",
-      "fetched_at": "2026-03-07T20:16:31.889369+00:00"
-    },
-    {
-      "title": "The Multibillion-dollar shift turning prediction markets into a professional hedging tool",
-      "body_preview": "Traders are moving beyond sports bets and elections to price \"unpriceable\" geopolitical and policy risks that standard financial tools can’t handle.",
-      "source_url": "https://www.coindesk.com/opinion/2026/03/07/the-multibillion-dollar-shift-turning-prediction-markets-into-a-professional-hedging-tool",
-      "source_name": "CoinDesk",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T19:01:00+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/5/58972293.jpeg",
-      "korean_summary": "수십억 달러 규모의 변화가 예측 시장(prediction market)을 전문적인 헤징(hedging) 도구로 전환시키고 있습니다. 트레이더(trader)들은 스포츠 베팅을 넘어 표준 금융 도구로 처리하기 어려운 지정학적 및 정책적 위험을 가격에 반영하고 있습니다.",
-      "fetched_at": "2026-03-07T20:16:31.889369+00:00"
-    },
-    {
-      "title": "Bitcoin Losing Strength — $66,000 Now The Line Between Recovery And Crash",
-      "body_preview": "Bitcoin is showing signs of weakening momentum as it struggles to regain higher ground, placing the market at a critical turning point. The $66,000 level has now emerged as a key support zone that could determine the next major move. Holding above it may give bulls a chance to spark a recovery, whil",
-      "source_url": "https://www.newsbtc.com/news/bitcoin/bitcoin-between-recovery-and-crash/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T19:00:45+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/58972297.jpeg",
-      "korean_summary": "비트코인(Bitcoin)이 상승 모멘텀(momentum)을 잃고 있으며, 66,000달러 선이 회복과 급락을 가르는 중요한 지지선(support level)으로 부상했습니다. 시장은 현재 중대한 전환점에 직면해 있으며, 이 수준을 지키는 것이 중요합니다.",
-      "fetched_at": "2026-03-07T20:16:31.889369+00:00"
-    },
-    {
-      "title": "Bitcoin – How ceasefire hopes, oil prices are driving crypto market’s volatility",
-      "body_preview": "Geopolitical tensions are pushing oil higher, putting crypto’s hedge status to the test.",
-      "source_url": "https://ambcrypto.com/bitcoin-how-ceasefire-hopes-oil-prices-are-driving-crypto-markets-volatility/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T19:00:18+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "휴전 기대감과 유가 상승이 암호화폐(cryptocurrency) 시장의 변동성을 주도하고 있습니다. 지정학적 긴장이 유가를 끌어올리면서, 암호화폐의 인플레이션 헤지(hedge) 자산으로서의 지위가 시험대에 오르고 있습니다.",
-      "fetched_at": "2026-03-07T20:16:31.889369+00:00"
-    },
-    {
-      "title": "Legal Storm Hits Kalshi as Traders Claim ‘Death Carveout’ Erased Their Winning Bets",
-      "body_preview": "Traders are suing prediction market Kalshi after a controversial contract tied to Iran’s supreme leader sparked a payout dispute, igniting legal questions about how geopolitical event markets resolve outcomes and interpret rules. Traders Sue Kalshi, Claim Prediction Market Platform Uses ‘Death Carve",
-      "source_url": "https://news.bitcoin.com/legal-storm-hits-kalshi-as-traders-claim-death-carveout-erased-their-winning-bets/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T18:30:39+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/14/58971242.jpeg",
-      "korean_summary": "예측 시장(prediction market) 플랫폼 칼시(Kalshi)가 이란 최고 지도자와 관련된 논란의 계약으로 인해 소송에 휘말렸다. 트레이더들은 '사망 예외 조항(death carveout)'으로 당첨금이 무효화되었다며, 지정학적 이벤트 시장의 정산 방식에 대한 법적 의문이 제기되고 있다.",
-      "fetched_at": "2026-03-07T19:18:49.556642+00:00"
-    },
-    {
-      "title": "Bitcoin price prediction 2026-2032: Will BTC hit $150k soon?",
-      "body_preview": "Key takeaways: Bitcoin price faces volatility around $67K. Our Bitcoin price prediction expects BTC’s price to reach $150K by the end of 2026 due to the bullish sentiment following the halving event. By 2032, BTC might touch $350,548 following increased institutional adoption. Bitcoin’s outlook for ",
-      "source_url": "https://www.cryptopolitan.com/bitcoin-price-prediction/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T18:25:00+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "FIAT",
-        "UNI"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/43/26675765.jpeg",
-      "korean_summary": "비트코인(Bitcoin) 가격이 67,000달러 부근에서 변동성을 보이고 있다. 반감기(halving event) 이후 강세 심리에 힘입어 2026년 말까지 비트코인 가격이 150,000달러에 도달할 것이라는 예측이 나왔다.",
-      "fetched_at": "2026-03-07T19:18:49.556642+00:00"
-    },
-    {
-      "title": "South Korea is ending a nine-year \"shadow ban\" to allow 3,500 listed companies to invest in digital assets",
-      "body_preview": "Even though South Korea is ending a nine-year ban on its listed companies that prevented them from investing in digital assets, stablecoins like USDC and USDT are expected to be excluded under the new regulations. Corporations have made several arguments for why they should be allowed to trade stabl",
-      "source_url": "https://www.cryptopolitan.com/stablecoin-south-korea-digital-asset-embargo/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-07T18:20:50+00:00",
-      "category": "macro",
-      "currencies": [
-        "ASIA",
-        "USDT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/43/58971191.jpeg",
-      "korean_summary": "한국이 상장 기업의 디지털 자산(digital assets) 투자를 9년간 금지했던 '그림자 규제(shadow ban)'를 해제한다. 하지만 USDC, USDT 등 스테이블코인(stablecoins)은 새로운 허용 범위에서 제외될 것으로 예상된다.",
-      "fetched_at": "2026-03-07T19:18:49.556642+00:00"
     }
   ]
 }
