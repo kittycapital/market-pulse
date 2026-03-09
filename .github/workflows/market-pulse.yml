@@ -1,8 +1,8 @@
-name: Market Pulse - Hourly Update
+name: Market Pulse - Daily Update
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'  # Every day at 00:00 UTC (KST 09:00)
   workflow_dispatch:
 
 permissions:
