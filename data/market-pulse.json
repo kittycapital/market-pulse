@@ -1,8 +1,454 @@
 {
-  "last_updated": "2026-03-10T01:44:09.256730+00:00",
-  "last_updated_kst": "2026-03-10 10:44 KST",
+  "last_updated": "2026-03-11T01:44:14.915043+00:00",
+  "last_updated_kst": "2026-03-11 10:44 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Ethereum Whale Stuns Market with $92.9M Kraken Withdrawal, Signaling Major Hold",
+      "body_preview": "BitcoinWorld Ethereum Whale Stuns Market with $92.9M Kraken Withdrawal, Signaling Major Hold In a significant move that captured immediate market attention, an anonymous cryptocurrency entity executed a massive $92.9 million Ethereum withdrawal from the Kraken exchange early today. This substantial ",
+      "source_url": "https://bitcoinworld.co.in/ethereum-whale-kraken-withdrawal-signal/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:40:12+00:00",
+      "category": "macro",
+      "currencies": [
+        "ETH"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "익명의 이더리움(Ethereum) 고래 투자자가 암호화폐 거래소 크라켄(Kraken)에서 9,290만 달러 상당의 이더리움(Ethereum)을 인출하며 시장의 주목을 받았다. 이는 대규모 장기 보유(Major Hold) 의도를 시사하는 것으로 분석된다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "WTI Crude Oil Plunges Below $82.00 Amid IEA’s Record-Breaking Reserve Release Plan",
+      "body_preview": "BitcoinWorld WTI Crude Oil Plunges Below $82.00 Amid IEA’s Record-Breaking Reserve Release Plan Global energy markets faced significant downward pressure in March 2025 as West Texas Intermediate (WTI) crude oil futures traded decisively below the $82.00 per barrel threshold. This notable decline fol",
+      "source_url": "https://bitcoinworld.co.in/wti-crude-oil-iea-reserve-release/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:35:12+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "국제에너지기구(IEA)의 사상 최대 규모 비축유 방출 계획 발표로 인해 서부 텍사스산 원유(WTI Crude Oil) 가격이 배럴당 82달러 아래로 급락하며 글로벌 에너지 시장에 하방 압력이 가해졌다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "EUR/USD Soars: Pair Edges Higher Above 1.1600 as US Dollar Safe-Haven Demand Fades",
+      "body_preview": "BitcoinWorld EUR/USD Soars: Pair Edges Higher Above 1.1600 as US Dollar Safe-Haven Demand Fades LONDON, March 2025 – The EUR/USD currency pair has decisively broken above the psychologically significant 1.1600 level, marking a notable shift in forex market sentiment as demand for the US Dollar as a ",
+      "source_url": "https://bitcoinworld.co.in/eur-usd-higher-dollar-demand-fades/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:30:12+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "미국 달러(US Dollar)의 안전자산(Safe-Haven) 수요가 약화되면서 유로/달러(EUR/USD) 환율이 1.1600을 돌파하며 상승세를 보였다. 이는 시장의 위험 선호 심리 회복을 반영하는 것으로 풀이된다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Critical Bitcoin Price Analysis: Structural Downside Risk Looms as Buying Demand Falters",
+      "body_preview": "BitcoinWorld Critical Bitcoin Price Analysis: Structural Downside Risk Looms as Buying Demand Falters March 2025 – A stark warning from market analysts suggests Bitcoin’s recent price stability may be fragile, with a critical lack of buying demand potentially setting the stage for further structural",
+      "source_url": "https://bitcoinworld.co.in/bitcoin-price-downside-risk-analysis/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:25:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "시장 분석가들은 비트코인(Bitcoin)의 최근 가격 안정성이 흔들리며 매수 수요가 감소함에 따라 구조적인 하방 위험(Structural Downside Risk)이 커지고 있다고 경고했다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Gold Price Holds Steady Near $5,200 as Markets Brace for Pivotal US CPI Inflation Release",
+      "body_preview": "BitcoinWorld Gold Price Holds Steady Near $5,200 as Markets Brace for Pivotal US CPI Inflation Release Global financial markets held their collective breath on Wednesday as the spot gold price consolidated near the $5,200 per ounce level, demonstrating remarkable resilience ahead of the highly antic",
+      "source_url": "https://bitcoinworld.co.in/gold-price-steady-cpi-inflation-release/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:05:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "글로벌 금융 시장이 중요한 미국 소비자물가지수(CPI) 발표를 앞두고 관망세를 보이는 가운데, 금(Gold) 가격은 온스당 5,200달러 부근에서 안정적인 흐름을 유지했다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Bitcoin Diverges From Global Prices in South Korea — Third Major Discount Since FTX",
+      "body_preview": "With bitcoin trading between $65,962 and $73,669 this week, market data shows South Korea posted its deepest discount to global prices since December 2024. Rare Bitcoin Discount Hits South Korea — Only Three Such Events Since 2022 Bitcoin is trading at a discount in South Korea, as metrics collected",
+      "source_url": "https://news.bitcoin.com/bitcoin-diverges-from-global-prices-in-south-korea-third-major-discount-since-ftx/",
+      "source_name": "Bitcoin.com",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:05:05+00:00",
+      "category": "crypto",
+      "currencies": [
+        "ASIA",
+        "BTC"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/14/59125549.jpeg",
+      "korean_summary": "한국 비트코인(Bitcoin) 가격이 글로벌 시장 대비 상당한 할인율(Discount)을 기록하며, 2024년 12월 이후 가장 큰 격차를 보였다. 이는 FTX 사태 이후 세 번째 주요 할인 현상이다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Trump announces opening of America’s first new oil refinery in 50 years",
+      "body_preview": "Donald Trump on Tuesday said a new oil refinery is coming to Brownsville, Texas, calling it the first new U.S. oil refinery in 50 years, calling it ‘America First Refining,’ and saying it will be built at the Port of Brownsville. Trump described it as a $300 billion deal and claimed Indian partners ",
+      "source_url": "https://www.cryptopolitan.com/trump-us-first-new-oil-refinery-in-50-years/",
+      "source_name": "Cryptopolitan",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:04:43+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/43/59125800.jpeg",
+      "korean_summary": "도널드 트럼프 전 미국 대통령은 텍사스주 브라운스빌에 50년 만에 미국 최초의 신규 정유 공장(Oil Refinery)이 건설될 것이라고 발표하며, 이를 '아메리카 퍼스트 리파이닝(America First Refining)'이라 칭했다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Bitwise CIO says Bitcoin could hit $1M in $38T store-of-value market",
+      "body_preview": "Chief Investment Officer at Bitwise Asset Management, Matt Hougan, said Bitcoin’s price could reach $1 million if it captures a sizable share of the $38 trillion global store-of-value market. In a recent memo, Hougan said the market has expanded significantly over time, yet investors still assume th",
+      "source_url": "https://www.cryptopolitan.com/bitwise-cio-says-bitcoin-could-hit-1m/",
+      "source_name": "Cryptopolitan",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:01:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/43/59125472.jpeg",
+      "korean_summary": "비트와이즈 자산운용(Bitwise Asset Management)의 최고투자책임자(CIO)는 비트코인(Bitcoin)이 38조 달러 규모의 글로벌 가치 저장 수단(Store-of-Value) 시장에서 상당한 점유율을 확보할 경우, 가격이 100만 달러에 도달할 수 있다고 전망했다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Worldcoin: Analyst spots KEY range level – WLD’s move to $0.435 possible IF…",
+      "body_preview": "The recovery from the range lows offered a trading opportunity, but the higher timeframe trend was bearish.",
+      "source_url": "https://ambcrypto.com/worldcoin-analyst-spots-key-range-level-wlds-move-to-0-435-possible-if/",
+      "source_name": "AMB Crypto",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:00:49+00:00",
+      "category": "crypto",
+      "currencies": [
+        "WLD"
+      ],
+      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+      "korean_summary": "한 분석가는 월드코인(Worldcoin, WLD)의 핵심 가격대(KEY range level)를 지적하며, 특정 조건이 충족될 경우 WLD 가격이 0.435달러까지 상승할 가능성이 있다고 분석했다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Buying XRP At These Prices Is Like Buying Bitcoin At $200",
+      "body_preview": "In a recent X post, market analyst X Finance Bull claimed that buying XRP at its current price above $1 could be similar to purchasing Bitcoin (BTC) at just $200 in its early days, before the pioneering cryptocurrency skyrocketed. The analyst attributes his bullish outlook to a strong belief that XR",
+      "source_url": "https://bitcoinist.com/buying-xrp-like-btc-at-200/",
+      "source_name": "Bitcoinist",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:00:43+00:00",
+      "category": "macro",
+      "currencies": [
+        "BTC",
+        "XRP"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/13/59125440.jpeg",
+      "korean_summary": "시장 분석가 X Finance Bull은 현재 가격대의 리플(XRP) 매수가 초기 비트코인(Bitcoin)이 200달러였을 때 매수하는 것과 유사한 기회일 수 있다고 주장하며 잠재적 가치를 강조했다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Bitcoin Worth Nearly $12 Million Moved By Bhutan In Fresh On-Chain Activity",
+      "body_preview": "Proceeds from Bitcoin sales have paid for healthcare, environmental programs, and government worker salaries in Bhutan — a detail that puts the kingdom’s latest crypto move in sharper focus. Related Reading: WAR Token Explodes 100%, Then Crashes 20% In Sudden Sell-Off A Small Nation With A Big Bitco",
+      "source_url": "https://www.newsbtc.com/news/bitcoin/bitcoin-worth-nearly-12-million-moved-by-bhutan-in-fresh-on-chain-activity/",
+      "source_name": "NewsBTC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:00:17+00:00",
+      "category": "crypto",
+      "currencies": [
+        "BTC",
+        "ARKM"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/21/59125437.jpeg",
+      "korean_summary": "부탄(Bhutan) 왕국이 약 1,200만 달러 상당의 비트코인(Bitcoin)을 이동시키는 새로운 온체인(On-Chain) 활동이 포착되었다. 부탄은 비트코인 판매 수익을 의료, 환경 프로그램 등에 활용해왔다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "US Forces Destroy 16 Iranian Minelayers in Critical Strait of Hormuz Showdown",
+      "body_preview": "BitcoinWorld US Forces Destroy 16 Iranian Minelayers in Critical Strait of Hormuz Showdown In a significant escalation of maritime tensions, US naval forces destroyed sixteen Iranian minelaying vessels near the strategic Strait of Hormuz on April 15, 2025. This decisive military action directly targ",
+      "source_url": "https://bitcoinworld.co.in/us-forces-destroy-iranian-minelayers/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:00:11+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "해상 긴장이 고조되는 가운데, 미 해군(US Naval Forces)이 호르무즈 해협(Strait of Hormuz)에서 이란의 기뢰 부설함(Minelayers) 16척을 파괴하는 작전을 수행하며 중대한 충돌이 발생했다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Hyperliquid Jumps Following Margin Upgrade and 533% Oil Trading Surge",
+      "body_preview": "Hyperliquid (HYPE) token is suddenly on fire. The token jumped to an intraday high near $35 as trading activity exploded on the platform. Volume on its oil perpetuals surged past $1.4 billion, driven by rising geopolitical tensions and wild moves in energy markets. While most of the crypto market st",
+      "source_url": "https://cryptonews.com/news/hyperliquid-jumps-following-margin-upgrade-and-oil-trading-surge/",
+      "source_name": "cryptonews",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T01:00:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://resources.cryptocompare.com/news/52/59125427.jpeg",
+      "korean_summary": "하이퍼리퀴드(Hyperliquid, HYPE) 토큰이 마진 업그레이드(Margin Upgrade)와 원유 무기한 선물(Oil Perpetuals) 거래량 533% 급증에 힘입어 하루 만에 35달러 가까이 치솟으며 시장의 주목을 받았다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Ripple targets April for Australian financial license via acquisition",
+      "body_preview": "Ripple APAC managing director Fiona Murray said there was sufficient institutional interest in Australia to warrant the costs of acquiring an Australian Financial Services License.",
+      "source_url": "https://cointelegraph.com/news/ripple-eyes-australian-financial-license-through-acquisition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source_name": "Cointelegraph",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T00:58:23+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+      "korean_summary": "리플(Ripple)은 호주 금융 서비스 라이선스(Australian Financial Services License)를 인수를 통해 4월까지 획득하는 것을 목표로 하고 있다고 밝혔다. 이는 호주 기관 투자자들의 충분한 관심을 반영한다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Strategic Petroleum Reserves: IEA Proposes Unprecedented 182M+ Barrel Release to Stabilize Volatile Oil Markets",
+      "body_preview": "BitcoinWorld Strategic Petroleum Reserves: IEA Proposes Unprecedented 182M+ Barrel Release to Stabilize Volatile Oil Markets PARIS, April 8, 2025 — The International Energy Agency has proposed its largest-ever strategic petroleum reserve release, targeting over 182 million barrels to combat soaring ",
+      "source_url": "https://bitcoinworld.co.in/iea-record-strategic-oil-release/",
+      "source_name": "Bitcoin World",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-11T00:55:11+00:00",
+      "category": "macro",
+      "currencies": [
+        "FIAT"
+      ],
+      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
+      "korean_summary": "국제에너지기구(IEA)는 변동성이 큰 유가 시장을 안정화하기 위해 사상 최대 규모인 1억 8,200만 배럴 이상의 전략 비축유(Strategic Petroleum Reserves) 방출을 제안했다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Macron to host G7 leaders call on Iran crisis, energy prices - Reuters",
+      "body_preview": "Macron to host G7 leaders call on Iran crisis, energy prices  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaU8tZXN1VjNmWDZZUkc4UkZnWEZDS1JJcmgxekNNY0FpSHllQm5jLVdrUWF6TDFsZ0hTdjNmTXJHT21vVkwtZVZ0YTVtRzY1SXlxa3dxWDZkeTdLNTRMMGdKZEkxdTZiQktEQUt2SWVqd3E1N1BMdHpQSUVaT3NpdTRrelBEZUw4MVBFR0hENEhGVWd3c25XY2phRQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T22:38:53+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "에마뉘엘 마크롱 프랑스 대통령이 이란 위기와 국제 에너지 가격 상승 문제에 대해 논의하기 위해 주요 7개국(G7) 정상 간의 전화 회담을 주최할 예정이라고 로이터 통신이 보도했다. 이 회담은 중동 정세 불안이 글로벌 경제에 미칠 영향을 평가하고 대응 방안을 모색할 것으로 보인다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Russian consulate in Iran's Isfahan damaged in strikes, spokeswoman says - Reuters",
+      "body_preview": "Russian consulate in Iran's Isfahan damaged in strikes, spokeswoman says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2VZTHYwWjQ1cnlmZld2Q3lZS1RTUkNpOTk3Q1NRTnN1MFU4MXVYV0hQeVZ5Wk82TFBtNWpyS0owdHVTVHFPX2NvbDFrM212bUV1SG1FZ01xajlGLWt6Mm0zdkk3Uk5qWm1aUzhabG50c05saDE3SWp2VUpnTmhIQTlRMTBOYzVEUEhUbDU2VlREMEF1N2FidXRodzJLWHNFdEpSQ19hTXVBa2JGSTdQa25COGE2akQ4Znc?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T22:38:16+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "러시아 외무부 대변인은 이란 이스파한(Isfahan)에 위치한 러시아 영사관이 최근 발생한 공격으로 인해 피해를 입었다고 밝혔다. 이는 중동 지역의 긴장이 고조되는 가운데 외교 시설까지 영향을 받았음을 시사하며, 국제 사회의 우려를 증폭시키고 있다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Iran's new leader, still silent, was elevated by the Revolutionary Guards - Reuters",
+      "body_preview": "Iran's new leader, still silent, was elevated by the Revolutionary Guards  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmlIblpua3RxWXp6UDN3YV9iRXZFZ05na2pkWDVOS01xdVlYeVNBZHF5RGx3WEJ2LTgyR0VweVAxVGtqZ1NXQ3hpN01wb1FDZGdCZ2QwVnEzSGJsNHk4NWQ3RGROMTJweVJqRWlfM0pvdGtWczBxQURtSXdNd1lpMVhtUFRJWkhzOFVsakFSUG9qbzNHNlZxS3FTS2JZUU5uNDlSbzlQZ2U2MERIMzc3eTRTcUpUX3plUWpzNw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T21:36:33+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란의 새로운 지도자가 아직 공식적인 입장을 표명하지 않고 있는 가운데, 이란 혁명수비대(Revolutionary Guards)의 지지를 받아 추대된 것으로 알려졌다. 이는 이란의 향후 정책 방향과 중동 정세에 혁명수비대의 영향력이 크게 작용할 것임을 시사한다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "US lawmakers worry Trump may put 'boots on the ground' in Iran - Reuters",
+      "body_preview": "US lawmakers worry Trump may put 'boots on the ground' in Iran  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnRjVFU5REVRLU1BczVHQXA5T3J6a3l4UmV5dzdzTnBiRFNFbUMyS0JtSGo1MzViMTh2ZGxQVnR3LWNha3Q4M3RXaWtWUmxpbTRQRnpRZFVHU00xcFRzRElpYXpZSTR0bUFSVEVEU0xOSWN4VVlLY1YtS3J5WmFOOGlPY1lLTmlVQWpWbUNGWU1WMEFBUzhhY01JVQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T21:20:20+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "미국 의원들은 도널드 트럼프 전 대통령이 이란에 지상군(boots on the ground)을 파견할 가능성에 대해 우려를 표명했다. 이는 중동 지역의 군사적 긴장 고조와 미국의 개입 확대에 대한 의회 내의 신중론을 반영하며, 향후 정책 결정에 영향을 미칠 수 있다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Microsoft says court should temporarily block Pentagon's blacklist of Anthropic",
+      "body_preview": "Microsoft threw its support behind Anthropic and advocated for a temporary restraining order to the Pentagon's supply chain risk designation.",
+      "source_url": "https://www.cnbc.com/2026/03/10/microsoft-says-court-should-temporarily-block-pentagon-ban-anthropic.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T20:58:22+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108254392-17689279442026-01-20t084032z_1175358642_rc2w4jau92oy_rtrmadp_0_davos-meeting.jpeg?v=1768927967&w=1920&h=1080",
+      "korean_summary": "마이크로소프트(Microsoft)는 인공지능(AI) 기업 앤트로픽(Anthropic)에 대한 미국 국방부(Pentagon)의 공급망 위험 지정(supply chain risk designation)을 일시적으로 중단해 줄 것을 법원에 요청하며 앤트로픽을 지지했다. 이는 기술 기업과 정부 간의 관계 및 AI 산업 규제에 대한 논의를 촉발할 것으로 보인다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Israeli president tells Bild: War with Iran needs 'end result', not exact timetable - Reuters",
+      "body_preview": "Israeli president tells Bild: War with Iran needs 'end result', not exact timetable  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTm1aRnhpaThlZFZRMGhaMFBCaWZGNWlxcVdsZ3gybjFQQlFDd2QyblV2NHZVNHpuUHNfWGZORVRHNnE3dFRmRWJKdHNoVFk0eTl6VmtXZzNtRWlEV0oyaExQU1JNbnd5UkpvWVBJTmtSR0UzQVNaMGR1VU9BWVAtdnZ4T2lsMFdHZjZsZFdCSlRYSU96OUs2WVpQMEktb3FGZENzSzMwWTJ5R3l0emhtVjhjUktta0FqUjF6ODJPdDlXT0N4U1poUGNPX3UxZw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T20:03:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이스라엘 대통령은 독일 빌트(Bild)지와의 인터뷰에서 이란과의 전쟁은 정확한 시간표보다는 '최종 결과(end result)'가 중요하다고 강조했다. 이는 이스라엘이 이란과의 대치 상황에서 장기적인 목표 달성에 중점을 두고 있음을 시사하며, 중동 정세의 불확실성을 더하고 있다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "US Navy tells shipping industry Hormuz escorts not possible for now - Reuters",
+      "body_preview": "US Navy tells shipping industry Hormuz escorts not possible for now  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXN5RnJ0RUQ1ZDlvLWtGbUViVXV5NXdiZ0RWOHV5UVd4aEdhVTF3YUpuV0U2endhTndKNW5PVWVlVEcyam16dGNuMHR6M1lySXlUM2tVUnNlMzRKb2h2LTRxMzRQY2dxUzM0X0xkQ3ZJZEFZeWU4VXpPTjJ6XzlUcG1QRVFzQWJTSFFaX0dzVnlUam8zeHViSF90RTFRV2FMX2RtQjJnZGxMbG5VaEwzakU2eU9UdmRP?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T20:01:58+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "미국 해군이 해운 업계에 호르무즈 해협(Strait of Hormuz)에서의 선박 호위가 현재로서는 불가능하다고 통보했다. 이는 이란과의 긴장 고조로 인해 해당 해역의 안보 우려가 커지는 상황에서, 상업 선박들의 안전 확보에 대한 부담을 가중시킬 것으로 예상된다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "LNG Canada ramps up output as Iran war threatens global gas supplies - Reuters",
+      "body_preview": "LNG Canada ramps up output as Iran war threatens global gas supplies  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWEJKbHcybHdKbW9BZGl0bmMtNEc0R2p2YV9ncXlheC1aM21ScHMweU1HYldNMlhzZmt4Z1lvY2Z0eUh0WjQzZjd4SVV6T003UEl6TmhETEdEVmRpelEtOUhtdFpfOEtOckx0UmtMR3oybk9tVlc0MlpnWVZldUdpU1d1STQ0X2Q3LVV2bkU2U1VleTFaUVBRTU8xNm5taGlLVVY2NTJ2bVhpN3ZmRG9EdDV0c0h4am54?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T19:28:41+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 전쟁이 전 세계 가스 공급을 위협하는 가운데, 캐나다의 액화천연가스(LNG) 프로젝트인 LNG 캐나다(LNG Canada)가 생산량을 늘리고 있다. 이는 중동 지역의 지정학적 리스크로 인한 에너지 시장 불안정성에 대응하고, 글로벌 에너지 안보에 기여하려는 움직임으로 풀이된다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Sirens and strikes: Iran's missiles breach Israeli defenses - Reuters",
+      "body_preview": "Sirens and strikes: Iran's missiles breach Israeli defenses  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0U5MDJoZDJ5Tjhpckk2ZWI5cFZPb1h5T0JrZXlwb3JhNTMtUHAtVk1WRFIzMk5EdTZtY0ZOQks3TDA2Yzd3NUNvOXQ1T1Q4SG14VjlnM3ZycE0tQml3TkNXTWx6YVY1ZFQ1OEFkMk5MR0NjTmJuaDJHbmpsNmZOZjdPQ2NPZFFDdHBaczU2MUQxdmFENU41WWlnd2pjVHc?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T19:18:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란의 미사일 공격으로 이스라엘 전역에 사이렌이 울렸으며, 일부 미사일이 이스라엘의 방어망을 뚫고 목표물에 도달한 것으로 알려졌다. 이는 중동 지역의 군사적 긴장이 최고조에 달했음을 보여주며, 양국 간의 직접적인 충돌 가능성에 대한 우려를 증폭시키고 있다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Rise in US energy prices over Iran temporary, White House says - Reuters",
+      "body_preview": "Rise in US energy prices over Iran temporary, White House says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmJydDgwU2Y2Q1BZOVRRLWZiSXVNODVud0ZFZ1dzVkUwbmkxc0JkU1U0UEhtYUx3WkxLNHRzLWJQelRIMU92UTN2ZVVGMFN3cGdxbllTeEgzMHJ6cUtsUUlZMDllcWQxNmNDLVdXSFJFYjJ1NW05SjhERnFpZmY2S1Z4XzRmRTUtMW5zU2NMUWE2cFNLalRxamtKUmU2a3NtWmdJNDg0ZFAyZFBERHhkQ285QVU2QQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T18:49:31+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "백악관(White House)은 이란 사태로 인해 발생한 미국 내 에너지 가격 상승이 일시적인 현상일 것이라고 밝혔다. 이는 중동 정세 불안이 미국 경제에 미치는 영향을 최소화하려는 메시지로 해석되며, 시장의 과도한 불안감 확산을 경계하는 의도로 풀이된다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "US urges Israel to stop attacks on Iran energy sites, Axios reports - Reuters",
+      "body_preview": "US urges Israel to stop attacks on Iran energy sites, Axios reports  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQck1DVG43UXF3TlpUV05TZTUySXJTN1I0eUZsb3ZZSFlqalN3YVNteFNWRDYwbkljQ1VrQTJva2swRUxVdEVnUVZ4RTZiTkNhMVhwU1IwUFRweV83WXNDNWtMeFFZV2w5bnQwa1FjNTF0dzkzei1fVWh6RDhZYkQ2Tk5wa2tzWURVZ2ZzcHh6UlZWU0V6MDREZ2RtV3NUNzBVeUR2Qzl0dHdEQ1hmMF9TbEF2ZmU?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T18:39:19+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "악시오스(Axios) 보도에 따르면, 미국은 이스라엘에 이란의 에너지 시설에 대한 공격을 중단할 것을 촉구했다. 이는 중동 지역의 긴장 완화와 확전 방지를 위한 미국의 외교적 노력을 보여주며, 에너지 시장의 추가적인 불안정성을 막으려는 의도로 해석된다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Here are 3 reasons why CrowdStrike is the kind of stock to buy during the Iran war",
+      "body_preview": "We've been urging investors to be selective during this period of market volatility.",
+      "source_url": "https://www.cnbc.com/2026/03/10/here-are-3-reasons-why-crowdstrike-is-the-kind-of-stock-to-buy-during-the-iran-war.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T18:37:48+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108015661-1722610123489-gettyimages-2162426062-BIDEN_DROPS_OUT.jpeg?v=1773164202&w=1920&h=1080",
+      "korean_summary": "이란 전쟁으로 인한 시장 변동성(market volatility) 시기에 투자자들이 신중한 종목 선택을 요구받는 가운데, 사이버 보안 기업 크라우드스트라이크(CrowdStrike)가 매수할 만한 주식으로 꼽히는 세 가지 이유가 제시되었다. 이는 지정학적 리스크가 특정 산업에 미치는 영향을 분석한 것이다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Rising gas prices from Iran war imperil Trump's Republican majority in Congress - Reuters",
+      "body_preview": "Rising gas prices from Iran war imperil Trump's Republican majority in Congress  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2lfRy1mMWhZSkJhWDM5WjcxNFV3U1VwZDRZU2gyNjdvNkttUFoxMG9hdGF1V0l1RzNLMnRDYjZMalFpNUlndko1Yk8wcHlkUjBXLWpaTS1wUV92emlRWEU5Z3hhcm80eDgwbGIwTjNUVGU1TTlZN2FsbXYxaVQyeXlvcUxDTUxRWmo2eXFLQUdQbmNsUEtsX3Y4RGg3ZWVvUUYyVW9JRWlCUWI2MXdaUFR0MW9LY3hFY0x5LWRXbw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T18:30:11+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 전쟁으로 인한 유가 상승이 도널드 트럼프 전 대통령의 공화당(Republican)이 의회에서 다수당 지위를 유지하는 데 위협이 될 수 있다고 로이터 통신이 보도했다. 이는 에너지 가격이 유권자들의 경제적 부담으로 작용하여 중간 선거 등에 영향을 미칠 수 있음을 시사한다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "US destroys mine-laying vessels as Trump warns Iran over Strait of Hormuz - Reuters",
+      "body_preview": "US destroys mine-laying vessels as Trump warns Iran over Strait of Hormuz  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPREpJZm1ET2hva2pIWWlxMXZBdkNuV2V3NHhfS19BSFpWcWoyYmxwVXZsN2NTdGp3Y3FmSzNObTlScHZFZG1OUkhVd2ZYUDBDM3g4THU0dXEzU3FWS2cxRTZteGFSeDQtZVR1Y1JtX29ENEpSMFVJeDVfNWRFOXVYT2ktUE14RzJXcGQ0Q09rVGQwb2tidkptOFdnWkJ0MFVKZ2xQVUJiS0Noc0I2cDZOZjdmS2tJSGwwYV9BQS1sQ3hUalM2azRPdQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T18:19:33+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "미국이 기뢰 부설 선박을 파괴했으며, 도널드 트럼프 전 대통령은 이란에 호르무즈 해협(Strait of Hormuz)에서의 행동에 대해 경고했다. 이는 중동 지역의 해상 안보 긴장이 고조되고 있음을 보여주며, 미국이 이란의 위협에 대해 강력히 대응할 의지를 표명한 것으로 해석된다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
+    {
+      "title": "Exclusive: As many as 150 US troops wounded so far in Iran war, sources say - Reuters",
+      "body_preview": "Exclusive: As many as 150 US troops wounded so far in Iran war, sources say  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQczZ1b0psWjQ3d1BHNEZ0QVNkQnc5VllaUW1mMGlhYzA3Q0VRLW9rSkNqMnFMM0R5NDB0MVlPNWZ2YmVZY0pxM05MZGQySWFvYy0zdlZwb1EzMlVkZlJTUF8wNDBpYndGbG1tbjFFODNQMGV0dXlNaVprc1Y5ck1leFU3STZOS2NSOXFZWWtrQWhoTnpLamZ2cUVNc21pQTM2SG90YkRFSHNqZGVs?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-10T18:14:10+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "로이터 통신 단독 보도에 따르면, 이란 전쟁에서 현재까지 최대 150명의 미군 병력이 부상당한 것으로 소식통이 전했다. 이는 중동 지역에서의 군사적 충돌이 미국 병력에도 직접적인 피해를 입히고 있음을 보여주며, 전쟁의 인명 피해 규모에 대한 우려를 증대시키고 있다.",
+      "fetched_at": "2026-03-11T01:44:14.911305+00:00"
+    },
     {
       "title": "Tether’s Strategic Move: Antalpha Deposits $15.2M in XAUT to Cobo, Boosting Institutional Crypto Confidence",
       "body_preview": "BitcoinWorld Tether’s Strategic Move: Antalpha Deposits $15.2M in XAUT to Cobo, Boosting Institutional Crypto Confidence In a significant transaction underscoring the maturation of institutional cryptocurrency practices, Antalpha, a key partner of Tether, has deposited a substantial $15.2 million wo",
@@ -2632,469 +3078,6 @@
       "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
       "korean_summary": "이더리움(Ethereum) 공동 창업자가 1억 5,700만 달러 상당의 ETH를 거래소로 옮기면서 시장의 관심이 집중되고 있다. 내부자 거래와 레버리지 증가 속에서 이더리움의 1,800달러 핵심 지지선 유지가 주목된다.",
       "fetched_at": "2026-03-08T21:16:08.961945+00:00"
-    },
-    {
-      "title": "Analyst Predicts XRP Breakout Against BTC, Says $10 Move Could Be Just The Starts",
-      "body_preview": "XRP traded in a relatively narrow range on Sunday, following a week of significant volatility across the broader cryptocurrency market.",
-      "source_url": "https://zycrypto.com/analyst-predicts-xrp-breakout-against-btc-says-10-move-could-be-just-the-starts/",
-      "source_name": "ZyCrypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T20:00:21+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "XRP"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
-      "korean_summary": "한 분석가는 XRP가 비트코인(BTC) 대비 돌파를 앞두고 있으며, 10달러 상승은 시작에 불과할 수 있다고 예측했다. 지난주 암호화폐 시장의 큰 변동성에도 불구하고 XRP는 상대적으로 좁은 범위에서 거래되었다.",
-      "fetched_at": "2026-03-08T21:16:08.961945+00:00"
-    },
-    {
-      "title": "Explainer: Who might succeed in Iran's theocratic system of power? - Reuters",
-      "body_preview": "Explainer: Who might succeed in Iran's theocratic system of power?  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sSDFMbVRENXpvNDhvS0c1M3p2X0tkTHRscWctWTdzbDBxNU9xOHBLeGdjLUVBbXI2Z0ZleWhGNjZWOEhOVUc4RXo2Q29yckl1Tmw0aFZtcW8zbHdKRjJLaHZheG8zdThpZVJYdHhyYU9WMmo2Ql9BeXp1WS1qUzQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:35:35+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "로이터 통신은 이란의 신정 정치 체제(theocratic system) 내에서 권력 승계 가능성이 있는 인물들을 분석했습니다. 기사는 차기 지도자 후보군과 그들의 영향력을 설명하며, 이란 정치의 미래를 조망합니다.",
-      "fetched_at": "2026-03-08T21:16:08.961945+00:00"
-    },
-    {
-      "title": "Bitcoin Could Rally to $85K But Woo Warns It’s Bull Trap, Not Bottom Confirmation",
-      "body_preview": "Popular Bitcoin analyst Willy Woo has stated that the premier cryptocurrency is heading towards resistance levels above $80k. However, he is of the opinion that even if such a position presents itself, it won’t result in an automatic resumption of the long-term bull market, but rather will become a ",
-      "source_url": "https://zycrypto.com/bitcoin-could-rally-to-85k-but-woo-warns-its-bull-trap-not-bottom-confirmation/",
-      "source_name": "ZyCrypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:51:11+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/zycrypto.png",
-      "korean_summary": "유명 비트코인(Bitcoin) 분석가 윌리 우(Willy Woo)는 비트코인이 8만 달러 이상의 저항선(resistance levels)으로 향하고 있다고 밝혔다. 그러나 그는 이러한 상황이 나타나더라도 강세장 함정(bull trap)일 뿐 바닥 확인(bottom confirmation)은 아니라고 경고했다.",
-      "fetched_at": "2026-03-08T20:17:50.867489+00:00"
-    },
-    {
-      "title": "Oil traders price in tighter supply in energy markets",
-      "body_preview": "Saudi Aramco stock is rallying on Sunday as the US and Israel’s war in Iran entered its second week, with the state-backed oil giant recording its biggest intraday surge since April 2023. Investors in Riyadh had last week returned to the market for the first session since Brent crude broke above $90",
-      "source_url": "https://www.cryptopolitan.com/why-is-saudi-aramcos-stock-surging-today/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:50:42+00:00",
-      "category": "macro",
-      "currencies": [
-        "ASIA"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/43/59022986.jpeg",
-      "korean_summary": "미국과 이스라엘의 이란 전쟁이 2주차에 접어들면서, 사우디 아람코(Saudi Aramco) 주가는 일요일에 급등하며 2023년 4월 이후 최대 일중 상승폭을 기록했다. 유가 트레이더(oil trader)들은 에너지 시장(energy market)의 공급 부족(tighter supply)을 가격에 반영하고 있다.",
-      "fetched_at": "2026-03-08T20:17:50.867489+00:00"
-    },
-    {
-      "title": "Macro Data Made Simple: Track Fed Rates and Crypto Trends in One Place",
-      "body_preview": "Check out the new info box on coin chart pages! Now you can get a feel for the market in a single glance. Continue Reading: Macro Data Made Simple: Track Fed Rates and Crypto Trends in One Place The post Macro Data Made Simple: Track Fed Rates and Crypto Trends in One Place appeared first on COINTUR",
-      "source_url": "https://en.coin-turk.com/macro-data-made-simple-track-fed-rates-and-crypto-trends-in-one-place/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:37:53+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/79/59022162.jpeg",
-      "korean_summary": "코인 차트 페이지에 새로운 정보 상자가 추가되어 거시경제(macroeconomic) 데이터와 암호화폐(crypto) 동향을 한눈에 파악할 수 있게 되었다. 연방준비제도(Fed) 금리(rate)와 암호화폐 추세(trend)를 한 곳에서 추적할 수 있다.",
-      "fetched_at": "2026-03-08T20:17:50.867489+00:00"
-    },
-    {
-      "title": "CryptoQuant Names the Most Transparent Exchange for Reserves",
-      "body_preview": "KuCoin has received the highest proof-of-reserves (PoR) transparency score among major crypto exchanges, according to CryptoQuant’s latest annual Exchange Leader report. The findings placed the Seychelles-based trading platform ahead of several larger rivals in a category that many traders view as c",
-      "source_url": "https://cryptopotato.com/cryptoquant-names-the-most-transparent-exchange-for-reserves/",
-      "source_name": "Crypto Potato",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:35:10+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT",
-        "BNB"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/27/59022106.jpeg",
-      "korean_summary": "크립토퀀트(CryptoQuant)의 최신 연간 거래소 리더 보고서에 따르면, 쿠코인(KuCoin)이 주요 암호화폐 거래소(crypto exchange) 중 가장 높은 준비금 증명(PoR, Proof-of-Reserves) 투명성 점수를 받았다.",
-      "fetched_at": "2026-03-08T20:17:50.867489+00:00"
-    },
-    {
-      "title": "Brazil's Pix instant payments system expands to Argentina",
-      "body_preview": "The Pix payment system is credited with driving crypto adoption in Argentina, according to a report from the Lemon crypto application.",
-      "source_url": "https://cointelegraph.com/news/brazil-pix-payments-expand-argentina?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:33:51+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "레몬(Lemon) 암호화폐(crypto) 애플리케이션 보고서에 따르면, 브라질의 즉시 결제 시스템(instant payments system)인 픽스(Pix)가 아르헨티나로 확장되었으며, 이는 아르헨티나의 암호화폐 채택(crypto adoption)을 촉진하는 데 기여하고 있다.",
-      "fetched_at": "2026-03-08T20:17:50.867489+00:00"
-    },
-    {
-      "title": "BNB Price Prediction as Judge Throws Out Anti-Terrorism Lawsuit Against Binance",
-      "body_preview": "BNB price is moving near $614 after a US federal court dismissed all anti-terrorism claims against Binance. The ruling removes a major legal overhang, but the price remains under technical pressure. A federal judge in the Southern District of New York dismissed all claims filed under the Anti-Terror",
-      "source_url": "https://coinpaper.com/15256/bnb-price-prediction-as-judge-throws-out-anti-terrorism-lawsuit-against-binance",
-      "source_name": "Coinpaper",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:27:17+00:00",
-      "category": "macro",
-      "currencies": [
-        "BNB"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/93/default.png",
-      "korean_summary": "미국 연방 법원(US federal court)이 바이낸스(Binance)에 대한 모든 대테러(anti-terrorism) 소송을 기각한 후, BNB 가격은 614달러 근처에서 움직이고 있다. 이번 판결로 주요 법적 불확실성(legal overhang)은 해소되었으나, 가격은 여전히 기술적 압력(technical pressure)을 받고 있다.",
-      "fetched_at": "2026-03-08T20:17:50.867489+00:00"
-    },
-    {
-      "title": "Pundit Says BlackRock Could Easily Trigger XRP Price Rally With This Action",
-      "body_preview": "Institutional capital has increasingly become the driving force behind major movements in the cryptocurrency market. Over the past several years, large asset managers have played a decisive role in shaping investor sentiment and unlocking new waves of demand for digital assets. As regulatory clarity",
-      "source_url": "https://timestabloid.com/pundit-says-blackrock-could-easily-trigger-xrp-price-rally-with-this-action/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:05:03+00:00",
-      "category": "macro",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "기관 자본(institutional capital)은 암호화폐 시장(cryptocurrency market)의 주요 움직임을 이끄는 원동력이 되고 있다. 지난 몇 년간 대형 자산 운용사(asset managers)들이 시장에 결정적인 역할을 해왔다.",
-      "fetched_at": "2026-03-08T20:17:50.867489+00:00"
-    },
-    {
-      "title": "Crypto’s Rock ’n’ Roll Era Is Over",
-      "body_preview": "As crypto passes into mainstream use, it’s losing its rebel soul. It may still express rebellion, but won’t be rebellion anymore, says Callon-Butler.",
-      "source_url": "https://www.coindesk.com/opinion/2026/03/08/crypto-s-rock-n-roll-era-is-over",
-      "source_name": "CoinDesk",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:05:00+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/5/59021008.jpeg",
-      "korean_summary": "암호화폐(crypto)가 주류(mainstream)로 편입되면서, 그 반항적인 정신(rebel soul)을 잃어가고 있다는 분석이 나왔다. 여전히 반항을 표현할 수는 있지만, 더 이상 그 자체가 반항은 아닐 것이라고 칼론-버틀러(Callon-Butler)는 말한다.",
-      "fetched_at": "2026-03-08T20:17:50.867489+00:00"
-    },
-    {
-      "title": "Smell Fraud? This Telegram App Was Built to Reward Whistleblowers",
-      "body_preview": "Vera Report was shaped by AlphaTON CEO Brittany Kaiser’s experiences as a whistleblower, and she hopes it’ll move the needle on fraud.",
-      "source_url": "https://decrypt.co/360294/smell-fraud-telegram-app-built-reward-whistleblowers",
-      "source_name": "Decrypt",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:01:02+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/44/59020826.jpeg",
-      "korean_summary": "알파톤(AlphaTON) CEO 브리트니 카이저(Brittany Kaiser)의 내부 고발자(whistleblower) 경험을 바탕으로 개발된 텔레그램(Telegram) 앱 '베라 리포트(Vera Report)'는 사기(fraud) 문제 해결에 기여할 것으로 기대된다.",
-      "fetched_at": "2026-03-08T20:17:50.867489+00:00"
-    },
-    {
-      "title": "Bitcoin Price Must Not Drop Below $63,700, Analyst Warns",
-      "body_preview": "An on-chain data expert has identified a critical level that the Bitcoin price must not break, or it could be at risk of a significant downturn. Critical Levels For BTC Price: Alphractal CEO On Saturday, March 7, Alphractal founder and CEO Joao Wedson revealed on the social media platform X that the",
-      "source_url": "https://www.newsbtc.com/news/bitcoin/bitcoin-price-must-not-fall-below-63700/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:00:55+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/59020800.jpeg",
-      "korean_summary": "온체인 데이터(on-chain data) 전문가는 비트코인(Bitcoin) 가격이 특정 핵심 수준(critical level) 아래로 떨어지지 않아야 한다고 경고했다. 이 수준이 무너지면 상당한 하락세(significant downturn)를 겪을 위험이 있다고 분석했다.",
-      "fetched_at": "2026-03-08T20:17:50.867489+00:00"
-    },
-    {
-      "title": "Saudi extends rally on energy-led gains; Qatar slips - Reuters",
-      "body_preview": "Saudi extends rally on energy-led gains; Qatar slips  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVFaSHNlMjR4U3AxQmwxT0E3QnNmRmx1V3M4U2gwaFZ3ZUQwWTFJN1NoMEhhOVcyeW9McmdUV2dDOFFNUWV5enhnanhTa3RrSVNOTE9PUl9yOUtjNVVlUVdSN3YzUHoxUkIwS2RQcGxGRHZJTW9Nb3JiNm5YdFRCT3JDVHZLMEhmUzdrbFNNZ2VKanYycEE1cnd1VFVfNTFJeU1BT05sdkRMd3p4UVJTWTBR?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T07:40:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "사우디아라비아(Saudi Arabia) 증시는 에너지 부문 주도 상승세에 힘입어 랠리(rally)를 이어갔으나, 카타르(Qatar) 증시는 하락했다. 이는 중동 지역 내 국가별 경제 상황과 에너지 시장의 영향을 보여주는 지표이다.",
-      "fetched_at": "2026-03-08T20:17:50.867489+00:00"
-    },
-    {
-      "title": "Crypto market’s weekly winners and losers – OKB, PI, ADA, WLFI",
-      "body_preview": "Altcoin volatility spiked this week as OKB and Pi Network rallied sharply, while ADA and WLFI slipped.",
-      "source_url": "https://ambcrypto.com/crypto-market-cap-weekly-review-8-march/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T19:00:40+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ADA",
-        "OKB"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "이번 주 알트코인(Altcoin) 시장에서 변동성이 크게 증가했습니다. OKB와 파이 네트워크(Pi Network)는 급등세를 보인 반면, 에이다(ADA)와 WLFI는 하락세를 기록하며 주요 승자와 패자로 나타났습니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Bitcoin Network Withstands Cable Disruptions as Resilience Grows with Tor Adoption",
-      "body_preview": "Bitcoin’s network stayed stable despite major undersea cable breaks in March 2024. Tor use among Bitcoin nodes has risen, boosting resilience against targeted disruptions. Continue Reading: Bitcoin Network Withstands Cable Disruptions as Resilience Grows with Tor Adoption The post Bitcoin Network Wi",
-      "source_url": "https://en.coin-turk.com/bitcoin-network-withstands-cable-disruptions-as-resilience-grows-with-tor-adoption/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T18:41:10+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/79/59020146.jpeg",
-      "korean_summary": "2024년 3월 주요 해저 케이블(undersea cable) 단절에도 불구하고 비트코인(Bitcoin) 네트워크는 안정성을 유지했습니다. 비트코인 노드(node)의 토르(Tor) 사용 증가가 네트워크의 복원력을 강화하는 데 기여했습니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "XRP Holders Facing $51 Billion Worth of Unrealized Losses",
-      "body_preview": "Recent on-chain data from Glassnode reveals that XRP holders are currently facing a staggering $50.8 billion in unrealized losses.",
-      "source_url": "https://u.today/xrp-holders-facing-51-billion-worth-of-unrealized-losses",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T18:33:30+00:00",
-      "category": "crypto",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/59020128.jpeg",
-      "korean_summary": "글래스노드(Glassnode)의 최신 온체인(on-chain) 데이터에 따르면, XRP 보유자들이 현재 약 508억 달러(약 510억 달러)에 달하는 미실현 손실(unrealized losses)에 직면해 있는 것으로 나타났습니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "AI’s Wild Weekend: OpenAI Shakeup, Pentagon Clash, and Robots That Refuse to Die",
-      "body_preview": "Artificial intelligence (AI) produced a whirlwind of developments over the weekend, delivering executive resignations, Pentagon disputes, robotics breakthroughs, enterprise model launches, and new security tools that collectively show the industry accelerating on nearly every front. Defense Deals, R",
-      "source_url": "https://news.bitcoin.com/ais-wild-weekend-openai-shakeup-pentagon-clash-and-robots-that-refuse-to-die/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T18:30:48+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/14/59019716.jpeg",
-      "korean_summary": "지난 주말 인공지능(AI) 분야에서 오픈AI(OpenAI) 임원 사임, 국방부(Pentagon) 갈등, 로봇 공학(robotics) 발전 등 다양한 주요 사건들이 발생하며 업계에 큰 변화를 가져왔습니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Ethereum Faces Crucial Technical Test as Market Awaits Breakout",
-      "body_preview": "Ethereum is consolidating around $1,950, approaching critical resistance and support zones simultaneously. Technical and on-chain indicators point to a decisive phase for the near-term price direction. Continue Reading: Ethereum Faces Crucial Technical Test as Market Awaits Breakout The post Ethereu",
-      "source_url": "https://en.coin-turk.com/ethereum-faces-crucial-technical-test-as-market-awaits-breakout/",
-      "source_name": "CoinTurk News",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T18:21:10+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/79/59019352.jpeg",
-      "korean_summary": "이더리움(Ethereum) 가격이 1,950달러 부근에서 통합(consolidating)되며 중요한 저항선과 지지선에 동시에 접근하고 있습니다. 기술 및 온체인(on-chain) 지표들은 단기 가격 방향에 결정적인 국면을 시사합니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Analyst to XRP Investors: This is the End. Here’s why",
-      "body_preview": "Global financial markets often react sharply when geopolitical tensions disrupt key commodities like oil. Because energy prices influence transportation, manufacturing, and global trade, sudden spikes can quickly ripple across the broader economy. Cryptocurrencies, which many investors treat as high",
-      "source_url": "https://timestabloid.com/analyst-to-xrp-investors-this-is-the-end-heres-why/",
-      "source_name": "TimesTabloid",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T18:05:06+00:00",
-      "category": "macro",
-      "currencies": [
-        "XRP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/67/default.png",
-      "korean_summary": "지정학적 긴장(geopolitical tensions)이 유가 등 주요 원자재 시장을 교란할 때 글로벌 금융 시장이 급격히 반응합니다. 에너지 가격은 운송, 제조, 무역에 영향을 미치며, 이는 XRP 투자자들에게도 중요한 요소입니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "What happened to Bitcoin, Ethereum, Solana, and XRP ETFs this week?",
-      "body_preview": "The sudden shift from inflows to outflows signals growing uncertainty among large investors.",
-      "source_url": "https://ambcrypto.com/what-happened-to-bitcoin-ethereum-solana-and-xrp-etfs-this-week/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T18:00:56+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "SOL",
-        "XRP"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "이번 주 비트코인(Bitcoin), 이더리움(Ethereum), 솔라나(Solana), XRP 상장지수펀드(ETF)에서 자금 유입이 유출로 급변했습니다. 이는 대규모 투자자들 사이에서 시장 불확실성이 커지고 있음을 시사합니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Bitcoin And The Race To Build Money For AI Agents",
-      "body_preview": "As AI agents take their place in the economy, the question of which money they use is a choice that will echo for decades.",
-      "source_url": "https://www.forbes.com/sites/davidbirnbaum/2026/03/08/bitcoin-and-the-race-to-build-money-for-ai-agents/",
-      "source_name": "Forbes Digital Assets",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T18:00:22+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/94/59018627.jpeg",
-      "korean_summary": "인공지능(AI) 에이전트가 경제에서 중요한 역할을 하게 되면서, 이들이 어떤 화폐를 사용할 것인지에 대한 논의가 부상하고 있습니다. 비트코인(Bitcoin)이 AI 에이전트의 화폐로 고려될 수 있습니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "The Graph price prediction 2026-2032: Will GRT recapture its ATH?",
-      "body_preview": "Key takeaways: The Graph price prediction anticipates a high of $0.045863 by the end of 2026. In 2028, it will range between $0.081535 and $0.096822, with an average price of $0.089179. In 2032, it will range between $0.183453 and $0.198741, with an average price of $0.191097. The Graph offers acces",
-      "source_url": "https://www.cryptopolitan.com/the-graph-price-prediction/",
-      "source_name": "Cryptopolitan",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T17:40:21+00:00",
-      "category": "macro",
-      "currencies": [
-        "SOL",
-        "BNB",
-        "GRT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/43/27747.jpeg",
-      "korean_summary": "더 그래프(The Graph, GRT)의 가격 예측에 따르면, 2026년 말까지 최고 0.045863달러에 도달할 것으로 예상됩니다. 2028년에는 평균 0.089179달러, 2032년에는 더 높은 가격을 형성할 것으로 전망됩니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Capital Rotates? Largest Gold ETF Suffers Huge Outflow as BTC Funds Recover",
-      "body_preview": "Although it remains the preferred safe-haven asset in times of exponentially increasing uncertainty, gold has seen a fair share of investor exodus, which was solidified by the largest US ETF tracking its performance last week. At the same time, BTC-related funds ended the same week in the green, alb",
-      "source_url": "https://cryptopotato.com/capital-rotates-largest-gold-etf-suffers-huge-outflow-as-btc-funds-recover/",
-      "source_name": "Crypto Potato",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T17:15:39+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/27/59016993.jpeg",
-      "korean_summary": "불확실성 증가에도 불구하고 안전자산(safe-haven asset)으로 선호되던 금(gold)에서 대규모 자금 유출이 발생했습니다. 반면 비트코인(BTC) 펀드는 회복세를 보이며 자본 순환(capital rotation) 가능성을 시사합니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Michael B. Jordan takes the lead on Polymarket for Oscars Best Actor",
-      "body_preview": "\"Sinners\" star Jordan's odds of winning the Best Actor honors at next week's Academy Awards were only 10% on March 1, hours before he won SAG's top male actor award.",
-      "source_url": "https://cointelegraph.com/news/michael-jordan-oscars-best-actor-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T17:14:53+00:00",
-      "category": "stocks",
-      "currencies": [
-        "OTHER"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "배우 마이클 B. 조던(Michael B. Jordan)이 미국 배우 조합상(SAG) 남우주연상을 수상한 후, 오스카(Oscars) 남우주연상 수상 확률이 폴리마켓(Polymarket)에서 급등하며 유력 후보로 부상했습니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran - Reuters",
-      "body_preview": "Trump praises Italy PM Meloni's willingness to help in U.S.-Israel war with Iran  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVZVeTRRNjNRSDZUQjFIV2FIbEJYMXE5dVJkV1RRQ1V1WWU5NzF2VXM0MHE1TkptYnZaMy1PQW9fa0xmbnB1NWVyMDEySWFXdkh4RWdITEhoVWJRTFhLVWs0WDB5TGJ6Q0JHeWFUUXI1dWNWMkJxWGNNRTE4NFdzNzVhSG9wQTRNZ3JFaWZ6dEVXWFpYaUpxZm1iZmw0WnJ4eU56cDFyc3hRT1BzbG5jMVZOcw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T07:17:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "트럼프(Trump) 전 대통령은 미국-이스라엘의 이란과의 전쟁에 기꺼이 협력하려는 이탈리아 멜로니(Meloni) 총리의 의지를 칭찬했습니다. 이는 국제적 연대 가능성을 시사합니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Panel picking Iran's supreme leader has reached consensus, member says - Reuters",
-      "body_preview": "Panel picking Iran's supreme leader has reached consensus, member says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejM4c0YyQ1lielEzSExDaG10R3pVN2sxWU5WdmVQZWhUWk9fUjQ2b3hHVEZuV0U2X2UyZjkyNzB2c3JpX2JUOWhrcU5iM0tQOGVDdkZCbktxTGNlVlJySlZ4OHdCV2tQTFdQbzhhMExCQVF2TDRsQXhjM0QtTE0wblk1UzdOSmE3TUZ5aGlYY0VmdXh1U0RaYVM0WE5UMnpibk51UHNiTDFJYU1aQWZWRlZLX1RXWXBiRDNjbURwR2Nfdw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T06:37:02+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란 최고 지도자를 선출하는 위원회(panel)가 합의에 도달했다고 한 위원회 구성원이 밝혔습니다. 이는 이란의 차기 지도자 선정 과정에 진전이 있음을 의미합니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Israel expands Iran strikes as Tehran moves to name new supreme leader - Reuters",
-      "body_preview": "Israel expands Iran strikes as Tehran moves to name new supreme leader  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFh3VW9kcGVhakNiREpuNVJiM1hCRFdkQ3dmQU43QWtMM3dDdmJEWW8zcTdrRDc5MDZDbkwzUDJQVU41N1N5OTNXWjFMaTlzdFpfakZhSTgxbFc2UFZjNXZBTm1uUjh4aF9oRS02c0o3TDBHY1JaVXZ6Nno4ZmtOZGU1Rm1uUF9QRFl6TjNXR0Z2cUx0YVJrVlBOeDJ5Sm1RLXJNWDRFQlAzR1FvQjRaV2RIdjUzQi1fbXpib0xObw?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T02:39:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란이 새로운 최고 지도자를 지명하려는 움직임을 보이는 가운데, 이스라엘은 이란에 대한 공습을 확대했습니다. 이는 양국 간의 긴장 고조를 반영합니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Australia weighing requests for assistance from countries attacked by Iran - Reuters",
-      "body_preview": "Australia weighing requests for assistance from countries attacked by Iran  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDBRTU8zcDRyMC1ZTHc4WEVGS3EwR2JKbGU3czA2dlhaZ3ZwZEY3Z1dTcVVsWk11RkJKTUhFNkp6X205ejRRWnkxMFduNHBkOU9VYWR6aTdwU3U3S3cwaUU2YzFJeWc2NGFITm10TUdvZ1dYR19HenJ1T3c4T0UtQThueDU2UEt6dDRQd05aLVZoS09ZUUZoUmlta2h6aE1tcEp5aEljWHBoNkExdDJoYnYyMVV0YmhpSDFSMg?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T02:23:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "호주(Australia)는 이란의 공격을 받은 국가들로부터의 지원 요청을 검토하고 있습니다. 이는 이란 사태에 대한 국제사회의 대응 움직임을 보여줍니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Explosion at US embassy in Oslo may have been deliberate attack, police say - Reuters",
-      "body_preview": "Explosion at US embassy in Oslo may have been deliberate attack, police say  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeGFYT0NPSDM0RUZsdTRTOUtzM3FMUnczbnBqcFhHQzMwNHlDNHB5UXN4SmJwUjBlUXg4WVhZNm1ScURsanZVWTBCOS1seldOd3Atc2NzM2JicS1NcDNub2dVSDNmNlRzeWJ4Q0pheDdUMlRTbGRzMWxmVGlzWkpJaVl3SWJqRzBJZ1l4QzJjNEx5Qkp3U29PVGRLX1BGWGVsYmJMRG9BSQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T00:50:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "오슬로(Oslo) 주재 미국 대사관에서 발생한 폭발이 고의적인 공격일 수 있다고 경찰이 밝혔습니다. 이는 잠재적인 안보 위협에 대한 우려를 제기합니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
-    },
-    {
-      "title": "Israel says it targeted Iranian commanders in Beirut as death toll nears 400 - Reuters",
-      "body_preview": "Israel says it targeted Iranian commanders in Beirut as death toll nears 400  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0JEcnVjaUtIcHJrai12NnZVV0VVLWpqeWZGZGFEZ1dpeVJnazBuXzNtdHJQRzlRZEhyV2V5NWFkZHpsdmpUU0dBODdkNE1OeXdKU2p0b3ZwZ0ppeXFwMTgyLXgxMGZSQkFVazVCZUNaN2R4U3FzR0VmU0ZOekNUc1IxczU2Rkszemp2NmpvSkpZZHpNc1dMYl84c2o5ZlFTUU40NHdIVExwUDZEWmNNNHZsR1dXaXBEbEM2eHl1a0JmcTdqWlZR?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-08T00:25:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이스라엘은 사망자 수가 400명에 육박하는 가운데 베이루트(Beirut)에서 이란 사령관들을 표적으로 삼았다고 밝혔습니다. 이는 중동 지역의 긴장 고조를 시사합니다.",
-      "fetched_at": "2026-03-08T19:18:38.060750+00:00"
     }
   ]
 }
