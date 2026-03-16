@@ -1,8 +1,218 @@
 {
-  "last_updated": "2026-03-15T02:00:52.859696+00:00",
-  "last_updated_kst": "2026-03-15 11:00 KST",
+  "last_updated": "2026-03-16T02:02:38.469095+00:00",
+  "last_updated_kst": "2026-03-16 11:02 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Why the private equity crunch is not a prelude to the next big economic crisis",
+      "body_preview": "Everybody is clueless, and when you are clueless, you are scared.",
+      "source_url": "https://www.cnbc.com/2026/03/15/cramer-the-private-equity-crunch-is-not-a-prelude-to-the-next-crisis.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-16T00:50:47+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108267667-1771553752217-gettyimages-2256762572-BLUE_OWL.jpeg?v=1771553772&w=1920&h=1080",
+      "korean_summary": "사모펀드(private equity) 시장의 어려움이 다음 경제 위기의 전조가 아니라는 분석이 제기되었습니다. 현재 시장의 불확실성으로 인한 두려움이 크지만, 이것이 반드시 대규모 위기로 이어지지는 않을 것이라는 관점입니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Trump warns NATO faces ‘very bad future’ if allies fail to help US in Iran, FT reports - Reuters",
+      "body_preview": "Trump warns NATO faces ‘very bad future’ if allies fail to help US in Iran, FT reports  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaDQ1Rkg0MFdXMm9aNnY3VFlLQ2hDU1E0cmxzVEQzZ0l2VkhURWIwTkk4a2syUGtEa0RzOHpmX0FzZVhEbHk5RW5qQ3ZhZTM3UVAweHNHNHRMQTZQUTlXb3lLOTZLY2dYMF9nb1NnREVmRFBRUEczeUpfakFGTjNqV0FlQTdtUExkQ05VN1dDM0dJZVpIRGx0Y0VYaXlpRkFIMWdoekxXVGoxNW9iLWpoMlg4c1g2UlJMSnBYbnBoZkdqbDA?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-16T00:10:00+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "도널드 트럼프 전 미국 대통령은 동맹국들이 이란 문제에서 미국을 돕지 않을 경우 북대서양조약기구(NATO)가 \"매우 나쁜 미래\"에 직면할 것이라고 경고했다고 파이낸셜타임스(FT)가 보도했습니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "US officials predict quick end to Iran war, while Tehran says it can outlast foes - Reuters",
+      "body_preview": "US officials predict quick end to Iran war, while Tehran says it can outlast foes  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0REc3k5MGJlQkh2MzVHWnFzdGNLWVlQNktONjFqWkJiSHl6OVhLcjd3RUpuS1FMeFBQVnluT1I1N1lreFJYVWpWSng0ZnlyUm8wQmtJbmdtNXBZejRUTkVlZ0FGLXZtXzNSdHdDUF8wanlFcVduUEc3aWNVWk1KOXgwY2FpMWQtLUpLOUN0TmNFLU9idERNRW1wMVZpU1d0MzVYdGpPMmhCWGdocWVlelVBTGxsSEg5LUdoTlpZMXhjUmdEdVZV?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T23:19:19+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "미국 관리들은 이란과의 전쟁이 신속하게 종결될 것으로 예측한 반면, 이란은 적대 세력보다 오래 버틸 수 있다고 주장하며 상반된 입장을 보였습니다. 이는 양측 간의 긴장 고조와 전망 차이를 반영합니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Indian foreign minister hails talks with Iran to open Strait of Hormuz, FT reports - Reuters",
+      "body_preview": "Indian foreign minister hails talks with Iran to open Strait of Hormuz, FT reports  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQam81amk1YVduQUU1aHM0RDM5WHNhR3J0UXlmeTFLQXQtbjZRWUNveWstSDQyMmtabXRTbTJydjl2RTI1M0lVYVpYQ3hhNm96RkN5RUgtdnAwWXlPWDRJSDhrUDRQcGdGZFRrczkzUG5TbEpITXVpN20xNHFSZnBmazl4RjhJeV9HbTdtczJGT0Zmb3BDX2J2bXQyM1I2Qnp0N0dWOHhuYjhMdDJZUEV5b2VBLWVQcDdhSjVwUFpuLTM?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T19:39:23+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "인도 외교부 장관은 이란과의 호르무즈 해협(Strait of Hormuz) 개방 논의를 환영했다고 파이낸셜타임스(FT)가 보도했습니다. 이는 중동 지역의 해상 운송 안보와 에너지 시장 안정화에 긍정적인 영향을 미칠 수 있습니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Bank stocks have been crushed this year. 2 of our names should weather the storm",
+      "body_preview": "The businesses of Goldman Sachs and Wells Fargo should be largely insulated from the three major headwinds facing the industry.",
+      "source_url": "https://www.cnbc.com/2026/03/15/bank-stocks-have-been-crushed-this-year-2-of-our-names-should-weather-the-storm.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T17:33:47+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/106900956-16243843872021-06-22t172417z_879139053_rc2t5o9wpyaj_rtrmadp_0_usa-fed-stress-tests.jpeg?v=1697983261&w=1920&h=1080",
+      "korean_summary": "올해 은행 주식들이 큰 타격을 입었지만, 골드만삭스(Goldman Sachs)와 웰스파고(Wells Fargo)는 업계가 직면한 주요 역풍으로부터 사업이 크게 보호될 것으로 예상됩니다. 이는 두 은행의 상대적인 안정성을 시사합니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Exclusive: Iran wants 'serious review' of Gulf ties, denies role in Saudi oil attacks - Reuters",
+      "body_preview": "Exclusive: Iran wants 'serious review' of Gulf ties, denies role in Saudi oil attacks  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQlJlRWt3b3hHSS1XVHpmMzlwcGpuYzRxb0FGempBakFSRnFBSzRFaWZ2SXFCLTllRENtbVZXdHZUNzViaS03dFllN1RCTHJ1SFhtTUpaZkRTaVcycmRkVlQ2OEUyN3lqYmUxYlBSVUZxZGgyNVZJdWxIXzFfVUxETGpyZy0yVUtMZklGazdxT2o1TXMzSzlGU2s5MFo3aFBTT3VjVmVodVZrZzZrZDR2aktib2ttZ0VDbk14ZVZGVXdGZw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T17:31:47+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란은 걸프 지역(Gulf) 국가들과의 관계에 대한 \"진지한 재검토\"를 원하며, 사우디아라비아 석유 시설 공격에 대한 연루 의혹을 부인했습니다. 이는 지역 긴장 완화를 위한 이란의 외교적 움직임으로 해석됩니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Netanyahu posts video in response to Iran rumours that he is dead - Reuters",
+      "body_preview": "Netanyahu posts video in response to Iran rumours that he is dead  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWdyaFFCSWQ1VzVSU2ZJNmUya0U3dUVtaDZKVm5KSE1FYXVPUjd6bHQ2VzZ3QUJkRVl5c0hhdE1aeFcya2thQzkwdlQ0SUEtTHQxRWdWNVE5ZHJjZWVsQ3pneDg0NXhUdFQtV0xXNmFFNVBzS1RVY1VyR3l3ZEdraFc2NG5NVGZyUkpFU1M3Z1QxQ3JSbWEtcUxiMkdoVjd2SUVyZ0QxUU42bjRBNnlZRTd3QQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T17:29:35+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "베냐민 네타냐후 이스라엘 총리가 자신이 사망했다는 이란발 소문에 대응하여 직접 영상을 게시했습니다. 이는 중동 지역의 정보전과 양국 간의 긴장 관계를 보여주는 사례입니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Emergency stockpile oil coming soon to Iran-wracked markets, IEA says - Reuters",
+      "body_preview": "Emergency stockpile oil coming soon to Iran-wracked markets, IEA says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRlBpOEljVUo0UC1tekQwZVVyMmZ4MjVVenZuY0EzMXh3cE5YRl9NSTZyUlFMVFAtczlOWFBMNHhEV0pod1ZPRHpCY25QZ25QcG8xRXpNLVZ0ZTBiaEJkVGVHdTJkcGNNZWF4c09wMFJOZEEtS0JyWllZZzFzU1doWXdIZ2dUQ0daYXlxeC1fRGlfY2ZIelVQMmFUTjViUG91TFNCdWNIQTM2R3o1RTdDUHdBOW1sMDNo?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T16:25:24+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "국제에너지기구(IEA)는 이란 사태로 인해 불안정한 시장에 비축유(emergency stockpile oil)가 곧 공급될 것이라고 밝혔습니다. 이는 유가 안정화와 에너지 공급 차질 완화를 위한 조치로 풀이됩니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Trump pressures allies, Iran arrests, fuel shock and F1 cancellations - Reuters",
+      "body_preview": "Trump pressures allies, Iran arrests, fuel shock and F1 cancellations  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNG9oaEloeGExaC05LXlIb0NzME8tQlVYLWQ2MUNwLV9xM0pJRFUtSHpVTlYxcnlUN0x4RTZCWHh2OXVjRDJVUWlyZ1JtSEpUVnItUk9QZ1ZSbnFQNERkWlBrWjE1djZNcTVFUE9BclpocS1oNi1TXzhJVVRxM3JUWFo2TE13aE16NHVfYXVQUXRVWVVMem1VbEpKMUhjLUJLM0o1YURFcFh5M1lp?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T15:43:16+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "트럼프 전 대통령이 동맹국들을 압박하고, 이란에서 대규모 체포가 발생했으며, 연료 가격 충격과 포뮬러 1(F1) 경기 취소 등 국제 정세와 경제에 영향을 미치는 여러 사건이 동시에 보도되었습니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Gen Z feels alone in their struggles—here's what they 'most need to hear' from adults, says Harvard psychologist",
+      "body_preview": "We tend to leave out the \"messy middle\" when we tell stories, says Alexis Redding, a developmental psychologist at Harvard. But \"there's a better way to help.\"",
+      "source_url": "https://www.cnbc.com/2026/03/15/gen-z-feels-alone-in-their-struggles-what-they-need-to-hear-harvard-psychologist.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T13:54:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108277476-1773343837237-GettyImages-899704814.jpg?v=1773343995&w=1920&h=1080",
+      "korean_summary": "하버드대 발달 심리학자는 Z세대(Gen Z)가 어려움 속에서 외로움을 느끼며, 어른들이 성공 과정의 \"복잡한 중간 단계(messy middle)\"를 솔직하게 이야기해주는 것이 필요하다고 조언했습니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "36-year-old moved from Chicago to Spain, works 16 hours a week and is semi-retired: 'You get one life. Live it right'",
+      "body_preview": "Gigi Gonzalez moved from Chicago to Valencia, Spain, in 2025. It's transformed her work-life balance, finances and more.",
+      "source_url": "https://www.cnbc.com/2026/03/15/36-year-old-works-16-hours-a-week-lives-semi-retired-in-spain.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T13:00:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108275572-1773076403443-gigi_gonzalez_portrait.png?v=1773076544&w=1920&h=1080",
+      "korean_summary": "36세의 한 개인이 시카고에서 스페인으로 이주하여 주 16시간 근무하며 반은퇴(semi-retired) 생활을 하고 있다고 보도되었습니다. 이는 일과 삶의 균형(work-life balance)과 재정 상태에 긍정적인 변화를 가져왔습니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Iran holds the key to reopening global energy markets - Reuters",
+      "body_preview": "Iran holds the key to reopening global energy markets  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa0hBNlRkeEdOTHFCeWtBWHlQVW80SV9ma0txM3ZaMXZxY2tETFdDWnhmWEdsYTI1dEI3NV9qWnBUTmhuYzJuTVFxNl9iMjlOOVpNdjFKWUFVOXpTOENjQ09sek9qelBRY1hwaDR2eWNXTG1FU20zNHBjSjdrYkZSTktySGJiUEIzMExESHRtMEZiSnpGaGhrd3drSFJVek0?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T12:55:29+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란이 글로벌 에너지 시장 재개방의 핵심 열쇠를 쥐고 있다고 로이터통신이 보도했습니다. 이는 이란의 석유 생산 및 수출 재개가 국제 유가와 에너지 공급 안정화에 중대한 영향을 미칠 수 있음을 시사합니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Pope Leo decries 'atrocious violence' in Iran war, urges ceasefire - Reuters",
+      "body_preview": "Pope Leo decries 'atrocious violence' in Iran war, urges ceasefire  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVThMVjVNVS14SGFnaHpkTkFBcGZfTi12UGM0Snc4SjVVSDNiLXRIYmJKcnFaU2hfcWJFT00xSlotd1R1QmdiRG03TzBmNFhUckFjaFFQSjBSTC1FRTZod18xMjIwcWNGUV8wcWJTX2Qyc0xPS1dQdmcySHItT2tzbmd3UXdaN3lMbndISlhabzZUdVQzUXpKYU1DdUdxWnVCalJmbFdXbXdra29xZXc?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T12:12:24+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "교황 레오(Pope Leo)는 이란 전쟁에서 벌어지는 \"잔혹한 폭력(atrocious violence)\"을 비난하며 즉각적인 휴전(ceasefire)을 촉구했습니다. 이는 국제 사회의 인도주의적 우려를 반영하는 메시지입니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Iran arrests 500 accused of giving information to enemies, police chief says - Reuters",
+      "body_preview": "Iran arrests 500 accused of giving information to enemies, police chief says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0ZGOFh6Nl8xM2Y5WHdUbmw5TTc4MXJDNUlnOFM0Z3dnSWIxb0hqdWtnN043dHNpT1NzOXVDZ2V3ajhfNDQzOXVSSWhCalU4eFduZUREWEY3SnZmMzZ4aUxiTHViZDBSWXZuZTRNaEowZEd5YThFV0NveUlKT2p4THZHcW9QdHdJVE9sd1VFbVVhTm9ybXU2S1BHTS1WRmVhM1VPS0R1ZWR4OEFoaGJfczRR?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T11:35:41+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 경찰청장은 적대 세력에 정보를 제공한 혐의로 500명을 체포했다고 밝혔습니다. 이는 이란 내부의 안보 강화 노력과 외부 위협에 대한 경계심을 보여주는 조치로 해석됩니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
+    {
+      "title": "Iranian missile fragment hits US consul residence building in Israel - Reuters",
+      "body_preview": "Iranian missile fragment hits US consul residence building in Israel  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY0hIVzdNUFprdVRNTkx2Smdhb2lyUjBwcUZQZmFmWjkzLWFYUy1nUGVOV3REMDVEVkQ0aFBQUVY3YklKZkpneC1yQUtjQjFrZDNodjBhelRZZGpWazJ4djZ4WkdEY2JzbnVKUVM1aXNaQUZwaG1HYXB6aHlta1U1M1ZYUTBvQUhnaFh6MkZveHpXdkdxMS1Ldzg1S2JLVTdZMk52WElKd1hWR0ZTTUdHb3NoS3Y5ZktwWENLRXhCbk8zTnE5b1Vnd04tbGhqQQ?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-03-15T11:32:07+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 미사일 파편이 이스라엘 주재 미국 영사관저 건물에 떨어졌다고 로이터통신이 보도했습니다. 이는 중동 지역의 긴장이 고조되고 있음을 보여주는 심각한 사건으로 평가됩니다.",
+      "fetched_at": "2026-03-16T02:02:38.465381+00:00"
+    },
     {
       "title": "Trump fundraising pitch features U.S. soldiers killed in Iran war",
       "body_preview": "The email solicitation to benefit Trump’s PAC also offers donors “private national security briefings.”",
@@ -2746,248 +2956,6 @@
       "media_url": "https://resources.cryptocompare.com/news/82/default.png",
       "korean_summary": "",
       "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "Bitcoin price forecast as oil explodes to near $120 amid Iran war",
-      "body_preview": "Bitcoin price hovered near $67,000 as oil jumped to near $120 per barrel, while stocks slid amid growing investor concerns over global petroleum supply disruptions. Notably, Bitcoin traded around the $67k level after retesting lows of $66k late Sunday. While the crypto bellwether has bounced off the",
-      "source_url": "https://invezz.com/news/2026/03/09/bitcoin-price-forecast-as-oil-explodes-to-near-120-amid-iran-war/",
-      "source_name": "Invezz",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:43:31+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/69/59043782.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "Internet Computer (ICP) Price Prediction 2026-2030: Critical Analysis of the $25 Milestone Potential",
-      "body_preview": "BitcoinWorld Internet Computer (ICP) Price Prediction 2026-2030: Critical Analysis of the $25 Milestone Potential As blockchain technology continues evolving in 2025, the Internet Computer (ICP) protocol stands at a crucial juncture, with analysts examining whether its unique architecture could prop",
-      "source_url": "https://bitcoinworld.co.in/internet-computer-icp-price-prediction-2026-2030/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:40:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "ICP"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "Oscar-Nominated Actor Says Bitcoin Is Going to Die",
-      "body_preview": "Actor Terrence Howard has sparked a wave of social media ridicule after predicting the total demise of Bitcoin during a recent episode of the PBD Podcast.",
-      "source_url": "https://u.today/oscar-nominated-actor-says-bitcoin-is-going-to-die",
-      "source_name": "U.Today",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:36:58+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/64/59043883.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "Gold Price Decline: Inflation-Driven Dollar Strength Crushes Geopolitical Safe-Haven Demand",
-      "body_preview": "BitcoinWorld Gold Price Decline: Inflation-Driven Dollar Strength Crushes Geopolitical Safe-Haven Demand Global gold markets experienced significant pressure this week as surging US dollar strength, fueled by persistent inflation data, overwhelmed traditional safe-haven demand from escalating geopol",
-      "source_url": "https://bitcoinworld.co.in/gold-price-decline-dollar-strength/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:35:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "FIAT"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "BTC Markets eyes RWA trading license amid global tokenization wave",
-      "body_preview": "The roughly $26 billion in tokenized assets onchain today “is really just the proof of concept,” said BTC Markets CEO Lucas Dobbins.",
-      "source_url": "https://cointelegraph.com/news/btc-markets-eyes-markets-license-tokenization-play-joining-peers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source_name": "Cointelegraph",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:34:39+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/cointelegraph.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "BitMine Immersion: Tom Lee Calls An Ether Bottom, But I'm Not Convinced",
-      "body_preview": "Summary Bitmine Immersion Technologies remains a \"Hold\" as technical risks and weak price action persist despite long-term Ethereum network growth drivers. BMNR's strategy centers on achieving a 5% stake in Ethereum, maximizing ETH staking yield, and leveraging its MAVAN validator network. Recent fi",
-      "source_url": "https://seekingalpha.com/article/4879922-bitmine-immersion-tom-lee-calls-an-ether-bottom-but-im-not-convinced?utm_source=cryptocompare.com&utm_medium=referral&feed_item_type=article",
-      "source_name": "Seeking Alpha",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:30:55+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/50/59043334.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "Report: Prediction Markets Polymarket and Kalshi Eye $20B Valuations as Investor Interest Builds",
-      "body_preview": "According to a recent report, the two heavyweight prediction markets, Polymarket and Kalshi, are said to be chatting with prospective backers about fresh fundraising rounds. Current figures place Kalshi’s valuation near $11 billion and Polymarket’s around $9 billion, and if capital does come calling",
-      "source_url": "https://news.bitcoin.com/report-prediction-markets-polymarket-and-kalshi-eye-20b-valuations-as-investor-interest-builds/",
-      "source_name": "Bitcoin.com",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:30:55+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/14/59043335.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "TAO Technical Analysis March 9, 2026: Weekly Strategy",
-      "body_preview": "TAO stabilized at $196.50 with a 12% weekly rise in a sideways trend; a $209.50 breakout brings bullish confirmation. Be cautious due to BTC's downtrend, $180 support is critical.",
-      "source_url": "https://en.coinotag.com/analysis/tao-technical-analysis-march-9-2026-weekly-strategy",
-      "source_name": "CoinOtag",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:30:21+00:00",
-      "category": "crypto",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/77/59043290.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "Boundless ZK Computing Shatters Records with 100x Throughput Surge and Infrastructure Dominance",
-      "body_preview": "BitcoinWorld Boundless ZK Computing Shatters Records with 100x Throughput Surge and Infrastructure Dominance In a significant development for blockchain scalability, the decentralized Zero-Knowledge computing marketplace Boundless (ZKC) has announced performance metrics that could reshape the infras",
-      "source_url": "https://bitcoinworld.co.in/boundless-zk-computing-throughput-infrastructure/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:30:11+00:00",
-      "category": "crypto",
-      "currencies": [
-        "ZRX",
-        "ZK"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "Space Bitcoin Mining: Nvidia-Backed StarCloud’s Revolutionary 2025 Satellite Launch",
-      "body_preview": "BitcoinWorld Space Bitcoin Mining: Nvidia-Backed StarCloud’s Revolutionary 2025 Satellite Launch In a groundbreaking development for both the cryptocurrency and aerospace industries, Nvidia-backed startup StarCloud has announced plans to launch its second spacecraft specifically designed for Bitcoin",
-      "source_url": "https://bitcoinworld.co.in/starcloud-space-bitcoin-mining-2025/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:25:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "Aave Users Reach Record as Traders Quietly Shift Capital Toward DeFi Lending",
-      "body_preview": "With fewer low-risk yield strategies in crypto, investors are turning to DeFi lending, sending Aave usage to record levels.",
-      "source_url": "https://decrypt.co/360391/aave-monthly-active-users-record-defi-lending",
-      "source_name": "Decrypt",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:21:09+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://resources.cryptocompare.com/news/44/59043027.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "Spot Bitcoin ETF Inflows Soar: $568 Million Weekly Surge Signals Robust Institutional Confidence",
-      "body_preview": "BitcoinWorld Spot Bitcoin ETF Inflows Soar: $568 Million Weekly Surge Signals Robust Institutional Confidence In a significant display of sustained institutional interest, U.S.-listed spot Bitcoin exchange-traded funds (ETFs) attracted a substantial $568 million in net new capital last week, accordi",
-      "source_url": "https://bitcoinworld.co.in/bitcoin-etf-inflows-surge-568-million/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:20:11+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "ETH"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "Solana (SOL) Tumbles to $80, Traders Watch Critical Support Defense",
-      "body_preview": "Solana failed to settle above $90 and extended losses. SOL price is now consolidating losses below $85 and might struggle to start a recovery wave. SOL price started a fresh decline below $85 and $82 against the US Dollar. The price is now trading below $85 and the 100-hourly simple moving average. ",
-      "source_url": "https://www.newsbtc.com/analysis/solana-sol-tumbles-to-80/",
-      "source_name": "NewsBTC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T05:18:26+00:00",
-      "category": "macro",
-      "currencies": [
-        "BTC",
-        "ETH",
-        "SOL"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/21/59042891.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-03-09T05:52:32.565062+00:00"
-    },
-    {
-      "title": "Chainlink attracts capital as rivals bleed – LINK’s move above $9.17 IF…",
-      "body_preview": "Chainlink stands out as inflows remain strong and development activity continues to lead the market.",
-      "source_url": "https://ambcrypto.com/chainlink-attracts-capital-as-rivals-bleed-links-move-above-9-17-if/",
-      "source_name": "AMB Crypto",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T04:00:15+00:00",
-      "category": "crypto",
-      "currencies": [
-        "LINK"
-      ],
-      "media_url": "https://images.cryptocompare.com/news/default/ambcrypto.png",
-      "korean_summary": "체인링크(Chainlink)는 강력한 자금 유입과 지속적인 개발 활동으로 시장을 선도하며 경쟁사들이 어려움을 겪는 가운데 두각을 나타내고 있습니다. 이는 LINK의 가격이 특정 수준을 넘어설 경우 추가적인 상승 가능성을 시사합니다.",
-      "fetched_at": "2026-03-09T04:10:14.773607+00:00"
-    },
-    {
-      "title": "Ethena and B2C2 Stun Market with $18.47M ETH Binance Deposit, Signaling Potential Sell-Off",
-      "body_preview": "BitcoinWorld Ethena and B2C2 Stun Market with $18.47M ETH Binance Deposit, Signaling Potential Sell-Off In a significant move scrutinized by blockchain analysts, the teams behind the synthetic dollar protocol Ethena and the established crypto market maker B2C2 have jointly deposited a substantial $1",
-      "source_url": "https://bitcoinworld.co.in/ethena-b2c2-eth-binance-deposit/",
-      "source_name": "Bitcoin World",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-03-09T04:00:12+00:00",
-      "category": "macro",
-      "currencies": [
-        "ETH",
-        "BNB"
-      ],
-      "media_url": "https://resources.cryptocompare.com/news/82/default.png",
-      "korean_summary": "이더나(Ethena)와 B2C2가 1,847만 달러 상당의 이더리움(ETH)을 바이낸스(Binance)에 예치하여 시장을 놀라게 했습니다. 블록체인 분석가들은 이를 잠재적인 매도 신호로 해석하며 시장의 주의를 촉구하고 있습니다.",
-      "fetched_at": "2026-03-09T04:10:14.773607+00:00"
     }
   ]
 }
