@@ -270,8 +270,9 @@
     @media (max-width: 640px) {
       .header { padding: 24px 0 20px; }
       .header h1 { font-size: 22px; }
-      .filter-bar { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      .filter-bar { overflow-x: auto; -webkit-overflow-scrolling: touch; justify-content: flex-start; padding-left: 16px; padding-right: 16px; }
       .filter-bar::-webkit-scrollbar { display: none; }
+      .filter-btn { font-size: 12px; padding: 7px 14px; }
       .news-card { padding: 16px; }
       .card-summary-kr { font-size: 14px; }
       .card-title-en { font-size: 11px; }
@@ -412,7 +413,7 @@
       if (item.likes || item.retweets) {
         engHtml = '<div class="engagement">';
         if (item.likes) engHtml += '<span>♥ ' + fmtNum(item.likes) + '</span>';
-        if (item.retweets) engHtml += '<span>🔁 ' + fmtNum(item.retweets) + '</span>';
+        if (item.retweets) engHtml += '<span>RT ' + fmtNum(item.retweets) + '</span>';
         engHtml += '</div>';
       } else {
         engHtml = '<div></div>';
