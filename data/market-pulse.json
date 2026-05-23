@@ -1,8 +1,120 @@
 {
-  "last_updated": "2026-05-22T00:41:35.715344+00:00",
-  "last_updated_kst": "2026-05-22 09:41 KST",
+  "last_updated": "2026-05-23T00:40:33.909835+00:00",
+  "last_updated_kst": "2026-05-23 09:40 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
+      "body_preview": "Disney's \"Star Wars: The Mandalorian and Grogu\" tallied $12 million in Thursday night previews, the lowest collection of advanced tickets in franchise history.",
+      "source_url": "https://www.cnbc.com/2026/05/22/disneys-star-wars-the-mandalorian-and-grogu-box-office-preview.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-22T18:48:51+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108311292-1779466772598-star-wars-the-mandalorian-and-grogu-first-looks-stills-_9e0fdd30_Cropped.jpg?v=1779467057&w=1920&h=1080",
+      "korean_summary": "디즈니의 영화 \"스타워즈: 만달로리안과 그로구\"가 목요일 밤 시사회에서 1,200만 달러를 벌어들이며, 해당 프랜차이즈 역사상 가장 낮은 사전 티켓 판매액을 기록해 흥행 부진 우려를 낳고 있다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+    },
+    {
+      "title": "Stocks continue surging to record highs. Here's how to hedge",
+      "body_preview": "The rally back to records has made buying protection more affordable.",
+      "source_url": "https://www.cnbc.com/2026/05/22/stocks-continue-surging-to-record-highs-heres-how-to-hedge.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-22T17:59:04+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108306442-1778688845240-Traders-Photo-20260513-AS-6.jpg?v=1778688944&w=1920&h=1080",
+      "korean_summary": "주식 시장이 사상 최고치를 경신하며 계속 상승세를 보이고 있다. 이러한 랠리 속에서 시장 변동성에 대비한 헤징(hedging) 전략, 즉 보호 매수 비용이 더욱 저렴해졌다는 분석이 나왔다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+    },
+    {
+      "title": "Arm shares extend weekly rally to almost 50%, and Starbucks pulls the plug on an AI project",
+      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source_url": "https://www.cnbc.com/2026/05/22/arm-shares-extend-weekly-rally-to-almost-50percent-and-starbucks-pulls-the-plug-on-an-ai-project.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-22T17:32:52+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108282893-1774451924535-gettyimages-2267715954-ARM_EVERYWHERE.jpeg?v=1774451947&w=1920&h=1080",
+      "korean_summary": "반도체 설계 기업 암(Arm)의 주가가 주간 랠리를 이어가며 거의 50% 가까이 상승했다. 한편, 스타벅스는 인공지능(AI) 프로젝트를 중단하기로 결정했다는 소식이 전해졌다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+    },
+    {
+      "title": "Wall Street thinks IMAX is ripe for a sale. Here's who could buy it",
+      "body_preview": "A source told CNBC that IMAX has held \"preliminary talks\" through intermediaries, but no official pitches have been made by the company.",
+      "source_url": "https://www.cnbc.com/2026/05/22/imax-sale-talks-potential-buyers-wall-street-analysts.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-22T16:26:26+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108311213-1779460294885-gettyimages-2201585805-vcg111550423487.jpeg?v=1779460316&w=1920&h=1080",
+      "korean_summary": "월스트리트(Wall Street)는 아이맥스(IMAX)가 매각될 가능성이 높다고 보고 있다. 소식통에 따르면 아이맥스는 중개인을 통해 잠재적 인수자들과 예비 협상을 진행했으나, 회사 측의 공식 제안은 아직 없는 것으로 알려졌다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+    },
+    {
+      "title": "Egg prices are plunging due to oversupply — and producers say margins are taking a hit as costs rise",
+      "body_preview": "Egg prices are plunging from oversupply after avian flu shortages, but producers say persistent feed, fuel and labor costs are squeezing margins.",
+      "source_url": "https://www.cnbc.com/2026/05/22/egg-prices-fall-due-to-oversupply-after-bird-flu-shortages.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-22T15:59:14+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108311245-1779462808955-gettyimages-2275677304-l1081568_nrt22pgj.jpeg?v=1779462892&w=1920&h=1080",
+      "korean_summary": "조류독감(avian flu)으로 인한 공급 부족 이후 과잉 공급으로 달걀 가격이 급락하고 있다. 생산자들은 사료, 연료, 인건비 등 지속적인 비용 상승으로 마진(margin)이 압박받고 있다고 밝혔다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+    },
+    {
+      "title": "Surge in 'risk-free' treasury yields sends bond investors in search of better opportunities",
+      "body_preview": "Treasury yield surge shows bond market is not 'risk free' after all, but there's opportunity for fixed-income investors in intermediates, BBBs and high yield.",
+      "source_url": "https://www.cnbc.com/2026/05/22/treasury-yields-bonds-investing-fed-rate-hikes.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-22T15:10:29+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108127568-1744034668789-gettyimages-57201457-57195271SO005_Fed_Chairman_.jpeg?v=1779456580&w=1920&h=1080",
+      "korean_summary": "국채(Treasury) 수익률 급등으로 채권 시장이 더 이상 '무위험(risk-free)'이 아님을 보여주며, 채권 투자자들이 더 나은 기회를 모색하고 있다. 중기채, BBB 등급 및 고수익 채권에서 기회가 있을 수 있다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+    },
+    {
+      "title": "The Club's top 10 things to watch in the stock market Friday",
+      "body_preview": "Stocks are poised to extend yesterday's gains.",
+      "source_url": "https://www.cnbc.com/2026/05/22/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-22T13:20:06+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108309149-1779205692146-gettyimages-2232601959-_ar_5515_jkhvzp8i.jpeg?v=1779205771&w=1920&h=1080",
+      "korean_summary": "주식 시장이 전날의 상승세를 이어갈 것으로 예상되는 가운데, 금요일 시장에서 주목해야 할 주요 10가지 사항이 발표되었다. 투자자들은 시장 동향과 특정 종목에 대한 관심이 높아지고 있다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+    },
+    {
+      "title": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
+      "body_preview": "SpaceX's IPO, expected on June 12, could mark the largest float in history.",
+      "source_url": "https://www.cnbc.com/2026/05/22/ipo-flurry-top-market-analysts-ai-spacex-musk-altman.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-22T10:20:05+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108299250-1777479631989-gettyimages-2273121353-US-NEWS-SCI-SPACEX-LAUNCH-OS.jpeg?v=1777479669&w=1920&h=1080",
+      "korean_summary": "스페이스X(SpaceX)와 오픈AI(OpenAI)의 사상 최대 규모 기업공개(IPO) 준비 소식에 일부 분석가들은 이러한 메가 IPO가 시장 정점(market top)을 알리는 신호일 수 있다고 경고했다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+    },
     {
       "title": "IMAX has held ‘preliminary talks’ with potential buyers, source says",
       "body_preview": "IMAX has held \"preliminary talks\" through intermediaries, but no official pitches have been made directly by the company, a source told CNBC.",
@@ -14,8 +126,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/107198579-1677121939840-gettyimages-1051853192-775239116LN023_IMAX_Private.jpeg?v=1767986280&w=1920&h=1080",
-      "korean_summary": "IMAX가 잠재적 인수자들과 중개인을 통해 예비 협상을 진행했으나, 회사 측에서 직접적인 공식 제안은 없었다고 소식통이 CNBC에 밝혔다. 이는 시장의 인수합병(M&A) 가능성에 대한 관심을 불러일으키고 있다.",
-      "fetched_at": "2026-05-22T00:41:35.711543+00:00"
+      "korean_summary": "아이맥스(IMAX)가 잠재적 인수자들과 중개인을 통해 예비 협상을 진행했다고 소식통이 전했다. 그러나 회사 측에서 직접적인 공식 제안은 아직 이루어지지 않은 것으로 알려졌다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
     },
     {
       "title": "Will Elon Musk eventually merge SpaceX with Tesla? Speculation is building",
@@ -28,8 +140,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108089375-17374190512025-01-21t002139z_711005669_rc2qdcaog1dr_rtrmadp_0_usa-trump-inauguration.jpeg?v=1737419154&w=1920&h=1080",
-      "korean_summary": "애널리스트들은 일론 머스크가 자신의 두 회사인 스페이스X(SpaceX)와 테슬라(Tesla)를 결국 합병할 것으로 추측하고 있다. 하지만 예측 시장(prediction market)의 트레이더들은 이러한 합병 가능성에 대해 아직 확신하지 못하는 분위기다.",
-      "fetched_at": "2026-05-22T00:41:35.711543+00:00"
+      "korean_summary": "일론 머스크(Elon Musk)가 스페이스X(SpaceX)와 테슬라(Tesla)를 합병할 것이라는 추측이 확산되고 있다. 분석가들은 합병 가능성을 제기하지만, 예측 시장(prediction market)의 트레이더들은 회의적인 반응을 보이고 있다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
     },
     {
       "title": "Traders think this legacy tech stock is the ultimate quantum play",
@@ -42,8 +154,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108134692-1745325752840-gettyimages-2205536206-20090101250321-99-295748.jpeg?v=1771969896&w=1920&h=1080",
-      "korean_summary": "옵션 트레이더들이 특정 레거시 기술주(legacy tech stock)를 궁극적인 양자(quantum) 관련 투자처로 보고 대규모 거래에 나섰다. 지난 30일 일평균 대비 15배에 달하는 약 20만 계약이 거래되며 관심이 집중됐다.",
-      "fetched_at": "2026-05-22T00:41:35.711543+00:00"
+      "korean_summary": "옵션 트레이더(options trader)들이 한 레거시 기술주(legacy tech stock)를 궁극적인 양자(quantum) 관련 투자처로 보고 대거 매수했다. 해당 주식은 지난 30일 일평균 거래량의 15배에 달하는 약 20만 계약이 거래되었다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
     },
     {
       "title": "SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading",
@@ -56,8 +168,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108286753-1775144948710-gettyimages-2267974761-AFP_A4VK6PE.jpeg?v=1775152292&w=1920&h=1080",
-      "korean_summary": "예측 시장(prediction market) 폴리마켓(Polymarket) 트레이더들은 스페이스X(SpaceX), 오픈AI(OpenAI), 앤트로픽(Anthropic)이 상장 첫날 최소 1조 4천억 달러의 기업 가치를 넘어설 것으로 예상한다. 이는 버크셔 해서웨이(Berkshire Hathaway)를 뛰어넘는 수준이다.",
-      "fetched_at": "2026-05-22T00:41:35.711543+00:00"
+      "korean_summary": "예측 시장(prediction market) 트레이더들은 스페이스X(SpaceX)와 오픈AI(OpenAI)가 상장 첫날 최소 1조 4천억 달러의 기업 가치를 넘어설 것으로 예상하며, 이는 버크셔 해서웨이(Berkshire Hathaway)를 뛰어넘는 수준이다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
     },
     {
       "title": "Oura, smart ring maker, confidentially files for IPO",
@@ -70,8 +182,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108310783-1779386536849-gettyimages-2156912737-TOM_HALE_INTERVIEW.jpeg?v=1779386657&w=1920&h=1080",
-      "korean_summary": "건강 및 웰니스 추적 스마트 링(smart ring) 제조업체인 오우라(Oura)가 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 비공개 서류를 제출했다. 이는 시장의 기대를 모으며 상장 절차를 시작했음을 알린다.",
-      "fetched_at": "2026-05-22T00:41:35.711543+00:00"
+      "korean_summary": "건강 및 웰니스 추적 스마트 링(smart ring) 제조업체인 오우라(Oura)가 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 비밀 서류를 제출했다. 이는 상장을 위한 첫 단계로 해석된다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
     },
     {
       "title": "How Walmart's gas price warning shapes our retail outlook — plus, Honeywell's quantum connection",
@@ -84,8 +196,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108305041-1778512127931-gettyimages-2275118844-MIDWEST_GAS_PRICES.jpeg?v=1778512222&w=1920&h=1080",
-      "korean_summary": "월마트(Walmart)의 유가 경고가 소매업 전망에 미치는 영향과 하니웰(Honeywell)의 양자(quantum) 기술 연결성이 주목받고 있다. 투자 클럽(Investing Club)은 매일 장 마감 전 핵심적인 오후 업데이트를 제공하며 시장 동향을 분석한다.",
-      "fetched_at": "2026-05-22T00:41:35.711543+00:00"
+      "korean_summary": "월마트(Walmart)의 유가 경고가 소매업 전망에 미치는 영향과 함께, 허니웰(Honeywell)의 양자(quantum) 기술 연결성에 대한 분석이 나왔다. 이는 투자 클럽의 오후 업데이트에서 다뤄졌다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
     },
     {
       "title": "Trump administration says new EPA rules will save you money at the supermarket. It's not clear they will",
@@ -98,8 +210,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108310654-17793789562026-05-21t155451z_55673329_rc2rdlaec79m_rtrmadp_0_usa-trump.jpeg?v=1779378979&w=1920&h=1080",
-      "korean_summary": "트럼프 전 대통령은 바이든 행정부의 환경보호청(EPA) 냉매 규제 연기가 식료품 비용을 낮출 것이라고 주장했다. 하지만 이러한 조치가 실제 식품 가격에 미칠 영향은 아직 불분명하다는 분석이 나오고 있다.",
-      "fetched_at": "2026-05-22T00:41:35.711543+00:00"
+      "korean_summary": "트럼프 행정부는 바이든 시대의 환경보호청(EPA) 냉매 규제 연기가 식료품 비용을 절감할 것이라고 주장했다. 그러나 이 조치가 실제 식품 가격에 미칠 영향은 아직 불분명하다는 지적이 나온다.",
+      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
     },
     {
       "title": "LIV Golf seeks to raise up to $350 million from investors as post-PIF reality sets in",
@@ -2689,118 +2801,6 @@
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/107281242-1691068745295-gettyimages-843749824-DUNKIN_DONUTS.jpeg?v=1691068780&w=1920&h=1080",
       "korean_summary": "던킨(Dunkin'), 아비스(Arby's) 등 유명 레스토랑 브랜드를 다수 보유한 인스파이어 브랜즈(Inspire Brands)가 기업공개(IPO)를 비밀리에 신청하며 시장의 주목을 받고 있다.",
-      "fetched_at": "2026-05-09T00:37:18.325957+00:00"
-    },
-    {
-      "title": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
-      "body_preview": "Intel, AMD and Micron surged double digits this week as investors bet on CPU makers and memory companies powering the next stage of AI",
-      "source_url": "https://www.cnbc.com/2026/05/08/wall-street-ai-chip-love-moves-from-nvidia-to-intel-amd-and-micron.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T19:23:01+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108302934-1778074131329-LisaSu4.jpg?v=1778074231&w=1920&h=1080",
-      "korean_summary": "월스트리트에서 인공지능(AI) 분야의 주도권 변화 조짐이 나타나며, 엔비디아(Nvidia)가 주춤하는 사이 인텔(Intel), AMD 등 중앙처리장치(CPU) 및 메모리 기업들의 주가가 급등했다.",
-      "fetched_at": "2026-05-09T00:37:18.325957+00:00"
-    },
-    {
-      "title": "What an Apple deal to buy Intel chips would mean for the iPhone maker",
-      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source_url": "https://www.cnbc.com/2026/05/08/what-an-apple-deal-to-buy-intel-chips-would-mean-for-the-iphone-maker.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T18:47:37+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108255964-1769112419128-gettyimages-2257634535-_75a0085_1dhk3ucw.jpeg?v=1777991221&w=1920&h=1080",
-      "korean_summary": "애플(Apple)이 인텔(Intel) 칩을 구매하는 계약을 체결할 경우 아이폰(iPhone) 제조사에 미칠 영향에 대한 분석이 나왔다. 이는 애플의 공급망 및 기술 전략에 중요한 변화를 가져올 수 있다.",
-      "fetched_at": "2026-05-09T00:37:18.325957+00:00"
-    },
-    {
-      "title": "Stock pullbacks can be an opportunity to make your money back and then some. Here's how",
-      "body_preview": "Following its Q1 2026 earnings release, Fluor is pulling back by 15%.",
-      "source_url": "https://www.cnbc.com/2026/05/08/stock-pullbacks-can-be-an-opportunity-to-make-your-money-back-and-then-some-heres-how.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T17:18:55+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108303746-17781672612026-05-07t151516z_362339104_rc2d4lajy3w5_rtrmadp_0_usa-stocks.jpeg?v=1778167294&w=1920&h=1080",
-      "korean_summary": "주식 시장의 조정(pullback)이 투자자에게 손실을 만회하고 추가 수익을 얻을 기회가 될 수 있다는 분석이 나왔다. 플루어(Fluor)는 1분기 실적 발표 후 15% 하락했다.",
-      "fetched_at": "2026-05-09T00:37:18.325957+00:00"
-    },
-    {
-      "title": "Jim Cramer says this struggling stock could remain under pressure in AI-driven market",
-      "body_preview": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source_url": "https://www.cnbc.com/2026/05/08/cramer-this-struggling-stock-may-remain-challenged-in-ai-driven-market.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T15:55:12+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108297268-1777127243816-gettyimages-2272978650-anotherday208771190_4cznzzhg.jpeg?v=1777127293&w=1920&h=1080",
-      "korean_summary": "유명 투자 전문가 짐 크레이머(Jim Cramer)는 인공지능(AI) 주도 시장에서 특정 부진주가 계속해서 압박을 받을 수 있다고 경고하며, 투자자들이 신중한 접근을 해야 한다고 조언했다.",
-      "fetched_at": "2026-05-09T00:37:18.325957+00:00"
-    },
-    {
-      "title": "US forces strike two empty Iranian oil tankers, Central Command says - Reuters",
-      "body_preview": "US forces strike two empty Iranian oil tankers, Central Command says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9uUVVaam9aUzBNT2x5d1R2MGJSN2dZVllZOFBzd0llQWNOdDk4N2d6aDRRRVV2dDh2dm1WOFc4NVpUSktMaEotSGNnYlhqajZHZDltXzBwUF9lTjFUUUtJNy1XSnpqdjlvd0RCS2RNQkJMbW1LVS1LcXAwd0wtY0xQWEZwU3llUTE4NDVYTUtQV3BWY1prOWtPbzB5VUUzSUIxZ1R1ZkVYNG9GS1U1d3NxUXBrVm1nNmVQTm1R?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T14:46:16+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "미군이 이란의 빈 유조선 2척을 공격했다고 미 중부사령부(Central Command)가 발표했다. 이는 중동 지역의 긴장을 더욱 고조시킬 수 있는 군사적 행동으로 평가된다.",
-      "fetched_at": "2026-05-09T00:37:18.325957+00:00"
-    },
-    {
-      "title": "Iran seizes oil tanker Ocean Koi in Gulf of Oman, state media says - Reuters",
-      "body_preview": "Iran seizes oil tanker Ocean Koi in Gulf of Oman, state media says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY055dVIwM0R5QmY0VFNaTlZnNGF1cVdvR3FRUkE1Yk5jdDR0MHM2ZG9qTWpQaWYtNkZsTUtWSV9JR2pLeDlUUUh1MnNRNDRlb1ZvcGg3MDNUYkc0MThaQ25LdGNnczA3UVItcnRicXBmMWpEa0ZhVkw2QWVLWVpmSThzMFl6Nk1JWE1ESVJlMWFIenFvakdCVmpJWGFHcmZVdmFPVHhvMnVIeXBadmNOQ3pPVQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T14:03:05+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란이 오만만(Gulf of Oman)에서 유조선 오션 코이(Ocean Koi)호를 나포했다고 국영 언론이 보도했다. 이는 중동 해상 운송의 안보 불안을 심화시키는 사건으로 주목된다.",
-      "fetched_at": "2026-05-09T00:37:18.325957+00:00"
-    },
-    {
-      "title": "Dollar slips as investors pin hopes on a resolution to the US-Iran conflict - Reuters",
-      "body_preview": "Dollar slips as investors pin hopes on a resolution to the US-Iran conflict  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3NZN05xVGplemF2SDFVTGVETGVBazE2b3VyUTVhS1N0TXRoRjFFdFNwNUZKbGhxSlBobE9maGJMOHEwTzRBb1k4YkFPVExfVkJvYk9jd0QzNmc5aWFTclJmakViTnVyY2F5N0ltTWRxdjNuWW1oM05yZFZUN1A1ZlpaUEZYOFg5ZXMxYVdGSmYyTzFONXRKNlpLb2VUVkpFdmVPV0I2S0dhajBSaVROR1FsSW9MLVZMVlZMZk9lMzRLb2ZlSmc?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T13:57:57+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "미국과 이란 간의 갈등이 해결될 것이라는 투자자들의 기대감이 커지면서 달러(Dollar) 가치가 하락했다. 이는 지정학적 긴장 완화에 대한 시장의 반응으로 풀이된다.",
-      "fetched_at": "2026-05-09T00:37:18.325957+00:00"
-    },
-    {
-      "title": "The hottest ETF since bitcoin-mania just added $1 billion in a day",
-      "body_preview": "Roundhill Investment's Memory ETF (DRAM) tracking the red-hot memory sector has raised more than $5 billion since its April 2 launch.",
-      "source_url": "https://www.cnbc.com/2026/05/08/the-hottest-etf-since-bitcoin-mania-just-added-1-billion-in-a-day.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T13:24:07+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108243546-1766065451693-gettyimages-2251668325-MICRON_EARNS.jpeg?v=1774904482&w=1920&h=1080",
-      "korean_summary": "비트코인(bitcoin) 열풍 이후 가장 뜨거운 상장지수펀드(ETF)로 꼽히는 라운드힐 인베스트먼트의 메모리 ETF(DRAM)가 하루 만에 10억 달러를 유치하며 급성장세를 보였다.",
       "fetched_at": "2026-05-09T00:37:18.325957+00:00"
     }
   ]
