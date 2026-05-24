@@ -1,8 +1,36 @@
 {
-  "last_updated": "2026-05-23T00:40:33.909835+00:00",
-  "last_updated_kst": "2026-05-23 09:40 KST",
+  "last_updated": "2026-05-24T00:41:13.094672+00:00",
+  "last_updated_kst": "2026-05-24 09:41 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Bulls push the S&P 500 back near records — here’s what drove the market last week",
+      "body_preview": "The combination of higher oil prices and bond market volatility nearly snapped the S&P 500's winning streak.",
+      "source_url": "https://www.cnbc.com/2026/05/23/bulls-push-sp-500-back-near-records-what-drove-the-market-last-week.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-23T17:21:36+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108249452-17678049242026-01-07t165209z_290545539_rc2dwiagni1x_rtrmadp_0_usa-stocks.jpeg?v=1767805134&w=1920&h=1080",
+      "korean_summary": "유가 상승과 채권 시장 변동성에도 불구하고 S&P 500 지수가 기록적인 수준에 근접하며 강세를 보였다. 이는 시장의 연승 행진을 위협했으나, 매수세가 지수를 다시 끌어올렸다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+    },
+    {
+      "title": "‘Blue dot fever’? What's really behind a tricky summer dynamic for live music",
+      "body_preview": "As prices rise everywhere, consumers are choosing to be more intentional with how they're spending on live music and concerts this year.",
+      "source_url": "https://www.cnbc.com/2026/05/23/concert-ticket-prices-live-music-demand.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-23T12:00:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108300007-1777561389061-gettyimages-2225069509-img_0972.jpeg?v=1777561412&w=1920&h=1080",
+      "korean_summary": "전반적인 물가 상승으로 인해 소비자들이 올해 라이브 음악 및 콘서트 지출에 더욱 신중하고 의도적인 선택을 하고 있다. 이는 여름철 라이브 음악 시장의 복잡한 역학 관계를 형성하고 있다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+    },
     {
       "title": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
       "body_preview": "Disney's \"Star Wars: The Mandalorian and Grogu\" tallied $12 million in Thursday night previews, the lowest collection of advanced tickets in franchise history.",
@@ -14,8 +42,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108311292-1779466772598-star-wars-the-mandalorian-and-grogu-first-looks-stills-_9e0fdd30_Cropped.jpg?v=1779467057&w=1920&h=1080",
-      "korean_summary": "디즈니의 영화 \"스타워즈: 만달로리안과 그로구\"가 목요일 밤 시사회에서 1,200만 달러를 벌어들이며, 해당 프랜차이즈 역사상 가장 낮은 사전 티켓 판매액을 기록해 흥행 부진 우려를 낳고 있다.",
-      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+      "korean_summary": "디즈니의 영화 \"스타워즈: 만달로리안과 그로구(Star Wars: The Mandalorian and Grogu)\"가 목요일 심야 시사회에서 1,200만 달러를 기록하며 프랜차이즈 역사상 최저 사전 판매액을 기록했다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
     },
     {
       "title": "Stocks continue surging to record highs. Here's how to hedge",
@@ -28,8 +56,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108306442-1778688845240-Traders-Photo-20260513-AS-6.jpg?v=1778688944&w=1920&h=1080",
-      "korean_summary": "주식 시장이 사상 최고치를 경신하며 계속 상승세를 보이고 있다. 이러한 랠리 속에서 시장 변동성에 대비한 헤징(hedging) 전략, 즉 보호 매수 비용이 더욱 저렴해졌다는 분석이 나왔다.",
-      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+      "korean_summary": "주식 시장이 기록적인 고점(record highs)으로 계속 상승함에 따라, 투자자들은 이러한 랠리(rally) 속에서 포트폴리오를 보호하기 위한 헤지(hedge) 전략을 더 저렴하게 실행할 수 있게 되었다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
     },
     {
       "title": "Arm shares extend weekly rally to almost 50%, and Starbucks pulls the plug on an AI project",
@@ -42,8 +70,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108282893-1774451924535-gettyimages-2267715954-ARM_EVERYWHERE.jpeg?v=1774451947&w=1920&h=1080",
-      "korean_summary": "반도체 설계 기업 암(Arm)의 주가가 주간 랠리를 이어가며 거의 50% 가까이 상승했다. 한편, 스타벅스는 인공지능(AI) 프로젝트를 중단하기로 결정했다는 소식이 전해졌다.",
-      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+      "korean_summary": "반도체 설계 기업 암(Arm)의 주가가 주간 랠리(rally)를 이어가며 거의 50% 가까이 상승했다. 한편, 스타벅스는 인공지능(AI) 프로젝트를 중단하기로 결정했다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
     },
     {
       "title": "Wall Street thinks IMAX is ripe for a sale. Here's who could buy it",
@@ -56,8 +84,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108311213-1779460294885-gettyimages-2201585805-vcg111550423487.jpeg?v=1779460316&w=1920&h=1080",
-      "korean_summary": "월스트리트(Wall Street)는 아이맥스(IMAX)가 매각될 가능성이 높다고 보고 있다. 소식통에 따르면 아이맥스는 중개인을 통해 잠재적 인수자들과 예비 협상을 진행했으나, 회사 측의 공식 제안은 아직 없는 것으로 알려졌다.",
-      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+      "korean_summary": "월스트리트(Wall Street)는 아이맥스(IMAX)가 매각될 가능성이 높다고 보고 있으며, 소식통에 따르면 아이맥스는 중개인을 통해 잠재적 구매자들과 예비 협상(preliminary talks)을 진행 중이다. 아직 공식적인 제안은 없었다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
     },
     {
       "title": "Egg prices are plunging due to oversupply — and producers say margins are taking a hit as costs rise",
@@ -70,8 +98,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108311245-1779462808955-gettyimages-2275677304-l1081568_nrt22pgj.jpeg?v=1779462892&w=1920&h=1080",
-      "korean_summary": "조류독감(avian flu)으로 인한 공급 부족 이후 과잉 공급으로 달걀 가격이 급락하고 있다. 생산자들은 사료, 연료, 인건비 등 지속적인 비용 상승으로 마진(margin)이 압박받고 있다고 밝혔다.",
-      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+      "korean_summary": "조류독감(avian flu)으로 인한 공급 부족 이후 과잉 공급으로 달걀 가격이 급락하고 있다. 생산자들은 사료, 연료, 인건비 상승으로 인해 마진(margin)이 압박받고 있다고 밝혔다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
     },
     {
       "title": "Surge in 'risk-free' treasury yields sends bond investors in search of better opportunities",
@@ -84,8 +112,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108127568-1744034668789-gettyimages-57201457-57195271SO005_Fed_Chairman_.jpeg?v=1779456580&w=1920&h=1080",
-      "korean_summary": "국채(Treasury) 수익률 급등으로 채권 시장이 더 이상 '무위험(risk-free)'이 아님을 보여주며, 채권 투자자들이 더 나은 기회를 모색하고 있다. 중기채, BBB 등급 및 고수익 채권에서 기회가 있을 수 있다.",
-      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+      "korean_summary": "국채 수익률(Treasury yields) 급등으로 채권 시장이 더 이상 '무위험(risk-free)'이 아님을 보여주며, 채권 투자자들은 중간 만기 채권, BBB 등급 채권, 고수익 채권(high yield)에서 새로운 기회를 모색하고 있다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
     },
     {
       "title": "The Club's top 10 things to watch in the stock market Friday",
@@ -98,8 +126,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108309149-1779205692146-gettyimages-2232601959-_ar_5515_jkhvzp8i.jpeg?v=1779205771&w=1920&h=1080",
-      "korean_summary": "주식 시장이 전날의 상승세를 이어갈 것으로 예상되는 가운데, 금요일 시장에서 주목해야 할 주요 10가지 사항이 발표되었다. 투자자들은 시장 동향과 특정 종목에 대한 관심이 높아지고 있다.",
-      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+      "korean_summary": "금요일 주식 시장은 전날의 상승세를 이어갈 것으로 예상된다. 투자 클럽(The Club)은 금요일 주식 시장에서 주목해야 할 10가지 주요 사항을 발표했다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
     },
     {
       "title": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
@@ -112,8 +140,36 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108299250-1777479631989-gettyimages-2273121353-US-NEWS-SCI-SPACEX-LAUNCH-OS.jpeg?v=1777479669&w=1920&h=1080",
-      "korean_summary": "스페이스X(SpaceX)와 오픈AI(OpenAI)의 사상 최대 규모 기업공개(IPO) 준비 소식에 일부 분석가들은 이러한 메가 IPO가 시장 정점(market top)을 알리는 신호일 수 있다고 경고했다.",
-      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+      "korean_summary": "스페이스X(SpaceX)와 오픈AI(OpenAI)가 사상 최대 규모의 기업공개(IPO)를 준비하면서, 일부 분석가들은 이러한 메가 IPO가 시장 정점(market top)을 알리는 신호일 수 있다고 경고했다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+    },
+    {
+      "title": "Capital Group increases Adani bets while reducing Reliance exposure",
+      "body_preview": "The move reflects growing investor interest in India’s infrastructure, energy transition and manufacturing sectors, alongside improving confidence in Adani Group after recent legal and regulatory developments.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-22/capital-group-builds-2-billion-adani-bet-in-pivot-from-reliance",
+      "source_name": "Bloomberg",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-22T06:49:09+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+      "korean_summary": "캐피탈 그룹(Capital Group)이 아다니 그룹(Adani Group)에 대한 투자를 늘리고 릴라이언스(Reliance) 노출을 줄였다. 이는 인도 인프라, 에너지 전환, 제조업 부문에 대한 투자자 관심 증가와 아다니 그룹 신뢰도 회복을 반영한다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+    },
+    {
+      "title": "Rupee plunge sees India turn to 2013 taper tantrum playbook",
+      "body_preview": "The urgency has grown after the rupee slumped to a record low of nearly 97 per dollar this week, driving up import costs and further eroding investors’ confidence",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-22/rupee-plunge-sees-india-turn-to-2013-taper-tantrum-playbook",
+      "source_name": "Bloomberg",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-22T05:03:55+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+      "korean_summary": "인도 루피화(Rupee) 가치가 이번 주 달러당 97루피에 육박하는 사상 최저치를 기록하며 급락했다. 이에 인도는 수입 비용 증가와 투자자 신뢰 하락에 대응하기 위해 2013년 테이퍼 탠트럼(taper tantrum) 당시의 정책을 검토하고 있다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
     },
     {
       "title": "IMAX has held ‘preliminary talks’ with potential buyers, source says",
@@ -126,8 +182,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/107198579-1677121939840-gettyimages-1051853192-775239116LN023_IMAX_Private.jpeg?v=1767986280&w=1920&h=1080",
-      "korean_summary": "아이맥스(IMAX)가 잠재적 인수자들과 중개인을 통해 예비 협상을 진행했다고 소식통이 전했다. 그러나 회사 측에서 직접적인 공식 제안은 아직 이루어지지 않은 것으로 알려졌다.",
-      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+      "korean_summary": "소식통에 따르면 아이맥스(IMAX)가 중개인을 통해 잠재적 인수자들과 예비 협상(preliminary talks)을 진행했으나, 회사 측에서 직접적인 공식 제안은 아직 이루어지지 않았다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
     },
     {
       "title": "Will Elon Musk eventually merge SpaceX with Tesla? Speculation is building",
@@ -140,8 +196,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108089375-17374190512025-01-21t002139z_711005669_rc2qdcaog1dr_rtrmadp_0_usa-trump-inauguration.jpeg?v=1737419154&w=1920&h=1080",
-      "korean_summary": "일론 머스크(Elon Musk)가 스페이스X(SpaceX)와 테슬라(Tesla)를 합병할 것이라는 추측이 확산되고 있다. 분석가들은 합병 가능성을 제기하지만, 예측 시장(prediction market)의 트레이더들은 회의적인 반응을 보이고 있다.",
-      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+      "korean_summary": "일론 머스크(Elon Musk)가 스페이스X(SpaceX)와 테슬라(Tesla)를 합병할 것이라는 추측이 커지고 있다. 분석가들은 합병 가능성을 제기하지만, 예측 시장(prediction markets)의 트레이더들은 확신하지 못하고 있다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
     },
     {
       "title": "Traders think this legacy tech stock is the ultimate quantum play",
@@ -154,8 +210,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108134692-1745325752840-gettyimages-2205536206-20090101250321-99-295748.jpeg?v=1771969896&w=1920&h=1080",
-      "korean_summary": "옵션 트레이더(options trader)들이 한 레거시 기술주(legacy tech stock)를 궁극적인 양자(quantum) 관련 투자처로 보고 대거 매수했다. 해당 주식은 지난 30일 일평균 거래량의 15배에 달하는 약 20만 계약이 거래되었다.",
-      "fetched_at": "2026-05-23T00:40:33.905863+00:00"
+      "korean_summary": "옵션 트레이더(options traders)들이 한 레거시 기술주(legacy tech stock)를 궁극적인 양자(quantum) 관련 투자처로 보고 대거 매수하며, 지난 30일 일평균 거래량의 15배에 달하는 약 20만 계약을 거래했다.",
+      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
     },
     {
       "title": "SpaceX, OpenAI valuations would mean they leapfrog Berkshire Hathaway on first day of trading",
@@ -2746,62 +2802,6 @@
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "korean_summary": "위성 이미지에서 이란의 주요 원유 수출 허브인 하르그 섬(Kharg Island) 근처에서 유출된 것으로 의심되는 기름띠가 포착되었다. 이는 환경 및 에너지 안보 우려를 제기한다.",
       "fetched_at": "2026-05-10T00:37:28.450485+00:00"
-    },
-    {
-      "title": "Citi says oil could rise further if US-Iran talks remain thorny - Reuters",
-      "body_preview": "Citi says oil could rise further if US-Iran talks remain thorny  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5VSEdQN0h4cDhZbWVINEpZeV9adFhWRE1oTVZGMF9FUTVQaFIxbFdSUVlKY1dpSkVTdFdUTnRkOU5xajVlcTc3aEktb1cxb2lDR09zc25oUUwtelFGMlVhYnFocWNWMHF3ejMxUWVlcFZPSm9SQjlhRjlxWTdBWUdjbkZUU1ZURFEzMzR4RTBEaEV2ZUJQdXQyV1hVa2ZjeHdKTVJtYjdhWjl0RkNrajFPWFVuUQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T21:28:09+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "씨티(Citi)는 미국과 이란 간의 협상이 난항을 겪을 경우 유가가 추가 상승할 수 있다고 전망했다. 이는 중동 정세가 국제 유가에 미치는 영향을 보여준다.",
-      "fetched_at": "2026-05-10T00:37:28.450485+00:00"
-    },
-    {
-      "title": "Wall St Week Ahead-Data, Iran, US-China meeting in focus for scorching US stock market - Reuters",
-      "body_preview": "Wall St Week Ahead-Data, Iran, US-China meeting in focus for scorching US stock market  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVm1NRGVCTU9VOWx2YmpPRV91WVVQeHh5WGhFeDdfTVVodi1QdUgzUVNScHlCRVY2c1ZkbVZHQlFlVHREWG91c1YxMkhkSTNfcXBtazZfQ3NReloycDJMYUlKWFRMMTd4dXJnTWtjQ3RCTXJmbmNab21xQjgwd2h1TDZkeU1zNzMyVkdxSU9vcTRzUnd5bnVqZG9tb2lrSXpsSG1CUS1WekZJcVNMODFGRlA0RWx2MEVvXzV4UkpXMENmT1U?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T22:35:44+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "다음 주 월스트리트는 경제 지표 발표, 이란 관련 지정학적 상황, 그리고 미중 회담 결과에 주목하며 과열된 미국 증시의 향방을 가늠할 것으로 예상된다.",
-      "fetched_at": "2026-05-09T00:37:18.325957+00:00"
-    },
-    {
-      "title": "US revises UN resolution on Iran but China, Russia still expected to veto - Reuters",
-      "body_preview": "US revises UN resolution on Iran but China, Russia still expected to veto  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkw2aVVLZUxWTVBVMUtXV2xfOWk4eTVUMVlXajVtSzVQcERTckdRS1RIMUpzUFVvbTZ4NEZOZW85bWVrT3hEb3dSbmxVSE1yUlhOV0V4c2Z5V1JVdjh3RzFCVjk0UURDU2wta19PRk1RVlJoc3l2X1hONTJiaEwzeEhGal9xVVNXQnZCajJnUUJBSkVMTHAwRk1CaFpndWY1aHZhNWhIeHFzaVo1azNF?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T20:44:12+00:00",
-      "category": "crypto",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "미국이 이란에 대한 유엔(UN) 결의안을 수정했음에도 불구하고, 중국과 러시아가 여전히 거부권(veto)을 행사할 것으로 예상되어 국제사회의 이란 제재 공조에 난항이 예상된다.",
-      "fetched_at": "2026-05-09T00:37:18.325957+00:00"
-    },
-    {
-      "title": "Dunkin' owner Inspire Brands confidentially files for IPO",
-      "body_preview": "The restaurant company owns Dunkin', Arby's, Buffalo Wild Wings, Baskin Robbins, Sonic Drive-In and Jimmy John's.",
-      "source_url": "https://www.cnbc.com/2026/05/08/dunkin-owner-inspire-brands-confidentially-files-for-ipo.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T19:52:42+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/107281242-1691068745295-gettyimages-843749824-DUNKIN_DONUTS.jpeg?v=1691068780&w=1920&h=1080",
-      "korean_summary": "던킨(Dunkin'), 아비스(Arby's) 등 유명 레스토랑 브랜드를 다수 보유한 인스파이어 브랜즈(Inspire Brands)가 기업공개(IPO)를 비밀리에 신청하며 시장의 주목을 받고 있다.",
-      "fetched_at": "2026-05-09T00:37:18.325957+00:00"
     }
   ]
 }
