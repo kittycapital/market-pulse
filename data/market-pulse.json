@@ -1,8 +1,36 @@
 {
-  "last_updated": "2026-05-24T00:41:13.094672+00:00",
-  "last_updated_kst": "2026-05-24 09:41 KST",
+  "last_updated": "2026-05-25T00:42:31.849801+00:00",
+  "last_updated_kst": "2026-05-25 09:42 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "'I never heard of the Strait of Hormuz before this': How one medical supply CEO is navigating the oil price shock",
+      "body_preview": "Medical supply company Gentell sources raw materials from around the world, and the crisis at the Strait of Hormuz is causing volatility for its business.",
+      "source_url": "https://www.cnbc.com/2026/05/24/gentell-ceo-iran-war-oil-prices.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-24T17:26:32+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108299159-1777473957895-108299159-1777473880161-gettyimages-2273024199-dsc04213.jpg?v=1777473973&w=1920&h=1080",
+      "korean_summary": "의료용품 기업 젠텔(Gentell)은 전 세계에서 원자재를 조달하는데, 호르무즈 해협(Strait of Hormuz) 위기로 인해 사업에 변동성이 커지고 있다고 밝혔다. 이는 유가 충격이 기업 운영에 미치는 영향을 보여준다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
+    },
+    {
+      "title": "Americans are 'entrenched' in financial stress amid debt and price pressures",
+      "body_preview": "Inflation and high debt levels continue cause financial anxiety for many Americans. Nonprofits can help with debt mangement.",
+      "source_url": "https://www.cnbc.com/2026/05/24/americans-struggling-with-debt-inflation.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-24T15:00:01+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108310671-1779380275431-gettyimages-2265448351-taxseason-6.jpeg?v=1779380285&w=1920&h=1080",
+      "korean_summary": "인플레이션(Inflation)과 높은 부채 수준으로 인해 많은 미국인이 재정적 스트레스에 시달리고 있다. 비영리 단체들이 부채 관리(debt management)를 통해 이러한 어려움을 겪는 이들을 돕고 있다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
+    },
     {
       "title": "Bulls push the S&P 500 back near records — here’s what drove the market last week",
       "body_preview": "The combination of higher oil prices and bond market volatility nearly snapped the S&P 500's winning streak.",
@@ -14,8 +42,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108249452-17678049242026-01-07t165209z_290545539_rc2dwiagni1x_rtrmadp_0_usa-stocks.jpeg?v=1767805134&w=1920&h=1080",
-      "korean_summary": "유가 상승과 채권 시장 변동성에도 불구하고 S&P 500 지수가 기록적인 수준에 근접하며 강세를 보였다. 이는 시장의 연승 행진을 위협했으나, 매수세가 지수를 다시 끌어올렸다.",
-      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+      "korean_summary": "유가 상승과 채권 시장의 변동성(bond market volatility)이 겹치면서 S&P 500 지수의 연승 행진이 거의 중단될 뻔했다. 이는 시장의 주요 동인으로 작용했다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
     },
     {
       "title": "‘Blue dot fever’? What's really behind a tricky summer dynamic for live music",
@@ -28,8 +56,50 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108300007-1777561389061-gettyimages-2225069509-img_0972.jpeg?v=1777561412&w=1920&h=1080",
-      "korean_summary": "전반적인 물가 상승으로 인해 소비자들이 올해 라이브 음악 및 콘서트 지출에 더욱 신중하고 의도적인 선택을 하고 있다. 이는 여름철 라이브 음악 시장의 복잡한 역학 관계를 형성하고 있다.",
-      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+      "korean_summary": "전반적인 물가 상승으로 인해 소비자들이 올해 라이브 음악 및 콘서트 지출에 더욱 신중하고 의도적인 선택을 하고 있다. 이는 문화생활 소비 패턴의 변화를 보여준다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
+    },
+    {
+      "title": "DeepSeek to make permanent 75% discount on flagship AI model",
+      "body_preview": "DeepSeek expects the discount to strengthen its appeal in a crowded market where companies have been cutting API prices to attract developers and enterprise users",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+      "source_name": "Bloomberg",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-23T11:34:28+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+      "korean_summary": "딥시크(DeepSeek)는 주력 인공지능(AI) 모델에 75% 영구 할인을 적용하여, 개발자와 기업 사용자를 유치하기 위해 API 가격을 인하하는 경쟁 시장에서 매력을 강화할 것으로 기대한다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
+    },
+    {
+      "title": "S&P 500 is set for longest weekly rally since 2023: Markets Wrap",
+      "body_preview": "Two-year yields hit the highest since February 2025 as Federal Reserve Governor Christopher Waller supports making clear the next rate move is just as likely to be a raise as a cut",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-21/asian-stocks-to-rise-on-optimism-over-iran-talks-markets-wrap",
+      "source_name": "Bloomberg",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-23T05:20:08+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+      "korean_summary": "연방준비제도(Fed) 이사 크리스토퍼 월러(Christopher Waller)가 다음 금리 결정이 인상과 인하 중 어느 쪽이든 가능하다고 밝히면서, 2년물 국채 수익률(Two-year yields)이 2025년 2월 이후 최고치를 기록했다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
+    },
+    {
+      "title": "Oil swings with market focused on US-Iran peace prospects",
+      "body_preview": "The war and the curtailment in supplies have seen global stockpiles of crude oil and products being drawn down at a record pace, according to Goldman Sachs Group Inc",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-05-21/latest-oil-market-news-and-analysis-for-may-22",
+      "source_name": "Bloomberg",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-05-23T05:07:19+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+      "korean_summary": "골드만삭스(Goldman Sachs)에 따르면, 전쟁과 공급 제한으로 인해 전 세계 원유 및 제품 재고가 기록적인 속도로 감소하고 있다. 이는 유가 변동의 주요 원인으로 작용한다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
     },
     {
       "title": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
@@ -42,8 +112,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108311292-1779466772598-star-wars-the-mandalorian-and-grogu-first-looks-stills-_9e0fdd30_Cropped.jpg?v=1779467057&w=1920&h=1080",
-      "korean_summary": "디즈니의 영화 \"스타워즈: 만달로리안과 그로구(Star Wars: The Mandalorian and Grogu)\"가 목요일 심야 시사회에서 1,200만 달러를 기록하며 프랜차이즈 역사상 최저 사전 판매액을 기록했다.",
-      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+      "korean_summary": "디즈니(Disney)의 \"스타워즈: 만달로리안과 그로구(Star Wars: The Mandalorian and Grogu)\"가 목요일 시사회에서 1,200만 달러를 기록하며, 프랜차이즈 역사상 가장 낮은 사전 티켓 판매액을 보였다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
     },
     {
       "title": "Stocks continue surging to record highs. Here's how to hedge",
@@ -56,8 +126,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108306442-1778688845240-Traders-Photo-20260513-AS-6.jpg?v=1778688944&w=1920&h=1080",
-      "korean_summary": "주식 시장이 기록적인 고점(record highs)으로 계속 상승함에 따라, 투자자들은 이러한 랠리(rally) 속에서 포트폴리오를 보호하기 위한 헤지(hedge) 전략을 더 저렴하게 실행할 수 있게 되었다.",
-      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+      "korean_summary": "주식 시장이 사상 최고치(record highs)로 다시 랠리(rally)하면서, 투자 보호를 위한 헤지(hedge) 수단 구매 비용이 더욱 저렴해졌다. 이는 시장 변동성 대비 기회를 제공한다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
     },
     {
       "title": "Arm shares extend weekly rally to almost 50%, and Starbucks pulls the plug on an AI project",
@@ -70,8 +140,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108282893-1774451924535-gettyimages-2267715954-ARM_EVERYWHERE.jpeg?v=1774451947&w=1920&h=1080",
-      "korean_summary": "반도체 설계 기업 암(Arm)의 주가가 주간 랠리(rally)를 이어가며 거의 50% 가까이 상승했다. 한편, 스타벅스는 인공지능(AI) 프로젝트를 중단하기로 결정했다.",
-      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+      "korean_summary": "암(Arm) 주식이 주간 랠리(weekly rally)를 이어가며 거의 50% 상승한 반면, 스타벅스(Starbucks)는 인공지능(AI) 프로젝트를 중단했다. 이는 기술 및 소비재 기업의 상반된 움직임을 보여준다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
     },
     {
       "title": "Wall Street thinks IMAX is ripe for a sale. Here's who could buy it",
@@ -84,8 +154,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108311213-1779460294885-gettyimages-2201585805-vcg111550423487.jpeg?v=1779460316&w=1920&h=1080",
-      "korean_summary": "월스트리트(Wall Street)는 아이맥스(IMAX)가 매각될 가능성이 높다고 보고 있으며, 소식통에 따르면 아이맥스는 중개인을 통해 잠재적 구매자들과 예비 협상(preliminary talks)을 진행 중이다. 아직 공식적인 제안은 없었다.",
-      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+      "korean_summary": "월스트리트(Wall Street)는 아이맥스(IMAX)가 매각에 적합하다고 보고 있으며, 소식통에 따르면 회사는 중개인을 통해 예비 협상(preliminary talks)을 진행했으나 공식 제안은 없었다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
     },
     {
       "title": "Egg prices are plunging due to oversupply — and producers say margins are taking a hit as costs rise",
@@ -98,8 +168,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108311245-1779462808955-gettyimages-2275677304-l1081568_nrt22pgj.jpeg?v=1779462892&w=1920&h=1080",
-      "korean_summary": "조류독감(avian flu)으로 인한 공급 부족 이후 과잉 공급으로 달걀 가격이 급락하고 있다. 생산자들은 사료, 연료, 인건비 상승으로 인해 마진(margin)이 압박받고 있다고 밝혔다.",
-      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+      "korean_summary": "조류독감(avian flu)으로 인한 부족 사태 이후 과잉 공급으로 계란 가격이 급락하고 있지만, 생산자들은 지속적인 사료, 연료, 인건비(labor costs) 상승으로 마진(margins) 압박을 받고 있다고 밝혔다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
     },
     {
       "title": "Surge in 'risk-free' treasury yields sends bond investors in search of better opportunities",
@@ -112,8 +182,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108127568-1744034668789-gettyimages-57201457-57195271SO005_Fed_Chairman_.jpeg?v=1779456580&w=1920&h=1080",
-      "korean_summary": "국채 수익률(Treasury yields) 급등으로 채권 시장이 더 이상 '무위험(risk-free)'이 아님을 보여주며, 채권 투자자들은 중간 만기 채권, BBB 등급 채권, 고수익 채권(high yield)에서 새로운 기회를 모색하고 있다.",
-      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+      "korean_summary": "국채 수익률(Treasury yields) 급등은 채권 시장이 더 이상 '무위험(risk-free)'이 아님을 보여주지만, 고정 수입 투자자(fixed-income investors)에게는 중간물, BBB 등급, 고수익 채권에서 기회가 있다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
     },
     {
       "title": "The Club's top 10 things to watch in the stock market Friday",
@@ -126,8 +196,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108309149-1779205692146-gettyimages-2232601959-_ar_5515_jkhvzp8i.jpeg?v=1779205771&w=1920&h=1080",
-      "korean_summary": "금요일 주식 시장은 전날의 상승세를 이어갈 것으로 예상된다. 투자 클럽(The Club)은 금요일 주식 시장에서 주목해야 할 10가지 주요 사항을 발표했다.",
-      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+      "korean_summary": "주식 시장은 전날의 상승세를 이어갈 것으로 예상된다. 투자자들은 추가적인 시장 움직임에 주목하고 있으며, 이는 전반적인 시장 분위기에 긍정적인 영향을 미칠 수 있다.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
     },
     {
       "title": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
@@ -140,8 +210,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108299250-1777479631989-gettyimages-2273121353-US-NEWS-SCI-SPACEX-LAUNCH-OS.jpeg?v=1777479669&w=1920&h=1080",
-      "korean_summary": "스페이스X(SpaceX)와 오픈AI(OpenAI)가 사상 최대 규모의 기업공개(IPO)를 준비하면서, 일부 분석가들은 이러한 메가 IPO가 시장 정점(market top)을 알리는 신호일 수 있다고 경고했다.",
-      "fetched_at": "2026-05-24T00:41:13.090594+00:00"
+      "korean_summary": "분석가들은 스페이스X(SpaceX)와 오픈AI(OpenAI)의 사상 최대 규모 기업공개(IPO) 준비가 시장 정점(market top)을 알리는 신호일 수 있다고 경고했다. 스페이스X IPO는 6월 12일 예정.",
+      "fetched_at": "2026-05-25T00:42:31.846394+00:00"
     },
     {
       "title": "Capital Group increases Adani bets while reducing Reliance exposure",
@@ -2731,76 +2801,6 @@
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "korean_summary": "이란 전쟁의 영향으로 4월 중국의 에너지 수입이 감소했으며, 연료 수출은 10년 만에 최저치를 기록했다. 이는 국제 정세가 에너지 시장에 미치는 영향을 보여준다.",
-      "fetched_at": "2026-05-10T00:37:28.450485+00:00"
-    },
-    {
-      "title": "Trump's feuds, tensions with allies likely to outlast Iran war - Reuters",
-      "body_preview": "Trump's feuds, tensions with allies likely to outlast Iran war  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa251MDhvbXRkZmpQYmxzZWpzdU9fLV91cW8taTJibUZkOEItUHVLMWZTbGcwZS1zdmVpbnZVdlpCMWdaNVdHdnRfbTZ0YWo5dkkya0UwZWF3Y01jR2Z3Zm1hQU1nQXNaOC1CZ1E2RkViemZ0VzVIV3lzLTN6RWJSNXowRjIwOXd5WEpRVU94UDVyZEd1SmFpZGd0OHVwZnFQM0F0RktYRHY?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-09T05:06:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "도널드 트럼프 전 미국 대통령의 갈등과 동맹국과의 긴장이 이란 전쟁 종식 이후에도 지속될 가능성이 있다고 로이터 통신이 보도했다. 이는 향후 외교 관계에 대한 전망이다.",
-      "fetched_at": "2026-05-10T00:37:28.450485+00:00"
-    },
-    {
-      "title": "US imposes sanctions on companies it accuses of aiding Iran's weapons sector - Reuters",
-      "body_preview": "US imposes sanctions on companies it accuses of aiding Iran's weapons sector  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjcxaGc1MXBjOWVtZV9IVkVtNXgwQ1lka0R0cFRDdWxhRzQ4OE5ZaHYtOHg0N0I1ODNJbnBxamNuMVNoU2dSbFhHdk44ZUdlNlY3X3RGbFRJR2JPQkxuWlBWLUhTWThjTExTbmVVSXEtUUtlbEJlemhtU3R3RjNKb1pEV2M2SF9Yb285M3cwRXIzZlNXQ1d1S0NJazRxbUJjdkRMM3VpaTF0QmlpYnBXMEJSXzBuM3dtSk5pMVJB?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T23:00:19+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "미국이 이란의 무기 부문을 지원한 혐의를 받는 기업들에 대해 추가 제재를 부과했다. 이는 이란의 군사력 강화 저지를 목표로 하며, 역내 안보에 영향을 미칠 수 있다.",
-      "fetched_at": "2026-05-10T00:37:28.450485+00:00"
-    },
-    {
-      "title": "Burger King's president says the chain improved its Whopper — and calls from customers helped",
-      "body_preview": "Burger King President Tom Curtis said customer feedback has been central to the chain’s turnaround.",
-      "source_url": "https://www.cnbc.com/2026/05/08/burger-king-president-fixed-whopper-phone-calls-from-customers.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T22:50:39+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/107042188-gettyimages-1389723078-0j5a3168_e3e436b8-28a7-4891-aafd-4fc54124e6ed.jpeg?v=1696000531&w=1920&h=1080",
-      "korean_summary": "버거킹(Burger King) 사장은 고객 피드백이 와퍼(Whopper) 개선에 핵심적인 역할을 했다고 밝혔다. 이는 고객 중심 경영의 중요성을 강조하며 브랜드 이미지 제고에 기여했다.",
-      "fetched_at": "2026-05-10T00:37:28.450485+00:00"
-    },
-    {
-      "title": "Rubio questions allies' support on Iran following Italy talks - Reuters",
-      "body_preview": "Rubio questions allies' support on Iran following Italy talks  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0hJakNXX2htd0RtTDNZbW5icEZRTkN0RVBjdlRZbDh3TUhhaTdOMFo4UE9JQlRQY24xZzI2TUVjVUpQeGVBYXhjYnZQNE5DSlhCXzd0aWFNVVdxWlM3WVhSYUdXQ0M2MkV6ZjAwSkpSWEhIMHpiU29TZzdBb2lRMDRUZ0hCWnFiQnp5OXNmWmVUbjctU0E?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T22:11:35+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "마르코 루비오 상원의원은 이탈리아 회담 이후 이란 문제에 대한 동맹국들의 지지에 의문을 제기했다. 이는 이란 정책에 대한 국제적 공조의 어려움을 시사한다.",
-      "fetched_at": "2026-05-10T00:37:28.450485+00:00"
-    },
-    {
-      "title": "Suspected oil spill seen on satellite images near Iran's Kharg Island export hub - Reuters",
-      "body_preview": "Suspected oil spill seen on satellite images near Iran's Kharg Island export hub  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFpHNXpHcWFYR3d6eTczRXVLekdoWWptdmNNczRrZnc2MDhhUnFneF9paGY3YzZkbnE2ZGprMXY3d0VJRU83RERrU1JKYi1Jend3ZkpieS1rcG5tUzQ1MENnMHNnc1IwSnlyc2FqSEhHeWIxN1Y2eHU0enE3QnRxZTRySUZxLUl3ekJ2UFNsUG9CTnNDbml2NzBMUWpvWEZTTy1aQmFlNEVKbFQ2YWFIRGd1clNaakZHVl9RUlBRbDBfSzBmSGRsY0Fn?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-05-08T22:09:40+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "위성 이미지에서 이란의 주요 원유 수출 허브인 하르그 섬(Kharg Island) 근처에서 유출된 것으로 의심되는 기름띠가 포착되었다. 이는 환경 및 에너지 안보 우려를 제기한다.",
       "fetched_at": "2026-05-10T00:37:28.450485+00:00"
     }
   ]
