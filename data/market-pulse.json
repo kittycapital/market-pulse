@@ -1,8 +1,92 @@
 {
-  "last_updated": "2026-07-28T02:06:12.088491+00:00",
-  "last_updated_kst": "2026-07-28 11:06 KST",
+  "last_updated": "2026-07-29T02:09:32.672059+00:00",
+  "last_updated_kst": "2026-07-29 11:09 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "The Dow jumps as the AI trade wobbles. Plus, a portfolio name goes on the M&A hunt",
+      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source_url": "https://www.cnbc.com/2026/07/28/the-dow-jumps-as-the-ai-trade-wobbles-plus-a-portfolio-name-goes-on-the-ma-hunt.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-07-28T19:15:15+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108051276-1729627797179-gettyimages-2180319214-img_1352_lujsrouk.jpeg?v=1775822997&w=1920&h=1080",
+      "korean_summary": "인공지능(AI) 관련 주식 시장이 흔들리는 가운데 다우 지수가 상승세를 보였으며, 한 포트폴리오 기업이 인수합병(M&A)을 모색하고 있다는 소식이 전해졌다. 이는 투자 클럽의 장 마감 직전 업데이트를 통해 공개되었다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
+    },
+    {
+      "title": "Jim Cramer: J&J talc settlement is good for a stock that has so much going for it already",
+      "body_preview": "Jim Cramer described the recent trading action on Wall Street as a \"J&J market.\"",
+      "source_url": "https://www.cnbc.com/2026/07/28/jim-cramer-jj-talc-settlement-is-good-for-a-stock-that-has-so-much-going-for-it-already.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-07-28T18:29:55+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108210810-1760124319448-gettyimages-2239744009-JJ_PROTAGONIST_THERAPEUTICS.jpeg?v=1773853623&w=1920&h=1080",
+      "korean_summary": "짐 크레이머는 월스트리트의 최근 거래 흐름을 'J&J 시장'으로 지칭하며, 존슨앤드존슨(J&J)의 탈크(talc) 소송 합의가 이미 강세를 보이는 주식에 긍정적이라고 분석했다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
+    },
+    {
+      "title": "We're trimming a rallying stock to protect against a potential earnings letdown",
+      "body_preview": "The sale comes a day before the company reports earnings.",
+      "source_url": "https://www.cnbc.com/2026/07/28/were-trimming-a-rallying-stock-to-protect-against-a-potential-earnings-letdown-.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-07-28T18:17:04+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080",
+      "korean_summary": "실적 발표를 하루 앞두고 잠재적인 실적 부진 가능성에 대비하기 위해, 최근 상승세를 보이던 특정 주식의 비중을 줄이는 조치를 취했다. 이는 위험 관리 차원의 결정이다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
+    },
+    {
+      "title": "We're buying the dip on one of our stocks for two key reasons",
+      "body_preview": "We don't see signs of a slowdown in the parcel delivery industry, and believe FedEx is stealing share from its rival UPS.",
+      "source_url": "https://www.cnbc.com/2026/07/28/were-buying-the-dip-on-one-of-our-stocks-for-two-key-reasons.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-07-28T17:45:21+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108337404-17845637512026-07-20t160708z_1331384416_rc2phmayntj4_rtrmadp_0_usa-stocks.jpeg?v=1784563809&w=1920&h=1080",
+      "korean_summary": "소포 배송 산업의 둔화 조짐이 없으며, 페덱스(FedEx)가 경쟁사 유피에스(UPS)의 점유율을 가져오고 있다는 두 가지 주요 이유로 특정 주식의 하락 시 매수(buying the dip) 전략을 실행했다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+      "body_preview": "The downturn in chip stocks continues. Is the Nvidia selling at last overdone?",
+      "source_url": "https://www.cnbc.com/2026/07/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-07-28T12:57:10+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108333408-1783698826800-108333408-1783693761472-gettyimages-2284861123-SK_HYNIX_IPO.jpg?v=1783698862&w=1920&h=1080",
+      "korean_summary": "짐 크레이머는 화요일 주식 시장에서 주목할 10가지 사항을 발표했다. 반도체(chip) 주식의 하락세가 지속되는 가운데, 엔비디아(Nvidia) 매도세가 과도하게 진행되었는지에 대한 관심이 집중되고 있다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
+    },
+    {
+      "title": "Coca-Cola is about to report earnings. Here's what to expect",
+      "body_preview": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500.",
+      "source_url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-07-28T10:25:01+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108337402-17845636522026-07-20t160703z_320739973_rc2phmamt9vv_rtrmadp_0_usa-stocks.jpeg?v=1784563722&w=1920&h=1080",
+      "korean_summary": "코카콜라(Coca-Cola)의 실적 발표가 임박했다. 올해 코카콜라 주가는 19% 상승하며 스탠더드앤드푸어스(S&P 500) 지수 상승률을 뛰어넘는 강세를 보여, 투자자들의 기대가 크다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
+    },
     {
       "title": "Apple ends day as world's most valuable company, passing Nvidia",
       "body_preview": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
@@ -14,8 +98,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108306955-17787656602026-05-14t092019z_1259313703_rc2v8layxpwx_rtrmadp_0_china-usa.jpeg?v=1778765680&w=1920&h=1080",
-      "korean_summary": "애플이 엔비디아를 제치고 세계에서 가장 가치 있는 기업으로 등극했다. 엔비디아는 마이크로소프트로부터 최고 자리를 차지한 이후 해당 위치를 유지해왔다.",
-      "fetched_at": "2026-07-28T02:06:12.084997+00:00"
+      "korean_summary": "애플(Apple)이 엔비디아(Nvidia)를 제치고 세계에서 가장 가치 있는 기업으로 등극하며 하루를 마감했다. 엔비디아는 2025년 6월 마이크로소프트(Microsoft)로부터 1위를 차지한 이후 선두를 유지해왔다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
     },
     {
       "title": "Nvidia's potential $250B backstop for OpenAI is another strike against the AI trade",
@@ -28,8 +112,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&w=1920&h=1080",
-      "korean_summary": "엔비디아가 OpenAI에 2,500억 달러를 지원할 가능성이 제기되면서 인공지능(AI) 관련 주식 투자에 대한 회의론이 커지고 있다. 이는 투자자들이 AI 주식 외 다른 분야를 모색해야 한다는 또 다른 신호이다.",
-      "fetched_at": "2026-07-28T02:06:12.084997+00:00"
+      "korean_summary": "엔비디아(Nvidia)가 오픈AI(OpenAI)에 2,500억 달러 규모의 잠재적 지원을 제공할 수 있다는 소식은 인공지능(AI) 관련 주식 투자에 대한 또 다른 경고로 작용하며, 투자자들이 AI 주식 외 다른 분야를 모색해야 함을 시사한다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
     },
     {
       "title": "From 'oil' to 'shock',  here's what Kalshi traders expect Fed Chair Kevin Warsh will say this week",
@@ -42,8 +126,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108335552-1784140437433-gettyimages-2285620328-warsh_senate_199_071526.jpeg?v=1784140468&w=1920&h=1080",
-      "korean_summary": "칼시(Kalshi) 트레이더들은 이번 주 연방준비제도(Fed) 기자회견에서 케빈 워시(Kevin Warsh) 의장이 지난주 공급 충격(supply shock)을 언급할 것으로 예상하고 있다.",
-      "fetched_at": "2026-07-28T02:06:12.084997+00:00"
+      "korean_summary": "칼시(Kalshi) 트레이더들은 이번 주 연방준비제도(Fed) 기자회견에서 케빈 워시(Kevin Warsh) 연방준비제도(Fed) 의장이 지난주 발생한 공급 충격(supply shock)에 대해 언급할 것으로 전망하고 있다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
     },
     {
       "title": "More tech pain means gains elsewhere. What's winning in Monday's mixed market",
@@ -56,8 +140,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108340496-1785161547188-gettyimages-2287222043-AFP_C3AX3W8.jpeg?v=1785161570&w=1920&h=1080",
-      "korean_summary": "기술주(tech stocks)의 부진이 지속되면서 다른 섹터에서 상승세가 나타나고 있다. 월요일 혼조세 시장에서 기술주 외 다른 부문이 강세를 보이며 투자자들의 관심이 쏠리고 있다.",
-      "fetched_at": "2026-07-28T02:06:12.084997+00:00"
+      "korean_summary": "기술주(tech stocks)의 부진이 지속되면서 다른 부문에서 이익이 발생하고 있다. 월요일 혼조세 시장에서 어떤 부문이 강세를 보였는지에 대한 분석이 나왔으며, 이는 투자 클럽의 장 마감 직전 업데이트를 통해 공개되었다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
     },
     {
       "title": "JetBlue overhauls fare options, from basic first to flexible economy. Here's what to know",
@@ -70,8 +154,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108224140-1762867114672-gettyimages-2246060080-anotherday143728090_duwywm2f.jpeg?v=1762867211&w=1920&h=1080",
-      "korean_summary": "젯블루(JetBlue)가 운임 옵션을 전면 개편한다. 기존 '코어(Core)' 상품을 없애고 이코노미(economy) 항공권을 새로운 이름으로 재편하는 등 다양한 요금제를 선보일 예정이다.",
-      "fetched_at": "2026-07-28T02:06:12.084997+00:00"
+      "korean_summary": "제트블루(JetBlue)가 기본 퍼스트 클래스부터 유연한 이코노미 클래스까지 운임 옵션을 전면 개편한다. 기존 '코어(Core)' 상품을 폐지하고 이코노미 항공권을 새로운 이름으로 재편성하는 등 서비스 변화가 예상된다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
     },
     {
       "title": "Why Boeing and Corning are moving in opposite directions and what to expect next",
@@ -84,8 +168,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108337968-1784647816150-gettyimages-2287059605-anotherday241789564_dlr68bu0.jpeg?v=1784647890&w=1920&h=1080",
-      "korean_summary": "보잉(Boeing)과 코닝(Corning) 주식이 상반된 움직임을 보이는 이유와 향후 전망에 대한 분석이 주목받고 있다. 투자 클럽은 매일 오전 관련 회의를 진행한다.",
-      "fetched_at": "2026-07-28T02:06:12.084997+00:00"
+      "korean_summary": "보잉(Boeing)과 코닝(Corning) 주식이 상반된 움직임을 보이는 이유와 향후 전망에 대한 분석이 제시되었다. 투자 클럽은 매일 아침 모닝 미팅을 통해 이러한 시장 동향을 심층적으로 다루고 있다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
     },
     {
       "title": "Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say",
@@ -98,8 +182,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108329738-1782973277479-gettyimages-2194585046-2195165799.jpeg?v=1782973363&w=1920&h=1080",
-      "korean_summary": "샘 올트먼(Sam Altman)이 이번 주 트럼프 행정부 및 상원의원들과 만난다. 그는 회사의 차세대 인공지능(AI) 모델 역량을 소개하고 사이버 보안 및 오픈 웨이트 모델에 대한 질문에 답할 예정이다.",
-      "fetched_at": "2026-07-28T02:06:12.084997+00:00"
+      "korean_summary": "샘 올트먼(Sam Altman) 오픈AI(OpenAI) 최고경영자(CEO)가 이번 주 트럼프 행정부 및 상원의원들과 만날 예정이다. 그는 차세대 인공지능(AI) 모델 역량을 소개하고, 사이버 보안 및 오픈 웨이트(open-weight) 모델에 대한 질문에 답할 계획이다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
     },
     {
       "title": "We're buying more of a slumping industrial stock and a hard-hit chipmaker",
@@ -112,8 +196,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108339504-1784838021299-gettyimages-2286702744-AFP_C2ZY29G.jpeg?v=1784838050&w=1920&h=1080",
-      "korean_summary": "유가 하락으로 월요일 시장에서 자금이 움직이는 가운데, 부진한 산업주와 큰 타격을 입은 반도체 제조업체 주식을 추가 매수하고 있다.",
-      "fetched_at": "2026-07-28T02:06:12.084997+00:00"
+      "korean_summary": "유가 하락으로 월요일 시장에서 자금을 운용하며, 부진을 겪는 산업주와 큰 타격을 입은 반도체(chipmaker) 주식을 추가 매수했다. 이는 시장의 변화에 대응하는 투자 전략의 일환이다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
     },
     {
       "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
@@ -126,8 +210,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108314425-1780313099259-gettyimages-2278508029-VIRGINIA_DATA_CENTERS.jpeg?v=1781729768&w=1920&h=1080",
-      "korean_summary": "짐 크레이머(Jim Cramer)가 월요일 주식 시장에서 주목해야 할 10가지 사항을 제시했다. 중동 분쟁 휴전과 인공지능(AI) 인프라 관련 대규모 계약 소식에 선물 시장이 급등하고 있다.",
-      "fetched_at": "2026-07-28T02:06:12.084997+00:00"
+      "korean_summary": "짐 크레이머는 월요일 주식 시장에서 주목할 10가지 사항을 발표했다. 중동 분쟁 휴전 소식에 선물(futures)이 급등했으며, 다수의 인공지능(AI) 인프라 관련 거래도 시장의 주요 관심사로 떠올랐다.",
+      "fetched_at": "2026-07-29T02:09:32.668603+00:00"
     },
     {
       "title": "Crude oil futures are pricing market adaptability, not hopeful Iran peace - Reuters",
@@ -2718,90 +2802,6 @@
       "media_url": "https://image.cnbcfm.com/api/v1/image/108334841-1784047390479-gettyimages-2283666884-AFP_B8YC29N.jpeg?v=1784047402&w=1920&h=1080",
       "korean_summary": "티라노사우루스 렉스(T. rex) 화석이 5천만 달러에 낙찰되어 경매 역사상 가장 비싼 공룡 화석으로 기록되었다. 이는 2024년 켄 그리핀이 구매한 스테고사우루스 기록을 넘어섰다.",
       "fetched_at": "2026-07-15T02:00:03.656151+00:00"
-    },
-    {
-      "title": "Key witness in US probe of Turkey's Halkbank avoids prison time - Reuters",
-      "body_preview": "Key witness in US probe of Turkey's Halkbank avoids prison time  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObjlSR19PdktfdW5Xa1RWbV9Yd0RKZ0tRZXRabFo4Y3Y1ejYtOFpHdHZvZ2JVb3p3Mi0xOUI4WkVvd21NSFVNU0ljTVRuenB1X1V3UG5Nem93RFBnMncwV0ZLMTFVWGliTUljV0stRFpIdExHZmh0T3Z5Vkc5WlVZSEJMbkplQ245dTd1UHEyZkM1MUo0aGx2d1RjblN1Q3Q0TFNBc1kxSUJIRThzYlE?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-14T17:08:59+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "터키 국영 은행 할크방크(Halkbank)에 대한 미국 수사의 핵심 증인이 징역형을 면했다고 로이터 통신이 보도했다. 이는 해당 사건의 전개에 중요한 영향을 미칠 것으로 예상된다.",
-      "fetched_at": "2026-07-15T02:00:03.656151+00:00"
-    },
-    {
-      "title": "Brent oil structure changes to reflect mounting supply risk as Iran tensions flare - Reuters",
-      "body_preview": "Brent oil structure changes to reflect mounting supply risk as Iran tensions flare  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNlAyVDlDN1dDd0JxZVdFRE84Zmp3anJyaWxIajl3T092MkMwZ3JzM2tjZElUeDJ3bVdhZWZySjJPM1VnYmljbEdDS0lJcjhPbGdpUGVweXB6azdTdUhyaDJCX05mX3VHZzBEY0JXa185XzRBQnpZUUF6SmZ0Yy1vVWhYa2hOR1p5cmYzMVhQU3Rpc1NMSllFX3VEeldtWXR1VWlzT1Z6LVBvRWoyMVRfS1daVmFRWjJfdE5WUEJuN3FzWGtfelFZ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-14T16:52:22+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란과의 긴장이 고조되면서 원유 공급 위험이 커짐에 따라 브렌트유(Brent oil)의 시장 구조가 변화하고 있다고 로이터 통신이 보도했다. 이는 유가 변동성에 영향을 미칠 수 있다.",
-      "fetched_at": "2026-07-15T02:00:03.656151+00:00"
-    },
-    {
-      "title": "Trump says he thinks Iran and Hezbollah will be added to Russia sanctions bill - Reuters",
-      "body_preview": "Trump says he thinks Iran and Hezbollah will be added to Russia sanctions bill  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaW44QmI3YTc3dnVrME9oLWpLWjhJQTR4aGNYRDJUTDU2dFVNUlVmejVQX2lIUFd2VnpfRU50bC0tYTJibW5yakJ2a1FmMTV4Ul9LS1lZUjJ5RThUWXNldV83c0xiR1U4NTI4czNHa0stQmk5S2pSWnJDTTBPWGlGcWd1S2NjZFpad0EwUXhHVXFSdUxjdF9VZ1NXU29jWWctdVFIT29Xa0tCZndwS1ZYTEx2NFo3UzJhUUtnNkhodnMwbFU?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-14T16:37:06+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "도널드 트럼프 전 미국 대통령이 이란과 헤즈볼라(Hezbollah)가 러시아 제재 법안(sanctions bill)에 추가될 것으로 생각한다고 밝혔다고 로이터 통신이 보도했다.",
-      "fetched_at": "2026-07-15T02:00:03.656151+00:00"
-    },
-    {
-      "title": "Jim Cramer says don't bite on Apple sell call; buy his new chip favorite",
-      "body_preview": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source_url": "https://www.cnbc.com/2026/07/14/jim-cramer-says-dont-bite-on-apple-sell-call-buy-his-new-chip-favorite.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-14T15:51:01+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108209987-1760019895735-clearwater-forest-chip-fab-52-scaled.jpg?v=1760019984&w=1920&h=1080",
-      "korean_summary": "짐 크레이머는 애플(Apple) 매도 의견에 동의하지 않으며, 대신 자신이 선호하는 새로운 반도체(chip) 주식을 매수할 것을 권고했다. 이는 투자자들에게 새로운 투자 방향을 제시한다.",
-      "fetched_at": "2026-07-15T02:00:03.656151+00:00"
-    },
-    {
-      "title": "UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor killed - Reuters",
-      "body_preview": "UAE says Iranian missiles struck oil tankers in Strait of Hormuz, one sailor killed  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdF9iNjRwdm9pODdabFB6TGd0b0llZjQxY3NDQWktelE1c2NnUERlYUs2TnNPc0JBaFZvWlZhM3VfRUVwTV9MZUFteVh3VlV0QVhfZi1NUGpQdEp3elpuYnFrVE9Yb1BzNmtGLWdiYlJ2THBOT3NrRmppdG5mNWFVRDcyWmFSRHJzWXJyVVpQYy16cVZKb1I1UEh4eFdYN1VURkFtQmNVanhnM2I4Y3JSLXhHTmhOMXBmSTRMZE4xam5CSlN1eGFR?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-13T23:17:31+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "UAE가 호르무즈 해협(Strait of Hormuz)에서 이란 미사일이 유조선을 공격하여 선원 1명이 사망했다고 발표했다. 이는 중동 지역의 지정학적 긴장을 고조시키며, 국제 유가 및 해상 운송 안전에 대한 우려를 키우고 있다.",
-      "fetched_at": "2026-07-14T02:03:06.275749+00:00"
-    },
-    {
-      "title": "Trump sends Congress formal notice that Iran conflict has resumed - Reuters",
-      "body_preview": "Trump sends Congress formal notice that Iran conflict has resumed  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeFlnQU14UlRYVHMtT3FqRk9meEE0S2ZsVFBLcEJuRWJWc2FSZzVoYmtJSlM5RG9IWnRlRGxMSE5FTmxlNVF2Unl4ZXBwNzN1WmxYSjVHU1pWNURHZDhGTVNoYnY3Z2l1LUY0WnRjU0dSbmM5NVpWaU1mTnhZZzVpNURIdGEyMWlVcFl3U1EtYU0xSVBMcEVrckk2ZVlxbHlwS2REVlJTR1FRM1NqR3c4?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-13T22:49:43+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "트럼프 대통령이 의회에 이란과의 갈등이 재개되었음을 공식 통보했다. 이는 중동 지역의 긴장 고조와 함께 국제 정세의 불확실성을 증대시키며, 증시 투자 심리에 부정적인 영향을 미칠 수 있다.",
-      "fetched_at": "2026-07-14T02:03:06.275749+00:00"
     }
   ]
 }
