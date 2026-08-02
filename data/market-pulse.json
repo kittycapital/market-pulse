@@ -1,8 +1,36 @@
 {
-  "last_updated": "2026-08-01T02:25:00.388881+00:00",
-  "last_updated_kst": "2026-08-01 11:25 KST",
+  "last_updated": "2026-08-02T02:22:30.643480+00:00",
+  "last_updated_kst": "2026-08-02 11:22 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
+      "body_preview": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
+      "source_url": "https://www.cnbc.com/2026/08/01/traders-go-full-time-on-prediction-markets-using-ai-bots-and-antennas.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-08-01T13:44:04+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1776174259&w=1920&h=1080",
+      "korean_summary": "예측 시장(prediction markets)에서 우위를 확보하려면 칼시(Kalshi)나 폴리마켓(Polymarket) 같은 플랫폼의 배당률(odds)만으로는 부족하며, 속도와 고도의 기술이 요구된다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
+    },
+    {
+      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
+      "body_preview": "The wake-up call to the cyber industry comes as industry experts descend on Black Hat, a major cybersecurity conference.",
+      "source_url": "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-08-01T12:00:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&w=1920&h=1080",
+      "korean_summary": "OpenAI의 허깅페이스(Hugging Face) 해킹 사건은 수개월간 제기된 인공지능(AI) 사이버 보안 경고를 재확인시켰다. 이는 주요 사이버 보안 컨퍼런스인 블랙햇(Black Hat)에 모인 업계 전문가들에게 경각심을 일깨우는 계기가 되었다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
+    },
     {
       "title": "Andy Jassy soothed concerns over Amazon's massive AI spending. Here's how he did it",
       "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
@@ -14,8 +42,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108217788-1761657947456-gettyimages-2201505685-ALEXA_AI_UNVEILING.jpeg?v=1770336524&w=1920&h=1080",
-      "korean_summary": "아마존(Amazon) CEO 앤디 재시(Andy Jassy)가 회사의 막대한 인공지능(AI) 투자 지출에 대한 시장의 우려를 완화시켰다. 그는 투자자들에게 AI 지출의 전략적 중요성과 장기적 수익성을 설명하며 신뢰를 회복했다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "인베스팅 클럽(Investing Club)은 매주 평일, 장 마감 직전 한 시간 동안 투자자들에게 실질적인 정보를 제공하는 오후 업데이트 '홈스트레치(Homestretch)'를 발행한다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
@@ -28,8 +56,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108076709-1734395364002-gettyimages-2157160096-291247final.jpeg?v=1758752392&w=1920&h=1080",
-      "korean_summary": "핀테크(Fintech) 증권사 클리어 스트리트(Clear Street)가 투자자들에게 1,880억 달러 규모의 인공지능(AI) 기업 데이터브릭스(Databricks)의 기업공개(IPO) 전 지분 접근 기회를 제공한다. 이는 후기 단계 스타트업(Startup) 투자를 위한 사모 시장(Private Markets) 플랫폼 출시의 일환이다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "핀테크 증권사 클리어 스트리트(Clear Street)가 사모 시장(private markets) 플랫폼을 출시했다. 이를 통해 데이터브릭스(Databricks) 지분 거래를 시작으로 투자자들에게 후기 단계 스타트업(late-stage startups)에 대한 접근성을 확대할 예정이다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "The S&P 500 is stuck at a key battleground level. This obscure index could determine the market’s next move",
@@ -42,8 +70,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108325892-1782269424077-gettyimages-2208582958-TRADERS_CBOE.jpeg?v=1782303324&w=1920&h=1080",
-      "korean_summary": "S&P 500 지수가 중요한 저항선에 갇혀 있으며, 시장의 다음 움직임을 결정할 수 있는 특정 지표에 주목해야 한다. 시카고 옵션(Options) 트레이더들은 7,500선 아래에서 매수하고 위에서 매도하며 치열한 공방을 벌였다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "시카고의 옵션 트레이더(options traders)와 마켓 메이커(market makers)들은 금요일 벤치마크 지수(benchmark index) 7,500선 아래에서 빠르게 매수했으나, 해당 수준을 넘어서는 상승세에서는 거의 즉시 매도하며 시장의 주요 저항선을 형성했다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
@@ -56,8 +84,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108343257-1785514864450-spidey_Cropped.png?v=1785514907&w=1920&h=1080",
-      "korean_summary": "영화 '스파이더맨: 브랜드 뉴 데이(Spider-Man: Brand New Day)'가 북미 박스오피스(Box Office) 사전 상영에서 7,200만 달러를 벌어들이며 신기록을 세웠다. 개봉 첫 주말에는 약 2억 7,000만 달러의 수익을 올릴 것으로 예상된다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "소니(Sony)와 마블(Marvel)의 영화 '스파이더맨: 브레이브 뉴 데이(Spider-Man: Brave New Day)'가 국내 박스오피스 프리뷰(preview)에서 7,200만 달러를 기록하며 신기록을 세웠다. 개봉 주말 동안 약 2억 7,000만 달러의 수익을 올릴 것으로 전망된다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "Jim Cramer: Buy this industrial stock on the dip if you don't own it already",
@@ -70,8 +98,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/107090849-1658244826807-NUP_198367_00848_copy.jpg?v=1698439061&w=1920&h=1080",
-      "korean_summary": "유명 투자 전문가 짐 크레이머(Jim Cramer)가 아직 해당 주식을 보유하지 않은 투자자들에게 특정 산업주(Industrial Stock)를 하락 시 매수할 것을 권고했다. 그는 이 주식이 현재 매력적인 매수 기회를 제공한다고 강조했다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "인베스팅 클럽(Investing Club)은 매주 평일 동부 표준시(ET) 오전 10시 20분에 '모닝 미팅(Morning Meeting)'을 개최하여 투자자들에게 시장 분석 및 전략에 대한 정보를 제공한다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "FIFA tests the limits of private equity in sports with World Cup subsidiary sale",
@@ -84,8 +112,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108337022-1784474839943-gettyimages-2286285066-jk3_5058_xaprrvr3.jpeg?v=1784474898&w=1920&h=1080",
-      "korean_summary": "국제축구연맹(FIFA)이 월드컵(World Cup) 상업 운영 자회사 지분 20% 매각을 추진하며 스포츠 분야 사모펀드(Private Equity)의 한계를 시험하고 있다. 유럽축구연맹(UEFA) 등의 반대는 스포츠에 대한 사모펀드 개입에 대한 불편함을 보여준다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "유럽축구연맹(UEFA)과 북중미카리브축구연맹(Concacaf)이 국제축구연맹(FIFA)의 월드컵 상업 운영 자회사 지분 20% 매각 계획을 거부했다. 이는 스포츠 분야에서 사모펀드(private equity)의 역할에 대한 불편한 시각을 보여준다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "Microsoft shares are surging. Here’s how to still make money, says Mike Khouw",
@@ -98,8 +126,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108336282-1784236796440-gettyimages-2262969470-20090101260225-99-646957.jpeg?v=1784237080&w=1920&h=1080",
-      "korean_summary": "마이크로소프트(Microsoft, MSFT) 주가가 4분기 실적 발표와 함께 기록적인 상승세를 보이며 급등하고 있다. 투자 전문가 마이크 코우(Mike Khouw)는 주가 상승 이후에도 수익을 창출할 수 있는 투자 전략을 제시했다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "마이크로소프트(Microsoft, MSFT)의 4분기 실적 발표와 기록적인 주가 상승 이후, 단기적인 불확실성을 야기했던 이진 이벤트 위험(binary event risk)은 공식적으로 해소되어 시장의 부담이 줄었다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "GM to launch new in-vehicle AI system later this year",
@@ -112,8 +140,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/107420905-1716922517246-1716305392-dbe401096ad9612fc2427852896d5e5b.jpg?v=1716922614&w=1920&h=1080",
-      "korean_summary": "제너럴 모터스(General Motors, GM)가 올해 하반기에 고객 맞춤형 차량 내 인공지능(AI) 시스템을 새롭게 출시할 계획이다. 이는 운전자 경험을 향상시키고 경쟁력을 강화하기 위한 GM의 독자적인 기술 개발 노력의 일환이다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "제너럴 모터스(General Motors, GM)는 올해 말 고객 맞춤형 독자적인 차량 내 인공지능(AI) 시스템을 출시할 계획이다. 이를 통해 사용자 경험을 개선하고 경쟁력을 강화할 것으로 기대된다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "Jim Cramer's top 10 things to watch in the stock market Friday",
@@ -126,8 +154,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108254538-1770326418274-108254538-1768938695162-CNBC_Stage_01_062.jpg?v=1771351348&w=1920&h=1080",
-      "korean_summary": "짐 크레이머(Jim Cramer)가 금요일 주식 시장에서 주목해야 할 10가지 주요 사항을 발표했다. 특히 아마존(Amazon)의 뛰어난 분기 실적에 힘입어 나스닥(Nasdaq) 선물 지수가 상승하는 등 주요 기업 실적과 시장 동향에 대한 관심이 집중된다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "아마존(Amazon)의 뛰어난 분기 실적 발표에 힘입어 나스닥 선물(Nasdaq futures)이 상승세를 나타냈다. 이는 기술주 중심 시장에 긍정적인 영향을 미칠 것으로 예상된다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "34-year-old CEO bet on AI video 5 years before ChatGPT—convincing Mark Cuban to invest was the easy part",
@@ -140,8 +168,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108327721-1782506902971-gettyimages-2222465373-AFP_64HL3MC.jpeg?v=1782506946&w=1920&h=1080",
-      "korean_summary": "34세의 한 최고경영자(CEO)가 챗GPT(ChatGPT) 출시 5년 전부터 인공지능(AI) 비디오 기술에 투자하며 미래를 내다봤다. 마크 큐반(Mark Cuban)의 투자를 유치하는 것은 쉬운 일이었으나, 사업 초기에는 어려움을 겪다가 큰 전환점을 맞았다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "빅터 리파벨리(Victor Riparbelli)는 2017년 사람들이 노트북으로 '할리우드 영화를 만들 수 있도록' 돕기 위해 신세시아(Synthesia)를 설립했다. 4년간의 평범한 실적 이후, 그는 사업 방향에 중대한 변화를 주었다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "New York sues Kalshi, says prediction market is running 'illegal gambling operation'",
@@ -154,8 +182,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108241908-1765819608472-gettyimages-2252060021-mms22834_njfknwmp.jpeg?v=1765819630&w=1920&h=1080",
-      "korean_summary": "뉴욕주가 예측 시장(Prediction Market) 플랫폼 칼시(Kalshi)를 '불법 도박 운영' 혐의로 고소했다. 이는 앞서 연방 판사가 칼시가 주 게임 위원회(Gaming Commission)에 개입하려는 시도를 기각한 이후에 나온 조치로, 법적 분쟁이 심화되고 있다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "뉴욕주는 예측 시장(prediction market) 플랫폼 칼시(Kalshi)를 '불법 도박 운영' 혐의로 고소했다. 이는 연방 판사가 이달 초 칼시의 주 게임 위원회(Gaming Commission)에 대한 개입 시도를 기각한 직후에 이루어졌다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "The Tech Download: Anduril CEO Brian Schimpf talks AI in warfare and manufacturing push",
@@ -168,8 +196,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108343046-1785494703819-anduril-shot-1-professional.png?v=1785496170&w=1920&h=1080",
-      "korean_summary": "국방 기술 기업 안두릴(Anduril)의 브라이언 심프(Brian Schimpf) 최고경영자(CEO)가 '더 테크 다운로드(The Tech Download)' 팟캐스트(Podcast)에 출연하여 전쟁에서의 인공지능(AI) 활용과 제조 역량 강화에 대해 논의했다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "CNBC의 아르준 카르팔(Arjun Kharpal)은 '더 테크 다운로드(The Tech Download)' 팟캐스트에서 방위산업체 안두릴(Anduril)의 브라이언 심프(Brian Schimpf) 최고경영자(CEO)와 전쟁에서의 인공지능(AI) 활용 및 제조 확대 전략에 대해 대담을 나눴다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "Trump convenes Cabinet at Camp David amid simmering Iran war - Reuters",
@@ -182,8 +210,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "로이터(Reuters) 통신에 따르면, 도널드 트럼프 전 미국 대통령이 이란과의 긴장이 고조되는 가운데 캠프 데이비드(Camp David)에서 내각 회의를 소집했다. 이는 중동 정세의 불안정성이 심화되는 상황에 대한 대응으로 풀이된다.",
-      "fetched_at": "2026-08-01T02:25:00.386007+00:00"
+      "korean_summary": "로이터(Reuters) 통신에 따르면, 도널드 트럼프 전 대통령이 이란과의 긴장이 고조되는 상황에서 캠프 데이비드(Camp David)에서 내각 회의를 소집했다. 이는 중동 정세에 대한 심도 있는 논의를 위한 것으로 보인다.",
+      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
     },
     {
       "title": "Illicit Iranian gambling network helped pull off a $4 billion sanctions dodge - Reuters",
@@ -2773,34 +2801,6 @@
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108306021-1778624130186-gettyimages-2275885137-dji_20260512130602_0716_d_ovi7buu7.jpeg?v=1778624245&w=1920&h=1080",
       "korean_summary": "금요일 주식 시장은 반도체 주식 매도세 지속과 넷플릭스(Netflix)의 실망스러운 분기 실적 발표로 하락 출발할 것으로 예상된다. 투자자들은 주요 시장 지표와 기업 실적에 주목하고 있다.",
-      "fetched_at": "2026-07-18T02:02:35.884800+00:00"
-    },
-    {
-      "title": "Obscure volatility measure points to a 'Magnificent Seven’ earnings breakout",
-      "body_preview": "If the S&P 500 is to make a new record, it may require the \"Magnificent Seven\" to get back into gear.",
-      "source_url": "https://www.cnbc.com/2026/07/17/obscure-volatility-measure-points-to-a-magnificent-seven-earnings-breakout-.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-17T11:36:48+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108225750-1763069160018-gettyimages-2245970413-CBOE_MARKETS.jpeg?v=1763069191&w=1920&h=1080",
-      "korean_summary": "특정 변동성 지표가 '매그니피센트 7(Magnificent Seven)' 기업들의 실적 돌파 가능성을 시사했다. S&P 500 지수가 새로운 기록을 세우려면 이들 기업의 활약이 필수적일 것으로 분석된다.",
-      "fetched_at": "2026-07-18T02:02:35.884800+00:00"
-    },
-    {
-      "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
-      "body_preview": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.",
-      "source_url": "https://www.cnbc.com/2026/07/17/tap-pay-fraud-retail-crime.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-17T11:20:17+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108335360-1784124495199-TAP_AND_PAY_3.jpg?v=1784124629&w=1920&h=1080",
-      "korean_summary": "중국 조직범죄단이 비접촉 결제(tap-to-pay) 사기 수법으로 소매업체와 은행에서 연간 최대 10억 달러를 편취하고 있는 것으로 드러났다. 이는 금융 시스템에 심각한 위협이 되고 있다.",
       "fetched_at": "2026-07-18T02:02:35.884800+00:00"
     }
   ]
