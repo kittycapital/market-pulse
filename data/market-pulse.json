@@ -1,8 +1,78 @@
 {
-  "last_updated": "2026-08-02T02:22:30.643480+00:00",
-  "last_updated_kst": "2026-08-02 11:22 KST",
+  "last_updated": "2026-08-03T02:24:43.120422+00:00",
+  "last_updated_kst": "2026-08-03 11:24 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Here's my power rankings for the big 4 hyperscalers after this earnings season",
+      "body_preview": "In his Sunday column, Jim Cramer explains why Amazon is his favorite hyperscaler after second-quarter earnings season.",
+      "source_url": "https://www.cnbc.com/2026/08/02/heres-my-power-rankings-for-the-big-4-hyperscalers-after-this-earnings-season.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-08-02T20:27:44+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108107825-17405902912025-02-26t171428z_315459334_rc2f2daohftm_rtrmadp_0_amazon-com-alexa.jpeg?v=1740590368&w=1920&h=1080",
+      "korean_summary": "짐 크레이머는 주간 칼럼에서 2분기 실적 발표 시즌 이후 아마존(Amazon)이 가장 선호하는 하이퍼스케일러(hyperscaler)라고 밝히며, 그 이유를 상세히 설명했다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
+    },
+    {
+      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+      "body_preview": "Four more Club holdings report earnings. Plus, it's a loaded week of jobs data.",
+      "source_url": "https://www.cnbc.com/2026/08/02/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-08-02T15:36:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108342390-1785415941466-gettyimages-2287553149-AFP_C3J43AD.jpeg?v=1785416029&w=1920&h=1080",
+      "korean_summary": "이번 주 주식 시장에서는 클럽 보유 종목들의 실적 발표와 함께, 고용 지표 발표가 집중되어 투자자들의 관심이 쏠릴 예정이다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
+    },
+    {
+      "title": "Why people are dropping out of the workforce and not looking for new jobs: 'The market wore me down'",
+      "body_preview": "Candidates giving up in the face of relentless job searches could be part of the reason behind recent declines in the labor force participation rate.",
+      "source_url": "https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-08-02T14:30:01+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108343380-1785526512379-Dropping_out_of_the_workforce.png?v=1785526597&w=1920&h=1080",
+      "korean_summary": "구직자들이 계속되는 취업난에 지쳐 구직 활동을 포기하면서, 최근 노동 시장 참여율(labor force participation rate) 하락의 한 원인이 되고 있다는 분석이 나왔다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
+    },
+    {
+      "title": "Op-ed: The U.S. lead over China in AI is all but gone",
+      "body_preview": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
+      "source_url": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-08-02T12:30:01+00:00",
+      "category": "crypto",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108342674-1785435901984-gettyimages-2239462901-CHINA_ALIBABA_CLOUD.jpeg?v=1785435924&w=1920&h=1080",
+      "korean_summary": "최근 몇 년간 미국이 인공지능(AI) 분야에서 중국에 대한 우위를 유지할 전략을 개발할 수 있는지에 대한 논쟁이 있었으나, 현재로서는 미국의 우위가 거의 사라졌다는 분석이 제기되었다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
+    },
+    {
+      "title": "Why flights are so expensive and will likely stay that way",
+      "body_preview": "Airlines are paying billions of dollars more in fuel costs this year",
+      "source_url": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-08-02T12:00:01+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108296798-1777030913818-gettyimages-2272201729-US-NEW_YORK-JET_FUEL_PRICES-FINANCIAL_IMPACT.jpeg?v=1777031018&w=1920&h=1080",
+      "korean_summary": "항공사들이 올해 수십억 달러에 달하는 추가 유류비(fuel costs)를 지불하고 있어, 항공권 가격이 높은 수준을 유지하고 앞으로도 비쌀 가능성이 크다는 전망이 나왔다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
+    },
     {
       "title": "Looking at just the odds isn’t enough. How traders gain an edge on prediction markets",
       "body_preview": "Gaining an edge on prediction markets requires speed and skills beyond just reading the odds on platforms like Kalshi and Polymarket.",
@@ -14,8 +84,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108270194-1772061798995-gettyimages-2263571474-l1049595_copy_qr8q5yqa.jpeg?v=1776174259&w=1920&h=1080",
-      "korean_summary": "예측 시장(prediction markets)에서 우위를 확보하려면 칼시(Kalshi)나 폴리마켓(Polymarket) 같은 플랫폼의 배당률(odds)만으로는 부족하며, 속도와 고도의 기술이 요구된다.",
-      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
+      "korean_summary": "예측 시장(prediction markets)에서 우위를 점하려면 칼시(Kalshi)나 폴리마켓(Polymarket) 같은 플랫폼의 배당률(odds)만 보는 것을 넘어, 속도와 특별한 기술이 필요하다는 분석이다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
     },
     {
       "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
@@ -28,8 +98,64 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&w=1920&h=1080",
-      "korean_summary": "OpenAI의 허깅페이스(Hugging Face) 해킹 사건은 수개월간 제기된 인공지능(AI) 사이버 보안 경고를 재확인시켰다. 이는 주요 사이버 보안 컨퍼런스인 블랙햇(Black Hat)에 모인 업계 전문가들에게 경각심을 일깨우는 계기가 되었다.",
-      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
+      "korean_summary": "오픈AI(OpenAI)의 허깅 페이스(Hugging Face) 해킹 사건은 수개월간 제기된 인공지능(AI) 사이버 보안 경고를 확인시켜주며, 주요 사이버 보안 컨퍼런스인 블랙 햇(Black Hat)에서 업계 전문가들에게 경종을 울렸다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
+    },
+    {
+      "title": "Bloomberg puts off adding Indian bonds to its global index",
+      "body_preview": "Bloomberg delays adding Indian bonds to its global index, disappointing traders and prompting expected selling in the bond market.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-31/bloomberg-defers-inclusion-of-indian-bonds-in-global-index-ms8wqbxp",
+      "source_name": "Bloomberg",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-08-01T06:15:14+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+      "korean_summary": "블룸버그(Bloomberg)가 인도 국채(Indian bonds)를 글로벌 지수(global index)에 편입하는 것을 연기하면서, 트레이더들을 실망시키고 채권 시장에서 매도세를 촉발할 것으로 예상된다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
+    },
+    {
+      "title": "Data centre boom fuels demand for workforce housing",
+      "body_preview": "A typical 100-megawatt data centre employs hundreds of workers to build it, although it needs only dozens to eventually operate it, according to a University of Southern California Climate Centre report",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-31/data-center-boom-fueling-demand-for-workforce-housing",
+      "source_name": "Bloomberg",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-08-01T04:37:09+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+      "korean_summary": "100메가와트(MW) 규모의 데이터 센터(data centre) 건설에는 수백 명의 인력이 필요하며, 이는 인력 주택(workforce housing) 수요를 증가시키는 요인으로 작용하고 있다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
+    },
+    {
+      "title": "Dollar logs its worst week in over 3 months amid Fed doubts",
+      "body_preview": "Traders boosted their bullish dollar bets ahead of the Fed meeting, turning the most upbeat since 2014 as of Tuesday, according to Commodity Futures Trading Commission data released Friday",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-31/dollar-heads-for-worst-week-in-three-months-as-fed-doubts-grow",
+      "source_name": "Bloomberg",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-08-01T04:32:54+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+      "korean_summary": "연방준비제도(Fed)에 대한 의구심이 커지면서 달러화가 3개월여 만에 최악의 한 주를 기록했다. 트레이더들은 연준 회의 전 달러 강세 베팅을 늘렸으나, 결과는 반대였다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
+    },
+    {
+      "title": "Indian companies plan for fresh price hikes, testing inflation outlook",
+      "body_preview": "Consumer prices rose above the Reserve Bank of India’s 4% target for the first time in nearly a year and a half in June as food and fuel costs climbed",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-31/indian-firms-plan-fresh-price-hikes-testing-inflation-outlook",
+      "source_name": "Bloomberg",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-08-01T04:27:14+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+      "korean_summary": "인도 기업들이 추가 가격 인상을 계획하고 있어 인플레이션(inflation) 전망을 시험대에 올리고 있다. 지난 6월 식료품 및 유류비 상승으로 소비자 물가가 1년 반 만에 인도중앙은행(RBI) 목표치 4%를 넘어섰다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
     },
     {
       "title": "Andy Jassy soothed concerns over Amazon's massive AI spending. Here's how he did it",
@@ -42,8 +168,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108217788-1761657947456-gettyimages-2201505685-ALEXA_AI_UNVEILING.jpeg?v=1770336524&w=1920&h=1080",
-      "korean_summary": "인베스팅 클럽(Investing Club)은 매주 평일, 장 마감 직전 한 시간 동안 투자자들에게 실질적인 정보를 제공하는 오후 업데이트 '홈스트레치(Homestretch)'를 발행한다.",
-      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
+      "korean_summary": "아마존(Amazon)의 앤디 재시(Andy Jassy) CEO가 회사의 막대한 인공지능(AI) 투자 지출에 대한 우려를 완화시켰다. 그는 투자 클럽(Investing Club)을 통해 투자자들에게 관련 내용을 설명했다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
     },
     {
       "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
@@ -56,8 +182,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108076709-1734395364002-gettyimages-2157160096-291247final.jpeg?v=1758752392&w=1920&h=1080",
-      "korean_summary": "핀테크 증권사 클리어 스트리트(Clear Street)가 사모 시장(private markets) 플랫폼을 출시했다. 이를 통해 데이터브릭스(Databricks) 지분 거래를 시작으로 투자자들에게 후기 단계 스타트업(late-stage startups)에 대한 접근성을 확대할 예정이다.",
-      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
+      "korean_summary": "핀테크(Fintech) 증권사 클리어 스트리트(Clear Street)가 비공개 시장 플랫폼을 출시하며, 1,880억 달러 규모의 인공지능(AI) 기업 데이터브릭스(Databricks)의 상장 전(pre-IPO) 지분 접근 기회를 투자자들에게 제공한다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
     },
     {
       "title": "The S&P 500 is stuck at a key battleground level. This obscure index could determine the market’s next move",
@@ -70,8 +196,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108325892-1782269424077-gettyimages-2208582958-TRADERS_CBOE.jpeg?v=1782303324&w=1920&h=1080",
-      "korean_summary": "시카고의 옵션 트레이더(options traders)와 마켓 메이커(market makers)들은 금요일 벤치마크 지수(benchmark index) 7,500선 아래에서 빠르게 매수했으나, 해당 수준을 넘어서는 상승세에서는 거의 즉시 매도하며 시장의 주요 저항선을 형성했다.",
-      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
+      "korean_summary": "S&P 500 지수가 주요 저항선에 갇혀 있으며, 시카고의 옵션 트레이더(options traders)와 시장 조성자(market makers)들은 벤치마크 지수 7,500선 아래에서 매수하고 위에서 매도하는 움직임을 보였다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
     },
     {
       "title": "‘Spider-Man: Brand New Day’ sets domestic box office preview record with $72 million",
@@ -84,8 +210,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108343257-1785514864450-spidey_Cropped.png?v=1785514907&w=1920&h=1080",
-      "korean_summary": "소니(Sony)와 마블(Marvel)의 영화 '스파이더맨: 브레이브 뉴 데이(Spider-Man: Brave New Day)'가 국내 박스오피스 프리뷰(preview)에서 7,200만 달러를 기록하며 신기록을 세웠다. 개봉 주말 동안 약 2억 7,000만 달러의 수익을 올릴 것으로 전망된다.",
-      "fetched_at": "2026-08-02T02:22:30.640067+00:00"
+      "korean_summary": "소니(Sony)와 마블(Marvel)의 영화 '스파이더맨: 브랜 뉴 데이(Spider-Man: Brand New Day)'가 국내 박스오피스(box office) 사전 개봉 기록 7,200만 달러를 세웠으며, 개봉 첫 주말 약 2억 7천만 달러를 벌어들일 것으로 예상된다.",
+      "fetched_at": "2026-08-03T02:24:43.117108+00:00"
     },
     {
       "title": "Jim Cramer: Buy this industrial stock on the dip if you don't own it already",
@@ -2676,132 +2802,6 @@
       "media_url": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&w=1920&h=1080",
       "korean_summary": "미국 연방항공청(FAA)은 보잉(Boeing)이 737 맥스(Max) 및 787 항공기의 감항성(airworthiness) 인증을 다시 승인할 수 있도록 허용했다. 이는 미국 정부가 보잉에 대한 신뢰를 표명한 것으로 해석된다.",
       "fetched_at": "2026-07-19T02:13:44.237885+00:00"
-    },
-    {
-      "title": "Meta's latest move in the AI talent war — plus Cramer's 4 quick hits on the market",
-      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "source_url": "https://www.cnbc.com/2026/07/17/metas-latest-move-in-the-ai-talent-war-plus-cramers-4-quick-hits.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-17T17:40:45+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108310069-17793063292026-05-20t194305z_1806485342_rc27dla6rwc7_rtrmadp_0_tech-ai-meta-layoffs.jpeg?v=1779306361&w=1920&h=1080",
-      "korean_summary": "투자 클럽은 매일 주중 거래 마지막 시간에 맞춰 시장에 대한 실행 가능한 오후 업데이트인 '홈스트레치(Homestretch)'를 발표한다. 이는 투자자들에게 실시간 시장 정보를 제공하는 서비스이다.",
-      "fetched_at": "2026-07-19T02:13:44.237885+00:00"
-    },
-    {
-      "title": "Retail and Wall Street are underwater on SpaceX — but not going down without a fight",
-      "body_preview": "Good times for SpaceX are proving short-lived as Elon Musk’s intergalactic IPO is now giving fodder to bears.",
-      "source_url": "https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-17T17:27:41+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108321570-1781377484011-IMG_1064.jpeg?v=1781377596&w=1920&h=1080",
-      "korean_summary": "일론 머스크(Elon Musk)의 스페이스X(SpaceX)에 대한 낙관적인 전망이 약세론자들에게 빌미를 제공하며 단기적인 어려움을 겪고 있다. 이는 기업공개(IPO)를 앞둔 스페이스X의 가치 평가에 대한 논쟁을 시사한다.",
-      "fetched_at": "2026-07-19T02:13:44.237885+00:00"
-    },
-    {
-      "title": "Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim - Reuters",
-      "body_preview": "Israeli strikes kill Palestinians attending Gaza funeral for earlier strike victim  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0l2SzBLNkJrRlU3OWNGWmE1MXdfeVZfUk5MRXdETUJHQ1Z0ZFdiVm5GV09IOTRDdFZMYXR2c05HTjZzZTNZMEJmOVdUVWVoaEJNLURmdjNhNlVWb0pMSHlHUDBEa2hyQmpldkh6RVZOSHhDaUVvLW1JeWppMFpvaU9YVTdfSEtWTFluS0pOcmRwRU00Z0ZWd01qR0ZJVnZUOTAzUzlqel9lQ2U5ejYtWVd6Rmx1RHdoZEF4TDNJSTFNOUZjMnhnWHlueVg?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-17T16:59:52+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이스라엘의 공습으로 가자 지구에서 이전 공습 희생자의 장례식에 참석 중이던 팔레스타인인들이 사망했다. 이는 이스라엘-팔레스타인 분쟁의 심각성을 보여주는 사건이다.",
-      "fetched_at": "2026-07-19T02:13:44.237885+00:00"
-    },
-    {
-      "title": "UK police charge man over Iran-linked spying offences - Reuters",
-      "body_preview": "UK police charge man over Iran-linked spying offences  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGllOTRGNDVFclJpYTFrM3BybWdJeURrYjhwQWdnUEtyV2RVM2U2S3dwdXZQWDJ3NmozOVFvNkhfMXNaXzRvejM3d0VlZ2U0YkRidC1hWXNfdDB2UHJ5am91Uy03ZDMtZjVhVTFJUHJHZjJ5MGI2V0lSVkprbFN3RUJmeHNvcTNVM0k4SHc3MEFiN0FWblZ3S015RWREWWs?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-17T15:12:45+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "영국 경찰은 이란과 연루된 스파이 혐의로 한 남성을 기소했다. 이는 영국 내에서 이란 관련 안보 위협에 대한 우려가 커지고 있음을 시사한다.",
-      "fetched_at": "2026-07-19T02:13:44.237885+00:00"
-    },
-    {
-      "title": "California's billionaire tax: What's at risk for the biggest state economy in America",
-      "body_preview": "California's billionaire tax would generate quick revenue, but Norway's example shows the longer-term economic impact of targeting the wealthy is unclear.",
-      "source_url": "https://www.cnbc.com/2026/07/17/california-billionaire-tax.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-17T15:02:57+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108336091-1784218723182-gettyimages-2272915772-AFP_A96A6CQ.jpeg?v=1784218758&w=1920&h=1080",
-      "korean_summary": "캘리포니아(California)의 억만장자세(billionaire tax)는 즉각적인 세수 증대를 가져올 수 있지만, 노르웨이(Norway) 사례에서 보듯이 부유층을 겨냥한 정책의 장기적인 경제적 영향은 불확실하다는 분석이 나왔다.",
-      "fetched_at": "2026-07-19T02:13:44.237885+00:00"
-    },
-    {
-      "title": "Suspected pirates seize tanker off Yemen coast in Gulf of Aden, sources say - Reuters",
-      "body_preview": "Suspected pirates seize tanker off Yemen coast in Gulf of Aden, sources say  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeVFJX2dfYlJkR3pBRlZVa2Z2cUN5eWJYd251LWZCTml6QVZhU0ZGT2RnNVQ3RVkwVkpaS1dYa2ZZXzF3eG9XQURfWXpuZ0FuRTBxMVZfU1NZZk5MUlpFRDlnakpSb1BRRUc0U1ZhMktSdTNROE1NVEowMGhDTnVQRU1fOHlVMTYtblJHRFZxdXhtUjF1clZTRm9qRVItRWowVTJzOHZrY3lKeEJ4ZmlYQUQydUd0aVF0NVRZRFVBQU1WZGtROE95bzF2dFI?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-17T15:01:56+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "예멘 해안 아덴만(Gulf of Aden)에서 해적 소행으로 추정되는 세력이 유조선을 나포했다고 로이터(Reuters) 통신이 소식통을 인용해 보도했다. 이는 해당 지역의 해상 안보에 대한 우려를 증폭시키고 있다.",
-      "fetched_at": "2026-07-18T02:02:35.884800+00:00"
-    },
-    {
-      "title": "Iranians suffer new uncertainty and anxiety as US steps up attacks - Reuters",
-      "body_preview": "Iranians suffer new uncertainty and anxiety as US steps up attacks  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDFsaVNvbHhvcE55QWhLRXdNLXNoYzFXTU5TUktEZ3k5NVZFZHhidDlWaGRPZEFEVk1HUm9wSWhDN29xQWVabGlXbmxSbWwxQ3NKLUxySzB5TmFPRnFCZmxLeHNoTWJNcXNiTURDN1NfU0U0NWN4d2ZwZjJ6U256cDNXdFpoZ2lmR1RKZzBsMFFMcmJwWGNFUm5nOVFHU1hubS0tZmEwTGlPdTRzcTZocWlKQQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-17T14:09:12+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "미국이 공격을 강화하면서 이란 국민들이 새로운 불확실성과 불안감에 시달리고 있다고 로이터(Reuters) 통신이 전했다. 이는 중동 지역의 긴장 고조가 민간에 미치는 영향을 보여준다.",
-      "fetched_at": "2026-07-18T02:02:35.884800+00:00"
-    },
-    {
-      "title": "EXCLUSIVE: Pakistan and Kuwait discuss expanded defence pact, sources say - Reuters",
-      "body_preview": "EXCLUSIVE: Pakistan and Kuwait discuss expanded defence pact, sources say  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHZvMDI1eHV5d0EwekZYSTVrdmU0VDVpR1o0V2hqUlFkcXBxR0xUSFEtak9UdVdVNEtmenkxYVFfeXNtQlc0TGVHSXZZd2gwNlEtRkNya0JuclAwV2llWS1jVjRnUldaWWF5WEZhcFJzal8yV3M5MUhKMldHa2lGNjNTS2c2OGxCTjN0YzVSejVrdy1jTUx1LVUzVmRMeVdnX3NYWUQ4SXhYSjNvM2J4NDBB?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-17T13:30:13+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "파키스탄과 쿠웨이트가 국방 협정 확대를 논의 중이라고 로이터(Reuters) 통신이 소식통을 인용해 단독 보도했다. 이는 양국 간의 군사 및 안보 협력 강화 가능성을 시사한다.",
-      "fetched_at": "2026-07-18T02:02:35.884800+00:00"
-    },
-    {
-      "title": "The Club's 10 things to watch in the stock market Friday",
-      "body_preview": "Stocks are pointing to a lower open as the sell-off in chip stocks continues. Plus, Netflix delivers a disappointing quarter.",
-      "source_url": "https://www.cnbc.com/2026/07/17/the-investing-clubs-10-things-to-watch-in-the-stock-market-friday.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-07-17T13:10:07+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108306021-1778624130186-gettyimages-2275885137-dji_20260512130602_0716_d_ovi7buu7.jpeg?v=1778624245&w=1920&h=1080",
-      "korean_summary": "금요일 주식 시장은 반도체 주식 매도세 지속과 넷플릭스(Netflix)의 실망스러운 분기 실적 발표로 하락 출발할 것으로 예상된다. 투자자들은 주요 시장 지표와 기업 실적에 주목하고 있다.",
-      "fetched_at": "2026-07-18T02:02:35.884800+00:00"
     }
   ]
 }
