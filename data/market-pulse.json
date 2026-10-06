@@ -1,8 +1,106 @@
 {
-  "last_updated": "2026-10-05T03:45:50.165878+00:00",
-  "last_updated_kst": "2026-10-05 12:45 KST",
+  "last_updated": "2026-10-06T04:33:33.791498+00:00",
+  "last_updated_kst": "2026-10-06 13:33 KST",
   "total_items": 200,
   "items": [
+    {
+      "title": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
+      "body_preview": "Melius Research's Ben Reitzes has warned about AI disrupting legacy software providers for years. Now, he loves Microsoft's place in the AI race.",
+      "source_url": "https://www.cnbc.com/investingclub/2026/10/05/wall-street-rewards-microsofts-ai-pivot-a-longtime-skeptic-flips-bullish.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-05T18:43:12+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108126887-1743790425897-gettyimages-2207863979-776305461sb01.jpeg?v=1747159112&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
+    },
+    {
+      "title": "Nvidia looks to take out its record high close — plus, don't worry about Intel's dip",
+      "body_preview": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "source_url": "https://www.cnbc.com/investingclub/2026/10/05/nvidia-looks-to-take-out-its-record-high-close-plus-dont-worry-about-intels-dip.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-05T18:25:31+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108368701-1790598712807-108368701-1790598543513-jensen3.jpg?v=1790598750&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
+    },
+    {
+      "title": "Cramer is closely watching Nvidia's massive buyback. Here's what he wants to see",
+      "body_preview": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "source_url": "https://www.cnbc.com/investingclub/2026/10/05/cramer-is-closely-watching-nvidias-buyback-heres-what-he-wants-to-see.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-05T16:29:58+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108363230-17894969232026-09-15t182809z_1396824136_rc2ujnangc2w_rtrmadp_0_tech-ai.jpeg?v=1789496953&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
+    },
+    {
+      "title": "These are the cheapest and most expensive U.S. flights this November",
+      "body_preview": "Holiday airplane tickets are up more than 23% this year, according to Hopper.",
+      "source_url": "https://www.cnbc.com/2026/10/05/cheapest-most-expensive-us-flights-in-november.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-05T15:38:27+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108295831-1776895016623-gettyimages-2267658097-AA_24032026_2708274.jpeg?v=1776895137&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
+      "body_preview": "Microsoft and Wells Fargo landed upgrades, and there's some encouraging M&A activity.",
+      "source_url": "https://www.cnbc.com/investingclub/2026/10/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-05T12:59:40+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1787834344&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
+    },
+    {
+      "title": "Why airfare could rise even more, but airline profits won't",
+      "body_preview": "Airlines are trimming capacity as jet fuel prices keep climbing and travelers keep booking.",
+      "source_url": "https://www.cnbc.com/2026/10/05/airfare-prices-airline-profits.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-05T11:00:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108300006-1777561346540-gettyimages-2272481063-260425_sangas_044.jpeg?v=1790982120&w=1920&h=1080",
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
+    },
+    {
+      "title": "India aims to sign multibillion-dollar French jet deal by March",
+      "body_preview": "India aims to sign a $30-35 billion Rafale deal for 114 jets with France within five months, amid growing fighter shortfalls.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-03/india-aims-to-sign-multibillion-dollar-french-jet-deal-by-march",
+      "source_name": "Bloomberg",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-05T03:38:00+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
+    },
     {
       "title": "It's time for us to put cash to work in this ugly market. Here's where we will do our buying",
       "body_preview": "In his Sunday column, Jim Cramer explains why investors need to hold their nose and do some buying.",
@@ -14,8 +112,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108128747-17441501772025-04-08t220650z_1706647894_rc2vtdaxyv46_rtrmadp_0_usa-trump-tariffs.jpeg?v=1744150248&w=1920&h=1080",
-      "korean_summary": "금융 전문가 짐 크레이머는 어려운 시장 상황에도 불구하고 투자자들이 현금을 활용해 매수에 나서야 할 시점이라고 강조했습니다. 그는 투자자들이 현재 시장의 불확실성을 감수하고 특정 자산에 투자해야 하는 이유와 전략을 설명했습니다.",
-      "fetched_at": "2026-10-05T03:45:50.162580+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
     },
     {
       "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
@@ -28,8 +126,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/107422865-1717181996686-AP24138762785713.jpg?v=1717182061&w=1920&h=1080",
-      "korean_summary": "대법관 알리토(Alito)가 상원 통제권이 불확실한 상황에서 은퇴를 고려했다고 밝혔습니다. 이는 11월 중간선거 후 민주당이 상원을 장악할 경우 도널드 트럼프(Donald Trump) 대통령의 대법관 지명에 영향을 미칠 수 있습니다.",
-      "fetched_at": "2026-10-05T03:45:50.162580+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
     },
     {
       "title": "Here are 3 things we're watching in the stock market in the week ahead",
@@ -42,8 +140,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108315159-1780405505446-gettyimages-2279396849-042a7130_34vfkowy.jpeg?v=1780405543&w=1920&h=1080",
-      "korean_summary": "다가오는 한 주 동안 주식 시장에서 주목해야 할 세 가지 주요 요인이 제시되었습니다. 특히 유가 시장과 채권 시장의 동향이 주식 시장의 핵심적인 동력으로 작용할 것이라고 분석했습니다.",
-      "fetched_at": "2026-10-05T03:45:50.162580+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
     },
     {
       "title": "This NYC startup requires 4 days in office but just let everyone work remote for a whole month",
@@ -56,8 +154,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108371990-1790962307286-gettyimages-1370867453-_pp_0944.jpeg?v=1790962392&w=1920&h=1080",
-      "korean_summary": "뉴욕 기반 PR 기업 솔콤즈(SolComms)는 평소 주 4일 사무실 근무를 요구하지만, 한 달간 전면 원격근무를 허용했습니다. 그 결과 매출, 생산성, 직원 만족도가 모두 향상되었다고 밝혔습니다.",
-      "fetched_at": "2026-10-05T03:45:50.162580+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
     },
     {
       "title": "Starting a watch collection? What beginners should know before buying",
@@ -70,8 +168,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108372243-1791043419874-gettyimages-106782478-62439149.jpeg?v=1791043434&w=1920&h=1080",
-      "korean_summary": "시계 전문가들이 초보자를 위한 시계 컬렉션 시작 가이드를 제시했습니다. 가치 유지 가능성이 높은 시계, 중고 구매 시점, 그리고 값비싼 실수를 피하는 방법 등 필수적인 정보를 제공했습니다.",
-      "fetched_at": "2026-10-05T03:45:50.162580+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
     },
     {
       "title": "OpenAI safety employee quits, calls for nuclear-level safeguards",
@@ -84,8 +182,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
-      "korean_summary": "오픈AI(OpenAI)의 안전 투명성 책임자였던 데이비드 로빈슨이 사임하며, 핵 수준의 안전장치 도입을 촉구했습니다. 그는 챗GPT(ChatGPT) 개발사가 시행착오를 통해 성장했지만, 더 강력한 안전 조치가 필요하다고 주장했습니다.",
-      "fetched_at": "2026-10-05T03:45:50.162580+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
     },
     {
       "title": "Gen Alpha kids are earning money. Here's how parents can help them save and invest",
@@ -98,8 +196,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108371281-1790880196159-gettyimages-1400704404-ma93692.jpeg?v=1790880233&w=1920&h=1080",
-      "korean_summary": "알파 세대(Gen Alpha) 어린이들이 스스로 돈을 벌고 소비하는 가운데, 부모들이 자녀의 건강한 금융 습관 형성을 도울 수 있는 방법이 제시되었습니다. 저축, 투자, 교육 도구를 활용한 지도가 강조됩니다.",
-      "fetched_at": "2026-10-05T03:45:50.162580+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
     },
     {
       "title": "Portugal prosecutors probe legality of US use of Lajes base in Iran war - Reuters",
@@ -112,8 +210,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "포르투갈 검찰이 이란 전쟁에서 미국이 라제스(Lajes) 기지를 사용한 것의 합법성 여부를 조사하고 있다고 로이터(Reuters) 통신이 보도했습니다. 이는 국제법 및 양국 협정 위반 가능성을 검토하는 절차입니다.",
-      "fetched_at": "2026-10-05T03:45:50.162580+00:00"
+      "korean_summary": "",
+      "fetched_at": "2026-10-06T04:33:33.787309+00:00"
     },
     {
       "title": "Fire, smoke seen near Aramco facility in Riyadh, witness says - Reuters",
@@ -2700,104 +2798,6 @@
       "tweet_id": null,
       "published_at": "2026-09-19T08:20:38+00:00",
       "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-09-20T03:05:42.036529+00:00"
-    },
-    {
-      "title": "Iran executes man convicted of spying for Israel's Mossad, judiciary says - Reuters",
-      "body_preview": "Iran executes man convicted of spying for Israel's Mossad, judiciary says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUHlXMU02X1Q1U245V0NOTFNPTGFPLXBYTFBNUG84ZlBWY2hteTNWRTNadlNxWWUzQVktelVDbmxOenJuQlZzV1h2bHlfNXZfWTh2RVNYeTVRVkhfTFpGTVNGSm5xeHhNUnE0U2E2ZmEtYmVDaFkwY25wUFl3alBnYXhJUnZGeVc5dVZKTU1aYTIxcW1xTmk3UGpBSmt4bU1lTHpsN1Rya1o2WDZlZ295LVZISUpXc0dZZEE?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-09-19T06:28:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-09-20T03:05:42.036529+00:00"
-    },
-    {
-      "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital - Reuters",
-      "body_preview": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNnM0NScnlDOXNDY25xQjhZVlRHUUtMOEV3YVZSOW5xekdVelcycGI1VHl3dWpqVGhNM2s1N05NamZxV0hoNVBFN204OHM5dVlQemMySkJGMlpCaURybUY4TVZfd0RDUUxzb3RTeWJVVEI4blFQZFhJekptSHRFUVdqb1pDai1VQ1hPS1JHWk92MEpZYWtESDduUmpwUEg4Nzc4bFp3VDQzM2JMTnRZXzgzbVBvUDk0clU4a3dHMlhuQk0?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-09-19T00:42:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-09-20T03:05:42.036529+00:00"
-    },
-    {
-      "title": "Foreign hackers targeted Colorado water systems in August, governor's office says - Reuters",
-      "body_preview": "Foreign hackers targeted Colorado water systems in August, governor's office says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVnpGSlU3elVMYlloWFFkVUM0YWRtMnl6MDRWaXVRcDQxZDl6Nm9HVW9oSXVsYTBCNTYyUlEyYVV2eW5maHhtMmc1YmRvVnY5MS1MWFo0dFZJRHplLS12azk4TktNUEdITktGeE1HeWhBa3JXTmZ4bzI0Ym9GcW9DeTZ5cEZQajB1a3U4ODVrNHZlRDFOczc2NllYTzc1aUVkampNNk54ZjhOTFNmQ08yVEpza0o0V285bjZOVzRCbXlVeVNXeko3NA?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-09-19T00:21:00+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-09-20T03:05:42.036529+00:00"
-    },
-    {
-      "title": "S&P 500, Nasdaq advance, turning the page on a tumultuous week - Reuters",
-      "body_preview": "S&P 500, Nasdaq advance, turning the page on a tumultuous week  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ2p6dkpCd0xfbVRBMnhySFRVbm5OSElMZXRXc0NpaGhoRmw2MzNfSUstaC1RVFFnUU1DNUM0MEpHTmxhbHJxOC1Ec2lMWU0xMFVaSVdsZGdVSi1JaWpDX093SHhBdlBkdFdGZnFpd05yYW9LRXk2NkdOMnRWSzJ2dkhuTFpDN01LM1JvNjhyamFZM2dLRFRzM24xSUZwRGVBakhwM3N3em1ycFBuWVg2UVB2OTQ?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-09-18T23:10:24+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-09-20T03:05:42.036529+00:00"
-    },
-    {
-      "title": "Trump signs Russia sanctions bill into law - Reuters",
-      "body_preview": "Trump signs Russia sanctions bill into law  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMWZ3NVV2eHJuOEVQcDhZX3BVSnh2aWxQcE0wWERtWGc3MG9ZS3VmN1lqemJPNS1NbE1pU3RDTlR5TUIteF9hMVdNY2NITDU2N3lva3hWelYydUQ1Nm9xWUZZUHN3R29QeXR3VzhIdFNyOXJ6T1FLNlNEU3JIbUx3Q1ZCVWxHdnI4ZmhJVjFfd0s?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-09-18T22:20:53+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-09-20T03:05:42.036529+00:00"
-    },
-    {
-      "title": "Turkey revokes operating license of Iran's Mellat Bank amid US measures - Reuters",
-      "body_preview": "Turkey revokes operating license of Iran's Mellat Bank amid US measures  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb1hTU1NHcEl4TWwzc0E2THYwcmxSMS05TnFsT2w4ZHVpQjhvX0NxT2dLb2RpRGtIczNadkVFczZUSGJ0VGJJdEpvMzlnZ3F4aGtBMldjZUpMZ2p4cWFOZ2VzSHhSLUhsclg4aXYwT2dMRkMxWWFjbnBBQ24tUG9EQk02UWlrczRVODFrU2hIbmZRZm9ESDU2TnJwb1FnMGw4OTU4OTllOFl3RlhON3JHTmJPVnYwNVYxT1FQaFZn?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-09-18T21:58:09+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "",
-      "fetched_at": "2026-09-20T03:05:42.036529+00:00"
-    },
-    {
-      "title": "Saudi Civil Defense lifts warnings of potential danger in several areas - Reuters",
-      "body_preview": "Saudi Civil Defense lifts warnings of potential danger in several areas  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdlpTM1JIVGlNanRpa0drbElOWTNPVGp4bUhMNEd6TTZnbFRQbG5IMDV2VmxTS0VLeTNKaWl1cDJDeml0U2F6NjNGMFJoWkdVTHV1cG5BeHBtWm9LbnoxYXBmSXB2MFE2MGlla092UW1fZTF6eHFxc2NjNFlORkVpc3Q4b0NOdk44Z1NXTVdZQVhqNHpTRFduNFF5SXRicFpiX0lSWGlmWUZVa2laMGlrZ3Vn?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-09-18T20:48:09+00:00",
-      "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "korean_summary": "",
