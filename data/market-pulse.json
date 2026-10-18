@@ -1,35 +1,91 @@
 {
-  "last_updated": "2026-10-17T02:45:04.850564+00:00",
-  "last_updated_kst": "2026-10-17 11:45 KST",
+  "last_updated": "2026-10-18T02:46:30.931108+00:00",
+  "last_updated_kst": "2026-10-18 11:46 KST",
   "total_items": 200,
   "items": [
     {
-      "title": "Israeli settlers attack Palestinians during West Bank olive harvest - Reuters",
-      "body_preview": "Israeli settlers attack Palestinians during West Bank olive harvest  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczd6aXNWNkdjZTNxV0V1MXhjQm5YTUtZT2JEUXY4dm81UFNlMVprd01ZdDI0VDI2ZEducHJha09yTkRIaWZMLVpmanQ0dVRBWm56cVBxLWFCOEZkekdCU0ZISkhWeEFxTWRDaGtmR3NPRjc1MVkyQnVhdjZRSzZxWm9OODE2RmxSY19CclZ1WThuWTZrOG15SUtmSlZJd0tfZkwtcmVsQlltc0VNZnMtMWdB?oc=5",
+      "title": "Explosion at Iraqi paramilitary alliance base kills one member, sources say - Reuters",
+      "body_preview": "Explosion at Iraqi paramilitary alliance base kills one member, sources say  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFdrc1I4NnJ2Z0NQeUM2c25pYzF4ekRXcFVHRHlYVWVVYXhhV0hDXzhVUWtUc2JCRnZmU0lZRkJlRkZudWNzUzJINWpDWWdFcG13SG5YVHJnMk9tcEE2Z3BtdHJ1VHdJcXA4eGNQYXVfcE1VX293QjhYQ0YtaVJUOU1kYjJoR2hPeUJJNlNDUzVfVnlxVUhINGJEV2UzTllWRWVrRmpuNG5ZVGY2SFFvcFpySlJsNUEtYmF6LVNEcEpnck0?oc=5",
       "source_name": "Reuters",
       "twitter_url": null,
       "tweet_id": null,
-      "published_at": "2026-10-17T02:11:15+00:00",
+      "published_at": "2026-10-17T16:35:17+00:00",
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "로이터 통신에 따르면, 서안 지구(West Bank)에서 이스라엘 정착민들이 팔레스타인인들의 올리브 수확을 방해하며 공격하는 사건이 발생했다. 이는 해당 지역의 긴장 상황을 반영한다.",
-      "fetched_at": "2026-10-17T02:45:04.847170+00:00"
+      "korean_summary": "이라크 준군사 동맹 기지에서 폭발이 발생해 한 명이 사망했다고 소식통이 밝혔다. 이번 사건은 이라크 내 안보 불안정성을 다시 한번 부각시키며, 지역 정세에 미칠 영향이 주목된다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
     },
     {
-      "title": "Trump waives many Russia-related sanctions, tariffs before they were to take effect under new law - Reuters",
-      "body_preview": "Trump waives many Russia-related sanctions, tariffs before they were to take effect under new law  Reuters",
+      "title": "Egypt's Sisi seeks parliament's backing to help defend Saudi Arabia if asked - Reuters",
+      "body_preview": "Egypt's Sisi seeks parliament's backing to help defend Saudi Arabia if asked  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ013QTYtQ0JudFVITVllWWh1Y3Y4WXVXOW80UmlXbEw1YXcxSG5RUkc4djV1X255M3BrWFl1ektoZU5vS1pMYzd4MW5jQ19wS3o4NEFDdHEyT3BsdGl6dDRTNXRDTGVKUnFlVkxSamlaVXRRaGhCeTBCblhQaDZUbHh2TlFRbHYzWUQtODRtVDFjdGlyRUxJR3A1OGdXWU1NalRGRnlhTExDbktfdHpWMmpoY1ZpdTlacmtiN0o1TEJaZ28?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-17T14:23:45+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이집트 시시 대통령이 사우디아라비아의 방어를 지원할 경우를 대비해 의회의 지지를 모색하고 있다. 이는 중동 지역의 안보 협력 강화 움직임으로 해석되며, 역내 긴장 상황에 대한 대응책 마련의 일환이다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
+    },
+    {
+      "title": "Iran's Guards say two tankers hit mines in Strait of Hormuz - Reuters",
+      "body_preview": "Iran's Guards say two tankers hit mines in Strait of Hormuz  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWFxZjNZNnY5cVR3VDhKUnNnV1JOcG1vOVB5dEZGdWRybEtqdE9YRWgwY0ZVSXZ0bHYzTWRpX2duSkxpTENtY0s0WW5jMzFUZlZIME16d0FpUXluV2ZGbFJ3alNZaDh0VVVSVFhOMWVIbEZTNVgyTVdwaXNLNXRrMjE4SjZvQXZtblNUNVVHSjFIUmlIaU41TGRHYmIzOUxoa25BODFKaG1FZw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-17T13:36:11+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "이란 혁명수비대는 호르무즈 해협에서 유조선 두 척이 기뢰에 피격당했다고 주장했다. 이는 주요 해상 운송로의 안보 위협을 고조시키며, 국제 유가 및 지역 정세에 상당한 영향을 미칠 수 있다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
+    },
+    {
+      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+      "body_preview": "Kelly Schultz bought a pumpkin farm in 1996. He transformed it into a seasonal attraction that draws in 100,000 visitors each fall.",
+      "source_url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
+      "source_name": "CNBC",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-17T13:00:01+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://image.cnbcfm.com/api/v1/image/108420368-1792166542544-picking_out_pumpkins.jpg?v=1792168563&w=1920&h=1080",
+      "korean_summary": "켈리 슐츠는 1996년 호박 농장을 인수한 후, 매년 가을 10만 명의 방문객을 유치하는 계절 명소로 성공적으로 변모시켰다. 이 농장은 현재 연간 200만 달러의 수익을 올리며, 창의적인 사업 모델의 성공 사례로 주목받고 있다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
+    },
+    {
+      "title": "Tanker struck by unknown projectile off Saudi Arabia on Friday, UKMTO says - Reuters",
+      "body_preview": "Tanker struck by unknown projectile off Saudi Arabia on Friday, UKMTO says  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDZxN09RLXNuaEpfdzNaQ3lhdzUyM29wSU84bG0tR3hpRm14NWM2d0hBbmtSVmtxM0hSZmhLMXQ5bFhCVTNKaTNkLW1LcUZRcEhlS3g1dmNMU1hFY1ZMYUJqaHBRQ0UwT3ZCNXUtM1Zwa3VxeDJxUmYtUXUxNXVKNk4wWHB3V2NaSkZEYk0yZkhXX2ZhMGtVZHhhcVhCOW9OUXp4djVwbGZ4UWdMa1RpTUJQenphV0RHTTFpejNMdDJtdw?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-17T08:05:13+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "영국 해사무역작전(UKMTO)은 금요일 사우디아라비아 해안에서 유조선이 미확인 발사체에 피격당했다고 발표했다. 이번 사건은 홍해 지역의 해상 안보 위협을 증대시키며, 국제 유가 및 해상 운송에 잠재적 영향을 미칠 수 있다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
+    },
+    {
+      "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
+      "body_preview": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong'  Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
       "source_name": "Reuters",
       "twitter_url": null,
       "tweet_id": null,
       "published_at": "2026-10-17T01:17:00+00:00",
-      "category": "macro",
+      "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "로이터 통신은 트럼프 전 대통령이 새로운 법에 따라 발효될 예정이었던 러시아 관련 제재와 관세(tariffs) 중 다수를 면제했다고 보도했다. 이는 대러 정책 변화를 시사한다.",
-      "fetched_at": "2026-10-17T02:45:04.847170+00:00"
+      "korean_summary": "젤렌스키 대통령은 트럼프 전 대통령의 러시아 제재 면제 조치를 '잘못됐다'고 강하게 비판했다. 이는 우크라이나와 러시아 간의 지속적인 갈등 속에서 국제 사회의 대러시아 정책 방향에 대한 이견을 드러내며, 외교적 긴장을 고조시키고 있다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
     },
     {
       "title": "Trump mocks popularity of the name Mohammad, common among Muslims - Reuters",
@@ -38,12 +94,26 @@
       "source_name": "Reuters",
       "twitter_url": null,
       "tweet_id": null,
-      "published_at": "2026-10-16T23:55:43+00:00",
+      "published_at": "2026-10-16T23:52:00+00:00",
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "로이터 통신에 따르면, 트럼프 전 대통령이 무슬림(Muslim) 사이에서 흔한 이름인 '모하마드'의 인기를 조롱하는 발언을 했다고 보도되었다. 이는 논란을 불러일으킬 수 있는 발언이다.",
-      "fetched_at": "2026-10-17T02:45:04.847170+00:00"
+      "korean_summary": "트럼프 전 대통령이 무슬림 사이에서 흔한 이름인 '무함마드'의 인기를 조롱하는 발언을 했다. 이는 특정 종교 및 민족 집단에 대한 논란을 불러일으키며, 그의 정치적 수사와 사회적 통합 문제에 대한 비판을 증폭시킬 것으로 예상된다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
+    },
+    {
+      "title": "Brent crude hits $110 a barrel for first time since May as supply concerns mount",
+      "body_preview": "Diesel and gasoline futures also climbed as traders assessed geopolitical risks, disrupted energy infrastructure and limited prospects for immediate supply relief",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-16/oil-tops-110-for-first-time-since-may-as-supply-risk-grows",
+      "source_name": "Bloomberg",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-16T23:41:15+00:00",
+      "category": "macro",
+      "currencies": [],
+      "media_url": "https://data.bloomberglp.com/company/sites/2/2019/01/logobbg-wht.png",
+      "korean_summary": "브렌트유(Brent crude) 가격이 지정학적 위험과 에너지 인프라 교란, 공급 완화 전망 부재로 인해 5월 이후 처음으로 배럴당 110달러를 기록했다. 이는 디젤 및 휘발유 선물 가격 상승으로 이어지며, 글로벌 에너지 시장의 불안정성을 심화시키고 있다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
     },
     {
       "title": "Missiles hit Aden airport as Saudi-led coalition intercepts missile headed for Yanbu - Reuters",
@@ -56,8 +126,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "로이터 통신은 아덴 공항(Aden airport)에 미사일이 명중했으며, 사우디 주도 연합군이 얀부(Yanbu)로 향하던 미사일을 요격했다고 보도했다. 이는 중동 지역의 군사적 긴장을 보여준다.",
-      "fetched_at": "2026-10-17T02:45:04.847170+00:00"
+      "korean_summary": "예멘 아덴 공항에 미사일이 명중했으며, 사우디 주도 연합군은 사우디아라비아 얀부로 향하는 미사일을 요격했다. 이는 예멘 내전의 격화와 사우디아라비아에 대한 지속적인 위협을 보여주며, 지역 안보 상황의 불안정성을 증대시키고 있다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
     },
     {
       "title": "US solicits exchange of up to 17 million barrels of oil from strategic reserve - Reuters",
@@ -70,8 +140,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "로이터 통신에 따르면, 미국이 전략 비축유(strategic reserve)에서 최대 1,700만 배럴의 원유(oil) 교환을 요청했다. 이는 에너지 시장 안정화 노력의 일환으로 해석된다.",
-      "fetched_at": "2026-10-17T02:45:04.847170+00:00"
+      "korean_summary": "미국이 전략 비축유에서 최대 1,700만 배럴의 원유 교환을 요청했다. 이는 국제 유가 안정화 및 국내 에너지 공급 확보를 위한 조치로 풀이되며, 글로벌 에너지 시장의 수급 불균형에 대응하려는 미국의 의지를 보여준다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
     },
     {
       "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
@@ -84,8 +154,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108172056-1752584137888-gettyimages-2213626542-COREWEAVE_DEBT_DEAL.jpeg?v=1776976781&w=1920&h=1080",
-      "korean_summary": "CoreWeave 주식 매도세 속에서 채권 수익률(bond yields)과 신용부도스왑(credit default swaps)이 급등했다. 이는 부채 시장 신호가 주식 투자자에게 미치는 영향을 분석하며 주가 하락의 단서를 제공한다.",
-      "fetched_at": "2026-10-17T02:45:04.847170+00:00"
+      "korean_summary": "CoreWeave 주가가 이번 주 급락하면서 채권 수익률과 신용부도스왑(CDS)이 급등했다. 이는 기업의 신용 위험 증가를 시사하며, 주식 투자자들에게는 부채 시장의 신호가 주가 하락의 주요 단서가 될 수 있음을 보여준다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
     },
     {
       "title": "EXCLUSIVE: Trump move to restart direct US flights with Lebanon hits roadblock - Reuters",
@@ -98,8 +168,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "로이터 통신은 트럼프 전 대통령의 레바논(Lebanon)과의 미국 직항편 재개 추진이 난관에 부딪혔다고 단독 보도했다. 이는 양국 관계 및 항공 운항에 영향을 미칠 수 있다.",
-      "fetched_at": "2026-10-17T02:45:04.847170+00:00"
+      "korean_summary": "트럼프 전 대통령이 추진했던 레바논과의 미국 직항편 재개 움직임이 난관에 부딪혔다. 이는 양국 간 외교적 관계 및 지역 안보 문제와 연관된 복잡한 요인들 때문으로 분석되며, 중동 정책의 불확실성을 가중시키고 있다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
     },
     {
       "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
@@ -112,8 +182,8 @@
       "category": "macro",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108408957-1791988869652-gettyimages-2300173631-mms15477_dpxylhl3.jpeg?v=1791989017&w=1920&h=1080",
-      "korean_summary": "인공지능(AI) 관련 주식 매도세로 변동성 지수(VIX)가 4개월 만에 22를 넘어섰다. 월스트리트(Wall Street)의 공포 지수(fear gauge)가 급등하며, 트레이더들은 추가 상승 가능성을 예상한다.",
-      "fetched_at": "2026-10-17T02:45:04.847170+00:00"
+      "korean_summary": "인공지능(AI) 관련 주식의 매도세로 월스트리트의 공포 지수(VIX)가 4개월 만에 22를 넘어섰다. 이는 시장의 불안감이 고조되고 있음을 나타내며, 일부 트레이더들은 VIX가 더욱 상승할 가능성을 점치고 있어 투자자들의 주의가 요구된다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
     },
     {
       "title": "In Yemen's besieged Taiz, families take shelter as Houthis close in - Reuters",
@@ -126,8 +196,8 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "로이터 통신에 따르면, 예멘(Yemen)의 포위된 타이즈(Taiz)에서 후티(Houthis) 반군이 접근함에 따라 주민들이 대피소로 피신하고 있다고 보도되었다. 이는 해당 지역의 심각한 인도적 위기를 보여준다.",
-      "fetched_at": "2026-10-17T02:45:04.847170+00:00"
+      "korean_summary": "예멘의 포위된 도시 타이즈에서 후티 반군이 접근함에 따라 수많은 가족들이 피난처를 찾고 있다. 이는 예멘 내전의 심각성을 보여주며, 인도주의적 위기가 더욱 악화될 수 있다는 우려를 낳고 있어 국제 사회의 관심이 필요하다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
     },
     {
       "title": "We're downgrading this retail stock after a big comeback. Plus, AI names slide again",
@@ -140,7 +210,21 @@
       "category": "stocks",
       "currencies": [],
       "media_url": "https://image.cnbcfm.com/api/v1/image/108148968-1747857895308-gettyimages-2216324853-l1131686_copy_8g4vru91.jpeg?v=1763565126&w=1920&h=1080",
-      "korean_summary": "큰 반등 후 특정 소매 주식(retail stock)에 대한 투자의견이 하향 조정되었으며, 인공지능(AI) 관련 주식들이 다시 하락세를 보였다. 이는 투자 클럽의 시장 분석 결과이다.",
+      "korean_summary": "큰 반등을 보였던 한 소매 주식의 등급이 하향 조정되었으며, 인공지능(AI) 관련 주식들이 다시 하락세를 보였다. 이는 시장의 변동성이 커지고 있음을 시사하며, 투자자들은 특정 섹터의 급격한 변화에 주의를 기울여야 할 것으로 보인다.",
+      "fetched_at": "2026-10-18T02:46:30.929065+00:00"
+    },
+    {
+      "title": "Israeli settlers attack Palestinians during West Bank olive harvest - Reuters",
+      "body_preview": "Israeli settlers attack Palestinians during West Bank olive harvest  Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPczd6aXNWNkdjZTNxV0V1MXhjQm5YTUtZT2JEUXY4dm81UFNlMVprd01ZdDI0VDI2ZEducHJha09yTkRIaWZMLVpmanQ0dVRBWm56cVBxLWFCOEZkekdCU0ZISkhWeEFxTWRDaGtmR3NPRjc1MVkyQnVhdjZRSzZxWm9OODE2RmxSY19CclZ1WThuWTZrOG15SUtmSlZJd0tfZkwtcmVsQlltc0VNZnMtMWdB?oc=5",
+      "source_name": "Reuters",
+      "twitter_url": null,
+      "tweet_id": null,
+      "published_at": "2026-10-17T02:11:15+00:00",
+      "category": "stocks",
+      "currencies": [],
+      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
+      "korean_summary": "로이터 통신에 따르면, 서안 지구(West Bank)에서 이스라엘 정착민들이 팔레스타인인들의 올리브 수확을 방해하며 공격하는 사건이 발생했다. 이는 해당 지역의 긴장 상황을 반영한다.",
       "fetched_at": "2026-10-17T02:45:04.847170+00:00"
     },
     {
@@ -2718,90 +2802,6 @@
       "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
       "korean_summary": "영국의 9월 신차 판매량이 12% 증가했으며, 전기차(EVs)와 중국 브랜드가 시장 점유율을 확대하고 있다. 이는 자동차 산업의 변화와 소비자 선호도 변화를 반영하는 중요한 지표이다.",
       "fetched_at": "2026-10-03T03:32:21.855498+00:00"
-    },
-    {
-      "title": "The sector in the cross hairs of the bond sell-off looks poised for a bounce, says Mike Khouw",
-      "body_preview": "An interesting tug of war is happening in one of the market's hottest sectors: utilities.",
-      "source_url": "https://www.cnbc.com/2026/10/02/the-sector-in-the-cross-hairs-of-the-bond-sell-off-looks-poised-for-a-bounce-says-mike-khouw.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-10-02T15:34:28+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108330309-1783027295446-gettyimages-2283790550-US_HEAT.jpeg?v=1783027486&w=1920&h=1080",
-      "korean_summary": "채권 매도세(bond sell-off)의 영향을 받는 특정 섹터가 반등할 준비가 되어 있다고 마이크 카우(Mike Khouw)가 분석했다. 특히 유틸리티(utilities) 섹터에서 흥미로운 시장 역학이 관찰되고 있다.",
-      "fetched_at": "2026-10-03T03:32:21.855498+00:00"
-    },
-    {
-      "title": "Nvidia breaks through to new record highs. Plus, more good news for Boeing",
-      "body_preview": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "source_url": "https://www.cnbc.com/2026/10/02/nvidia-breaks-through-to-new-record-highs-plus-more-good-news-for-boeing.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-10-02T15:31:51+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108368702-1790598543513-Jensen4.jpg?v=1790598795&w=1920&h=1080",
-      "korean_summary": "엔비디아(Nvidia) 주가가 사상 최고치를 경신했으며, 보잉(Boeing)에도 긍정적인 소식이 전해졌다. 투자 클럽(Investing Club)은 이들 기업의 실적과 시장 동향을 면밀히 분석하고 있다.",
-      "fetched_at": "2026-10-03T03:32:21.855498+00:00"
-    },
-    {
-      "title": "American starts letting customers mix cash and miles for tickets",
-      "body_preview": "American is joining other carriers that allow customers to book with a combination of points and miles.",
-      "source_url": "https://www.cnbc.com/2026/10/02/american-airlines-tickets-cash-miles.html",
-      "source_name": "CNBC",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-10-02T15:00:01+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://image.cnbcfm.com/api/v1/image/108310665-1784815439644-108310665-1779380007938-IMG_9160_1.jpg?v=1784815450&w=1920&h=1080",
-      "korean_summary": "아메리칸 항공(American Airlines)이 고객들이 현금과 마일리지(miles)를 혼합하여 항공권을 구매할 수 있도록 허용하기 시작했다. 이는 다른 항공사들의 정책과 유사하며, 고객 편의성을 높이는 조치이다.",
-      "fetched_at": "2026-10-03T03:32:21.855498+00:00"
-    },
-    {
-      "title": "US issues sanctions against Hamas financing network, Treasury says - Reuters",
-      "body_preview": "US issues sanctions against Hamas financing network, Treasury says  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkdRRkxGNHBqcFM5b0RNbjRMU2NXeXFWUXdselk3QVNzVkNqSWw1aWdJTjQyc0VWeFNqSjB3dGtjaWdpdHZuYzVxaVdKQmM4X0lMRC10UnlzRWFndmFWUVlrU2l4NG5nR2QyNnJ0Z3AwNE91QXlVV2IzNG5RcENFVTViWEw4ek5xank2YU80OGVGRWV5RGVOcXVwZi1xSXhzaElHMWxndFFqQXQ0Q01YeHFoSllfeTJ1TWJv?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-10-02T14:33:45+00:00",
-      "category": "macro",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "미국 재무부(Treasury)가 하마스(Hamas)의 자금 조달 네트워크에 대한 제재를 발표했다. 이는 테러 자금 차단 노력의 일환으로, 중동 지역의 지정학적 긴장과 금융 시장에 영향을 미칠 수 있다.",
-      "fetched_at": "2026-10-03T03:32:21.855498+00:00"
-    },
-    {
-      "title": "Iran readies harder retaliation if attacked as diplomacy faces long odds - Reuters",
-      "body_preview": "Iran readies harder retaliation if attacked as diplomacy faces long odds  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQTk2ZFJ4YklNcjZMNEJ3aWlPSG9HZlZ5RzF1Q3o1RW16emhJWUQ3VVFkV3luT3FjSG9EaFVpR1VpYjRnMElVWFR0SFJ2Y1FRT0lNVHV6bHExMmJlbGI2U2FKMkRDakE5clVydmdkUkRXY3plNE16ZHVMZEhGNWtwQ25Nd2lQRndnM1lPTnJOSkx2ODNjeUloUGhaemlLMTR5NGY4ZmZnWnBpVG45RGwzcGVjcTU4SjNaRjdVd0ZSdlI?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-10-02T14:32:10+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이란이 공격받을 경우 더 강력한 보복을 준비하고 있으며, 외교적 해결 가능성은 희박하다고 로이터 통신이 보도했다. 이는 중동 지역의 긴장을 고조시키며, 국제 유가 및 금융 시장에 불확실성을 더하고 있다.",
-      "fetched_at": "2026-10-03T03:32:21.855498+00:00"
-    },
-    {
-      "title": "Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination - Reuters",
-      "body_preview": "Israel's Netanyahu: Co-pilot of flydubai plane underwent radical Islamist indoctrination  Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1RDU0l3eU5nTnBlVmRsYkpBYTdSTEVRRE1WRk1qbVZYT0MxVzVMSWJMbHk3OElRU1M5RHlGXzV6UWFSdVJiU0cydV9qMlZvSE9mV0ZCcEZSVzJyVGx4X2x2SFJYTUw4N2lialRSOFoxSElUSHVMQ3RHZHZBamNQU21WdWJhbmJHUG9mXzFPbGpfbDRkUzBMYlVOODBPMUc1TTZzSHJYc0d5ME5Ud1NGQjR3d0xSUzdz?oc=5",
-      "source_name": "Reuters",
-      "twitter_url": null,
-      "tweet_id": null,
-      "published_at": "2026-10-01T23:50:37+00:00",
-      "category": "stocks",
-      "currencies": [],
-      "media_url": "https://static2.finnhub.io/file/finnhub/logo/reuters_logo.jpeg",
-      "korean_summary": "이스라엘 네타냐후 총리는 플라이두바이 항공기 부기장이 급진 이슬람주의 사상에 세뇌되었다고 밝혔다. 이는 최근 발생한 항공기 사건과 관련하여 이스라엘 정부의 입장을 표명한 것으로, 국제적인 안보 우려를 증폭시킬 수 있는 발언이다.",
-      "fetched_at": "2026-10-02T03:47:52.469310+00:00"
     }
   ]
 }
